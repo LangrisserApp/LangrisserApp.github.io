@@ -1,0 +1,398 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lambda/Lambda_Wizard/Lambda_Wizard_2/eyebrow
+  rotate: false
+  xy: 354, 417
+  size: 77, 10
+  orig: 77, 10
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/eyehard
+  rotate: true
+  xy: 381, 294
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/eyehard1
+  rotate: true
+  xy: 444, 294
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 66, 17
+  orig: 66, 17
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/eyehard3
+  rotate: true
+  xy: 333, 193
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/eyesffuer
+  rotate: true
+  xy: 178, 186
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/eyeyun
+  rotate: false
+  xy: 211, 162
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/face
+  rotate: false
+  xy: 85, 364
+  size: 127, 146
+  orig: 127, 146
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair1
+  rotate: true
+  xy: 211, 195
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair2
+  rotate: false
+  xy: 290, 181
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair3
+  rotate: false
+  xy: 124, 172
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair4
+  rotate: true
+  xy: 404, 362
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair5
+  rotate: true
+  xy: 354, 429
+  size: 81, 124
+  orig: 81, 124
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair6
+  rotate: false
+  xy: 469, 362
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair7
+  rotate: false
+  xy: 471, 299
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hair8
+  rotate: false
+  xy: 480, 427
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/hairback
+  rotate: true
+  xy: 212, 254
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/mouth01
+  rotate: false
+  xy: 85, 255
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/mouth02
+  rotate: false
+  xy: 433, 417
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/mouth03
+  rotate: false
+  xy: 333, 182
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/mouth04
+  rotate: false
+  xy: 330, 417
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_Wizard/Lambda_Wizard_2/toushi
+  rotate: false
+  xy: 214, 364
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/armoutup
+  rotate: false
+  xy: 178, 149
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/body
+  rotate: true
+  xy: 330, 362
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/dd
+  rotate: false
+  xy: 326, 254
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/handout1
+  rotate: false
+  xy: 116, 4
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/jianjiainner
+  rotate: false
+  xy: 179, 64
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/jianjiaout
+  rotate: true
+  xy: 123, 52
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/pifeng
+  rotate: true
+  xy: 34, 152
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/pifengout
+  rotate: true
+  xy: 376, 260
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_3/weapon
+  rotate: false
+  xy: 2, 21
+  size: 30, 228
+  orig: 30, 228
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/arminnerdown
+  rotate: false
+  xy: 110, 26
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/arminnerup
+  rotate: false
+  xy: 151, 57
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/armoutdown
+  rotate: false
+  xy: 180, 89
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/armoutup
+  rotate: false
+  xy: 180, 112
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/body
+  rotate: false
+  xy: 326, 288
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/handinner
+  rotate: false
+  xy: 355, 188
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/handout
+  rotate: false
+  xy: 393, 268
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/jianjiainner
+  rotate: true
+  xy: 213, 114
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/jianjiaout
+  rotate: false
+  xy: 124, 141
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/leginnerdown
+  rotate: true
+  xy: 290, 156
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/leginnerup
+  rotate: false
+  xy: 154, 96
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/legoutdown
+  rotate: true
+  xy: 70, 4
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/legoutup
+  rotate: true
+  xy: 326, 260
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/pifeng
+  rotate: true
+  xy: 34, 53
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/pifeng1
+  rotate: false
+  xy: 85, 265
+  size: 125, 97
+  orig: 125, 97
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/pifengout
+  rotate: false
+  xy: 415, 278
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/qunziinner
+  rotate: true
+  xy: 408, 294
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/shipin
+  rotate: false
+  xy: 211, 149
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/toushi
+  rotate: false
+  xy: 214, 423
+  size: 138, 87
+  orig: 138, 87
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/weapon
+  rotate: false
+  xy: 2, 251
+  size: 81, 259
+  orig: 81, 259
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/yaojiainner
+  rotate: false
+  xy: 123, 97
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/yaojiainner1
+  rotate: true
+  xy: 443, 278
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/yaojiaout
+  rotate: false
+  xy: 355, 210
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+Lambda/Lambda_WoodOracle/Lambda_WoodOracle_4/yaojiaout1
+  rotate: false
+  xy: 214, 92
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 34, 26
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

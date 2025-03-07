@@ -1,0 +1,195 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 19
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/backfootinner
+  rotate: true
+  xy: 999, 458
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/backfootout
+  rotate: false
+  xy: 78, 20
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/backlegdowninner
+  rotate: true
+  xy: 564, 300
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/backlegupinner
+  rotate: false
+  xy: 637, 348
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/body
+  rotate: false
+  xy: 725, 406
+  size: 139, 104
+  orig: 139, 104
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/body1
+  rotate: false
+  xy: 294, 39
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/earinner
+  rotate: false
+  xy: 999, 421
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/earout
+  rotate: true
+  xy: 132, 4
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/eye
+  rotate: false
+  xy: 294, 179
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/frontfootout
+  rotate: false
+  xy: 486, 2
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/frontlegdownout
+  rotate: false
+  xy: 294, 97
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/frontlegdownout1
+  rotate: false
+  xy: 179, 15
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/frontlegupout
+  rotate: false
+  xy: 402, 13
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/hair
+  rotate: false
+  xy: 486, 41
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/hair1
+  rotate: true
+  xy: 338, 170
+  size: 118, 120
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/hair2
+  rotate: true
+  xy: 460, 179
+  size: 109, 94
+  orig: 109, 94
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/head
+  rotate: false
+  xy: 866, 391
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/legbackdown
+  rotate: true
+  xy: 571, 340
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/legbackup
+  rotate: true
+  xy: 400, 103
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/leghair
+  rotate: false
+  xy: 294, 189
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/mouth
+  rotate: true
+  xy: 485, 103
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/weiba
+  rotate: false
+  xy: 338, 290
+  size: 224, 91
+  orig: 224, 91
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/winginner
+  rotate: false
+  xy: 571, 404
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/winginner1
+  rotate: false
+  xy: 2, 46
+  size: 290, 183
+  orig: 290, 183
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/wingout
+  rotate: false
+  xy: 338, 383
+  size: 231, 127
+  orig: 231, 127
+  offset: 0, 0
+  index: -1
+Zigodlla/Zigodlla/wingout1
+  rotate: false
+  xy: 2, 231
+  size: 334, 279
+  orig: 334, 279
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,657 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jayce_Wizard/Jayce_Wizard02/body
+  rotate: false
+  xy: 408, 101
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/body
+  rotate: false
+  xy: 408, 101
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard02/maozi1
+  rotate: true
+  xy: 423, 174
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard02/maozi2
+  rotate: false
+  xy: 470, 136
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard02/maozi3
+  rotate: true
+  xy: 434, 2
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard02/weapon
+  rotate: false
+  xy: 2, 42
+  size: 52, 215
+  orig: 52, 215
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard02/xiongdai2
+  rotate: false
+  xy: 518, 106
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard02/xiongdai3
+  rotate: true
+  xy: 468, 104
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/arminnerup
+  rotate: false
+  xy: 652, 142
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/arminnerup1
+  rotate: false
+  xy: 479, 2
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/armoutup
+  rotate: true
+  xy: 562, 165
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/armoutup1
+  rotate: false
+  xy: 637, 224
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/leginnerdown
+  rotate: false
+  xy: 907, 397
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/legout1
+  rotate: false
+  xy: 550, 269
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/legoutdown
+  rotate: true
+  xy: 696, 288
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/pifeng3
+  rotate: true
+  xy: 852, 487
+  size: 23, 141
+  orig: 23, 141
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/pifeng4
+  rotate: false
+  xy: 468, 408
+  size: 168, 102
+  orig: 168, 102
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/pifeng5
+  rotate: false
+  xy: 638, 339
+  size: 127, 106
+  orig: 127, 106
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/pifeng6
+  rotate: false
+  xy: 56, 107
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/pifgeng2
+  rotate: false
+  xy: 251, 263
+  size: 58, 106
+  orig: 58, 106
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/weapon
+  rotate: false
+  xy: 2, 259
+  size: 84, 251
+  orig: 84, 251
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/weapon1
+  rotate: true
+  xy: 638, 447
+  size: 27, 205
+  orig: 27, 205
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/weapon2
+  rotate: false
+  xy: 291, 29
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/xiongdai2
+  rotate: false
+  xy: 518, 158
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard03/xiongdai3
+  rotate: false
+  xy: 524, 318
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/arminnerdown
+  rotate: false
+  xy: 598, 275
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/arminnerdown1
+  rotate: false
+  xy: 560, 117
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/arminnerup
+  rotate: false
+  xy: 594, 224
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/arminnerup1
+  rotate: false
+  xy: 608, 181
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/armoutdown
+  rotate: true
+  xy: 186, 2
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/armoutdown1
+  rotate: true
+  xy: 995, 475
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/armoutup
+  rotate: false
+  xy: 517, 213
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/armoutup1
+  rotate: false
+  xy: 519, 57
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/beibao1
+  rotate: false
+  xy: 848, 398
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/beibao2
+  rotate: true
+  xy: 524, 10
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/beibao3
+  rotate: false
+  xy: 479, 45
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/beibao4
+  rotate: true
+  xy: 957, 401
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/beibao5
+  rotate: false
+  xy: 651, 181
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/body
+  rotate: true
+  xy: 559, 302
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/eyebrow
+  rotate: false
+  xy: 251, 248
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/eyehard
+  rotate: false
+  xy: 287, 4
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/eyehard1
+  rotate: false
+  xy: 852, 462
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/eyehard2
+  rotate: false
+  xy: 361, 4
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/eyehard3
+  rotate: true
+  xy: 465, 29
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/eyesffuer
+  rotate: true
+  xy: 430, 23
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/eyeyun
+  rotate: false
+  xy: 479, 373
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/hair1
+  rotate: false
+  xy: 767, 338
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/hair2
+  rotate: false
+  xy: 311, 267
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/hair3
+  rotate: false
+  xy: 327, 101
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/hair4
+  rotate: true
+  xy: 505, 269
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/hair5
+  rotate: true
+  xy: 628, 300
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/handinner1
+  rotate: true
+  xy: 642, 117
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/handinner2
+  rotate: false
+  xy: 1000, 450
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/handinner3
+  rotate: false
+  xy: 78, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/handinner4
+  rotate: true
+  xy: 608, 145
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/handout
+  rotate: false
+  xy: 569, 23
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/handout3
+  rotate: false
+  xy: 563, 84
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/handout4
+  rotate: false
+  xy: 112, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/head
+  rotate: true
+  xy: 88, 239
+  size: 130, 161
+  orig: 130, 161
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/kua
+  rotate: false
+  xy: 454, 269
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/leginner1
+  rotate: false
+  xy: 141, 2
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/leginnerdown
+  rotate: true
+  xy: 830, 283
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/leginnerup
+  rotate: false
+  xy: 470, 198
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/legout1
+  rotate: false
+  xy: 628, 267
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/legoutdown
+  rotate: true
+  xy: 763, 287
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/legoutup
+  rotate: true
+  xy: 896, 285
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/legoutup5
+  rotate: false
+  xy: 848, 334
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi
+  rotate: true
+  xy: 563, 59
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi1
+  rotate: true
+  xy: 407, 269
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi2
+  rotate: false
+  xy: 904, 334
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi3
+  rotate: false
+  xy: 1000, 392
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi4
+  rotate: false
+  xy: 225, 8
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi5
+  rotate: false
+  xy: 926, 464
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi7
+  rotate: true
+  xy: 369, 23
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/maozi8
+  rotate: false
+  xy: 56, 36
+  size: 117, 69
+  orig: 117, 69
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/mouth
+  rotate: true
+  xy: 633, 387
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/mouth02
+  rotate: false
+  xy: 56, 245
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/mouth04
+  rotate: false
+  xy: 2, 35
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/pifeng3
+  rotate: false
+  xy: 264, 374
+  size: 157, 26
+  orig: 157, 26
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/pifeng4
+  rotate: false
+  xy: 264, 402
+  size: 202, 108
+  orig: 202, 108
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/pifeng5
+  rotate: true
+  xy: 199, 103
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/pifeng6
+  rotate: false
+  xy: 88, 371
+  size: 174, 139
+  orig: 174, 139
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/pifgeng2
+  rotate: true
+  xy: 175, 33
+  size: 68, 114
+  orig: 68, 114
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/weapon1
+  rotate: true
+  xy: 638, 476
+  size: 34, 212
+  orig: 34, 212
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/weapon2
+  rotate: false
+  xy: 327, 170
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/weapon3
+  rotate: true
+  xy: 423, 374
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/weapon4
+  rotate: true
+  xy: 602, 120
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/weapon6
+  rotate: true
+  xy: 1000, 427
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/weapon7
+  rotate: false
+  xy: 569, 213
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/xiongdai1
+  rotate: false
+  xy: 562, 149
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/xiongdai2
+  rotate: false
+  xy: 454, 307
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+Jayce_Wizard/Jayce_Wizard04/xiongdai3
+  rotate: true
+  xy: 559, 363
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1

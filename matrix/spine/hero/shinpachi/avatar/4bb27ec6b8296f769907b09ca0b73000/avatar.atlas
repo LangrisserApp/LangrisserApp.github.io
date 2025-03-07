@@ -1,0 +1,398 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 611, 149
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/ShinpachiShimura_EyeglassMaster_3
+  rotate: false
+  xy: 2, 9
+  size: 283, 278
+  orig: 283, 278
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/arminnerdown
+  rotate: true
+  xy: 649, 158
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/arminnerdown1
+  rotate: true
+  xy: 846, 291
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/arminnerup
+  rotate: true
+  xy: 380, 2
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/armoutdown
+  rotate: false
+  xy: 900, 308
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/armoutup
+  rotate: false
+  xy: 649, 183
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/body
+  rotate: false
+  xy: 949, 384
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/dang
+  rotate: false
+  xy: 349, 290
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyebrow
+  rotate: false
+  xy: 782, 289
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyehard
+  rotate: false
+  xy: 949, 356
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyehard1
+  rotate: false
+  xy: 949, 328
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyehard2
+  rotate: false
+  xy: 681, 259
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyehard3
+  rotate: true
+  xy: 638, 158
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyehard4
+  rotate: false
+  xy: 949, 307
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyesffuer
+  rotate: true
+  xy: 645, 256
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/eyeyun
+  rotate: false
+  xy: 782, 300
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/fx1
+  rotate: false
+  xy: 692, 160
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/fx2
+  rotate: true
+  xy: 747, 259
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/fx3
+  rotate: false
+  xy: 992, 280
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/fx4
+  rotate: true
+  xy: 499, 68
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/fx5
+  rotate: false
+  xy: 758, 228
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/fx6
+  rotate: false
+  xy: 406, 26
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/hair1
+  rotate: false
+  xy: 398, 61
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/hair2
+  rotate: true
+  xy: 949, 443
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/hand
+  rotate: false
+  xy: 398, 176
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handinner
+  rotate: true
+  xy: 645, 226
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handinner1
+  rotate: false
+  xy: 342, 2
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handinner2
+  rotate: false
+  xy: 499, 93
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handinner3
+  rotate: false
+  xy: 685, 193
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handout
+  rotate: false
+  xy: 406, 2
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handout1
+  rotate: false
+  xy: 729, 231
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handout2
+  rotate: false
+  xy: 720, 204
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/handout3
+  rotate: false
+  xy: 496, 128
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/leginnerdown
+  rotate: false
+  xy: 731, 284
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/leginnerdown1
+  rotate: true
+  xy: 900, 284
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/leginnerup
+  rotate: true
+  xy: 287, 2
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/legoutdown
+  rotate: true
+  xy: 445, 70
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/legoutdwon1
+  rotate: true
+  xy: 948, 283
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/legoutup
+  rotate: false
+  xy: 681, 281
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/mouth01
+  rotate: false
+  xy: 1004, 431
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/mouth02
+  rotate: false
+  xy: 1004, 419
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/mouth03
+  rotate: false
+  xy: 685, 183
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/mouth04
+  rotate: false
+  xy: 2, 4
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/mouth05
+  rotate: false
+  xy: 433, 4
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/mouth06
+  rotate: false
+  xy: 638, 149
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/weapon
+  rotate: false
+  xy: 398, 159
+  size: 124, 15
+  orig: 124, 15
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/weapon1
+  rotate: false
+  xy: 674, 337
+  size: 223, 19
+  orig: 223, 19
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/yanjin
+  rotate: true
+  xy: 611, 225
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/yanjin1
+  rotate: false
+  xy: 398, 127
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_3/yaodai
+  rotate: false
+  xy: 682, 232
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_4/1
+  rotate: true
+  xy: 534, 148
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_4/2
+  rotate: true
+  xy: 287, 47
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_4/3
+  rotate: false
+  xy: 674, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_4/4
+  rotate: false
+  xy: 349, 323
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Shinpachi/Eyeglass/Shinpachi_Eyeglass_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1

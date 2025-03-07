@@ -1,0 +1,293 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Joshua/Ebenholz/Joshua_Ebenholz_2/arminnerup
+  rotate: false
+  xy: 376, 356
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/armoutup
+  rotate: false
+  xy: 483, 384
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/body
+  rotate: false
+  xy: 444, 424
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/eyebrow
+  rotate: true
+  xy: 120, 110
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/eyehard
+  rotate: false
+  xy: 151, 292
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/eyehard1
+  rotate: false
+  xy: 304, 298
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/eyehard2
+  rotate: true
+  xy: 137, 293
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/eyehard3
+  rotate: true
+  xy: 502, 445
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/eyesffuer
+  rotate: true
+  xy: 276, 309
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/eyeyun
+  rotate: false
+  xy: 304, 318
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/face
+  rotate: false
+  xy: 2, 360
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/hair1
+  rotate: false
+  xy: 241, 314
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/hair2
+  rotate: false
+  xy: 412, 378
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/hair3
+  rotate: true
+  xy: 2, 15
+  size: 71, 102
+  orig: 71, 102
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/hairback
+  rotate: false
+  xy: 192, 258
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/handinner
+  rotate: false
+  xy: 218, 286
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/handinner1
+  rotate: false
+  xy: 271, 289
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/handout
+  rotate: false
+  xy: 243, 289
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/handout1
+  rotate: true
+  xy: 216, 256
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/legdowninner
+  rotate: false
+  xy: 136, 104
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/legdownout
+  rotate: true
+  xy: 432, 377
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/legupinner
+  rotate: true
+  xy: 136, 154
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/legupout
+  rotate: false
+  xy: 136, 203
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/mouth01
+  rotate: true
+  xy: 120, 88
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/mouth02
+  rotate: true
+  xy: 502, 430
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/mouth03
+  rotate: false
+  xy: 2, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/mouth04
+  rotate: false
+  xy: 483, 378
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/weapon1
+  rotate: false
+  xy: 2, 188
+  size: 132, 84
+  orig: 132, 84
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/weapon2
+  rotate: false
+  xy: 154, 387
+  size: 152, 37
+  orig: 152, 37
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_2/weijin
+  rotate: false
+  xy: 304, 346
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_3/shipin
+  rotate: false
+  xy: 137, 251
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_3/shipin1
+  rotate: false
+  xy: 371, 300
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_3/shipin2
+  rotate: false
+  xy: 409, 356
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_3/weapon1
+  rotate: false
+  xy: 2, 274
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_3/weapon2
+  rotate: false
+  xy: 289, 473
+  size: 153, 37
+  orig: 153, 37
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_4/pifeng
+  rotate: false
+  xy: 2, 88
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_4/pifeng1
+  rotate: false
+  xy: 308, 381
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_4/pifeng2
+  rotate: false
+  xy: 154, 312
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_4/weapon1
+  rotate: false
+  xy: 154, 426
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+Joshua/Ebenholz/Joshua_Ebenholz_4/weapon2
+  rotate: false
+  xy: 289, 434
+  size: 153, 37
+  orig: 153, 37
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 106, 12
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

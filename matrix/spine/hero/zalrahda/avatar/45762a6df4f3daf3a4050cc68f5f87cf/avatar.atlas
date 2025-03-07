@@ -1,0 +1,755 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 616, 192
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/body
+  rotate: false
+  xy: 564, 120
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/body
+  rotate: false
+  xy: 564, 120
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/guashi
+  rotate: false
+  xy: 742, 94
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/guashi
+  rotate: false
+  xy: 742, 94
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/guashi1
+  rotate: false
+  xy: 423, 341
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/guashi1
+  rotate: false
+  xy: 423, 341
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/handoutdown
+  rotate: true
+  xy: 497, 123
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/handoutdown
+  rotate: true
+  xy: 497, 123
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/handoutup
+  rotate: true
+  xy: 956, 327
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/handoutup
+  rotate: true
+  xy: 956, 327
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/handoutup
+  rotate: true
+  xy: 956, 327
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/head
+  rotate: false
+  xy: 2, 176
+  size: 174, 156
+  orig: 174, 156
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/head
+  rotate: false
+  xy: 2, 176
+  size: 174, 156
+  orig: 174, 156
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/head
+  rotate: false
+  xy: 2, 176
+  size: 174, 156
+  orig: 174, 156
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/hudang
+  rotate: false
+  xy: 495, 69
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/hudang
+  rotate: false
+  xy: 495, 69
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/jianjiaout
+  rotate: true
+  xy: 423, 127
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/leginnerdown
+  rotate: false
+  xy: 763, 105
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/leginnerdown
+  rotate: false
+  xy: 763, 105
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/leginnerdown
+  rotate: false
+  xy: 763, 105
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/leginnerup
+  rotate: false
+  xy: 800, 109
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/leginnerup
+  rotate: false
+  xy: 800, 109
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/leginnerup
+  rotate: false
+  xy: 800, 109
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/legoutdown
+  rotate: false
+  xy: 375, 142
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/legoutdown
+  rotate: false
+  xy: 375, 142
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/legoutdown
+  rotate: false
+  xy: 375, 142
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/legoutup
+  rotate: false
+  xy: 621, 131
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/legoutup
+  rotate: false
+  xy: 621, 131
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/legoutup
+  rotate: false
+  xy: 621, 131
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/maoziinner
+  rotate: false
+  xy: 626, 219
+  size: 77, 103
+  orig: 77, 103
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/maoziinner
+  rotate: false
+  xy: 626, 219
+  size: 77, 103
+  orig: 77, 103
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/maoziinner
+  rotate: false
+  xy: 626, 219
+  size: 77, 103
+  orig: 77, 103
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/pifeng
+  rotate: true
+  xy: 440, 336
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/pifeng
+  rotate: true
+  xy: 440, 336
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/pifenginner
+  rotate: false
+  xy: 553, 324
+  size: 133, 104
+  orig: 133, 104
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/pifenginner
+  rotate: false
+  xy: 553, 324
+  size: 133, 104
+  orig: 133, 104
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/weapon
+  rotate: false
+  xy: 302, 452
+  size: 251, 58
+  orig: 251, 58
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/weapon
+  rotate: false
+  xy: 302, 452
+  size: 251, 58
+  orig: 251, 58
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/weijin
+  rotate: false
+  xy: 423, 187
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/weijin
+  rotate: false
+  xy: 423, 187
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda02_Shadow/weijininner
+  rotate: false
+  xy: 518, 245
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/weijininner
+  rotate: false
+  xy: 518, 245
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/arminnerdown
+  rotate: false
+  xy: 839, 114
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/arminnerup
+  rotate: false
+  xy: 868, 160
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/body
+  rotate: true
+  xy: 938, 221
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/chain2
+  rotate: true
+  xy: 237, 2
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/chain3
+  rotate: true
+  xy: 620, 67
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/eye light
+  rotate: true
+  xy: 375, 206
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/guashi
+  rotate: false
+  xy: 800, 85
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/hair6
+  rotate: true
+  xy: 132, 2
+  size: 25, 103
+  orig: 25, 103
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/hair7
+  rotate: false
+  xy: 705, 230
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/hair8
+  rotate: false
+  xy: 353, 87
+  size: 20, 74
+  orig: 20, 74
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/hair9
+  rotate: false
+  xy: 423, 237
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/handinner
+  rotate: false
+  xy: 676, 103
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/handout
+  rotate: true
+  xy: 912, 173
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/handoutdown
+  rotate: false
+  xy: 763, 77
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/handoutup
+  rotate: true
+  xy: 702, 88
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/jianjiainner
+  rotate: false
+  xy: 2, 2
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/jianjiaout
+  rotate: true
+  xy: 562, 64
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/leginnerdown
+  rotate: false
+  xy: 965, 278
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/leginnerup
+  rotate: false
+  xy: 760, 151
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/legoutdown
+  rotate: true
+  xy: 294, 2
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/legoutup
+  rotate: true
+  xy: 828, 154
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/pifeng
+  rotate: false
+  xy: 555, 430
+  size: 158, 80
+  orig: 158, 80
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/pifenginner
+  rotate: false
+  xy: 302, 379
+  size: 136, 71
+  orig: 136, 71
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/toushi1
+  rotate: true
+  xy: 715, 429
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/weapon
+  rotate: false
+  xy: 2, 413
+  size: 298, 97
+  orig: 298, 97
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/weijin
+  rotate: false
+  xy: 527, 183
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/weijininner
+  rotate: true
+  xy: 201, 41
+  size: 135, 83
+  orig: 135, 83
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda03_Crime/weijininner1
+  rotate: false
+  xy: 938, 168
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/arminnerdown
+  rotate: true
+  xy: 867, 120
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/arminnerup
+  rotate: true
+  xy: 286, 41
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/body
+  rotate: false
+  xy: 286, 83
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/handinner
+  rotate: false
+  xy: 994, 344
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/hudang
+  rotate: false
+  xy: 702, 151
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/jianjiaout
+  rotate: false
+  xy: 783, 242
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/pifeng
+  rotate: false
+  xy: 849, 317
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/pifeng1
+  rotate: false
+  xy: 296, 318
+  size: 125, 59
+  orig: 125, 59
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda04/yaojia
+  rotate: false
+  xy: 423, 72
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/handoutdown
+  rotate: false
+  xy: 849, 198
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/jianjiainner
+  rotate: true
+  xy: 375, 78
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/jianjiaout
+  rotate: false
+  xy: 688, 327
+  size: 125, 100
+  orig: 125, 100
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/shipin
+  rotate: true
+  xy: 132, 29
+  size: 145, 67
+  orig: 145, 67
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/toushi
+  rotate: false
+  xy: 178, 178
+  size: 107, 154
+  orig: 107, 154
+  offset: 0, 0
+  index: -1
+Zalrahda/Deamon/Zalrahda05/weapon
+  rotate: false
+  xy: 2, 334
+  size: 292, 77
+  orig: 292, 77
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/face
+  rotate: false
+  xy: 287, 205
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair
+  rotate: false
+  xy: 855, 377
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair1
+  rotate: false
+  xy: 621, 109
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair2
+  rotate: true
+  xy: 287, 163
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair3
+  rotate: false
+  xy: 994, 376
+  size: 27, 134
+  orig: 27, 134
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair4
+  rotate: false
+  xy: 815, 305
+  size: 32, 122
+  orig: 32, 122
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair5
+  rotate: true
+  xy: 849, 276
+  size: 39, 114
+  orig: 39, 114
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hairinner
+  rotate: false
+  xy: 2, 22
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/toushi
+  rotate: false
+  xy: 620, 86
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyebrow
+  rotate: false
+  xy: 868, 151
+  size: 48, 7
+  orig: 48, 7
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard
+  rotate: false
+  xy: 783, 217
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard1
+  rotate: false
+  xy: 705, 205
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard2
+  rotate: true
+  xy: 681, 126
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard3
+  rotate: false
+  xy: 44, 9
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyesffuer
+  rotate: false
+  xy: 702, 115
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyesyun
+  rotate: true
+  xy: 794, 154
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/mouth01
+  rotate: false
+  xy: 423, 336
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/mouth02
+  rotate: false
+  xy: 114, 5
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/mouth03
+  rotate: true
+  xy: 616, 228
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/mouth04
+  rotate: true
+  xy: 296, 393
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Zalrahda/dd
+  rotate: false
+  xy: 849, 423
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,440 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 159, 201
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/body
+  rotate: false
+  xy: 90, 9
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/jianjiainner
+  rotate: true
+  xy: 896, 371
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/jianjiainner1
+  rotate: false
+  xy: 186, 195
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/jianjiainner2
+  rotate: false
+  xy: 842, 331
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/leginnerdown
+  rotate: false
+  xy: 183, 145
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/leginnerdup
+  rotate: false
+  xy: 660, 310
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/legoutdown
+  rotate: true
+  xy: 611, 318
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/legoutup
+  rotate: false
+  xy: 702, 322
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/piaodai
+  rotate: false
+  xy: 937, 431
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/pifeng
+  rotate: false
+  xy: 185, 286
+  size: 162, 89
+  orig: 162, 89
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/weapon
+  rotate: false
+  xy: 2, 87
+  size: 155, 188
+  orig: 155, 188
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_3/weapon1
+  rotate: false
+  xy: 687, 423
+  size: 147, 87
+  orig: 147, 87
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/arminnerdown
+  rotate: false
+  xy: 986, 354
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/arminnerdown1
+  rotate: false
+  xy: 745, 296
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/arminnerup
+  rotate: true
+  xy: 168, 46
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/armoutdown
+  rotate: false
+  xy: 782, 299
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/armoutdown1
+  rotate: false
+  xy: 743, 322
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/armoutup
+  rotate: true
+  xy: 159, 89
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/body
+  rotate: true
+  xy: 619, 354
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/eyebrow
+  rotate: true
+  xy: 1009, 452
+  size: 58, 13
+  orig: 58, 13
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/eyehard
+  rotate: true
+  xy: 159, 123
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/eyehard1
+  rotate: false
+  xy: 253, 263
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/eyehard2
+  rotate: false
+  xy: 253, 219
+  size: 75, 14
+  orig: 75, 14
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/eyehard3
+  rotate: true
+  xy: 152, 12
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/eyesffuer
+  rotate: false
+  xy: 253, 235
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/eyeyun
+  rotate: false
+  xy: 186, 214
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/face
+  rotate: false
+  xy: 381, 367
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/hair
+  rotate: true
+  xy: 763, 369
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/hair1
+  rotate: false
+  xy: 695, 366
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/hair2
+  rotate: true
+  xy: 2, 2
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/hair3
+  rotate: true
+  xy: 381, 322
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/hair4
+  rotate: false
+  xy: 381, 302
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/handinner
+  rotate: false
+  xy: 193, 127
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/handinner1
+  rotate: true
+  xy: 331, 262
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/handinner3
+  rotate: false
+  xy: 842, 344
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/handout1
+  rotate: false
+  xy: 812, 302
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/handout3
+  rotate: false
+  xy: 869, 344
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/jianjiainner
+  rotate: false
+  xy: 832, 371
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/jianjiainner1
+  rotate: false
+  xy: 453, 319
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/jianjiainner2
+  rotate: false
+  xy: 938, 385
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/jianjiaout
+  rotate: true
+  xy: 991, 384
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/jianjiaout1
+  rotate: false
+  xy: 895, 347
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/kua
+  rotate: false
+  xy: 702, 297
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/leginnerdown
+  rotate: false
+  xy: 214, 144
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/leginnerdup
+  rotate: false
+  xy: 516, 320
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/legoutdown
+  rotate: true
+  xy: 938, 354
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/legoutup
+  rotate: true
+  xy: 563, 321
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/mianzhao
+  rotate: true
+  xy: 349, 300
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/mouth01
+  rotate: false
+  xy: 90, 2
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/mouth02
+  rotate: true
+  xy: 240, 197
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/mouth03
+  rotate: true
+  xy: 183, 123
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/mouth04
+  rotate: false
+  xy: 253, 213
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/piaodai
+  rotate: false
+  xy: 836, 421
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/pifeng
+  rotate: false
+  xy: 185, 377
+  size: 194, 133
+  orig: 194, 133
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/qunzi
+  rotate: false
+  xy: 186, 246
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/weapon
+  rotate: false
+  xy: 2, 277
+  size: 181, 233
+  orig: 181, 233
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/weapon1
+  rotate: false
+  xy: 533, 417
+  size: 152, 93
+  orig: 152, 93
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/weijin
+  rotate: false
+  xy: 533, 363
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/yao
+  rotate: true
+  xy: 168, 2
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/yaodai
+  rotate: true
+  xy: 817, 328
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+Zion/Zion_Archer/Zion_Archer_4/yaojia
+  rotate: false
+  xy: 775, 331
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1

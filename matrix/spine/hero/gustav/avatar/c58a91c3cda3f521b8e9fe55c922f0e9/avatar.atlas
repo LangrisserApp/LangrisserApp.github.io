@@ -1,0 +1,356 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gustav/Gustav_Magic/Gustav_Magic_3/arminnerdown
+  rotate: false
+  xy: 416, 31
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/arminnerup
+  rotate: true
+  xy: 2, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/armoutdown
+  rotate: true
+  xy: 487, 161
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/armoutup
+  rotate: false
+  xy: 457, 115
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/body
+  rotate: true
+  xy: 430, 260
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/ear
+  rotate: false
+  xy: 268, 166
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/eyebrow
+  rotate: true
+  xy: 346, 89
+  size: 75, 10
+  orig: 75, 10
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/eyehard
+  rotate: false
+  xy: 40, 11
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/eyehard1
+  rotate: true
+  xy: 304, 4
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/eyehard2
+  rotate: true
+  xy: 277, 3
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/eyehard3
+  rotate: true
+  xy: 256, 2
+  size: 71, 19
+  orig: 71, 19
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/eyesffuer
+  rotate: true
+  xy: 307, 89
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/eyeyun
+  rotate: false
+  xy: 410, 158
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/face
+  rotate: false
+  xy: 305, 369
+  size: 124, 141
+  orig: 124, 141
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/hair
+  rotate: false
+  xy: 268, 227
+  size: 85, 123
+  orig: 85, 123
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/hair1
+  rotate: true
+  xy: 397, 99
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/hair2
+  rotate: true
+  xy: 431, 321
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/hairinner
+  rotate: false
+  xy: 2, 38
+  size: 178, 166
+  orig: 178, 166
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/handinner
+  rotate: true
+  xy: 387, 24
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/handout
+  rotate: false
+  xy: 448, 40
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/huaninner
+  rotate: true
+  xy: 387, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/huaninner1
+  rotate: false
+  xy: 457, 6
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/huanout
+  rotate: false
+  xy: 494, 127
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/huanout1
+  rotate: true
+  xy: 478, 20
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/jianjiainner
+  rotate: true
+  xy: 439, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/jianjiaout
+  rotate: true
+  xy: 478, 64
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/leginnerdown
+  rotate: true
+  xy: 121, 9
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/leginnerup
+  rotate: true
+  xy: 397, 61
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/legoutdown
+  rotate: false
+  xy: 353, 11
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/legoutup
+  rotate: false
+  xy: 358, 59
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/mouth01
+  rotate: false
+  xy: 494, 119
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/mouth02
+  rotate: false
+  xy: 416, 24
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/mouth04
+  rotate: false
+  xy: 337, 361
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/pifeng
+  rotate: true
+  xy: 431, 375
+  size: 135, 74
+  orig: 135, 74
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/weapon
+  rotate: false
+  xy: 2, 206
+  size: 264, 144
+  orig: 264, 144
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/xiabaiinner
+  rotate: false
+  xy: 355, 275
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/xiabaiout
+  rotate: true
+  xy: 305, 356
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/xiabaiout1
+  rotate: true
+  xy: 397, 121
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_3/xiabaiout2
+  rotate: false
+  xy: 182, 2
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/jianjiainner
+  rotate: true
+  xy: 476, 40
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/jianjiainner1
+  rotate: true
+  xy: 415, 2
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/jianjiaout
+  rotate: false
+  xy: 350, 168
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/jianjiaout1
+  rotate: false
+  xy: 358, 107
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/pifenginner
+  rotate: false
+  xy: 267, 84
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/pifenginner2
+  rotate: true
+  xy: 182, 75
+  size: 129, 83
+  orig: 129, 83
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/pifengout
+  rotate: true
+  xy: 421, 195
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/texiao
+  rotate: false
+  xy: 355, 209
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/weapon
+  rotate: false
+  xy: 2, 352
+  size: 301, 158
+  orig: 301, 158
+  offset: 0, 0
+  index: -1
+Gustav/Gustav_Magic/Gustav_Magic_4/yaoshi
+  rotate: false
+  xy: 448, 66
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 326, 13
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

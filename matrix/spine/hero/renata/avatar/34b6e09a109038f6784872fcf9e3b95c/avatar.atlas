@@ -1,0 +1,566 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/arminnerdown
+  rotate: false
+  xy: 745, 716
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/arminnerup
+  rotate: false
+  xy: 273, 341
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/armoutdown
+  rotate: false
+  xy: 551, 689
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/armoutup
+  rotate: false
+  xy: 730, 683
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/body
+  rotate: true
+  xy: 782, 799
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/chibang
+  rotate: false
+  xy: 2, 357
+  size: 177, 205
+  orig: 177, 205
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/chibang2
+  rotate: false
+  xy: 691, 852
+  size: 156, 165
+  orig: 156, 165
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/dang
+  rotate: true
+  xy: 349, 460
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/erduo
+  rotate: false
+  xy: 708, 787
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/erduo1
+  rotate: false
+  xy: 296, 460
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/eyebrow
+  rotate: false
+  xy: 401, 686
+  size: 64, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/eyehard
+  rotate: false
+  xy: 940, 824
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/eyehard1
+  rotate: true
+  xy: 349, 506
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/eyehard2
+  rotate: false
+  xy: 940, 807
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/eyehard3
+  rotate: true
+  xy: 1014, 782
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/eyesffuer
+  rotate: true
+  xy: 149, 15
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/eyeyun
+  rotate: false
+  xy: 289, 426
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/face
+  rotate: false
+  xy: 286, 683
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/hair1
+  rotate: true
+  xy: 849, 849
+  size: 80, 167
+  orig: 80, 167
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/hair2
+  rotate: false
+  xy: 181, 442
+  size: 40, 120
+  orig: 40, 120
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/hair3
+  rotate: false
+  xy: 217, 645
+  size: 67, 161
+  orig: 67, 161
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/hair4
+  rotate: true
+  xy: 263, 825
+  size: 192, 218
+  orig: 192, 218
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/hair5
+  rotate: true
+  xy: 849, 931
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/hair6
+  rotate: false
+  xy: 500, 717
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/handinner
+  rotate: true
+  xy: 990, 776
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/handout
+  rotate: false
+  xy: 706, 716
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/leginnerdown
+  rotate: true
+  xy: 662, 719
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/leginnerup
+  rotate: false
+  xy: 176, 296
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/legoutdown
+  rotate: false
+  xy: 181, 343
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/legoutup
+  rotate: true
+  xy: 230, 342
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/mouth01
+  rotate: true
+  xy: 773, 771
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/mouth02
+  rotate: false
+  xy: 263, 813
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/mouth03
+  rotate: true
+  xy: 805, 755
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/mouth04
+  rotate: true
+  xy: 1018, 914
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/pifeng
+  rotate: true
+  xy: 759, 682
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/pifeng1
+  rotate: true
+  xy: 211, 294
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/pifeng2
+  rotate: false
+  xy: 217, 569
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/pifeng3
+  rotate: false
+  xy: 708, 745
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/texiao
+  rotate: false
+  xy: 588, 728
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/toushi
+  rotate: false
+  xy: 2, 2
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_2/Renata_DragonNationality_2/weiba
+  rotate: false
+  xy: 233, 373
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/arminnerdown
+  rotate: false
+  xy: 347, 423
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/arminnerup
+  rotate: true
+  xy: 773, 745
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/armoutdown
+  rotate: false
+  xy: 176, 122
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/armoutup
+  rotate: true
+  xy: 181, 15
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/body
+  rotate: false
+  xy: 296, 514
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/chibang
+  rotate: false
+  xy: 2, 564
+  size: 213, 242
+  orig: 213, 242
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/chibang2
+  rotate: false
+  xy: 2, 150
+  size: 172, 205
+  orig: 172, 205
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/handinner
+  rotate: true
+  xy: 181, 45
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/handout
+  rotate: true
+  xy: 176, 205
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/haojiao
+  rotate: true
+  xy: 782, 771
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/haojiao1
+  rotate: true
+  xy: 211, 318
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/pifeng1
+  rotate: true
+  xy: 211, 270
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/pifeng2
+  rotate: false
+  xy: 287, 611
+  size: 102, 70
+  orig: 102, 70
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/pifeng3
+  rotate: false
+  xy: 849, 818
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/weiba
+  rotate: true
+  xy: 176, 162
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/weiba1
+  rotate: false
+  xy: 660, 686
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_3/Renata_DragonNationality_3/weiba2
+  rotate: false
+  xy: 589, 691
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/arminnerdown
+  rotate: false
+  xy: 990, 739
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/arminnerup
+  rotate: true
+  xy: 776, 719
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/armoutdown
+  rotate: false
+  xy: 176, 83
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/armoutup
+  rotate: true
+  xy: 816, 770
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/body
+  rotate: false
+  xy: 181, 375
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/chibang
+  rotate: false
+  xy: 2, 808
+  size: 259, 209
+  orig: 259, 209
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/chibang2
+  rotate: true
+  xy: 483, 845
+  size: 172, 206
+  orig: 172, 206
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/handinner
+  rotate: false
+  xy: 899, 778
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/handout
+  rotate: false
+  xy: 849, 777
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/leginnerup
+  rotate: false
+  xy: 176, 249
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/pifeng
+  rotate: true
+  xy: 781, 685
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/pifeng1
+  rotate: false
+  xy: 230, 319
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/pifeng2
+  rotate: true
+  xy: 223, 464
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/pifeng3
+  rotate: false
+  xy: 287, 580
+  size: 90, 29
+  orig: 90, 29
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/pifeng4
+  rotate: true
+  xy: 662, 747
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/toushi
+  rotate: true
+  xy: 401, 694
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/weiba
+  rotate: false
+  xy: 940, 770
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/weiba1
+  rotate: false
+  xy: 695, 683
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/weiba2
+  rotate: true
+  xy: 622, 696
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/yaodai
+  rotate: false
+  xy: 500, 689
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+Renata/DragonNationality/Renata_DragonNationality_4/Renata_DragonNationality_4/yaodai1
+  rotate: false
+  xy: 233, 416
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 149, 74
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

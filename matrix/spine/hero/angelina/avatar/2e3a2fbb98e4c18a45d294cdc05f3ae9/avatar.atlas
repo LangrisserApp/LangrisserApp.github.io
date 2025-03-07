@@ -1,0 +1,286 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angelina/Angelina_Sword/Angelina_SwardMan_2/arminnerdown
+  rotate: true
+  xy: 279, 220
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/arminnerdown1
+  rotate: true
+  xy: 315, 220
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/arminnerup
+  rotate: false
+  xy: 207, 205
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/armoutdown
+  rotate: false
+  xy: 351, 221
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/armoutdown1
+  rotate: true
+  xy: 379, 228
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/armoutup
+  rotate: false
+  xy: 225, 206
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/body
+  rotate: false
+  xy: 118, 80
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/body1
+  rotate: true
+  xy: 401, 399
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/eyebrow
+  rotate: false
+  xy: 146, 2
+  size: 64, 7
+  orig: 64, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/eyehard
+  rotate: true
+  xy: 96, 8
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/eyehard1
+  rotate: false
+  xy: 279, 245
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/eyehard2
+  rotate: true
+  xy: 380, 383
+  size: 66, 14
+  orig: 66, 14
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/eyehard3
+  rotate: false
+  xy: 347, 253
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/eyesffuer
+  rotate: true
+  xy: 146, 13
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/eyeyun
+  rotate: true
+  xy: 174, 11
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/face
+  rotate: false
+  xy: 2, 76
+  size: 114, 158
+  orig: 114, 158
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/hair1
+  rotate: true
+  xy: 2, 4
+  size: 70, 92
+  orig: 70, 92
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/hair2
+  rotate: true
+  xy: 401, 457
+  size: 53, 96
+  orig: 53, 96
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/hair5
+  rotate: true
+  xy: 135, 269
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/hairback
+  rotate: false
+  xy: 2, 236
+  size: 131, 274
+  orig: 131, 274
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/handinner
+  rotate: false
+  xy: 247, 209
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/handout
+  rotate: false
+  xy: 207, 182
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/jianajiout
+  rotate: false
+  xy: 118, 168
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/jianjiainner
+  rotate: true
+  xy: 472, 265
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/jianjiainner1
+  rotate: true
+  xy: 428, 274
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/jianjiaout1
+  rotate: true
+  xy: 428, 334
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/leginnerdown
+  rotate: false
+  xy: 482, 352
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/leginnerup
+  rotate: false
+  xy: 486, 418
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/legoutdown
+  rotate: true
+  xy: 228, 232
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/legoutup
+  rotate: false
+  xy: 482, 310
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/mouth01
+  rotate: true
+  xy: 472, 320
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/mouth02
+  rotate: true
+  xy: 499, 496
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/mouth03
+  rotate: true
+  xy: 396, 433
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/mouth04
+  rotate: false
+  xy: 486, 409
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/pifeng
+  rotate: false
+  xy: 282, 268
+  size: 144, 108
+  orig: 144, 108
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/toushi
+  rotate: false
+  xy: 135, 233
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/toushi1
+  rotate: true
+  xy: 174, 78
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Sword/Angelina_SwardMan_2/weapon
+  rotate: false
+  xy: 135, 378
+  size: 243, 71
+  orig: 243, 71
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: false
+  xy: 135, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 119, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

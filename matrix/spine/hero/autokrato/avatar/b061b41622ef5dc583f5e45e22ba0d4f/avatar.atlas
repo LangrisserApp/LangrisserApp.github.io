@@ -1,0 +1,370 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Autokrato/Autokrato_King/Autokrato_King_3/Shadow
+  rotate: true
+  xy: 286, 248
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/arminnerdown
+  rotate: true
+  xy: 350, 311
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/arminnerup
+  rotate: true
+  xy: 397, 253
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/armoutdown
+  rotate: false
+  xy: 313, 254
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/armoutup
+  rotate: false
+  xy: 805, 400
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/body
+  rotate: false
+  xy: 269, 324
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/bodyinner
+  rotate: true
+  xy: 522, 364
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/face
+  rotate: false
+  xy: 2, 74
+  size: 126, 140
+  orig: 126, 140
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/hair1
+  rotate: true
+  xy: 109, 6
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/hair2
+  rotate: true
+  xy: 596, 448
+  size: 60, 134
+  orig: 60, 134
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/hair3
+  rotate: true
+  xy: 596, 400
+  size: 46, 115
+  orig: 46, 115
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/hair4
+  rotate: false
+  xy: 130, 114
+  size: 56, 100
+  orig: 56, 100
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/hair5
+  rotate: true
+  xy: 160, 395
+  size: 113, 155
+  orig: 113, 155
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/handinner
+  rotate: false
+  xy: 397, 277
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/handout
+  rotate: true
+  xy: 629, 330
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/handout1
+  rotate: false
+  xy: 276, 18
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/jianjiainner
+  rotate: false
+  xy: 679, 339
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/jianjiaout
+  rotate: false
+  xy: 957, 433
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/leginnerdown
+  rotate: false
+  xy: 370, 258
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/leginnerup
+  rotate: true
+  xy: 516, 308
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/legoutdown
+  rotate: true
+  xy: 411, 306
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/legoutup
+  rotate: false
+  xy: 341, 259
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/mianju
+  rotate: false
+  xy: 350, 340
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/mianju1
+  rotate: true
+  xy: 130, 67
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/mouth01
+  rotate: false
+  xy: 334, 400
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/mouth02
+  rotate: false
+  xy: 317, 396
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/mouth04
+  rotate: false
+  xy: 109, 67
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/pifeng
+  rotate: true
+  xy: 160, 333
+  size: 60, 107
+  orig: 60, 107
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/pifeng1
+  rotate: false
+  xy: 188, 139
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/weapon
+  rotate: false
+  xy: 2, 216
+  size: 155, 144
+  orig: 155, 144
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/weapon1
+  rotate: true
+  xy: 463, 408
+  size: 100, 131
+  orig: 100, 131
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/xiabai
+  rotate: true
+  xy: 436, 340
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/xiabai1
+  rotate: true
+  xy: 187, 9
+  size: 34, 87
+  orig: 34, 87
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/xiabai3
+  rotate: false
+  xy: 188, 92
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/xiongshi
+  rotate: true
+  xy: 713, 406
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/yaojia
+  rotate: false
+  xy: 731, 396
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_3/yaojia1
+  rotate: true
+  xy: 428, 283
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/daizi
+  rotate: true
+  xy: 188, 45
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/erhuan
+  rotate: true
+  xy: 159, 223
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/jianjiainner
+  rotate: false
+  xy: 249, 245
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/jianjiaout
+  rotate: true
+  xy: 850, 430
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/pifeng
+  rotate: true
+  xy: 732, 433
+  size: 75, 116
+  orig: 75, 116
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/pifeng1
+  rotate: false
+  xy: 159, 235
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/tx1
+  rotate: true
+  xy: 2, 2
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/tx2
+  rotate: false
+  xy: 594, 356
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/tx3
+  rotate: false
+  xy: 522, 337
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/weapon
+  rotate: false
+  xy: 2, 362
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/weapon1
+  rotate: true
+  xy: 317, 408
+  size: 100, 144
+  orig: 100, 144
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/xiongshi
+  rotate: false
+  xy: 588, 336
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/yaodai
+  rotate: false
+  xy: 465, 308
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/yaojia
+  rotate: false
+  xy: 768, 396
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Autokrato/Autokrato_King/Autokrato_King_4/yaojia1
+  rotate: true
+  xy: 429, 260
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1

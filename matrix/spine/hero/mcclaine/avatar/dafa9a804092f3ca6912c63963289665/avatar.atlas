@@ -1,0 +1,349 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+McClaine/McClaine_Shadow/McClaine_Shadow_3/arminnerdown
+  rotate: true
+  xy: 239, 298
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/arminnerup
+  rotate: false
+  xy: 239, 268
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/armoutdown
+  rotate: true
+  xy: 254, 80
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/armoutup
+  rotate: false
+  xy: 272, 343
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/body
+  rotate: false
+  xy: 96, 122
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/eyebrow
+  rotate: true
+  xy: 124, 5
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/eyehard
+  rotate: false
+  xy: 239, 255
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/eyehard1
+  rotate: true
+  xy: 202, 39
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/eyehard2
+  rotate: false
+  xy: 272, 333
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/eyehard3
+  rotate: false
+  xy: 268, 321
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/eyesffuer
+  rotate: true
+  xy: 301, 343
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/eyeyun
+  rotate: true
+  xy: 244, 225
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/face
+  rotate: false
+  xy: 2, 355
+  size: 149, 155
+  orig: 149, 155
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/hair1
+  rotate: false
+  xy: 153, 372
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/hair2
+  rotate: false
+  xy: 185, 255
+  size: 52, 115
+  orig: 52, 115
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/hair3
+  rotate: true
+  xy: 186, 3
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/hairback
+  rotate: true
+  xy: 467, 461
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/handinner
+  rotate: false
+  xy: 2, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/handout
+  rotate: false
+  xy: 32, 9
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/hudang
+  rotate: false
+  xy: 200, 113
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/jianjiainner
+  rotate: true
+  xy: 222, 67
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/jianjiaout
+  rotate: false
+  xy: 140, 2
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/leginnerdown
+  rotate: true
+  xy: 77, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/leginnerup
+  rotate: false
+  xy: 239, 119
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/legoutdown
+  rotate: false
+  xy: 184, 165
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/legoutup
+  rotate: true
+  xy: 231, 166
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/mouth01
+  rotate: true
+  xy: 156, 100
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/mouth02
+  rotate: false
+  xy: 268, 310
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/mouth03
+  rotate: true
+  xy: 63, 11
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/mouth04
+  rotate: true
+  xy: 135, 17
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/pifeng
+  rotate: true
+  xy: 155, 160
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/pifeng1
+  rotate: false
+  xy: 2, 30
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_3/weapon1
+  rotate: false
+  xy: 247, 484
+  size: 142, 26
+  orig: 142, 26
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/body
+  rotate: true
+  xy: 317, 424
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/face
+  rotate: false
+  xy: 2, 199
+  size: 149, 154
+  orig: 149, 154
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/hand1
+  rotate: true
+  xy: 155, 122
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/hand3
+  rotate: true
+  xy: 177, 39
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/hudang
+  rotate: true
+  xy: 185, 216
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/jianjiainner
+  rotate: true
+  xy: 140, 39
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/jianjiaout
+  rotate: false
+  xy: 247, 373
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/leginnerup
+  rotate: false
+  xy: 177, 66
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/pifeng1
+  rotate: false
+  xy: 247, 417
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/pifeng2
+  rotate: false
+  xy: 2, 100
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/shipin
+  rotate: false
+  xy: 96, 100
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/shipin2
+  rotate: false
+  xy: 254, 62
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/toushi1
+  rotate: true
+  xy: 77, 36
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/weapon1
+  rotate: true
+  xy: 153, 219
+  size: 151, 30
+  orig: 151, 30
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_Shadow/McClaine_Shadow_4/yaojiainner
+  rotate: true
+  xy: 239, 333
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 391, 485
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

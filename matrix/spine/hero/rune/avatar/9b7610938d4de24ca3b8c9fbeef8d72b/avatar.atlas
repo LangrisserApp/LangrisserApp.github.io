@@ -1,0 +1,454 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: true
+  xy: 2, 27
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/mouth02
+  rotate: true
+  xy: 170, 14
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/mouth03
+  rotate: true
+  xy: 350, 80
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/mouth04
+  rotate: false
+  xy: 298, 30
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/arm_inner
+  rotate: true
+  xy: 475, 242
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/arm_inner1
+  rotate: true
+  xy: 63, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/arm_out
+  rotate: true
+  xy: 241, 38
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/arm_out1
+  rotate: false
+  xy: 228, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/body
+  rotate: false
+  xy: 188, 74
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/dd
+  rotate: false
+  xy: 380, 311
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/dd
+  rotate: false
+  xy: 380, 311
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/eyebrow
+  rotate: true
+  xy: 358, 135
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/eyehard
+  rotate: false
+  xy: 384, 372
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/eyehard1
+  rotate: false
+  xy: 301, 200
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/eyehard2
+  rotate: true
+  xy: 498, 446
+  size: 64, 12
+  orig: 64, 12
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/eyehard3
+  rotate: false
+  xy: 384, 359
+  size: 65, 11
+  orig: 65, 11
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/eyesffuer
+  rotate: false
+  xy: 104, 6
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/eyeyun
+  rotate: true
+  xy: 275, 134
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/face
+  rotate: false
+  xy: 63, 145
+  size: 127, 146
+  orig: 127, 146
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hair1
+  rotate: false
+  xy: 63, 33
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hair2
+  rotate: false
+  xy: 188, 38
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hair3
+  rotate: true
+  xy: 254, 200
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hair4
+  rotate: true
+  xy: 328, 311
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hair5
+  rotate: true
+  xy: 258, 371
+  size: 77, 124
+  orig: 77, 124
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hand_inner
+  rotate: true
+  xy: 298, 5
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hand_out
+  rotate: false
+  xy: 321, 10
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/handinner1
+  rotate: true
+  xy: 345, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/hudang
+  rotate: false
+  xy: 451, 350
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/jianjiainner
+  rotate: true
+  xy: 319, 33
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/jianjiainner1
+  rotate: false
+  xy: 2, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/jianjiaout
+  rotate: true
+  xy: 373, 267
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/jianjiaout1
+  rotate: false
+  xy: 435, 307
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/leginnerdown
+  rotate: false
+  xy: 483, 377
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/leginnerup
+  rotate: false
+  xy: 268, 78
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/legoutdown
+  rotate: true
+  xy: 188, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/legoutup
+  rotate: true
+  xy: 318, 219
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/mouth01
+  rotate: false
+  xy: 321, 2
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/toushi
+  rotate: false
+  xy: 192, 144
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/weapon
+  rotate: false
+  xy: 258, 450
+  size: 238, 60
+  orig: 238, 60
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/yaojiainner
+  rotate: false
+  xy: 448, 234
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_Fighter_1/yaojiaout
+  rotate: false
+  xy: 416, 229
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/arm_inner
+  rotate: true
+  xy: 29, 3
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/arm_out
+  rotate: true
+  xy: 482, 415
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/body
+  rotate: false
+  xy: 192, 200
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/hudang
+  rotate: false
+  xy: 374, 225
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/jianjiainner
+  rotate: false
+  xy: 272, 38
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/jianjiainner1
+  rotate: true
+  xy: 483, 297
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/jianjiaout1
+  rotate: false
+  xy: 380, 317
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/jianjiaout2
+  rotate: true
+  xy: 481, 265
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/toushi
+  rotate: false
+  xy: 242, 312
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/weapon
+  rotate: false
+  xy: 2, 293
+  size: 238, 93
+  orig: 238, 93
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/yaojiainner
+  rotate: false
+  xy: 355, 100
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/yaojiaout
+  rotate: false
+  xy: 264, 2
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/arm_inner
+  rotate: false
+  xy: 457, 269
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/arm_out
+  rotate: true
+  xy: 483, 342
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/jianjiainner
+  rotate: false
+  xy: 302, 155
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/jianjiaout1
+  rotate: false
+  xy: 318, 260
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/toushi
+  rotate: false
+  xy: 384, 391
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/weapon
+  rotate: false
+  xy: 2, 388
+  size: 254, 122
+  orig: 254, 122
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/weibo
+  rotate: true
+  xy: 309, 103
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/weibo1
+  rotate: false
+  xy: 254, 233
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/yaojiainner
+  rotate: true
+  xy: 309, 80
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwordMaster_3/yaojiaout
+  rotate: true
+  xy: 415, 269
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 241, 68
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

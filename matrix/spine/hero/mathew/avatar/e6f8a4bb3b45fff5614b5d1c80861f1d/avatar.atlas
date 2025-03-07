@@ -1,0 +1,321 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mathew/Mathew_SP/arminnerdown
+  rotate: true
+  xy: 451, 268
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/arminnerup
+  rotate: false
+  xy: 422, 169
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/armoutdown
+  rotate: false
+  xy: 387, 124
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/armoutup
+  rotate: false
+  xy: 480, 346
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/body
+  rotate: false
+  xy: 243, 85
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/eyebrow
+  rotate: false
+  xy: 86, 2
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/eyeffuer
+  rotate: true
+  xy: 376, 344
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/eyehard
+  rotate: false
+  xy: 412, 308
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/eyehard01
+  rotate: true
+  xy: 364, 80
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/eyehard02
+  rotate: true
+  xy: 206, 296
+  size: 61, 15
+  orig: 61, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/eyehard3
+  rotate: false
+  xy: 165, 66
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/eyeyun
+  rotate: true
+  xy: 300, 84
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/face
+  rotate: true
+  xy: 226, 286
+  size: 128, 148
+  orig: 128, 148
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/face1
+  rotate: true
+  xy: 186, 156
+  size: 128, 148
+  orig: 128, 148
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/hair1
+  rotate: true
+  xy: 387, 90
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/hair2
+  rotate: true
+  xy: 412, 356
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/hair3
+  rotate: false
+  xy: 165, 78
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/hair4
+  rotate: true
+  xy: 86, 20
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/handinner
+  rotate: false
+  xy: 422, 145
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/handout
+  rotate: false
+  xy: 413, 270
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/handout2
+  rotate: true
+  xy: 413, 246
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/jianjia
+  rotate: true
+  xy: 336, 203
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/jianjia2
+  rotate: true
+  xy: 206, 359
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/kua
+  rotate: true
+  xy: 376, 295
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/leginnerdown
+  rotate: false
+  xy: 335, 80
+  size: 27, 61
+  orig: 27, 61
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/leginnerdown1
+  rotate: true
+  xy: 420, 207
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/leginnerup
+  rotate: false
+  xy: 377, 203
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/legoutdown
+  rotate: false
+  xy: 377, 246
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/legoutup
+  rotate: false
+  xy: 382, 159
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/maozi1
+  rotate: false
+  xy: 2, 63
+  size: 161, 119
+  orig: 161, 119
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/maozi2
+  rotate: false
+  xy: 2, 184
+  size: 182, 105
+  orig: 182, 105
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/mouth01
+  rotate: true
+  xy: 149, 2
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/mouth02
+  rotate: false
+  xy: 165, 168
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/mouth03
+  rotate: true
+  xy: 475, 385
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/mouth04
+  rotate: false
+  xy: 165, 161
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/pifeng
+  rotate: false
+  xy: 2, 17
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/pifeng2
+  rotate: false
+  xy: 2, 291
+  size: 202, 116
+  orig: 202, 116
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/pifeng3
+  rotate: false
+  xy: 414, 432
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/pifeng4
+  rotate: false
+  xy: 480, 334
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/qunzi
+  rotate: true
+  xy: 336, 143
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/qunzi2
+  rotate: true
+  xy: 490, 385
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/weapon
+  rotate: false
+  xy: 2, 409
+  size: 222, 101
+  orig: 222, 101
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/weapon1
+  rotate: true
+  xy: 226, 416
+  size: 94, 186
+  orig: 94, 186
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_SP/yaodai
+  rotate: false
+  xy: 412, 331
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 414, 405
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

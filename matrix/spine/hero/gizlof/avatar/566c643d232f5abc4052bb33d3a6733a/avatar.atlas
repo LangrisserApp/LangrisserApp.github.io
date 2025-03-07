@@ -1,0 +1,202 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/arminner
+  rotate: false
+  xy: 395, 35
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/body
+  rotate: true
+  xy: 130, 2
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/body1
+  rotate: false
+  xy: 459, 75
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/daiziout
+  rotate: false
+  xy: 395, 77
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/eyebrow
+  rotate: false
+  xy: 388, 119
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/eyehard
+  rotate: false
+  xy: 445, 6
+  size: 59, 14
+  orig: 59, 14
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/eyehard2
+  rotate: false
+  xy: 236, 141
+  size: 59, 11
+  orig: 59, 11
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/eyehard3
+  rotate: false
+  xy: 244, 2
+  size: 59, 8
+  orig: 59, 8
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/eyesffuer
+  rotate: false
+  xy: 322, 178
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/eyeyun
+  rotate: false
+  xy: 236, 154
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/face
+  rotate: true
+  xy: 2, 2
+  size: 107, 126
+  orig: 107, 126
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/guashi
+  rotate: false
+  xy: 445, 22
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/handinner
+  rotate: true
+  xy: 392, 198
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/hatout
+  rotate: false
+  xy: 2, 111
+  size: 131, 143
+  orig: 131, 143
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/jianjiainner
+  rotate: false
+  xy: 322, 200
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/jianjiaout
+  rotate: true
+  xy: 445, 178
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/jianjiaout1
+  rotate: true
+  xy: 332, 116
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/lingzi
+  rotate: false
+  xy: 389, 2
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/lingziinner
+  rotate: true
+  xy: 306, 155
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/mouth01
+  rotate: false
+  xy: 392, 179
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/pifenginner
+  rotate: false
+  xy: 236, 178
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/pifenginner1
+  rotate: false
+  xy: 463, 138
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/pifengout
+  rotate: false
+  xy: 244, 12
+  size: 67, 102
+  orig: 67, 102
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/weapon
+  rotate: true
+  xy: 135, 141
+  size: 113, 99
+  orig: 113, 99
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/weapon1
+  rotate: true
+  xy: 135, 116
+  size: 23, 195
+  orig: 23, 195
+  offset: 0, 0
+  index: -1
+Gizlof/Gizlof_Wizard/Gizlof_Wizard_3/xiongshi
+  rotate: false
+  xy: 388, 135
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Gizlof/gx
+  rotate: true
+  xy: 313, 33
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 313, 6
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

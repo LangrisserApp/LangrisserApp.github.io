@@ -1,0 +1,244 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 764, 112
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_3/yy
+  rotate: false
+  xy: 791, 218
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/arminnerdown
+  rotate: false
+  xy: 878, 82
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/arminnerup
+  rotate: false
+  xy: 909, 20
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/armoutdown
+  rotate: false
+  xy: 637, 2
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/armoutup
+  rotate: true
+  xy: 777, 16
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/body
+  rotate: false
+  xy: 674, 334
+  size: 162, 176
+  orig: 162, 176
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/daoba
+  rotate: false
+  xy: 857, 11
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/daoba1
+  rotate: true
+  xy: 2, 3
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/daoqiao
+  rotate: false
+  xy: 555, 2
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/daoqiao1
+  rotate: true
+  xy: 240, 10
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/eye
+  rotate: false
+  xy: 646, 134
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/face
+  rotate: true
+  xy: 425, 316
+  size: 194, 247
+  orig: 194, 247
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/handinner
+  rotate: false
+  xy: 462, 2
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/handout
+  rotate: true
+  xy: 963, 159
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/jianjiainner
+  rotate: false
+  xy: 358, 126
+  size: 102, 188
+  orig: 102, 188
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/jianjiainner1
+  rotate: false
+  xy: 555, 80
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/jianjiainner2
+  rotate: false
+  xy: 838, 394
+  size: 181, 116
+  orig: 181, 116
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/jianjiaout
+  rotate: false
+  xy: 152, 74
+  size: 204, 245
+  orig: 204, 245
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/jianjiaout1
+  rotate: false
+  xy: 152, 321
+  size: 271, 189
+  orig: 271, 189
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/leginnerdown
+  rotate: false
+  xy: 358, 36
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/leginnerdown1
+  rotate: true
+  xy: 917, 214
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/leginnerup
+  rotate: false
+  xy: 676, 188
+  size: 113, 144
+  orig: 113, 144
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/legoutdown
+  rotate: true
+  xy: 152, 8
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/legoutdown1
+  rotate: false
+  xy: 883, 153
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/legoutdown2
+  rotate: false
+  xy: 462, 61
+  size: 91, 96
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/legoutdown3
+  rotate: true
+  xy: 707, 26
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/legoutdown4
+  rotate: false
+  xy: 676, 108
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/legoutup
+  rotate: false
+  xy: 572, 159
+  size: 102, 155
+  orig: 102, 155
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/legoutup1
+  rotate: false
+  xy: 462, 159
+  size: 108, 155
+  orig: 108, 155
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/toushi
+  rotate: true
+  xy: 838, 325
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/weapon
+  rotate: false
+  xy: 2, 44
+  size: 148, 466
+  orig: 148, 466
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/xiabai
+  rotate: true
+  xy: 791, 81
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Senoumaru/Shibaruku_Senoumaru_4/Shibaruku_Senoumaru_4/xiabai1
+  rotate: true
+  xy: 791, 158
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1

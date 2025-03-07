@@ -1,0 +1,209 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 90, 25
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/arminnerdown
+  rotate: false
+  xy: 307, 129
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/arminnerup
+  rotate: false
+  xy: 231, 172
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/armoutdown
+  rotate: false
+  xy: 172, 65
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/armoutup
+  rotate: false
+  xy: 2, 12
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/body
+  rotate: false
+  xy: 116, 115
+  size: 113, 139
+  orig: 113, 139
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/dang
+  rotate: false
+  xy: 414, 212
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/face
+  rotate: false
+  xy: 2, 101
+  size: 112, 153
+  orig: 112, 153
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handinner
+  rotate: false
+  xy: 461, 111
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handinner1
+  rotate: false
+  xy: 181, 10
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handinner2
+  rotate: true
+  xy: 385, 131
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handinner3
+  rotate: false
+  xy: 343, 131
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handinner4
+  rotate: true
+  xy: 463, 144
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handinnerXX
+  rotate: false
+  xy: 421, 110
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handout
+  rotate: false
+  xy: 421, 144
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/handoutXX
+  rotate: false
+  xy: 224, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/leginnerdown
+  rotate: false
+  xy: 224, 41
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/leginnerup
+  rotate: true
+  xy: 231, 118
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/legoutdown
+  rotate: true
+  xy: 117, 2
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/legoutup
+  rotate: false
+  xy: 117, 51
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/mouth01
+  rotate: false
+  xy: 489, 238
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/mouth03
+  rotate: true
+  xy: 220, 93
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/mouth04
+  rotate: false
+  xy: 90, 16
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/texiao1
+  rotate: true
+  xy: 311, 202
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/texiao2
+  rotate: true
+  xy: 231, 93
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/texiao3
+  rotate: false
+  xy: 270, 47
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/texiao4
+  rotate: true
+  xy: 414, 182
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_3/yanjing
+  rotate: false
+  xy: 311, 173
+  size: 88, 27
+  orig: 88, 27
+  offset: 0, 0
+  index: -1

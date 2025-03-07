@@ -1,0 +1,412 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: false
+  xy: 465, 218
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: false
+  xy: 324, 46
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 47, 310
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner
+  rotate: false
+  xy: 419, 83
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: false
+  xy: 523, 411
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: false
+  xy: 611, 278
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: true
+  xy: 462, 272
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_kaijia
+  rotate: false
+  xy: 194, 5
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: false
+  xy: 335, 206
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_tuijia
+  rotate: false
+  xy: 358, 2
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: false
+  xy: 324, 96
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: true
+  xy: 339, 414
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_xiongshi
+  rotate: false
+  xy: 221, 47
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: false
+  xy: 254, 321
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: true
+  xy: 789, 293
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/dd
+  rotate: false
+  xy: 329, 318
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/Dragon_head
+  rotate: false
+  xy: 659, 375
+  size: 177, 73
+  orig: 177, 73
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/arminnerup
+  rotate: true
+  xy: 45, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/armoutup
+  rotate: false
+  xy: 431, 207
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/body
+  rotate: false
+  xy: 664, 290
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/eyebrow
+  rotate: false
+  xy: 254, 310
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/eyehard
+  rotate: true
+  xy: 1007, 489
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/eyehard1
+  rotate: true
+  xy: 715, 268
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/eyehard2
+  rotate: true
+  xy: 838, 427
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/eyehard3
+  rotate: false
+  xy: 2, 4
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/eyesffuer
+  rotate: true
+  xy: 507, 189
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/eyeyun
+  rotate: false
+  xy: 474, 154
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/face
+  rotate: false
+  xy: 47, 158
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/hair1
+  rotate: true
+  xy: 329, 324
+  size: 88, 131
+  orig: 88, 131
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/hair2
+  rotate: true
+  xy: 335, 154
+  size: 50, 109
+  orig: 50, 109
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/hair3
+  rotate: false
+  xy: 396, 7
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/handinner
+  rotate: false
+  xy: 147, 4
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/handout
+  rotate: false
+  xy: 446, 159
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/jianjiainner
+  rotate: true
+  xy: 2, 16
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/jianjiainner1
+  rotate: true
+  xy: 221, 7
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/jianjiaout
+  rotate: false
+  xy: 598, 227
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/legoutdown
+  rotate: false
+  xy: 431, 4
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/legoutup
+  rotate: false
+  xy: 474, 172
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/mouth01
+  rotate: false
+  xy: 727, 279
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/mouth02
+  rotate: false
+  xy: 283, 310
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/mouth03
+  rotate: false
+  xy: 848, 442
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/mouth04
+  rotate: true
+  xy: 659, 450
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/pifeng
+  rotate: false
+  xy: 83, 6
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/weapon
+  rotate: false
+  xy: 339, 469
+  size: 323, 41
+  orig: 323, 41
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster3/yaojiaout
+  rotate: true
+  xy: 414, 44
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/Dragon_backlegout
+  rotate: false
+  xy: 665, 220
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/Dragon_frontlegout
+  rotate: true
+  xy: 521, 226
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/Dragon_head
+  rotate: true
+  xy: 47, 38
+  size: 118, 172
+  orig: 118, 172
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/Dragon_weiba1
+  rotate: true
+  xy: 664, 450
+  size: 60, 182
+  orig: 60, 182
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/Dragon_xiongshi
+  rotate: false
+  xy: 521, 356
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/body
+  rotate: false
+  xy: 727, 291
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/face
+  rotate: false
+  xy: 192, 159
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/jianjiaout
+  rotate: false
+  xy: 521, 280
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/pifeng1
+  rotate: false
+  xy: 848, 452
+  size: 157, 58
+  orig: 157, 58
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/weapon
+  rotate: true
+  xy: 2, 69
+  size: 345, 43
+  orig: 345, 43
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SerpentMaster/McClaine_SerpentMaster4/yaojiaout
+  rotate: true
+  xy: 307, 2
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 431, 248
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

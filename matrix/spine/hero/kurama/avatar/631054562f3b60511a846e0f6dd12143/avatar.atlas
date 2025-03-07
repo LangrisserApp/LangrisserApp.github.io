@@ -1,0 +1,370 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/arminnerdown
+  rotate: false
+  xy: 415, 106
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/arminnerup
+  rotate: true
+  xy: 634, 142
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/armoutdown
+  rotate: true
+  xy: 681, 140
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/armoutup
+  rotate: false
+  xy: 759, 173
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/body
+  rotate: false
+  xy: 560, 225
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/body1
+  rotate: false
+  xy: 800, 268
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/bodyinner
+  rotate: true
+  xy: 79, 4
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/eyebrow
+  rotate: false
+  xy: 304, 2
+  size: 80, 14
+  orig: 80, 14
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/eyehard
+  rotate: false
+  xy: 634, 181
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/eyehard1
+  rotate: false
+  xy: 716, 211
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/eyehard2
+  rotate: false
+  xy: 2, 8
+  size: 75, 13
+  orig: 75, 13
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/eyehard3
+  rotate: false
+  xy: 355, 148
+  size: 74, 11
+  orig: 74, 11
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/eyesffuer
+  rotate: true
+  xy: 304, 18
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/eyeyun
+  rotate: false
+  xy: 634, 203
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/face
+  rotate: false
+  xy: 866, 302
+  size: 127, 149
+  orig: 127, 149
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/fx_ball
+  rotate: false
+  xy: 796, 191
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/fx_body
+  rotate: true
+  xy: 624, 233
+  size: 106, 174
+  orig: 106, 174
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hair1
+  rotate: false
+  xy: 177, 11
+  size: 125, 87
+  orig: 125, 87
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hair2
+  rotate: false
+  xy: 465, 166
+  size: 68, 130
+  orig: 68, 130
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hair3
+  rotate: true
+  xy: 367, 107
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hair4
+  rotate: true
+  xy: 861, 270
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hair5
+  rotate: false
+  xy: 995, 442
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hairback
+  rotate: false
+  xy: 355, 161
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hand1
+  rotate: true
+  xy: 713, 136
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hand2
+  rotate: true
+  xy: 995, 401
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hand3
+  rotate: false
+  xy: 998, 290
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hand4
+  rotate: true
+  xy: 830, 189
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/handinner
+  rotate: false
+  xy: 968, 475
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/handout
+  rotate: false
+  xy: 829, 161
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/handout1
+  rotate: false
+  xy: 796, 160
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/hudang
+  rotate: true
+  xy: 560, 171
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/leginnerdown
+  rotate: true
+  xy: 945, 266
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/leginnerup
+  rotate: false
+  xy: 716, 168
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/legoutdown
+  rotate: true
+  xy: 800, 225
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/legoutup
+  rotate: false
+  xy: 327, 101
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/mouth01
+  rotate: true
+  xy: 118, 2
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/mouth02
+  rotate: false
+  xy: 968, 460
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/mouth03
+  rotate: false
+  xy: 431, 148
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/weapon
+  rotate: false
+  xy: 795, 453
+  size: 171, 57
+  orig: 171, 57
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/weapon1
+  rotate: true
+  xy: 334, 41
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/weapon2
+  rotate: false
+  xy: 535, 170
+  size: 23, 126
+  orig: 23, 126
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/weapon4
+  rotate: true
+  xy: 327, 146
+  size: 141, 26
+  orig: 141, 26
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/weapon5
+  rotate: false
+  xy: 349, 482
+  size: 444, 28
+  orig: 444, 28
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_3/weapon5a
+  rotate: false
+  xy: 349, 452
+  size: 444, 28
+  orig: 444, 28
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_4/1
+  rotate: false
+  xy: 2, 23
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_4/2
+  rotate: false
+  xy: 624, 341
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_4/3
+  rotate: false
+  xy: 349, 298
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Hiragana/Kurama_Hiragana_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_3/handout
+  rotate: true
+  xy: 750, 138
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 995, 325
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

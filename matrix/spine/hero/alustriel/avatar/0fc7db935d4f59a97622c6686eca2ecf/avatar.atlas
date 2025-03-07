@@ -1,0 +1,510 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/arminnerdown
+  rotate: true
+  xy: 594, 334
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/arminnerup
+  rotate: true
+  xy: 354, 153
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/armoutdown
+  rotate: true
+  xy: 582, 397
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/armoutup
+  rotate: false
+  xy: 220, 2
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/bao
+  rotate: false
+  xy: 228, 37
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/body
+  rotate: true
+  xy: 437, 230
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 45, 10
+  orig: 45, 10
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyeffuer
+  rotate: true
+  xy: 343, 56
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyehard
+  rotate: true
+  xy: 623, 358
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyehard1
+  rotate: false
+  xy: 691, 409
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyehard2
+  rotate: true
+  xy: 790, 414
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyehard3
+  rotate: false
+  xy: 437, 217
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/eyeyun
+  rotate: false
+  xy: 307, 153
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/face
+  rotate: true
+  xy: 106, 77
+  size: 146, 147
+  orig: 146, 147
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/hair1
+  rotate: false
+  xy: 269, 236
+  size: 84, 156
+  orig: 84, 156
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/hair2
+  rotate: false
+  xy: 355, 244
+  size: 80, 151
+  orig: 80, 151
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/hair3
+  rotate: true
+  xy: 106, 39
+  size: 36, 120
+  orig: 36, 120
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/hair6
+  rotate: false
+  xy: 106, 225
+  size: 161, 167
+  orig: 161, 167
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/handinner
+  rotate: true
+  xy: 623, 329
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/handout
+  rotate: false
+  xy: 571, 201
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/jianjiainner
+  rotate: false
+  xy: 505, 202
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/jianjiainnerinner
+  rotate: false
+  xy: 409, 177
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/jianjiaout
+  rotate: false
+  xy: 351, 187
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/leginnerup
+  rotate: true
+  xy: 521, 277
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/legnnerdown
+  rotate: false
+  xy: 350, 8
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/legoutoown
+  rotate: false
+  xy: 317, 3
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/legoutup
+  rotate: false
+  xy: 257, 50
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/mouth01
+  rotate: true
+  xy: 247, 20
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/mouth02
+  rotate: false
+  xy: 790, 400
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/mouth03
+  rotate: false
+  xy: 49, 5
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/mouth04
+  rotate: false
+  xy: 350, 3
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/pidai
+  rotate: false
+  xy: 106, 13
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/pidaiinner
+  rotate: false
+  xy: 269, 225
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/weapon
+  rotate: false
+  xy: 311, 424
+  size: 283, 86
+  orig: 283, 86
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_2/weapon1
+  rotate: false
+  xy: 596, 430
+  size: 192, 21
+  orig: 192, 21
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/arminnerdown
+  rotate: false
+  xy: 764, 397
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/arminnerup
+  rotate: false
+  xy: 730, 406
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/body
+  rotate: true
+  xy: 513, 227
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/handinner
+  rotate: false
+  xy: 409, 194
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/handout
+  rotate: false
+  xy: 389, 187
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/jianjiainner
+  rotate: false
+  xy: 538, 202
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/jianjiainnerinner
+  rotate: false
+  xy: 405, 160
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/jianjiaout
+  rotate: true
+  xy: 983, 452
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/leginnerup
+  rotate: false
+  xy: 255, 99
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/legnnerdown
+  rotate: false
+  xy: 257, 2
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/legoutoown
+  rotate: false
+  xy: 340, 103
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/legoutup
+  rotate: false
+  xy: 300, 53
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/pifeng
+  rotate: true
+  xy: 437, 280
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/toushi
+  rotate: false
+  xy: 307, 187
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/weapon
+  rotate: false
+  xy: 2, 394
+  size: 307, 116
+  orig: 307, 116
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_3/weapon1
+  rotate: false
+  xy: 311, 397
+  size: 193, 25
+  orig: 193, 25
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/arminnerdown
+  rotate: false
+  xy: 379, 154
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/arminnerup
+  rotate: false
+  xy: 471, 206
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/armoutdown
+  rotate: false
+  xy: 594, 357
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/armoutup
+  rotate: true
+  xy: 401, 217
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/bao
+  rotate: true
+  xy: 651, 401
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/body
+  rotate: false
+  xy: 521, 320
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/handinner
+  rotate: false
+  xy: 438, 195
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/handout
+  rotate: true
+  xy: 691, 389
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/jianjiainner
+  rotate: false
+  xy: 612, 397
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/jianjiaout
+  rotate: true
+  xy: 255, 153
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/leginnerdown
+  rotate: false
+  xy: 287, 2
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/leginnerup
+  rotate: false
+  xy: 983, 407
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/legoutdown
+  rotate: true
+  xy: 355, 214
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/legoutup
+  rotate: false
+  xy: 298, 102
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/pidai
+  rotate: false
+  xy: 163, 13
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/pidai1
+  rotate: true
+  xy: 572, 341
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/pifeng
+  rotate: false
+  xy: 806, 405
+  size: 175, 105
+  orig: 175, 105
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/toushi
+  rotate: true
+  xy: 2, 14
+  size: 65, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/weapon
+  rotate: true
+  xy: 2, 81
+  size: 311, 102
+  orig: 311, 102
+  offset: 0, 0
+  index: -1
+Alustriel/Alustriel_Ranger/Alustriel_Ranger_4/weapon1
+  rotate: false
+  xy: 596, 453
+  size: 208, 57
+  orig: 208, 57
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 506, 397
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

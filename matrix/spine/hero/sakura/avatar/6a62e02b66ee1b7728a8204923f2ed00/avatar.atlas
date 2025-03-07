@@ -1,0 +1,209 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ogami/Ogami_RobotWhite/Ogami_RobotWhite/smoke
+  rotate: false
+  xy: 693, 265
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/arminnerdown
+  rotate: false
+  xy: 164, 2
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/arminnerup
+  rotate: false
+  xy: 874, 414
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/armoutdown
+  rotate: false
+  xy: 164, 76
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/armoutup
+  rotate: false
+  xy: 730, 406
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/body
+  rotate: false
+  xy: 229, 226
+  size: 226, 284
+  orig: 226, 284
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/eye
+  rotate: false
+  xy: 726, 375
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/eye1
+  rotate: false
+  xy: 669, 416
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/guanzi1
+  rotate: false
+  xy: 631, 223
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/handinner
+  rotate: false
+  xy: 693, 221
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/handout
+  rotate: false
+  xy: 808, 411
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/leginnerdown
+  rotate: false
+  xy: 241, 92
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/leginnerup
+  rotate: false
+  xy: 685, 365
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/legoutdown
+  rotate: true
+  xy: 325, 107
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/legoutup
+  rotate: false
+  xy: 685, 313
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/weapon
+  rotate: false
+  xy: 229, 184
+  size: 207, 40
+  orig: 207, 40
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/weapon1
+  rotate: false
+  xy: 2, 3
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/weapon2
+  rotate: false
+  xy: 730, 474
+  size: 210, 36
+  orig: 210, 36
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/yaojiainner
+  rotate: true
+  xy: 552, 219
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_3/yaojiaout
+  rotate: false
+  xy: 457, 304
+  size: 123, 108
+  orig: 123, 108
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_4/arminnerup
+  rotate: false
+  xy: 942, 406
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_4/armoutup
+  rotate: false
+  xy: 457, 215
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_4/body
+  rotate: false
+  xy: 2, 170
+  size: 225, 340
+  orig: 225, 340
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_4/weapon
+  rotate: false
+  xy: 457, 453
+  size: 271, 57
+  orig: 271, 57
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_4/weapon2
+  rotate: false
+  xy: 457, 414
+  size: 210, 37
+  orig: 210, 37
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_4/yaojiainner
+  rotate: true
+  xy: 582, 305
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+Sakura/Sakura_RobotPink/Sakura_RobotPink_4/yaojiaout
+  rotate: false
+  xy: 2, 21
+  size: 160, 147
+  orig: 160, 147
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 418, 108
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 228, 70
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

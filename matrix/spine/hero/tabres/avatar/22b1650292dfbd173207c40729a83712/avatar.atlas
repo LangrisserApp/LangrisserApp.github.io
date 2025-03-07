@@ -1,0 +1,685 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 771, 382
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/Eagle_winginner1
+  rotate: true
+  xy: 721, 509
+  size: 81, 97
+  orig: 81, 97
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/Eagle_wingout1
+  rotate: true
+  xy: 898, 749
+  size: 49, 122
+  orig: 49, 122
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/horse_an1
+  rotate: true
+  xy: 898, 884
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/horse_foreleg out down
+  rotate: true
+  xy: 545, 518
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/horse_foreleg out up
+  rotate: true
+  xy: 719, 324
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/horse_head
+  rotate: true
+  xy: 222, 446
+  size: 106, 164
+  orig: 106, 164
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/horse_neck
+  rotate: false
+  xy: 438, 688
+  size: 95, 150
+  orig: 95, 150
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/horse_weiba
+  rotate: true
+  xy: 643, 560
+  size: 176, 76
+  orig: 176, 76
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/horse_xiongjia
+  rotate: false
+  xy: 214, 191
+  size: 114, 56
+  orig: 114, 56
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_2/weapon
+  rotate: true
+  xy: 511, 847
+  size: 40, 208
+  orig: 40, 208
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_winginner1
+  rotate: true
+  xy: 898, 800
+  size: 82, 118
+  orig: 82, 118
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_winginner2
+  rotate: false
+  xy: 376, 297
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_winginner3
+  rotate: false
+  xy: 2, 365
+  size: 107, 353
+  orig: 107, 353
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_winginner4
+  rotate: true
+  xy: 511, 889
+  size: 133, 211
+  orig: 133, 211
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_wingout1
+  rotate: false
+  xy: 818, 619
+  size: 85, 128
+  orig: 85, 128
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_wingout2
+  rotate: true
+  xy: 208, 376
+  size: 68, 144
+  orig: 68, 144
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_wingout3
+  rotate: false
+  xy: 111, 461
+  size: 109, 257
+  orig: 109, 257
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/Eagle_wingout4
+  rotate: false
+  xy: 2, 720
+  size: 272, 302
+  orig: 272, 302
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/arminnerdown
+  rotate: false
+  xy: 328, 155
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/arminnerup
+  rotate: false
+  xy: 766, 280
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/armoutdown
+  rotate: false
+  xy: 328, 123
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/armoutup
+  rotate: true
+  xy: 798, 382
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/body
+  rotate: false
+  xy: 770, 317
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/eyebrow
+  rotate: true
+  xy: 1010, 957
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/eyehard
+  rotate: false
+  xy: 376, 193
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/eyehard1
+  rotate: false
+  xy: 921, 498
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/eyehard2
+  rotate: true
+  xy: 1005, 671
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/eyehard3
+  rotate: true
+  xy: 354, 376
+  size: 68, 9
+  orig: 68, 9
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/eyesffuer
+  rotate: true
+  xy: 824, 319
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/eyeyun
+  rotate: true
+  xy: 857, 393
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/face
+  rotate: false
+  xy: 214, 249
+  size: 115, 125
+  orig: 115, 125
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair1
+  rotate: false
+  xy: 562, 311
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair2
+  rotate: true
+  xy: 538, 450
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair3
+  rotate: true
+  xy: 808, 749
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair4
+  rotate: true
+  xy: 921, 459
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair5
+  rotate: false
+  xy: 587, 404
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair6
+  rotate: true
+  xy: 889, 393
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair7
+  rotate: false
+  xy: 796, 458
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair8
+  rotate: false
+  xy: 650, 378
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/hair9
+  rotate: false
+  xy: 111, 369
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/handinner
+  rotate: false
+  xy: 449, 191
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/handout
+  rotate: true
+  xy: 365, 420
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_an1
+  rotate: true
+  xy: 437, 547
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_an4
+  rotate: false
+  xy: 388, 404
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_an5
+  rotate: false
+  xy: 635, 498
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_body
+  rotate: true
+  xy: 545, 566
+  size: 170, 96
+  orig: 170, 96
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_eye
+  rotate: false
+  xy: 365, 404
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_foreleg inner down
+  rotate: true
+  xy: 499, 404
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_foreleg inner up
+  rotate: true
+  xy: 311, 8
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_foreleg out down
+  rotate: true
+  xy: 620, 451
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_foreleg out up
+  rotate: false
+  xy: 719, 458
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_head
+  rotate: true
+  xy: 535, 738
+  size: 107, 164
+  orig: 107, 164
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_hind leg inner down
+  rotate: true
+  xy: 920, 417
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_hind leg inner up
+  rotate: false
+  xy: 718, 390
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_hind leg out down
+  rotate: false
+  xy: 331, 207
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_hind leg out up
+  rotate: false
+  xy: 650, 310
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_neck
+  rotate: false
+  xy: 721, 592
+  size: 95, 144
+  orig: 95, 144
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_weiba
+  rotate: false
+  xy: 721, 807
+  size: 175, 76
+  orig: 175, 76
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/horse_xiongjia
+  rotate: true
+  xy: 121, 17
+  size: 136, 104
+  orig: 136, 104
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/huan
+  rotate: false
+  xy: 701, 738
+  size: 105, 67
+  orig: 105, 67
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/jianjiainner
+  rotate: true
+  xy: 901, 346
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/jianjiainnner1
+  rotate: false
+  xy: 931, 393
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/jianjiaout
+  rotate: false
+  xy: 798, 411
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/jianjiaout1
+  rotate: true
+  xy: 938, 368
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/legoutdown
+  rotate: true
+  xy: 330, 182
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/legoutup
+  rotate: false
+  xy: 889, 413
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/mouth
+  rotate: false
+  xy: 920, 413
+  size: 9, 2
+  orig: 9, 2
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/mouth02
+  rotate: true
+  xy: 268, 704
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/mouth04
+  rotate: false
+  xy: 511, 840
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/qunzi
+  rotate: false
+  xy: 719, 282
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/qunzi1
+  rotate: true
+  xy: 825, 456
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/tousha
+  rotate: true
+  xy: 2, 2
+  size: 151, 117
+  orig: 151, 117
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/tousha3
+  rotate: true
+  xy: 905, 620
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/tousha4
+  rotate: true
+  xy: 484, 304
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/tousha5
+  rotate: true
+  xy: 140, 161
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/tousha6
+  rotate: false
+  xy: 276, 692
+  size: 160, 146
+  orig: 160, 146
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/weapon
+  rotate: false
+  xy: 72, 155
+  size: 66, 208
+  orig: 66, 208
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_3/yaojia
+  rotate: false
+  xy: 883, 461
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/Eagle_winginner1
+  rotate: true
+  xy: 376, 215
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/Eagle_winginner2
+  rotate: true
+  xy: 820, 510
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/Eagle_wingout1
+  rotate: false
+  xy: 373, 554
+  size: 62, 136
+  orig: 62, 136
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/Eagle_wingout2
+  rotate: false
+  xy: 140, 222
+  size: 72, 145
+  orig: 72, 145
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/hair10
+  rotate: false
+  xy: 121, 2
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/hair11
+  rotate: true
+  xy: 701, 808
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/horse_an3
+  rotate: true
+  xy: 227, 2
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/horse_an4
+  rotate: true
+  xy: 331, 264
+  size: 110, 43
+  orig: 110, 43
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/horse_an5
+  rotate: true
+  xy: 227, 73
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/horse_head
+  rotate: true
+  xy: 724, 885
+  size: 137, 172
+  orig: 137, 172
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/horse_neck
+  rotate: true
+  xy: 388, 450
+  size: 95, 148
+  orig: 95, 148
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/horse_xiongjia
+  rotate: false
+  xy: 921, 520
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/huan
+  rotate: false
+  xy: 222, 554
+  size: 149, 136
+  orig: 149, 136
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/jianjiaout
+  rotate: true
+  xy: 856, 334
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/jianjiaout1
+  rotate: false
+  xy: 328, 99
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/legoutdown
+  rotate: true
+  xy: 222, 692
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/tousha6
+  rotate: false
+  xy: 276, 840
+  size: 233, 182
+  orig: 233, 182
+  offset: 0, 0
+  index: -1
+Tabres_Pegasus_4/weapon
+  rotate: false
+  xy: 2, 155
+  size: 68, 208
+  orig: 68, 208
+  offset: 0, 0
+  index: -1

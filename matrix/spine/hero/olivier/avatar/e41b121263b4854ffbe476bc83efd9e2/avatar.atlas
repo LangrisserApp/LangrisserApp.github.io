@@ -1,0 +1,314 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Olivier/Olivier_Bard/Olivier_Bard3/arminnerdown
+  rotate: true
+  xy: 233, 293
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/arminnerup
+  rotate: true
+  xy: 82, 6
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/armoutdown
+  rotate: false
+  xy: 124, 56
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/armoutup
+  rotate: false
+  xy: 230, 253
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/body
+  rotate: true
+  xy: 424, 353
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/eyebrow
+  rotate: true
+  xy: 178, 224
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/eyehard
+  rotate: false
+  xy: 346, 371
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/face
+  rotate: false
+  xy: 2, 207
+  size: 122, 139
+  orig: 122, 139
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/hair1
+  rotate: false
+  xy: 2, 108
+  size: 66, 97
+  orig: 66, 97
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/hair2
+  rotate: false
+  xy: 70, 118
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/hair3
+  rotate: false
+  xy: 424, 407
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/hair4
+  rotate: true
+  xy: 341, 347
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/hairback
+  rotate: false
+  xy: 2, 348
+  size: 119, 162
+  orig: 119, 162
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/handinner
+  rotate: false
+  xy: 124, 35
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/handout
+  rotate: false
+  xy: 313, 302
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/hudang
+  rotate: true
+  xy: 2, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/leginnerdown
+  rotate: false
+  xy: 124, 158
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/leginnerup
+  rotate: true
+  xy: 47, 2
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/legoutdown
+  rotate: true
+  xy: 126, 199
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/legoutup
+  rotate: true
+  xy: 272, 328
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/lingzi
+  rotate: true
+  xy: 124, 89
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/mouth01
+  rotate: true
+  xy: 150, 148
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/qunziinner
+  rotate: true
+  xy: 189, 297
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/shipin
+  rotate: false
+  xy: 233, 325
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/weapon
+  rotate: false
+  xy: 275, 389
+  size: 147, 121
+  orig: 147, 121
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/yaojiainner
+  rotate: false
+  xy: 190, 237
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard3/yaojiaout
+  rotate: false
+  xy: 126, 296
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/armoutup
+  rotate: true
+  xy: 273, 296
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/handinner1
+  rotate: true
+  xy: 319, 328
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/handout1
+  rotate: true
+  xy: 150, 173
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/lingzi
+  rotate: true
+  xy: 124, 123
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/qunziinner
+  rotate: true
+  xy: 74, 38
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/weapon
+  rotate: false
+  xy: 123, 386
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/yaojiainner
+  rotate: false
+  xy: 126, 222
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Bard/Olivier_Bard4/yaojiaout
+  rotate: false
+  xy: 2, 32
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/eyehard1
+  rotate: true
+  xy: 493, 370
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/eyehard2
+  rotate: false
+  xy: 272, 357
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/eyehard3
+  rotate: false
+  xy: 275, 372
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/eyesffuer
+  rotate: false
+  xy: 199, 360
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/eyeyun
+  rotate: true
+  xy: 487, 439
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/mouth02
+  rotate: false
+  xy: 493, 358
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/mouth03
+  rotate: false
+  xy: 190, 224
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/mouth04
+  rotate: false
+  xy: 230, 242
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 123, 359
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

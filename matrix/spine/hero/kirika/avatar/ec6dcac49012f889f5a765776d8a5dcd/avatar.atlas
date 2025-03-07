@@ -1,0 +1,384 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kirika/witch/Kirika_witch_3/weapon
+  rotate: true
+  xy: 2, 34
+  size: 146, 205
+  orig: 146, 205
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/arminnerdown
+  rotate: false
+  xy: 166, 4
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/arminnerup
+  rotate: false
+  xy: 504, 49
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/armoutdown
+  rotate: true
+  xy: 473, 2
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/armoutup
+  rotate: false
+  xy: 504, 82
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/body
+  rotate: false
+  xy: 562, 164
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/erhuan1
+  rotate: true
+  xy: 522, 358
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/erhuan2
+  rotate: true
+  xy: 616, 198
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/eyebrow
+  rotate: true
+  xy: 494, 44
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/eyehard
+  rotate: false
+  xy: 2, 5
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/eyehard1
+  rotate: false
+  xy: 645, 308
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/eyehard2
+  rotate: false
+  xy: 84, 5
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/eyehard3
+  rotate: false
+  xy: 738, 378
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/eyesffuer
+  rotate: true
+  xy: 437, 42
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/eyeyun
+  rotate: false
+  xy: 258, 3
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/face
+  rotate: false
+  xy: 259, 129
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/hair
+  rotate: false
+  xy: 506, 147
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/hair1
+  rotate: false
+  xy: 413, 117
+  size: 52, 148
+  orig: 52, 148
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/hair2
+  rotate: false
+  xy: 467, 118
+  size: 37, 104
+  orig: 37, 104
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/hair3
+  rotate: true
+  xy: 586, 261
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/hair4
+  rotate: true
+  xy: 338, 2
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/hair5
+  rotate: true
+  xy: 522, 378
+  size: 132, 214
+  orig: 132, 214
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/handinner
+  rotate: false
+  xy: 767, 351
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/handinner2
+  rotate: false
+  xy: 616, 173
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/handinnertt
+  rotate: false
+  xy: 259, 279
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/handinnertt1
+  rotate: false
+  xy: 259, 308
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/handout
+  rotate: false
+  xy: 700, 271
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/hujiejie
+  rotate: false
+  xy: 433, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/leginnerdown
+  rotate: false
+  xy: 209, 133
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/leginnerup
+  rotate: true
+  xy: 506, 117
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/legoutdown
+  rotate: true
+  xy: 209, 2
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/legoutup
+  rotate: true
+  xy: 720, 349
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/mouth01
+  rotate: true
+  xy: 201, 24
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/mouth02
+  rotate: true
+  xy: 201, 14
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/mouth04
+  rotate: true
+  xy: 389, 117
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/qunbaiinner
+  rotate: true
+  xy: 643, 259
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/qunbaiout
+  rotate: false
+  xy: 585, 217
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/qunziinner
+  rotate: false
+  xy: 467, 224
+  size: 116, 43
+  orig: 116, 43
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/qunziout
+  rotate: false
+  xy: 209, 36
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/shiping
+  rotate: true
+  xy: 642, 212
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/shiping1
+  rotate: true
+  xy: 720, 336
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/shiping2
+  rotate: false
+  xy: 562, 150
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/toushi
+  rotate: false
+  xy: 463, 269
+  size: 121, 87
+  orig: 121, 87
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/tx1
+  rotate: true
+  xy: 962, 370
+  size: 140, 60
+  orig: 140, 60
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/tx2
+  rotate: false
+  xy: 281, 267
+  size: 180, 89
+  orig: 180, 89
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/tx3
+  rotate: false
+  xy: 738, 387
+  size: 222, 123
+  orig: 222, 123
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/tx4
+  rotate: false
+  xy: 2, 182
+  size: 255, 153
+  orig: 255, 153
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/tx5
+  rotate: false
+  xy: 2, 337
+  size: 277, 173
+  orig: 277, 173
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/weapon
+  rotate: true
+  xy: 281, 358
+  size: 152, 239
+  orig: 152, 239
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/xiuzhiinner
+  rotate: false
+  xy: 389, 43
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/xiuzhiout
+  rotate: true
+  xy: 338, 43
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/yinfu2
+  rotate: false
+  xy: 586, 310
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Kirika/witch/Kirika_witch_4/yinfu3
+  rotate: true
+  xy: 645, 336
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 467, 42
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

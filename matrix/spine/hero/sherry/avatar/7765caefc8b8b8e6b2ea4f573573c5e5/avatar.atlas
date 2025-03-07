@@ -1,0 +1,419 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 343, 357
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/arminnerdown
+  rotate: false
+  xy: 178, 66
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/arminnerup
+  rotate: true
+  xy: 175, 6
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/armoutdown
+  rotate: true
+  xy: 220, 23
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/armoutup
+  rotate: false
+  xy: 428, 353
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/body
+  rotate: true
+  xy: 259, 308
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyebrow
+  rotate: true
+  xy: 112, 126
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard
+  rotate: true
+  xy: 426, 388
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard1
+  rotate: true
+  xy: 116, 203
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard2
+  rotate: true
+  xy: 77, 122
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyehard3
+  rotate: true
+  xy: 154, 286
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyesffuer
+  rotate: false
+  xy: 165, 101
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/eyesyun
+  rotate: false
+  xy: 189, 271
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/face
+  rotate: false
+  xy: 257, 360
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair
+  rotate: false
+  xy: 2, 277
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair1
+  rotate: false
+  xy: 160, 360
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair2
+  rotate: false
+  xy: 226, 97
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair3
+  rotate: false
+  xy: 2, 81
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair4
+  rotate: false
+  xy: 199, 140
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hair5
+  rotate: true
+  xy: 137, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/hand out
+  rotate: false
+  xy: 461, 356
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/handinner
+  rotate: true
+  xy: 428, 297
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/leg inner down
+  rotate: true
+  xy: 458, 474
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/leginnerup
+  rotate: true
+  xy: 220, 55
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/leg inner up
+  rotate: true
+  xy: 220, 55
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/legoutdoen
+  rotate: true
+  xy: 77, 81
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/legoutup
+  rotate: false
+  xy: 128, 358
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/mouth01
+  rotate: false
+  xy: 253, 36
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/mouth03
+  rotate: false
+  xy: 253, 50
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/mouth04
+  rotate: false
+  xy: 317, 453
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/pidai
+  rotate: true
+  xy: 125, 134
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/pidaiinner
+  rotate: false
+  xy: 253, 67
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/pijian out inner
+  rotate: false
+  xy: 461, 440
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/pijianinner
+  rotate: true
+  xy: 461, 410
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/pijianout
+  rotate: true
+  xy: 84, 11
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/qunzi
+  rotate: false
+  xy: 326, 308
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/toushi
+  rotate: false
+  xy: 343, 384
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/weapon
+  rotate: false
+  xy: 317, 461
+  size: 139, 49
+  orig: 139, 49
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger02/xiongshi
+  rotate: false
+  xy: 154, 271
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/arm inner down
+  rotate: false
+  xy: 178, 31
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/arm inner up
+  rotate: false
+  xy: 428, 319
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/body
+  rotate: false
+  xy: 151, 209
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/hand inner
+  rotate: true
+  xy: 256, 84
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/leg inner down
+  rotate: false
+  xy: 127, 81
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/leg out down
+  rotate: false
+  xy: 137, 31
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/leg out up
+  rotate: false
+  xy: 239, 158
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pidai
+  rotate: true
+  xy: 162, 140
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pifeng  inner
+  rotate: false
+  xy: 2, 403
+  size: 156, 107
+  orig: 156, 107
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pifeng out
+  rotate: false
+  xy: 2, 196
+  size: 112, 79
+  orig: 112, 79
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pijian guashi inner
+  rotate: true
+  xy: 491, 349
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pijian guashi out
+  rotate: false
+  xy: 256, 106
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pijian inner
+  rotate: true
+  xy: 461, 380
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pijian out inner
+  rotate: true
+  xy: 394, 307
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/pijianout
+  rotate: false
+  xy: 189, 307
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/qunzi
+  rotate: true
+  xy: 207, 203
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/toushi
+  rotate: false
+  xy: 2, 2
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/toushi2
+  rotate: true
+  xy: 128, 276
+  size: 80, 24
+  orig: 80, 24
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/weapon
+  rotate: false
+  xy: 160, 450
+  size: 155, 60
+  orig: 155, 60
+  offset: 0, 0
+  index: -1
+Sherry/SherryRanger/SherryRanger03/xiongshi
+  rotate: false
+  xy: 239, 143
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

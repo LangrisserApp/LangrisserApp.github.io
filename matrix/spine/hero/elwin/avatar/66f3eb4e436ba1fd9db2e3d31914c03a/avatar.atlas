@@ -1,0 +1,356 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_ HighRider/Elwin_HighRider/horse_tunjia
+  rotate: false
+  xy: 125, 30
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_HighRider/horse_xiongjia
+  rotate: false
+  xy: 160, 254
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_HighRider/weapon1
+  rotate: false
+  xy: 2, 432
+  size: 266, 78
+  orig: 266, 78
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_HighRider/weapon2
+  rotate: false
+  xy: 160, 131
+  size: 109, 23
+  orig: 109, 23
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/hair
+  rotate: true
+  xy: 391, 2
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/hand_inner
+  rotate: false
+  xy: 384, 312
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/handinner1
+  rotate: true
+  xy: 377, 249
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/jianjiaout
+  rotate: true
+  xy: 396, 400
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/legoutup
+  rotate: true
+  xy: 443, 318
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/toushi2
+  rotate: true
+  xy: 421, 334
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/arm_inner
+  rotate: true
+  xy: 349, 383
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/arm_inner1
+  rotate: true
+  xy: 359, 274
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/arm_out
+  rotate: false
+  xy: 347, 343
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/body
+  rotate: false
+  xy: 320, 205
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/huawen2
+  rotate: false
+  xy: 253, 164
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/jianjiainner1
+  rotate: true
+  xy: 290, 301
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/legoutdown
+  rotate: true
+  xy: 394, 367
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/toushi1
+  rotate: false
+  xy: 343, 136
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/toushi3
+  rotate: true
+  xy: 270, 444
+  size: 66, 109
+  orig: 66, 109
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/toushi4
+  rotate: true
+  xy: 280, 2
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_3/yaojiaout
+  rotate: false
+  xy: 347, 304
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Elwin/eye3
+  rotate: false
+  xy: 443, 418
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Elwin/eyebrow
+  rotate: true
+  xy: 371, 66
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Elwin/eyehard
+  rotate: false
+  xy: 268, 376
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+Elwin/eyehard1
+  rotate: false
+  xy: 443, 394
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+Elwin/eyehard2
+  rotate: false
+  xy: 290, 274
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Elwin/eyesffuer
+  rotate: false
+  xy: 201, 2
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+Elwin/eyeyun
+  rotate: false
+  xy: 270, 408
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+Elwin/face
+  rotate: false
+  xy: 160, 156
+  size: 91, 96
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+Elwin/hatout
+  rotate: false
+  xy: 2, 226
+  size: 156, 143
+  orig: 156, 143
+  offset: 0, 0
+  index: -1
+Elwin/mouth01
+  rotate: true
+  xy: 503, 375
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Elwin/mouth02
+  rotate: true
+  xy: 495, 493
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Elwin/mouth03
+  rotate: true
+  xy: 320, 185
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Elwin/mouth04
+  rotate: false
+  xy: 384, 304
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegdown
+  rotate: true
+  xy: 349, 410
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegup
+  rotate: false
+  xy: 253, 185
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_body
+  rotate: false
+  xy: 2, 131
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegdown
+  rotate: false
+  xy: 357, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegup
+  rotate: true
+  xy: 271, 131
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: true
+  xy: 443, 353
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: true
+  xy: 251, 273
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_head
+  rotate: false
+  xy: 2, 5
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: true
+  xy: 201, 39
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck
+  rotate: false
+  xy: 292, 52
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: true
+  xy: 443, 371
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 386, 340
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 381, 449
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: true
+  xy: 371, 52
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 371
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 125, 3
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

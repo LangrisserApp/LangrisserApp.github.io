@@ -1,0 +1,447 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kirika_Bow_2/qunzi
+  rotate: true
+  xy: 670, 224
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+Kirika_Bow_3/weapon
+  rotate: true
+  xy: 315, 298
+  size: 72, 249
+  orig: 72, 249
+  offset: 0, 0
+  index: -1
+Kirika_Bow_3/weapon1
+  rotate: true
+  xy: 782, 399
+  size: 10, 189
+  orig: 10, 189
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/Shadow
+  rotate: true
+  xy: 713, 148
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/arminnerdown
+  rotate: false
+  xy: 664, 111
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/arminnerup
+  rotate: false
+  xy: 630, 78
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/arminnerupp
+  rotate: false
+  xy: 787, 123
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/armoutdown
+  rotate: false
+  xy: 630, 108
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/armoutup
+  rotate: false
+  xy: 594, 87
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/body
+  rotate: false
+  xy: 781, 251
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/bodyp
+  rotate: false
+  xy: 837, 251
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/erhuan1
+  rotate: false
+  xy: 1004, 385
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/erhuan2
+  rotate: false
+  xy: 892, 251
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/eyebrow
+  rotate: true
+  xy: 720, 232
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/eyehard
+  rotate: true
+  xy: 993, 430
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/eyehard1
+  rotate: true
+  xy: 413, 78
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/eyehard2
+  rotate: false
+  xy: 287, 43
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/eyehard3
+  rotate: false
+  xy: 777, 241
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/eyesffuer
+  rotate: true
+  xy: 594, 124
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/eyeyun
+  rotate: true
+  xy: 680, 149
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/face
+  rotate: false
+  xy: 290, 160
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/hair
+  rotate: false
+  xy: 441, 81
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/hair1
+  rotate: false
+  xy: 444, 157
+  size: 100, 139
+  orig: 100, 139
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/hair2
+  rotate: false
+  xy: 590, 199
+  size: 37, 105
+  orig: 37, 105
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/hair3
+  rotate: false
+  xy: 497, 81
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/hair4
+  rotate: false
+  xy: 629, 211
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/hair5
+  rotate: true
+  xy: 566, 377
+  size: 133, 214
+  orig: 133, 214
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/handinner
+  rotate: false
+  xy: 993, 410
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/handinner1
+  rotate: false
+  xy: 892, 276
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/handinner2
+  rotate: false
+  xy: 911, 245
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/handout
+  rotate: false
+  xy: 936, 245
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/handout1
+  rotate: true
+  xy: 369, 48
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/hujiejie
+  rotate: false
+  xy: 334, 2
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/leginnerdown
+  rotate: true
+  xy: 546, 73
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/leginnerup
+  rotate: true
+  xy: 787, 157
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/legoutdown
+  rotate: true
+  xy: 730, 224
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/legoutup
+  rotate: true
+  xy: 740, 137
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/mouth01
+  rotate: true
+  xy: 670, 212
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/mouth02
+  rotate: false
+  xy: 720, 224
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/mouth04
+  rotate: false
+  xy: 680, 143
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/qunbaiinner
+  rotate: false
+  xy: 787, 194
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/qunbaiinnerp
+  rotate: false
+  xy: 730, 258
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/qunbaiout
+  rotate: false
+  xy: 725, 316
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/qunbaioutp
+  rotate: true
+  xy: 216, 2
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/qunziinner
+  rotate: true
+  xy: 546, 179
+  size: 117, 42
+  orig: 117, 42
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/qunziout
+  rotate: false
+  xy: 782, 305
+  size: 130, 92
+  orig: 130, 92
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/qunzioutp
+  rotate: true
+  xy: 914, 270
+  size: 127, 88
+  orig: 127, 88
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/shiping
+  rotate: false
+  xy: 168, 2
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/shiping1
+  rotate: false
+  xy: 290, 299
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/shiping2
+  rotate: true
+  xy: 973, 399
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/shipingp
+  rotate: false
+  xy: 740, 169
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/toushi
+  rotate: false
+  xy: 290, 71
+  size: 121, 87
+  orig: 121, 87
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/tx1
+  rotate: false
+  xy: 566, 306
+  size: 157, 69
+  orig: 157, 69
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/tx2
+  rotate: false
+  xy: 782, 411
+  size: 209, 99
+  orig: 209, 99
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/tx3
+  rotate: false
+  xy: 315, 372
+  size: 249, 138
+  orig: 249, 138
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/tx4
+  rotate: false
+  xy: 2, 139
+  size: 286, 171
+  orig: 286, 171
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/tx5
+  rotate: false
+  xy: 2, 312
+  size: 311, 198
+  orig: 311, 198
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/weapon
+  rotate: true
+  xy: 2, 59
+  size: 78, 283
+  orig: 78, 283
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/weapon1
+  rotate: true
+  xy: 2, 48
+  size: 9, 212
+  orig: 9, 212
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/weapon2
+  rotate: false
+  xy: 2, 2
+  size: 164, 44
+  orig: 164, 44
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/xiuzhiinner
+  rotate: false
+  xy: 261, 2
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/xiuzhiinner 1
+  rotate: false
+  xy: 546, 105
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+Kirika_Bow_4/xiuzhiout
+  rotate: true
+  xy: 629, 143
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1

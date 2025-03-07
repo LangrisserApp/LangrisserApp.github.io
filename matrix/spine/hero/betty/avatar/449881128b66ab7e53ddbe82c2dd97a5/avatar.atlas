@@ -1,0 +1,440 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/arminnerdown
+  rotate: false
+  xy: 485, 408
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/arminnerup
+  rotate: false
+  xy: 219, 16
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/armoutdown
+  rotate: true
+  xy: 342, 151
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/armoutup
+  rotate: false
+  xy: 292, 32
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/body
+  rotate: true
+  xy: 450, 234
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/dang
+  rotate: false
+  xy: 471, 362
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/eyebrow
+  rotate: false
+  xy: 2, 7
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/eyehard
+  rotate: false
+  xy: 217, 200
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/eyehard1
+  rotate: true
+  xy: 218, 112
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/eyehard2
+  rotate: false
+  xy: 217, 185
+  size: 71, 13
+  orig: 71, 13
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/eyehard3
+  rotate: false
+  xy: 290, 185
+  size: 70, 8
+  orig: 70, 8
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/eyesffuer
+  rotate: false
+  xy: 281, 120
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/eyeyun
+  rotate: true
+  xy: 219, 54
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/face
+  rotate: false
+  xy: 2, 181
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair1
+  rotate: false
+  xy: 90, 93
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair10
+  rotate: false
+  xy: 217, 224
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair2
+  rotate: false
+  xy: 127, 185
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair3
+  rotate: false
+  xy: 90, 5
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair4
+  rotate: true
+  xy: 471, 325
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair5
+  rotate: true
+  xy: 368, 286
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair6
+  rotate: true
+  xy: 370, 393
+  size: 75, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair7
+  rotate: false
+  xy: 242, 127
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair8
+  rotate: false
+  xy: 255, 21
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/hair9
+  rotate: true
+  xy: 148, 28
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/handinner
+  rotate: false
+  xy: 453, 123
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/handout
+  rotate: true
+  xy: 488, 152
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/handout1
+  rotate: false
+  xy: 191, 5
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/leginnerdown
+  rotate: true
+  xy: 340, 120
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/leginnerup
+  rotate: true
+  xy: 414, 114
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/legoutdown
+  rotate: false
+  xy: 341, 74
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/legoutup
+  rotate: false
+  xy: 455, 286
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/mouth01
+  rotate: true
+  xy: 282, 3
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/mouth02
+  rotate: true
+  xy: 485, 393
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/mouth03
+  rotate: false
+  xy: 485, 286
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/mouth04
+  rotate: true
+  xy: 506, 164
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/pifeng
+  rotate: true
+  xy: 448, 181
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/pifeng1
+  rotate: true
+  xy: 281, 152
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/pifeng2
+  rotate: false
+  xy: 368, 234
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/weapon
+  rotate: false
+  xy: 254, 470
+  size: 229, 40
+  orig: 229, 40
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/yaojiainner
+  rotate: false
+  xy: 473, 122
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_2/yaojiaout
+  rotate: false
+  xy: 292, 7
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/arminnerdown
+  rotate: false
+  xy: 485, 297
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/arminnerup
+  rotate: true
+  xy: 446, 145
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/armoutdown
+  rotate: false
+  xy: 217, 299
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/armoutup
+  rotate: true
+  xy: 298, 72
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/body
+  rotate: true
+  xy: 290, 195
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/dang
+  rotate: true
+  xy: 414, 143
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/pifeng
+  rotate: false
+  xy: 141, 107
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/pifeng1
+  rotate: true
+  xy: 367, 186
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/pifeng2
+  rotate: false
+  xy: 254, 398
+  size: 114, 70
+  orig: 114, 70
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/qunzi
+  rotate: false
+  xy: 364, 155
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/weapon
+  rotate: false
+  xy: 2, 417
+  size: 250, 93
+  orig: 250, 93
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/yaojiainner
+  rotate: true
+  xy: 255, 2
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_3/yaojiaout
+  rotate: false
+  xy: 383, 124
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_4/body
+  rotate: true
+  xy: 290, 247
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_4/pifeng
+  rotate: true
+  xy: 252, 299
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_4/pifeng1
+  rotate: true
+  xy: 368, 325
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_4/pifeng2
+  rotate: true
+  xy: 2, 18
+  size: 161, 86
+  orig: 161, 86
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_4/weapon
+  rotate: false
+  xy: 2, 322
+  size: 248, 93
+  orig: 248, 93
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_4/yaojiainner
+  rotate: true
+  xy: 148, 2
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Betty/Betty_SwordMaster/Beety_SwordMaster_4/yaojiaout
+  rotate: false
+  xy: 253, 72
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 485, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

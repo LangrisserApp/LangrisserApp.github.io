@@ -1,0 +1,524 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 282, 234
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/arminnerdown
+  rotate: false
+  xy: 569, 301
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/arminnerup
+  rotate: false
+  xy: 541, 325
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/armoutdown
+  rotate: false
+  xy: 879, 395
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/armoutup
+  rotate: true
+  xy: 838, 396
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/body
+  rotate: false
+  xy: 309, 246
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/doupeng
+  rotate: true
+  xy: 215, 139
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/doupeng1
+  rotate: false
+  xy: 484, 240
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/doupeng2
+  rotate: false
+  xy: 386, 445
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/lingzi
+  rotate: true
+  xy: 719, 359
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/pijianinner
+  rotate: true
+  xy: 282, 194
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/pijianout
+  rotate: false
+  xy: 734, 386
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/qunzi
+  rotate: true
+  xy: 386, 377
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/weapon
+  rotate: false
+  xy: 212, 483
+  size: 172, 27
+  orig: 172, 27
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/xiabai
+  rotate: true
+  xy: 579, 325
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_2/xiabai1
+  rotate: false
+  xy: 202, 392
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/arminnerdown
+  rotate: true
+  xy: 628, 333
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/arminnerup
+  rotate: false
+  xy: 154, 34
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/armoutdown
+  rotate: true
+  xy: 124, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/armoutup
+  rotate: true
+  xy: 678, 359
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/body
+  rotate: true
+  xy: 451, 303
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/doupeng
+  rotate: true
+  xy: 370, 304
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/doupeng1
+  rotate: false
+  xy: 544, 356
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/doupeng2
+  rotate: false
+  xy: 212, 410
+  size: 116, 71
+  orig: 116, 71
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/eyebrow
+  rotate: true
+  xy: 669, 362
+  size: 74, 7
+  orig: 74, 7
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/eyehard
+  rotate: false
+  xy: 596, 358
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/eyehard1
+  rotate: false
+  xy: 361, 240
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/eyehard2
+  rotate: false
+  xy: 140, 132
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/eyehard3
+  rotate: false
+  xy: 838, 423
+  size: 63, 8
+  orig: 63, 8
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/eyesffuer
+  rotate: false
+  xy: 84, 101
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/eyeyun
+  rotate: true
+  xy: 124, 32
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/face
+  rotate: false
+  xy: 2, 248
+  size: 115, 133
+  orig: 115, 133
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/hair1
+  rotate: false
+  xy: 871, 433
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/hair2
+  rotate: false
+  xy: 84, 132
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/hair3
+  rotate: true
+  xy: 2, 2
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/hair4
+  rotate: true
+  xy: 215, 194
+  size: 114, 65
+  orig: 114, 65
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/hair5
+  rotate: false
+  xy: 140, 148
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/hair6
+  rotate: true
+  xy: 784, 401
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/hair7
+  rotate: true
+  xy: 361, 264
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/handinner
+  rotate: false
+  xy: 784, 383
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/handout
+  rotate: false
+  xy: 312, 165
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/handout1
+  rotate: false
+  xy: 190, 34
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/leginnerdown
+  rotate: false
+  xy: 288, 147
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/legoutdown
+  rotate: false
+  xy: 522, 313
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/lingzi
+  rotate: false
+  xy: 312, 144
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/mouth01
+  rotate: false
+  xy: 119, 248
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/mouth02
+  rotate: false
+  xy: 526, 301
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/mouth03
+  rotate: false
+  xy: 370, 397
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/mouth04
+  rotate: false
+  xy: 467, 439
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/pijianinner
+  rotate: false
+  xy: 435, 240
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/pijianout
+  rotate: false
+  xy: 467, 358
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/pijianout1
+  rotate: false
+  xy: 678, 383
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/qunzi
+  rotate: false
+  xy: 691, 433
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/weapon
+  rotate: false
+  xy: 2, 383
+  size: 198, 51
+  orig: 198, 51
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/xiabai
+  rotate: false
+  xy: 906, 406
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_3/xiabai1
+  rotate: false
+  xy: 741, 363
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/arminnerdown
+  rotate: false
+  xy: 600, 333
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/arminnerup
+  rotate: false
+  xy: 154, 68
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/armoutdown
+  rotate: false
+  xy: 314, 218
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/armoutup
+  rotate: false
+  xy: 190, 63
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/body
+  rotate: false
+  xy: 330, 408
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/doupeng
+  rotate: false
+  xy: 215, 310
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/doupeng1
+  rotate: false
+  xy: 954, 425
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/doupeng2
+  rotate: true
+  xy: 119, 257
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/lingzi
+  rotate: true
+  xy: 541, 301
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/lingzi2
+  rotate: true
+  xy: 2, 93
+  size: 153, 80
+  orig: 153, 80
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/pijianinner
+  rotate: true
+  xy: 592, 438
+  size: 72, 97
+  orig: 72, 97
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/pijianout
+  rotate: true
+  xy: 492, 431
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/pijianout1
+  rotate: false
+  xy: 596, 382
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/qunzi
+  rotate: false
+  xy: 781, 433
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/toushi
+  rotate: false
+  xy: 307, 312
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/weapon
+  rotate: false
+  xy: 2, 436
+  size: 208, 74
+  orig: 208, 74
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/xiabai
+  rotate: false
+  xy: 153, 103
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_SwordMaster/Sirink_SwordMaster_4/xiabai1
+  rotate: false
+  xy: 314, 191
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ogami/Ogami_RobotWhite/Ogami_RobotWhite/smoke
+  rotate: false
+  xy: 395, 5
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 710, 147
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/arminnerdown
+  rotate: true
+  xy: 312, 55
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/arminnerup
+  rotate: true
+  xy: 2, 2
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/armoutdown
+  rotate: false
+  xy: 229, 95
+  size: 81, 116
+  orig: 81, 116
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/armoutup
+  rotate: false
+  xy: 760, 221
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/body
+  rotate: false
+  xy: 229, 213
+  size: 226, 297
+  orig: 226, 297
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/guanzi1
+  rotate: false
+  xy: 553, 146
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/handinner
+  rotate: false
+  xy: 262, 53
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/handout
+  rotate: true
+  xy: 130, 2
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/weapon
+  rotate: true
+  xy: 457, 309
+  size: 95, 364
+  orig: 95, 364
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/yaojiainner
+  rotate: false
+  xy: 737, 160
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_3/yaojiaout
+  rotate: false
+  xy: 573, 226
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/arminnerdown
+  rotate: true
+  xy: 457, 231
+  size: 76, 114
+  orig: 76, 114
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/arminnerup
+  rotate: false
+  xy: 406, 124
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/armoutdown
+  rotate: true
+  xy: 845, 427
+  size: 83, 152
+  orig: 83, 152
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/body
+  rotate: false
+  xy: 2, 170
+  size: 225, 340
+  orig: 225, 340
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/eye
+  rotate: false
+  xy: 803, 191
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/eye1
+  rotate: false
+  xy: 443, 17
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/guanzi1
+  rotate: true
+  xy: 628, 151
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/guanzi2
+  rotate: false
+  xy: 396, 53
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/handinner
+  rotate: true
+  xy: 87, 4
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/handinner1
+  rotate: false
+  xy: 358, 11
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/handout
+  rotate: true
+  xy: 196, 2
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/jianjiaout
+  rotate: false
+  xy: 130, 67
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/leginnerdown
+  rotate: true
+  xy: 668, 223
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/leginnerup
+  rotate: false
+  xy: 262, 2
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/legoutdown
+  rotate: false
+  xy: 476, 139
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/legoutup
+  rotate: false
+  xy: 312, 2
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/weapon
+  rotate: true
+  xy: 457, 406
+  size: 104, 386
+  orig: 104, 386
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/yaojiainner
+  rotate: false
+  xy: 312, 124
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_RobotPurple/Sumire_RobotPurple_4/yaojiaout
+  rotate: false
+  xy: 2, 54
+  size: 126, 114
+  orig: 126, 114
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 845, 421
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

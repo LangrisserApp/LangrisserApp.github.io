@@ -1,0 +1,734 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/arminnerdown
+  rotate: false
+  xy: 993, 194
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/arminnerup
+  rotate: false
+  xy: 696, 117
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/armoutdown
+  rotate: false
+  xy: 643, 2
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/armoutup
+  rotate: false
+  xy: 725, 117
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/body
+  rotate: true
+  xy: 498, 54
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/fx_2
+  rotate: true
+  xy: 673, 118
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/fx_3
+  rotate: true
+  xy: 937, 278
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/fx_4
+  rotate: true
+  xy: 461, 200
+  size: 79, 19
+  orig: 79, 19
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/fx_5
+  rotate: false
+  xy: 662, 373
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/jianjiainner
+  rotate: false
+  xy: 448, 36
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/jianjiaout
+  rotate: false
+  xy: 950, 257
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/leginnerdown
+  rotate: false
+  xy: 751, 157
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/leginnerup
+  rotate: false
+  xy: 988, 410
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/legoutdown
+  rotate: true
+  xy: 702, 231
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/legoutup
+  rotate: true
+  xy: 901, 249
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/lingzi
+  rotate: true
+  xy: 421, 309
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/lingzi1
+  rotate: true
+  xy: 173, 135
+  size: 156, 52
+  orig: 156, 52
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/pifeng
+  rotate: false
+  xy: 938, 301
+  size: 84, 107
+  orig: 84, 107
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/pifeng1
+  rotate: false
+  xy: 825, 218
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/pifeng2
+  rotate: true
+  xy: 572, 36
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/weapon
+  rotate: false
+  xy: 236, 307
+  size: 183, 85
+  orig: 183, 85
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/yaojia
+  rotate: true
+  xy: 567, 7
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_2/yaojia1
+  rotate: true
+  xy: 895, 174
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/arminnerdown
+  rotate: false
+  xy: 430, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/arminnerup
+  rotate: false
+  xy: 765, 117
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/armoutdown
+  rotate: true
+  xy: 436, 281
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/armoutup
+  rotate: false
+  xy: 950, 217
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/body
+  rotate: true
+  xy: 571, 249
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/fx_2
+  rotate: true
+  xy: 608, 100
+  size: 80, 22
+  orig: 80, 22
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/fx_3
+  rotate: true
+  xy: 366, 281
+  size: 24, 68
+  orig: 24, 68
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/fx_4
+  rotate: false
+  xy: 479, 310
+  size: 96, 23
+  orig: 96, 23
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/fx_5
+  rotate: false
+  xy: 2, 130
+  size: 169, 161
+  orig: 169, 161
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/jianjiainner
+  rotate: true
+  xy: 1005, 469
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/jianjiaout
+  rotate: false
+  xy: 508, 2
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/leginnerdown
+  rotate: false
+  xy: 723, 157
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/leginnerup
+  rotate: false
+  xy: 995, 251
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/legoutdown
+  rotate: true
+  xy: 701, 208
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/legoutup
+  rotate: true
+  xy: 850, 220
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/lingzi
+  rotate: true
+  xy: 498, 105
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/lingzi1
+  rotate: false
+  xy: 808, 410
+  size: 178, 48
+  orig: 178, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/piaodaiinner
+  rotate: false
+  xy: 632, 120
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/piaodaiout
+  rotate: false
+  xy: 558, 105
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/pifeng
+  rotate: true
+  xy: 139, 8
+  size: 120, 104
+  orig: 120, 104
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/pifeng1
+  rotate: false
+  xy: 991, 224
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/pifeng2
+  rotate: true
+  xy: 608, 28
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/weapon
+  rotate: false
+  xy: 450, 401
+  size: 210, 109
+  orig: 210, 109
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/yaojia
+  rotate: false
+  xy: 903, 278
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/yaojia1
+  rotate: false
+  xy: 810, 169
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_3/yaojia2
+  rotate: false
+  xy: 895, 188
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/arminnerdown
+  rotate: false
+  xy: 948, 186
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/arminnerup
+  rotate: false
+  xy: 778, 168
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/armoutdown
+  rotate: true
+  xy: 508, 22
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/armoutup
+  rotate: false
+  xy: 785, 208
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/body
+  rotate: false
+  xy: 567, 182
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/dang
+  rotate: false
+  xy: 392, 2
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/eyebrow
+  rotate: false
+  xy: 856, 177
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/eyehard
+  rotate: false
+  xy: 632, 100
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/eyehard1
+  rotate: true
+  xy: 927, 184
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/eyehard2
+  rotate: true
+  xy: 975, 181
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/eyehard3
+  rotate: false
+  xy: 245, 2
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/eyesffuer
+  rotate: true
+  xy: 827, 179
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/eyeyun
+  rotate: false
+  xy: 856, 191
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/face
+  rotate: true
+  xy: 2, 11
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/fx_1
+  rotate: true
+  xy: 626, 186
+  size: 21, 68
+  orig: 21, 68
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/fx_2
+  rotate: false
+  xy: 341, 33
+  size: 101, 15
+  orig: 101, 15
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/fx_3
+  rotate: true
+  xy: 245, 14
+  size: 25, 94
+  orig: 25, 94
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/fx_4
+  rotate: false
+  xy: 236, 281
+  size: 128, 24
+  orig: 128, 24
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/fx_5
+  rotate: false
+  xy: 2, 293
+  size: 232, 217
+  orig: 232, 217
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/fx_6
+  rotate: false
+  xy: 227, 165
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/fx_7
+  rotate: false
+  xy: 797, 269
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/hair1
+  rotate: false
+  xy: 761, 331
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/hair2
+  rotate: true
+  xy: 660, 304
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/hair3
+  rotate: false
+  xy: 344, 162
+  size: 77, 117
+  orig: 77, 117
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/hair4
+  rotate: false
+  xy: 338, 50
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/hair5
+  rotate: true
+  xy: 448, 55
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/hair6
+  rotate: true
+  xy: 851, 279
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/hair7
+  rotate: true
+  xy: 584, 338
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/handinner
+  rotate: false
+  xy: 993, 169
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/handout
+  rotate: true
+  xy: 608, 3
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/handout2
+  rotate: false
+  xy: 827, 157
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/leginnerdown
+  rotate: false
+  xy: 643, 45
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/leginnerup
+  rotate: true
+  xy: 851, 250
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/legoutdown
+  rotate: false
+  xy: 696, 153
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/legoutup
+  rotate: true
+  xy: 899, 220
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/lingzi
+  rotate: true
+  xy: 482, 249
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/lingzi1
+  rotate: false
+  xy: 808, 460
+  size: 195, 50
+  orig: 195, 50
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/mouth01
+  rotate: true
+  xy: 564, 36
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/mouth02
+  rotate: true
+  xy: 785, 247
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/mouth04
+  rotate: false
+  xy: 450, 394
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng1
+  rotate: true
+  xy: 479, 335
+  size: 64, 103
+  orig: 64, 103
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng2
+  rotate: false
+  xy: 482, 182
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng3
+  rotate: false
+  xy: 457, 2
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng4
+  rotate: false
+  xy: 423, 167
+  size: 36, 112
+  orig: 36, 112
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng5
+  rotate: false
+  xy: 808, 319
+  size: 128, 89
+  orig: 128, 89
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng6
+  rotate: false
+  xy: 626, 209
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng7
+  rotate: false
+  xy: 644, 246
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/pifeng8
+  rotate: true
+  xy: 245, 41
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/weapon
+  rotate: false
+  xy: 236, 394
+  size: 212, 116
+  orig: 212, 116
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/xiongjia
+  rotate: true
+  xy: 762, 264
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/xiongjia1
+  rotate: false
+  xy: 341, 2
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/yaojia
+  rotate: true
+  xy: 702, 254
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/yaojia1
+  rotate: true
+  xy: 797, 247
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_Blademaster/LordOfCrimson_Blademaster_4/yaojia3
+  rotate: false
+  xy: 758, 208
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 584, 311
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

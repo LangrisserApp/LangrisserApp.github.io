@@ -1,0 +1,713 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Randele_Magic_2/armoutup
+  rotate: true
+  xy: 523, 32
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/body
+  rotate: true
+  xy: 598, 195
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/jianjiainner2
+  rotate: false
+  xy: 226, 116
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/pifengout
+  rotate: false
+  xy: 232, 411
+  size: 190, 99
+  orig: 190, 99
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/toushi1
+  rotate: true
+  xy: 244, 150
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/toushi2
+  rotate: false
+  xy: 2, 7
+  size: 124, 110
+  orig: 124, 110
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/toushi3
+  rotate: false
+  xy: 459, 32
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/weapon4
+  rotate: true
+  xy: 193, 6
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/yaojiainner1
+  rotate: false
+  xy: 866, 149
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/yaojiainner2
+  rotate: true
+  xy: 808, 88
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Randele_Magic_2/yaojiaout
+  rotate: false
+  xy: 128, 2
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/arminnerdown
+  rotate: true
+  xy: 591, 40
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/armoutdown
+  rotate: false
+  xy: 647, 143
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/body
+  rotate: false
+  xy: 260, 28
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/fx2
+  rotate: false
+  xy: 704, 45
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/fx3
+  rotate: true
+  xy: 755, 67
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/fx4
+  rotate: true
+  xy: 507, 6
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/fx5
+  rotate: true
+  xy: 425, 2
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/jianjiainner2
+  rotate: true
+  xy: 760, 165
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/jianjiainner3
+  rotate: true
+  xy: 661, 56
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/jianjiaout2
+  rotate: true
+  xy: 789, 66
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/jianjiaout3
+  rotate: true
+  xy: 760, 129
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/jianjiaout4
+  rotate: true
+  xy: 563, 35
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/jianjiaout4a
+  rotate: true
+  xy: 685, 48
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/jianjiaout5
+  rotate: true
+  xy: 441, 117
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/leginnerdown
+  rotate: true
+  xy: 780, 126
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/legoutdown
+  rotate: false
+  xy: 561, 80
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/pifengout
+  rotate: false
+  xy: 424, 411
+  size: 190, 99
+  orig: 190, 99
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/toushi1
+  rotate: false
+  xy: 666, 281
+  size: 106, 128
+  orig: 106, 128
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/toushi2
+  rotate: false
+  xy: 354, 262
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/toushi3
+  rotate: false
+  xy: 346, 111
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/weapon4
+  rotate: true
+  xy: 327, 33
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/yaojiainner1
+  rotate: true
+  xy: 924, 148
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+Randele_Magic_3/yaojiaout
+  rotate: false
+  xy: 936, 297
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/Shadow
+  rotate: true
+  xy: 993, 136
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/arminnerdown
+  rotate: true
+  xy: 613, 47
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/arminnerup
+  rotate: true
+  xy: 376, 2
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/armoutdown
+  rotate: true
+  xy: 685, 63
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/armoutup
+  rotate: true
+  xy: 564, 7
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/body
+  rotate: false
+  xy: 860, 217
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/erhuaninner
+  rotate: false
+  xy: 806, 68
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/erhuanout
+  rotate: false
+  xy: 809, 105
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/eyebrow
+  rotate: false
+  xy: 682, 174
+  size: 76, 18
+  orig: 76, 18
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/eyehard
+  rotate: true
+  xy: 395, 25
+  size: 84, 28
+  orig: 84, 28
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/eyehard03
+  rotate: false
+  xy: 598, 179
+  size: 82, 14
+  orig: 82, 14
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/eyehard1
+  rotate: false
+  xy: 780, 180
+  size: 84, 28
+  orig: 84, 28
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/eyehard2
+  rotate: false
+  xy: 260, 2
+  size: 84, 24
+  orig: 84, 24
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/eyesffuer
+  rotate: false
+  xy: 475, 138
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/eyeyun
+  rotate: true
+  xy: 425, 33
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/face
+  rotate: false
+  xy: 194, 263
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/fx1
+  rotate: true
+  xy: 523, 60
+  size: 76, 36
+  orig: 76, 36
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/fx2
+  rotate: false
+  xy: 597, 139
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/fx3
+  rotate: false
+  xy: 927, 212
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/fx4
+  rotate: true
+  xy: 774, 301
+  size: 85, 160
+  orig: 85, 160
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/fx6
+  rotate: false
+  xy: 597, 87
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/fx7
+  rotate: false
+  xy: 346, 153
+  size: 103, 46
+  orig: 103, 46
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/fx8
+  rotate: false
+  xy: 760, 105
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/glass2
+  rotate: true
+  xy: 721, 92
+  size: 11, 42
+  orig: 11, 42
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/glass3
+  rotate: false
+  xy: 604, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/glass4
+  rotate: false
+  xy: 244, 111
+  size: 99, 37
+  orig: 99, 37
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/hair1
+  rotate: true
+  xy: 808, 388
+  size: 122, 169
+  orig: 122, 169
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/hair2
+  rotate: false
+  xy: 2, 119
+  size: 132, 177
+  orig: 132, 177
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/hair3
+  rotate: true
+  xy: 475, 209
+  size: 51, 121
+  orig: 51, 121
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/hair4
+  rotate: true
+  xy: 346, 201
+  size: 59, 127
+  orig: 59, 127
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/hair5
+  rotate: true
+  xy: 475, 173
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/handinner
+  rotate: false
+  xy: 561, 183
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/handinner1
+  rotate: false
+  xy: 346, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/handinner2
+  rotate: false
+  xy: 979, 388
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/handout
+  rotate: true
+  xy: 733, 139
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/handout1
+  rotate: false
+  xy: 478, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/handout2
+  rotate: false
+  xy: 721, 105
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiainner1
+  rotate: false
+  xy: 774, 388
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiainner2
+  rotate: true
+  xy: 418, 111
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiainner3
+  rotate: true
+  xy: 635, 48
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiaout1
+  rotate: false
+  xy: 721, 64
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiaout2
+  rotate: false
+  xy: 226, 84
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiaout3
+  rotate: true
+  xy: 631, 88
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiaout4
+  rotate: false
+  xy: 780, 152
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/jianjiaout4a
+  rotate: true
+  xy: 661, 40
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/leginnerdown
+  rotate: false
+  xy: 659, 94
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/leginnerup
+  rotate: true
+  xy: 682, 145
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/legoutdown
+  rotate: true
+  xy: 136, 263
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/legoutup
+  rotate: false
+  xy: 685, 97
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/mouth01
+  rotate: false
+  xy: 740, 53
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/mouth02
+  rotate: true
+  xy: 666, 263
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/mouth03
+  rotate: false
+  xy: 721, 50
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/mouth04
+  rotate: true
+  xy: 128, 97
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/pifengout
+  rotate: false
+  xy: 616, 411
+  size: 190, 99
+  orig: 190, 99
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/toushi1
+  rotate: false
+  xy: 136, 133
+  size: 106, 128
+  orig: 106, 128
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/toushi2
+  rotate: false
+  xy: 510, 262
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/toushi3
+  rotate: false
+  xy: 136, 84
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/weapon1
+  rotate: false
+  xy: 2, 298
+  size: 190, 121
+  orig: 190, 121
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/weapon3_1
+  rotate: false
+  xy: 561, 131
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/weapon3_2
+  rotate: false
+  xy: 451, 148
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/weapon3_3
+  rotate: true
+  xy: 765, 89
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/weapon4
+  rotate: false
+  xy: 682, 194
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/weapon5
+  rotate: false
+  xy: 979, 429
+  size: 43, 81
+  orig: 43, 81
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/weapon6
+  rotate: false
+  xy: 2, 421
+  size: 228, 89
+  orig: 228, 89
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/yaojiainner1
+  rotate: false
+  xy: 459, 70
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/yaojiainner2
+  rotate: true
+  xy: 834, 153
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Randele_Magic_4/yaojiaout
+  rotate: false
+  xy: 780, 210
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1

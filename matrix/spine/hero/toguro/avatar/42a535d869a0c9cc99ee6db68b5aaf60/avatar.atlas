@@ -1,0 +1,223 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 233, 325
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_3/handinnerXX
+  rotate: true
+  xy: 360, 364
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/arminnerdown
+  rotate: false
+  xy: 473, 462
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/arminnerup
+  rotate: false
+  xy: 313, 434
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/armoutdown
+  rotate: true
+  xy: 307, 358
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/armoutdown1 
+  rotate: false
+  xy: 77, 124
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/armoutup
+  rotate: false
+  xy: 2, 160
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/body
+  rotate: false
+  xy: 116, 276
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/dang
+  rotate: true
+  xy: 64, 167
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/face
+  rotate: false
+  xy: 2, 246
+  size: 112, 153
+  orig: 112, 153
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/handinner
+  rotate: true
+  xy: 473, 420
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/handout
+  rotate: true
+  xy: 77, 86
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/handout1
+  rotate: false
+  xy: 425, 451
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/handout2
+  rotate: false
+  xy: 425, 410
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/handout3
+  rotate: true
+  xy: 260, 310
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/handout4
+  rotate: false
+  xy: 206, 243
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/leginnerdown
+  rotate: false
+  xy: 260, 356
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/leginnerup
+  rotate: false
+  xy: 2, 85
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/legoutdown
+  rotate: false
+  xy: 376, 447
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/legoutup
+  rotate: false
+  xy: 2, 27
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/mouth01
+  rotate: true
+  xy: 57, 63
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/mouth02
+  rotate: false
+  xy: 473, 410
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/mouth03
+  rotate: false
+  xy: 376, 438
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/mouth04
+  rotate: false
+  xy: 233, 316
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/texiao1
+  rotate: false
+  xy: 259, 409
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/texiao2
+  rotate: true
+  xy: 2, 2
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/texiao3
+  rotate: false
+  xy: 308, 312
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/texiao4
+  rotate: true
+  xy: 313, 404
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/weapon
+  rotate: false
+  xy: 2, 401
+  size: 255, 109
+  orig: 255, 109
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/weapon1
+  rotate: true
+  xy: 57, 85
+  size: 73, 18
+  orig: 73, 18
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_FusionedMonster/Toguro_FusionedMonster_4/yanjing
+  rotate: false
+  xy: 116, 247
+  size: 88, 27
+  orig: 88, 27
+  offset: 0, 0
+  index: -1

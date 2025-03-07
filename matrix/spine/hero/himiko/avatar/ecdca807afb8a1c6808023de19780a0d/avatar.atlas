@@ -1,0 +1,251 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/Shadow
+  rotate: false
+  xy: 2, 5
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/arminnerdown
+  rotate: true
+  xy: 482, 196
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/arminnerup
+  rotate: true
+  xy: 466, 228
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/armoutdown
+  rotate: true
+  xy: 482, 160
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/armoutup
+  rotate: true
+  xy: 398, 112
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/body
+  rotate: false
+  xy: 358, 148
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/dang
+  rotate: false
+  xy: 245, 100
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/eyebrow
+  rotate: false
+  xy: 246, 131
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/eyehard
+  rotate: true
+  xy: 98, 37
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/eyehard1
+  rotate: false
+  xy: 320, 117
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/eyehard2
+  rotate: true
+  xy: 458, 146
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/eyehard3
+  rotate: false
+  xy: 246, 142
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/eyesffuer
+  rotate: true
+  xy: 320, 148
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/eyeyun
+  rotate: true
+  xy: 422, 147
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/face
+  rotate: false
+  xy: 2, 115
+  size: 118, 139
+  orig: 118, 139
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/hair
+  rotate: true
+  xy: 190, 35
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/hair1
+  rotate: false
+  xy: 246, 157
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/hair2
+  rotate: false
+  xy: 129, 20
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/hair6
+  rotate: false
+  xy: 122, 135
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/handinner
+  rotate: true
+  xy: 283, 75
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/handout
+  rotate: true
+  xy: 245, 75
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/handout1
+  rotate: true
+  xy: 282, 48
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/jianjiainner
+  rotate: false
+  xy: 78, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/jianjiaout
+  rotate: false
+  xy: 98, 20
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/leginnerdown
+  rotate: false
+  xy: 246, 33
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/leginnerup
+  rotate: false
+  xy: 129, 71
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/legoutdown
+  rotate: true
+  xy: 190, 2
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/legoutup
+  rotate: true
+  xy: 188, 72
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/mouth01
+  rotate: false
+  xy: 102, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/mouth02
+  rotate: false
+  xy: 78, 15
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/mouth03
+  rotate: true
+  xy: 230, 14
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/mouth04
+  rotate: true
+  xy: 446, 126
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/toushi
+  rotate: false
+  xy: 2, 32
+  size: 94, 81
+  orig: 94, 81
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/weapon
+  rotate: false
+  xy: 246, 222
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_NinjaLeader/Himiko_NinjaLeader_2/weapon1
+  rotate: false
+  xy: 370, 221
+  size: 94, 33
+  orig: 94, 33
+  offset: 0, 0
+  index: -1

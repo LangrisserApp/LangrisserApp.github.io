@@ -1,0 +1,370 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Assassin_3/handinner3(1)
+  rotate: false
+  xy: 208, 16
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Assassin_3/mianju
+  rotate: false
+  xy: 130, 143
+  size: 129, 60
+  orig: 129, 60
+  offset: 0, 0
+  index: -1
+Assassin_3/pifeng1
+  rotate: true
+  xy: 128, 42
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+Assassin_3/pifeng2
+  rotate: false
+  xy: 312, 215
+  size: 52, 109
+  orig: 52, 109
+  offset: 0, 0
+  index: -1
+Assassin_3/pifeng3
+  rotate: false
+  xy: 139, 396
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+Assassin_3/weapon1
+  rotate: false
+  xy: 312, 184
+  size: 131, 29
+  orig: 131, 29
+  offset: 0, 0
+  index: -1
+Assassin_4/Shadow
+  rotate: true
+  xy: 408, 108
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Assassin_4/arminnerdown
+  rotate: true
+  xy: 411, 78
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Assassin_4/arminnerup
+  rotate: true
+  xy: 447, 240
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+Assassin_4/armoutdown
+  rotate: false
+  xy: 411, 44
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Assassin_4/armoutup
+  rotate: false
+  xy: 461, 282
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Assassin_4/body
+  rotate: false
+  xy: 234, 59
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+Assassin_4/eyebrow
+  rotate: true
+  xy: 435, 104
+  size: 78, 10
+  orig: 78, 10
+  offset: 0, 0
+  index: -1
+Assassin_4/eyehard
+  rotate: true
+  xy: 424, 328
+  size: 74, 19
+  orig: 74, 19
+  offset: 0, 0
+  index: -1
+Assassin_4/eyehard1
+  rotate: false
+  xy: 335, 80
+  size: 74, 19
+  orig: 74, 19
+  offset: 0, 0
+  index: -1
+Assassin_4/eyehard2
+  rotate: false
+  xy: 335, 61
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+Assassin_4/eyehard3
+  rotate: false
+  xy: 234, 47
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Assassin_4/eyesffuer
+  rotate: false
+  xy: 436, 405
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Assassin_4/eyeyun
+  rotate: false
+  xy: 261, 143
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Assassin_4/face
+  rotate: false
+  xy: 2, 180
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+Assassin_4/hair1
+  rotate: true
+  xy: 306, 42
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+Assassin_4/hair2
+  rotate: true
+  xy: 2, 5
+  size: 42, 119
+  orig: 42, 119
+  offset: 0, 0
+  index: -1
+Assassin_4/hair3
+  rotate: false
+  xy: 455, 436
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+Assassin_4/hair4
+  rotate: true
+  xy: 294, 326
+  size: 76, 128
+  orig: 76, 128
+  offset: 0, 0
+  index: -1
+Assassin_4/hair5
+  rotate: true
+  xy: 123, 3
+  size: 37, 83
+  orig: 37, 83
+  offset: 0, 0
+  index: -1
+Assassin_4/hair6
+  rotate: true
+  xy: 337, 130
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+Assassin_4/hair7
+  rotate: true
+  xy: 139, 316
+  size: 78, 153
+  orig: 78, 153
+  offset: 0, 0
+  index: -1
+Assassin_4/hair8
+  rotate: false
+  xy: 2, 324
+  size: 135, 186
+  orig: 135, 186
+  offset: 0, 0
+  index: -1
+Assassin_4/handinner
+  rotate: true
+  xy: 422, 12
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Assassin_4/handout
+  rotate: false
+  xy: 433, 79
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Assassin_4/jianjia1
+  rotate: false
+  xy: 419, 278
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Assassin_4/leginnerdown
+  rotate: false
+  xy: 419, 231
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Assassin_4/leginnerup
+  rotate: true
+  xy: 445, 319
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+Assassin_4/legoutdown
+  rotate: false
+  xy: 234, 2
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Assassin_4/legoutup
+  rotate: true
+  xy: 290, 5
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Assassin_4/mianju
+  rotate: false
+  xy: 282, 439
+  size: 171, 71
+  orig: 171, 71
+  offset: 0, 0
+  index: -1
+Assassin_4/mouth01
+  rotate: false
+  xy: 312, 176
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Assassin_4/mouth02
+  rotate: false
+  xy: 419, 319
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+Assassin_4/mouth03
+  rotate: false
+  xy: 294, 321
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Assassin_4/pifeng1
+  rotate: true
+  xy: 2, 49
+  size: 129, 124
+  orig: 129, 124
+  offset: 0, 0
+  index: -1
+Assassin_4/pifeng2
+  rotate: false
+  xy: 366, 215
+  size: 51, 109
+  orig: 51, 109
+  offset: 0, 0
+  index: -1
+Assassin_4/pifeng3
+  rotate: false
+  xy: 130, 205
+  size: 129, 109
+  orig: 129, 109
+  offset: 0, 0
+  index: -1
+Assassin_4/weapon1
+  rotate: true
+  xy: 261, 174
+  size: 140, 49
+  orig: 140, 49
+  offset: 0, 0
+  index: -1
+Assassin_4/weapon2
+  rotate: false
+  xy: 342, 2
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+Assassin_4/weapon3
+  rotate: true
+  xy: 265, 2
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+Assassin_4/weapon4
+  rotate: false
+  xy: 282, 404
+  size: 152, 33
+  orig: 152, 33
+  offset: 0, 0
+  index: -1
+Assassin_4/weapon5
+  rotate: false
+  xy: 472, 247
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Assassin_4/weapon6
+  rotate: true
+  xy: 445, 352
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Assassin_4/weijin1
+  rotate: true
+  xy: 299, 61
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+Assassin_4/weijin2
+  rotate: false
+  xy: 335, 101
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+Assassin_4/yaodai1
+  rotate: false
+  xy: 389, 2
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Assassin_4/yaodai2
+  rotate: false
+  xy: 359, 40
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1

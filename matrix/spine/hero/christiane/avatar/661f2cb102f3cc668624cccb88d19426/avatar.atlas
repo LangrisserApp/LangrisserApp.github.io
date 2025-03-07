@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Christiane/Marshal/Christiane_Marshal_3/arminnerdown
+  rotate: false
+  xy: 174, 120
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/arminnerup
+  rotate: true
+  xy: 110, 104
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/armoutdown
+  rotate: false
+  xy: 160, 39
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/armoutup
+  rotate: true
+  xy: 143, 106
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/body
+  rotate: false
+  xy: 228, 250
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/dang
+  rotate: true
+  xy: 145, 70
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/eyebrow
+  rotate: true
+  xy: 82, 2
+  size: 63, 12
+  orig: 63, 12
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/eyehard
+  rotate: true
+  xy: 137, 139
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/eyehard1
+  rotate: true
+  xy: 162, 147
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/eyehard2
+  rotate: true
+  xy: 188, 147
+  size: 71, 16
+  orig: 71, 16
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/eyehard3
+  rotate: true
+  xy: 206, 161
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/eyesffuer
+  rotate: true
+  xy: 478, 341
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/eyeyun
+  rotate: true
+  xy: 196, 227
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/face
+  rotate: false
+  xy: 2, 307
+  size: 118, 131
+  orig: 118, 131
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair1
+  rotate: false
+  xy: 2, 66
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair2
+  rotate: true
+  xy: 232, 363
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair3
+  rotate: true
+  xy: 396, 402
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair4
+  rotate: true
+  xy: 221, 315
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair5
+  rotate: false
+  xy: 105, 212
+  size: 40, 92
+  orig: 40, 92
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair6
+  rotate: true
+  xy: 396, 366
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair7
+  rotate: true
+  xy: 389, 441
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hair8
+  rotate: false
+  xy: 2, 196
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/handinner
+  rotate: false
+  xy: 174, 100
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/handout
+  rotate: false
+  xy: 160, 17
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hat
+  rotate: false
+  xy: 122, 365
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hat1
+  rotate: true
+  xy: 122, 306
+  size: 57, 97
+  orig: 57, 97
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/hat2
+  rotate: false
+  xy: 478, 421
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/jianjiainner3
+  rotate: false
+  xy: 77, 67
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/jianjiaout
+  rotate: false
+  xy: 329, 367
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/jianjiaout3
+  rotate: true
+  xy: 280, 220
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/leginnerdown
+  rotate: false
+  xy: 276, 171
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/leginnerup
+  rotate: false
+  xy: 119, 67
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/legoutdown
+  rotate: false
+  xy: 131, 17
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/legoutup
+  rotate: false
+  xy: 48, 66
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/mouth01
+  rotate: false
+  xy: 96, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/mouth02
+  rotate: false
+  xy: 173, 84
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/mouth04
+  rotate: false
+  xy: 206, 154
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/qunzi2
+  rotate: true
+  xy: 2, 2
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/qunzi3
+  rotate: false
+  xy: 147, 220
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/qunziinner
+  rotate: true
+  xy: 48, 104
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/weapon
+  rotate: false
+  xy: 2, 440
+  size: 385, 70
+  orig: 385, 70
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/yaojia1
+  rotate: true
+  xy: 227, 166
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/yaojia2
+  rotate: false
+  xy: 302, 178
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/yaojia3
+  rotate: false
+  xy: 282, 245
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/yaojia4
+  rotate: false
+  xy: 96, 11
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Christiane/Marshal/Christiane_Marshal_3/yaojia5
+  rotate: true
+  xy: 228, 223
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 110, 136
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

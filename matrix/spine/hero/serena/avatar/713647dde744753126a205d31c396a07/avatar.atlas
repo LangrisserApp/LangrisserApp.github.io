@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_backlegdown
+  rotate: false
+  xy: 466, 365
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_backlegup
+  rotate: false
+  xy: 2, 2
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_body
+  rotate: true
+  xy: 2, 90
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_frontlegdown
+  rotate: false
+  xy: 454, 314
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_frontlegup
+  rotate: false
+  xy: 193, 34
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_guajian1
+  rotate: false
+  xy: 488, 316
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_guajian2
+  rotate: false
+  xy: 268, 384
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_head
+  rotate: false
+  xy: 150, 241
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_mana
+  rotate: false
+  xy: 274, 293
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_neck
+  rotate: false
+  xy: 114, 27
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_neck1
+  rotate: false
+  xy: 366, 156
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_tuijia
+  rotate: true
+  xy: 274, 216
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_weiba
+  rotate: false
+  xy: 139, 106
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_xiongjia
+  rotate: true
+  xy: 279, 423
+  size: 87, 115
+  orig: 87, 115
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 365, 293
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 367
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/arminnerup
+  rotate: false
+  xy: 389, 145
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/armoutdown
+  rotate: true
+  xy: 114, 2
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/armoutup
+  rotate: false
+  xy: 366, 392
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/body
+  rotate: false
+  xy: 324, 35
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/eyebrow
+  rotate: true
+  xy: 503, 444
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/eyehard
+  rotate: false
+  xy: 159, 2
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/eyehard1
+  rotate: false
+  xy: 224, 2
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/eyehard2
+  rotate: true
+  xy: 377, 228
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/eyehard3
+  rotate: true
+  xy: 395, 231
+  size: 60, 11
+  orig: 60, 11
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/eyesffuer
+  rotate: true
+  xy: 361, 90
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/eyeyun
+  rotate: true
+  xy: 367, 24
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/face
+  rotate: true
+  xy: 396, 413
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/hair1
+  rotate: true
+  xy: 247, 53
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/hair2
+  rotate: false
+  xy: 97, 129
+  size: 40, 117
+  orig: 40, 117
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/hair3
+  rotate: true
+  xy: 139, 169
+  size: 70, 117
+  orig: 70, 117
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/hair4
+  rotate: false
+  xy: 64, 10
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/handinner
+  rotate: true
+  xy: 389, 174
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/hat
+  rotate: false
+  xy: 2, 248
+  size: 146, 117
+  orig: 146, 117
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/hatout
+  rotate: false
+  xy: 258, 156
+  size: 106, 58
+  orig: 106, 58
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/jianjiainner
+  rotate: true
+  xy: 418, 318
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/jianjiaout
+  rotate: false
+  xy: 396, 374
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/legoutdown
+  rotate: true
+  xy: 97, 107
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/legoutup
+  rotate: true
+  xy: 323, 6
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/mouth01
+  rotate: true
+  xy: 97, 90
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/mouth02
+  rotate: false
+  xy: 377, 216
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/mouth03
+  rotate: false
+  xy: 258, 230
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/mouth04
+  rotate: true
+  xy: 268, 367
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/qunzi
+  rotate: false
+  xy: 365, 320
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/weapon
+  rotate: false
+  xy: 2, 428
+  size: 275, 82
+  orig: 275, 82
+  offset: 0, 0
+  index: -1
+Serena/HighRider/Serena_HighRider_3/weapon1
+  rotate: false
+  xy: 253, 89
+  size: 106, 65
+  orig: 106, 65
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 247, 26
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

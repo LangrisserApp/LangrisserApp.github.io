@@ -1,0 +1,363 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackSword/jackSword_02/maozi
+  rotate: false
+  xy: 805, 388
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_02/weapon
+  rotate: false
+  xy: 368, 268
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_02/weapon1
+  rotate: false
+  xy: 480, 235
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_02/weixjin1
+  rotate: false
+  xy: 685, 300
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_02/weixjin2
+  rotate: false
+  xy: 346, 99
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_02/weixjin3
+  rotate: false
+  xy: 766, 278
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_02/weixjin4
+  rotate: true
+  xy: 587, 283
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_02/weixjin5
+  rotate: true
+  xy: 331, 192
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_03/mao
+  rotate: true
+  xy: 219, 273
+  size: 110, 147
+  orig: 110, 147
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_03/maozi
+  rotate: false
+  xy: 2, 179
+  size: 209, 159
+  orig: 209, 159
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_03/pifeng
+  rotate: false
+  xy: 443, 401
+  size: 188, 109
+  orig: 188, 109
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_03/weapon
+  rotate: false
+  xy: 234, 40
+  size: 110, 138
+  orig: 110, 138
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_03/weapon1
+  rotate: false
+  xy: 529, 235
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/Shadow
+  rotate: false
+  xy: 853, 276
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/arminnerdown
+  rotate: false
+  xy: 438, 135
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/arminnerup
+  rotate: false
+  xy: 529, 193
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/armoutdown
+  rotate: false
+  xy: 447, 17
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/armoutup
+  rotate: false
+  xy: 480, 193
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/body
+  rotate: true
+  xy: 346, 25
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/eyehard
+  rotate: false
+  xy: 480, 162
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/eyehard03
+  rotate: false
+  xy: 685, 286
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/eyehard1
+  rotate: false
+  xy: 522, 162
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/eyehard2
+  rotate: true
+  xy: 942, 346
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/eyesffuer
+  rotate: false
+  xy: 438, 100
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/eyeyun
+  rotate: true
+  xy: 447, 57
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/face
+  rotate: false
+  xy: 455, 278
+  size: 130, 121
+  orig: 130, 121
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/hand
+  rotate: false
+  xy: 731, 274
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/handinner
+  rotate: false
+  xy: 517, 127
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/handinner2
+  rotate: true
+  xy: 438, 171
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/handout
+  rotate: true
+  xy: 479, 130
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/huzii
+  rotate: false
+  xy: 234, 13
+  size: 106, 25
+  orig: 106, 25
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/leginner
+  rotate: false
+  xy: 942, 332
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/leginnerdown
+  rotate: true
+  xy: 478, 105
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/leginnerup
+  rotate: true
+  xy: 964, 371
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/legout
+  rotate: false
+  xy: 766, 391
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/legoutdowm
+  rotate: false
+  xy: 479, 74
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/legoutup
+  rotate: true
+  xy: 964, 318
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/mao
+  rotate: false
+  xy: 139, 11
+  size: 93, 166
+  orig: 93, 166
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/maozi
+  rotate: false
+  xy: 2, 340
+  size: 215, 170
+  orig: 215, 170
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/mouth01
+  rotate: false
+  xy: 510, 106
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/mouth02
+  rotate: false
+  xy: 378, 3
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/mouth04
+  rotate: false
+  xy: 342, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/pifeng
+  rotate: false
+  xy: 219, 385
+  size: 222, 125
+  orig: 222, 125
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/pifeng2
+  rotate: false
+  xy: 213, 180
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/pifeng3
+  rotate: false
+  xy: 633, 405
+  size: 170, 105
+  orig: 170, 105
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/weapon
+  rotate: false
+  xy: 2, 2
+  size: 135, 175
+  orig: 135, 175
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/weapon1
+  rotate: true
+  xy: 437, 206
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/weixjin
+  rotate: false
+  xy: 853, 303
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/weixjin1
+  rotate: true
+  xy: 964, 422
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/wibao
+  rotate: false
+  xy: 766, 327
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+jackSword/jackSword_04/wibao1
+  rotate: false
+  xy: 848, 344
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Omega/Omega_Assassin/Omega_Assassin2/mouth02
+  rotate: true
+  xy: 488, 294
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/mouth03
+  rotate: true
+  xy: 386, 32
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Omega/Omega_Assassin/Omega_Assassin2/mouth04
+  rotate: true
+  xy: 345, 169
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_3/jianjiaout
+  rotate: true
+  xy: 399, 87
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_3/pifeng
+  rotate: false
+  xy: 264, 76
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_3/weapon
+  rotate: false
+  xy: 2, 169
+  size: 137, 341
+  orig: 137, 341
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_3/weapon1
+  rotate: false
+  xy: 141, 167
+  size: 189, 21
+  orig: 189, 21
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/arminnerdown
+  rotate: true
+  xy: 78, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/arminnerup
+  rotate: false
+  xy: 363, 168
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/armoutdown
+  rotate: false
+  xy: 404, 54
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/armoutup
+  rotate: false
+  xy: 95, 29
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/body
+  rotate: false
+  xy: 409, 193
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/eyebrow
+  rotate: false
+  xy: 2, 14
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/eyehard
+  rotate: false
+  xy: 259, 2
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/eyehard1
+  rotate: false
+  xy: 324, 2
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/eyehard2
+  rotate: false
+  xy: 298, 190
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/eyesffuer
+  rotate: false
+  xy: 304, 51
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/eyeyun
+  rotate: false
+  xy: 298, 203
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/face
+  rotate: false
+  xy: 298, 338
+  size: 167, 172
+  orig: 167, 172
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/hair1
+  rotate: false
+  xy: 298, 233
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/hair2
+  rotate: true
+  xy: 138, 90
+  size: 75, 124
+  orig: 75, 124
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/handinner
+  rotate: true
+  xy: 466, 283
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/handout
+  rotate: false
+  xy: 357, 19
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/jianjiaout
+  rotate: true
+  xy: 366, 124
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/leginnerup
+  rotate: true
+  xy: 304, 19
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/legnnerdown
+  rotate: true
+  xy: 358, 204
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/legoutdown
+  rotate: false
+  xy: 366, 80
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/legoutup
+  rotate: false
+  xy: 259, 21
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/mouth01
+  rotate: true
+  xy: 332, 167
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/pifeng
+  rotate: false
+  xy: 409, 283
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/pifeng1
+  rotate: true
+  xy: 138, 11
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/pifeng2
+  rotate: true
+  xy: 2, 37
+  size: 29, 91
+  orig: 29, 91
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/pifeng3
+  rotate: false
+  xy: 2, 68
+  size: 134, 99
+  orig: 134, 99
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/weapon
+  rotate: false
+  xy: 141, 190
+  size: 155, 320
+  orig: 155, 320
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/weapon1
+  rotate: true
+  xy: 467, 314
+  size: 196, 38
+  orig: 196, 38
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/yaojiainner
+  rotate: true
+  xy: 106, 4
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Omega/Omega_Ranger/Omega_Ranger_4/yaojiaout
+  rotate: true
+  xy: 366, 51
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 232, 14
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

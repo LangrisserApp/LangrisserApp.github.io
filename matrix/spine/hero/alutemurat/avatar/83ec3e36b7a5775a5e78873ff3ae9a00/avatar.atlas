@@ -1,0 +1,321 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/body
+  rotate: false
+  xy: 219, 108
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/eyebrow
+  rotate: true
+  xy: 203, 51
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/eyehard
+  rotate: false
+  xy: 488, 212
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/eyehard1
+  rotate: false
+  xy: 271, 103
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/eyehard2
+  rotate: false
+  xy: 421, 188
+  size: 60, 13
+  orig: 60, 13
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/eyehard3
+  rotate: false
+  xy: 488, 195
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/eyesffuer
+  rotate: true
+  xy: 985, 283
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/eyeyun
+  rotate: false
+  xy: 421, 203
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/face
+  rotate: false
+  xy: 574, 210
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/hair1
+  rotate: true
+  xy: 463, 343
+  size: 73, 174
+  orig: 73, 174
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/hair2
+  rotate: true
+  xy: 266, 190
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/hair3
+  rotate: true
+  xy: 2, 9
+  size: 41, 104
+  orig: 41, 104
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/hairinner
+  rotate: true
+  xy: 876, 388
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/handinner
+  rotate: true
+  xy: 407, 160
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/handinner1
+  rotate: true
+  xy: 985, 350
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/handout
+  rotate: false
+  xy: 219, 56
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/handout1
+  rotate: false
+  xy: 463, 432
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/jianjiainner
+  rotate: false
+  xy: 363, 193
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/jianjiaout
+  rotate: false
+  xy: 108, 2
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/legoutdown
+  rotate: false
+  xy: 178, 13
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/legoutup
+  rotate: false
+  xy: 339, 148
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/mouth01
+  rotate: true
+  xy: 870, 367
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/mouth02
+  rotate: true
+  xy: 1013, 332
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_HawkKnight/Alutemurat_HawkKnight_1/yaojia
+  rotate: false
+  xy: 367, 156
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_body
+  rotate: false
+  xy: 276, 362
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_head
+  rotate: false
+  xy: 880, 184
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_leginner1
+  rotate: true
+  xy: 810, 348
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout1
+  rotate: false
+  xy: 134, 118
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout2
+  rotate: false
+  xy: 134, 50
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_neck
+  rotate: false
+  xy: 880, 276
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_weiba
+  rotate: true
+  xy: 792, 203
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner3
+  rotate: true
+  xy: 429, 230
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner4
+  rotate: false
+  xy: 688, 204
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout1
+  rotate: false
+  xy: 2, 52
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout3
+  rotate: false
+  xy: 276, 233
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout4
+  rotate: true
+  xy: 146, 245
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: false
+  xy: 271, 148
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingdown
+  rotate: true
+  xy: 688, 417
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/eagle/winginnerup
+  rotate: true
+  xy: 496, 418
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingout2
+  rotate: false
+  xy: 2, 230
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 271, 121
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 2, 406
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/weapon
+  rotate: false
+  xy: 2, 467
+  size: 492, 43
+  orig: 492, 43
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/weapon_Ribbon1
+  rotate: false
+  xy: 146, 183
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/weapon_Ribbon2
+  rotate: false
+  xy: 639, 345
+  size: 169, 70
+  orig: 169, 70
+  offset: 0, 0
+  index: -1

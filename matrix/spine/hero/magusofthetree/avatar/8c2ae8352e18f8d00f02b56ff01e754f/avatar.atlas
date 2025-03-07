@@ -1,0 +1,496 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/Shadow
+  rotate: true
+  xy: 968, 358
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/arminnerdown
+  rotate: false
+  xy: 369, 189
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/arminnerup
+  rotate: true
+  xy: 335, 20
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/armoutdown
+  rotate: true
+  xy: 426, 254
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/armoutup
+  rotate: true
+  xy: 285, 188
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/body
+  rotate: true
+  xy: 388, 297
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/dang
+  rotate: false
+  xy: 511, 250
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/eyebrow
+  rotate: false
+  xy: 696, 301
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/eyehard
+  rotate: true
+  xy: 953, 275
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/eyehard1
+  rotate: false
+  xy: 565, 282
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/eyehard2
+  rotate: true
+  xy: 335, 117
+  size: 69, 13
+  orig: 69, 13
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/eyehard3
+  rotate: true
+  xy: 285, 274
+  size: 69, 7
+  orig: 69, 7
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/eyesffuer
+  rotate: false
+  xy: 294, 271
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/eyeyun
+  rotate: true
+  xy: 995, 402
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/face
+  rotate: false
+  xy: 2, 30
+  size: 127, 156
+  orig: 127, 156
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/hair1
+  rotate: true
+  xy: 294, 298
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/hair2
+  rotate: true
+  xy: 858, 434
+  size: 76, 132
+  orig: 76, 132
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/hair3
+  rotate: false
+  xy: 131, 56
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/hair4
+  rotate: false
+  xy: 807, 297
+  size: 49, 105
+  orig: 49, 105
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/hair5
+  rotate: false
+  xy: 233, 78
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/hair6
+  rotate: false
+  xy: 565, 366
+  size: 130, 144
+  orig: 130, 144
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/handinner
+  rotate: true
+  xy: 670, 236
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/handinner2
+  rotate: false
+  xy: 350, 128
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/handout
+  rotate: true
+  xy: 342, 188
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/leginnerdown
+  rotate: true
+  xy: 196, 30
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/leginnerup
+  rotate: true
+  xy: 704, 261
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/legoutdown
+  rotate: false
+  xy: 413, 204
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/legoutup
+  rotate: true
+  xy: 278, 33
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/mouth01
+  rotate: false
+  xy: 995, 358
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/mouth02
+  rotate: false
+  xy: 619, 271
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/mouth03
+  rotate: true
+  xy: 403, 198
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/mouth04
+  rotate: true
+  xy: 233, 59
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/pifeng1
+  rotate: true
+  xy: 527, 290
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/pifeng2
+  rotate: false
+  xy: 858, 275
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/pufeng4
+  rotate: true
+  xy: 992, 475
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/texiao
+  rotate: false
+  xy: 458, 293
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/weapon
+  rotate: false
+  xy: 294, 360
+  size: 269, 150
+  orig: 269, 150
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/xiabai
+  rotate: true
+  xy: 69, 2
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/yaodai
+  rotate: false
+  xy: 131, 30
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_2/MagusOfTheTree_Wizard_2/yaodai2
+  rotate: false
+  xy: 132, 2
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/arminnerdown
+  rotate: true
+  xy: 350, 154
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/armoutdown
+  rotate: false
+  xy: 446, 226
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/armoutup
+  rotate: false
+  xy: 286, 131
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/body
+  rotate: false
+  xy: 565, 301
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/dang
+  rotate: false
+  xy: 972, 319
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/jianjia
+  rotate: false
+  xy: 619, 236
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/jianjia1
+  rotate: true
+  xy: 284, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/jianjia2
+  rotate: false
+  xy: 704, 226
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/leginnerdown
+  rotate: true
+  xy: 190, 2
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/leginnerup
+  rotate: false
+  xy: 335, 58
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/legoutdown
+  rotate: true
+  xy: 972, 284
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/legoutup
+  rotate: true
+  xy: 355, 217
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/pifeng2
+  rotate: true
+  xy: 697, 317
+  size: 85, 108
+  orig: 85, 108
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/pifeng3
+  rotate: false
+  xy: 697, 404
+  size: 159, 106
+  orig: 159, 106
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/weapon
+  rotate: false
+  xy: 2, 188
+  size: 281, 155
+  orig: 281, 155
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_3/MagusOfTheTree_Wizard_3/xiabai
+  rotate: true
+  xy: 2, 2
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/arminnerdown
+  rotate: true
+  xy: 995, 368
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/armoutdown
+  rotate: true
+  xy: 238, 30
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/armoutup
+  rotate: false
+  xy: 286, 74
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/body
+  rotate: false
+  xy: 631, 301
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/jianjia
+  rotate: false
+  xy: 564, 245
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/jianjia1
+  rotate: false
+  xy: 446, 200
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/leginnerdown
+  rotate: true
+  xy: 237, 2
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/leginnerup
+  rotate: true
+  xy: 367, 257
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/legoutdown
+  rotate: true
+  xy: 972, 250
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/legoutup
+  rotate: true
+  xy: 453, 253
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/pifeng1
+  rotate: false
+  xy: 285, 234
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/pifeng2
+  rotate: true
+  xy: 858, 346
+  size: 86, 108
+  orig: 86, 108
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/weapon
+  rotate: false
+  xy: 2, 345
+  size: 290, 165
+  orig: 290, 165
+  offset: 0, 0
+  index: -1
+MagusOfTheTree/MagusOfTheTree_Wizard/MagusOfTheTree_Wizard_4/MagusOfTheTree_Wizard_4/xiabai
+  rotate: true
+  xy: 636, 271
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1

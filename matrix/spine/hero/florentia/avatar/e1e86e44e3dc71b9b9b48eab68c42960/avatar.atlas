@@ -1,0 +1,356 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/arminnerdown
+  rotate: true
+  xy: 283, 6
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/arminnerup
+  rotate: false
+  xy: 217, 2
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/armoutdown
+  rotate: true
+  xy: 491, 335
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/armoutup
+  rotate: false
+  xy: 444, 209
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/body
+  rotate: false
+  xy: 338, 223
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/daizi
+  rotate: true
+  xy: 383, 93
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/dang
+  rotate: false
+  xy: 441, 175
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/eyebrow
+  rotate: true
+  xy: 394, 231
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/eyehard
+  rotate: false
+  xy: 2, 5
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/eyehard01
+  rotate: false
+  xy: 136, 43
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/eyehard02
+  rotate: false
+  xy: 136, 18
+  size: 79, 23
+  orig: 79, 23
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/eyehard3
+  rotate: true
+  xy: 394, 163
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/eyesffuer
+  rotate: true
+  xy: 286, 83
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/eyeyun
+  rotate: true
+  xy: 457, 294
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/face
+  rotate: false
+  xy: 2, 87
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/hair1
+  rotate: false
+  xy: 345, 139
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/hair2
+  rotate: false
+  xy: 404, 250
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/hair3
+  rotate: true
+  xy: 300, 383
+  size: 127, 159
+  orig: 127, 159
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/handinner
+  rotate: false
+  xy: 482, 161
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/handout
+  rotate: false
+  xy: 482, 181
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/jianjiainner
+  rotate: true
+  xy: 411, 102
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/jianjiaout
+  rotate: false
+  xy: 461, 415
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/leginnerdown
+  rotate: true
+  xy: 394, 139
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/leginnerup
+  rotate: false
+  xy: 447, 246
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/legoutdown
+  rotate: false
+  xy: 482, 204
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/legoutup
+  rotate: true
+  xy: 323, 92
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/mouth01
+  rotate: true
+  xy: 300, 365
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/mouth02
+  rotate: false
+  xy: 323, 143
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/mouth03
+  rotate: true
+  xy: 276, 140
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/mouth04
+  rotate: true
+  xy: 485, 277
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/pifeng1
+  rotate: false
+  xy: 228, 135
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/pifeng2
+  rotate: true
+  xy: 255, 223
+  size: 140, 81
+  orig: 140, 81
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/qunzi
+  rotate: false
+  xy: 97, 16
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/texiao
+  rotate: false
+  xy: 276, 156
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/toushi
+  rotate: false
+  xy: 228, 65
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/weapon
+  rotate: false
+  xy: 2, 228
+  size: 251, 135
+  orig: 251, 135
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/weapon1
+  rotate: false
+  xy: 338, 299
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/xiabai
+  rotate: true
+  xy: 461, 450
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_03/xiabai1
+  rotate: true
+  xy: 252, 2
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/arminerdown
+  rotate: true
+  xy: 485, 246
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/armoutdown
+  rotate: true
+  xy: 491, 303
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/jianjiainner
+  rotate: false
+  xy: 407, 209
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/jianjiaout
+  rotate: false
+  xy: 461, 367
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/pifeng1
+  rotate: true
+  xy: 2, 35
+  size: 50, 93
+  orig: 50, 93
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/pifeng2
+  rotate: true
+  xy: 136, 73
+  size: 153, 90
+  orig: 153, 90
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/toushi
+  rotate: false
+  xy: 398, 302
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/weapon
+  rotate: false
+  xy: 2, 365
+  size: 296, 145
+  orig: 296, 145
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/yaojia
+  rotate: false
+  xy: 407, 165
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Chancellor/Florentia_Chancellor_04/yaoshi
+  rotate: false
+  xy: 491, 277
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 220, 38
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,412 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/arminnerup
+  rotate: false
+  xy: 833, 815
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/armoutdown
+  rotate: false
+  xy: 798, 814
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/armoutup
+  rotate: true
+  xy: 983, 893
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/body
+  rotate: false
+  xy: 642, 708
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/eyebrow
+  rotate: false
+  xy: 392, 591
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/eyehard
+  rotate: false
+  xy: 793, 853
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/eyehard1
+  rotate: false
+  xy: 520, 673
+  size: 81, 23
+  orig: 81, 23
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/eyehard2
+  rotate: false
+  xy: 392, 661
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/eyehard3
+  rotate: false
+  xy: 392, 607
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/eyesffuer
+  rotate: true
+  xy: 317, 429
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/eyeyun
+  rotate: true
+  xy: 355, 614
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/face
+  rotate: false
+  xy: 793, 879
+  size: 127, 143
+  orig: 127, 143
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/hair1
+  rotate: false
+  xy: 983, 929
+  size: 36, 93
+  orig: 36, 93
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/hair2
+  rotate: true
+  xy: 237, 501
+  size: 54, 119
+  orig: 54, 119
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/hair3
+  rotate: true
+  xy: 63, 86
+  size: 180, 135
+  orig: 180, 135
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/handinner
+  rotate: true
+  xy: 767, 800
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/handout
+  rotate: false
+  xy: 602, 643
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/handout1
+  rotate: false
+  xy: 677, 683
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/hongguang
+  rotate: false
+  xy: 704, 689
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_backlegdown
+  rotate: false
+  xy: 355, 565
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_backlegup
+  rotate: false
+  xy: 708, 708
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_body
+  rotate: false
+  xy: 251, 692
+  size: 154, 101
+  orig: 154, 101
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_frontlegdown
+  rotate: true
+  xy: 520, 639
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_frontlegup
+  rotate: true
+  xy: 200, 84
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_guajian1
+  rotate: true
+  xy: 280, 320
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_guajian2
+  rotate: false
+  xy: 662, 794
+  size: 103, 51
+  orig: 103, 51
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_head
+  rotate: false
+  xy: 237, 557
+  size: 116, 133
+  orig: 116, 133
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_mana
+  rotate: false
+  xy: 407, 687
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_neck
+  rotate: false
+  xy: 206, 317
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_tuijia
+  rotate: false
+  xy: 200, 132
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_weiba
+  rotate: true
+  xy: 520, 698
+  size: 104, 120
+  orig: 104, 120
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/horse_xiongjia
+  rotate: false
+  xy: 206, 421
+  size: 109, 78
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/jianguang
+  rotate: false
+  xy: 662, 847
+  size: 129, 175
+  orig: 129, 175
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/jianjiainner1
+  rotate: true
+  xy: 436, 566
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/jianjiainner2
+  rotate: false
+  xy: 281, 273
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/jianjiaout
+  rotate: false
+  xy: 200, 194
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/jianjiaout1
+  rotate: false
+  xy: 572, 635
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/jianjiaout3
+  rotate: false
+  xy: 642, 683
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/legoutdown
+  rotate: true
+  xy: 876, 852
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/legoutup
+  rotate: true
+  xy: 922, 850
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/mouth01
+  rotate: false
+  xy: 355, 557
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/mouth02
+  rotate: false
+  xy: 117, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/mouth03
+  rotate: true
+  xy: 237, 744
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/mouth04
+  rotate: false
+  xy: 317, 421
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/pifeng
+  rotate: false
+  xy: 206, 261
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/pifeng1
+  rotate: false
+  xy: 63, 19
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/pifeng2
+  rotate: false
+  xy: 603, 670
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/pifeng3
+  rotate: true
+  xy: 922, 882
+  size: 140, 59
+  orig: 140, 59
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/texiao1
+  rotate: false
+  xy: 2, 268
+  size: 202, 233
+  orig: 202, 233
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/texiao2
+  rotate: false
+  xy: 2, 503
+  size: 233, 258
+  orig: 233, 258
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/texiao3
+  rotate: false
+  xy: 2, 763
+  size: 247, 259
+  orig: 247, 259
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/texiao4
+  rotate: false
+  xy: 251, 795
+  size: 257, 227
+  orig: 257, 227
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/weapon
+  rotate: false
+  xy: 510, 804
+  size: 150, 218
+  orig: 150, 218
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/xiongshi
+  rotate: false
+  xy: 392, 564
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/yaodai
+  rotate: false
+  xy: 63, 2
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_Knight/Ashram_RoyalKnight_4/yaojiaout
+  rotate: true
+  xy: 475, 639
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: true
+  xy: 2, 2
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 392, 634
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

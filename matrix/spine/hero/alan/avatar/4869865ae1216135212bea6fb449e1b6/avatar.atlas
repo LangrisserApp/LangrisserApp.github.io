@@ -1,0 +1,370 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alan/Alan_Sword/Alan_Fighter_1/jianjiainner
+  rotate: false
+  xy: 149, 160
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Fighter_1/jianjiaout
+  rotate: true
+  xy: 227, 313
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/arm_inner
+  rotate: false
+  xy: 382, 305
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/arm_out
+  rotate: false
+  xy: 406, 305
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/body
+  rotate: false
+  xy: 452, 439
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/hudang
+  rotate: true
+  xy: 332, 307
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/jianjiainner
+  rotate: true
+  xy: 332, 346
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/jianjiaout
+  rotate: false
+  xy: 328, 398
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/leginnerdown
+  rotate: true
+  xy: 447, 381
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/legoutdown
+  rotate: true
+  xy: 441, 347
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/yaojiainner
+  rotate: false
+  xy: 486, 349
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Alan/Alan_Sword/Alan_Swordman_2/yaojiaout
+  rotate: false
+  xy: 446, 307
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Alan/eyebrow
+  rotate: true
+  xy: 96, 215
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Alan/eyehard
+  rotate: true
+  xy: 426, 389
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Alan/eyehard1
+  rotate: true
+  xy: 99, 96
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Alan/eyehard2
+  rotate: true
+  xy: 120, 96
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Alan/eyehard3
+  rotate: true
+  xy: 128, 32
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Alan/eyesffuer
+  rotate: true
+  xy: 47, 2
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Alan/eyeyun
+  rotate: true
+  xy: 82, 2
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Alan/face
+  rotate: false
+  xy: 2, 298
+  size: 128, 151
+  orig: 128, 151
+  offset: 0, 0
+  index: -1
+Alan/hair1
+  rotate: false
+  xy: 447, 412
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Alan/hair2
+  rotate: false
+  xy: 47, 84
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+Alan/huzi
+  rotate: true
+  xy: 212, 274
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/arm_inner
+  rotate: true
+  xy: 170, 46
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/arm_out
+  rotate: true
+  xy: 176, 70
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/arm_out1
+  rotate: false
+  xy: 176, 109
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/body
+  rotate: true
+  xy: 117, 223
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/hand_inner
+  rotate: false
+  xy: 187, 279
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/hand_out
+  rotate: false
+  xy: 227, 272
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/handinner1
+  rotate: false
+  xy: 254, 273
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/hudang
+  rotate: false
+  xy: 138, 112
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/leginnerdown
+  rotate: false
+  xy: 377, 346
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/leginnerup
+  rotate: false
+  xy: 382, 400
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/legoutdown
+  rotate: false
+  xy: 137, 31
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/legoutup
+  rotate: false
+  xy: 406, 341
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon
+  rotate: true
+  xy: 187, 307
+  size: 142, 38
+  orig: 142, 38
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon1
+  rotate: true
+  xy: 96, 162
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon2
+  rotate: false
+  xy: 117, 202
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon_1
+  rotate: false
+  xy: 2, 10
+  size: 43, 150
+  orig: 43, 150
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon_2
+  rotate: false
+  xy: 227, 297
+  size: 72, 14
+  orig: 72, 14
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/weapon_3
+  rotate: false
+  xy: 116, 27
+  size: 10, 67
+  orig: 10, 67
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/yaojiainner
+  rotate: true
+  xy: 116, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/yaojiaout
+  rotate: false
+  xy: 138, 74
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/pifenginner
+  rotate: true
+  xy: 2, 162
+  size: 134, 92
+  orig: 134, 92
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/pifengout1
+  rotate: false
+  xy: 227, 364
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/pifengout2
+  rotate: false
+  xy: 276, 313
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/weapon
+  rotate: true
+  xy: 132, 278
+  size: 171, 53
+  orig: 171, 53
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/weapon1
+  rotate: false
+  xy: 276, 387
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/weapon_1
+  rotate: true
+  xy: 268, 455
+  size: 55, 182
+  orig: 55, 182
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_2/weapon_2
+  rotate: true
+  xy: 259, 364
+  size: 85, 15
+  orig: 85, 15
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 305, 311
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

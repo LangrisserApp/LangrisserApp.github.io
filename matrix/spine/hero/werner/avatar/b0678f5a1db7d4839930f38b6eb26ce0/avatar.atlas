@@ -1,0 +1,307 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pike
+  rotate: false
+  xy: 2, 457
+  size: 264, 53
+  orig: 264, 53
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 278, 431
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/arminnerdown
+  rotate: true
+  xy: 201, 353
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/arminnerup
+  rotate: false
+  xy: 150, 28
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/armoutdown
+  rotate: false
+  xy: 319, 355
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/armoutup
+  rotate: true
+  xy: 278, 354
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/body
+  rotate: false
+  xy: 74, 228
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/eyebrow
+  rotate: true
+  xy: 59, 50
+  size: 90, 18
+  orig: 90, 18
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/eyehard
+  rotate: true
+  xy: 255, 378
+  size: 77, 21
+  orig: 77, 21
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/eyehard1
+  rotate: false
+  xy: 278, 408
+  size: 77, 21
+  orig: 77, 21
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/eyehard2
+  rotate: false
+  xy: 278, 388
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/eyehard3
+  rotate: false
+  xy: 79, 61
+  size: 66, 6
+  orig: 66, 6
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/eyesffuer
+  rotate: true
+  xy: 79, 69
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/eyeyun
+  rotate: true
+  xy: 113, 69
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/face
+  rotate: false
+  xy: 2, 314
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hair1
+  rotate: false
+  xy: 59, 2
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hair2
+  rotate: false
+  xy: 201, 379
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hair3
+  rotate: false
+  xy: 2, 47
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hair4
+  rotate: false
+  xy: 145, 353
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hair5
+  rotate: true
+  xy: 145, 313
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hair6
+  rotate: false
+  xy: 257, 342
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hairinner
+  rotate: true
+  xy: 2, 3
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/handinner
+  rotate: true
+  xy: 354, 433
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/handout
+  rotate: false
+  xy: 257, 314
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/handout1
+  rotate: false
+  xy: 138, 161
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/hudang
+  rotate: false
+  xy: 147, 71
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/jianjiainner
+  rotate: true
+  xy: 186, 259
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/jianjiaout
+  rotate: true
+  xy: 459, 443
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/leginnerdown
+  rotate: false
+  xy: 147, 115
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/leginnerup
+  rotate: false
+  xy: 138, 190
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/legoutdown
+  rotate: false
+  xy: 218, 264
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/legoutup
+  rotate: true
+  xy: 209, 314
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/mouth01
+  rotate: false
+  xy: 252, 264
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/mouth02
+  rotate: true
+  xy: 239, 357
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/mouth04
+  rotate: false
+  xy: 79, 54
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/weapon
+  rotate: true
+  xy: 2, 142
+  size: 170, 70
+  orig: 170, 70
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/weapon1
+  rotate: false
+  xy: 377, 459
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/xiabaiinner
+  rotate: false
+  xy: 131, 255
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/xiabaiinner1
+  rotate: false
+  xy: 268, 458
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/xiabaiout
+  rotate: true
+  xy: 74, 161
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/yaodai
+  rotate: false
+  xy: 131, 233
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/yaojiainner
+  rotate: false
+  xy: 252, 281
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Werner/SwordMaster/Werner_SwordMaster_03/yaojiaout
+  rotate: true
+  xy: 109, 12
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1

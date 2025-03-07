@@ -1,0 +1,258 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Joshua/Ninjia/Joshua_Shadow_2/arminnerdown
+  rotate: false
+  xy: 379, 109
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/arminnerup
+  rotate: true
+  xy: 327, 6
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/armoutdown
+  rotate: true
+  xy: 363, 72
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/armoutup
+  rotate: false
+  xy: 473, 113
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/body
+  rotate: false
+  xy: 411, 127
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/eyebrow
+  rotate: false
+  xy: 2, 12
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/eyehard
+  rotate: true
+  xy: 250, 3
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/eyehard1
+  rotate: true
+  xy: 270, 3
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/eyehard2
+  rotate: false
+  xy: 399, 93
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/eyesffuer
+  rotate: false
+  xy: 301, 103
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/eyeyun
+  rotate: false
+  xy: 285, 75
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/face
+  rotate: false
+  xy: 2, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/hair1
+  rotate: false
+  xy: 473, 151
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/hair2
+  rotate: true
+  xy: 411, 107
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/hair3
+  rotate: true
+  xy: 307, 131
+  size: 71, 102
+  orig: 71, 102
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/hairback
+  rotate: false
+  xy: 129, 70
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/handinner
+  rotate: true
+  xy: 80, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/handout
+  rotate: false
+  xy: 399, 70
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/leginnerdown
+  rotate: true
+  xy: 361, 38
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/leginnerup
+  rotate: true
+  xy: 290, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/legoutdown
+  rotate: true
+  xy: 362, 4
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/legoutup
+  rotate: true
+  xy: 467, 84
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/mouth01
+  rotate: true
+  xy: 285, 105
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/mouth02
+  rotate: true
+  xy: 461, 209
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/mouth04
+  rotate: true
+  xy: 301, 181
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/shipin
+  rotate: false
+  xy: 461, 224
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/weapon
+  rotate: false
+  xy: 154, 203
+  size: 151, 51
+  orig: 151, 51
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/weapon1
+  rotate: false
+  xy: 2, 28
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_2/weijin
+  rotate: false
+  xy: 290, 35
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_3/pifeng1
+  rotate: false
+  xy: 154, 70
+  size: 129, 55
+  orig: 129, 55
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_3/pifeng2
+  rotate: false
+  xy: 129, 3
+  size: 119, 65
+  orig: 119, 65
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_3/weapon
+  rotate: false
+  xy: 307, 204
+  size: 152, 50
+  orig: 152, 50
+  offset: 0, 0
+  index: -1
+Joshua/Ninjia/Joshua_Shadow_3/weapon1
+  rotate: false
+  xy: 154, 127
+  size: 118, 74
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 274, 127
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/dd
+  rotate: false
+  xy: 467, 121
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

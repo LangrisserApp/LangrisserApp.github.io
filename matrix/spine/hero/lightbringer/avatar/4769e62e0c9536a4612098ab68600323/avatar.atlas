@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lightbringer/Healer/Lingtbringer_Healer_2/arminnerdown
+  rotate: true
+  xy: 308, 221
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/arminnerup
+  rotate: false
+  xy: 283, 373
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/armoutdown
+  rotate: true
+  xy: 228, 253
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/armoutup
+  rotate: false
+  xy: 264, 333
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/body
+  rotate: true
+  xy: 122, 383
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/eyebrow
+  rotate: false
+  xy: 563, 815
+  size: 71, 6
+  orig: 71, 6
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/eyehard
+  rotate: true
+  xy: 353, 540
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/eyehard1
+  rotate: false
+  xy: 660, 811
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/eyehard2
+  rotate: true
+  xy: 340, 459
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/eyehard3
+  rotate: false
+  xy: 445, 567
+  size: 62, 6
+  orig: 62, 6
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/eyesffuer
+  rotate: false
+  xy: 847, 867
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/eyeyun
+  rotate: false
+  xy: 758, 840
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/face
+  rotate: false
+  xy: 288, 667
+  size: 131, 142
+  orig: 131, 142
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/hair
+  rotate: true
+  xy: 288, 616
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/hair1
+  rotate: false
+  xy: 260, 390
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/hair2
+  rotate: true
+  xy: 660, 837
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/hair3
+  rotate: false
+  xy: 522, 813
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/hair4
+  rotate: true
+  xy: 456, 623
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/hair5
+  rotate: false
+  xy: 228, 287
+  size: 34, 94
+  orig: 34, 94
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/hairinner
+  rotate: true
+  xy: 122, 445
+  size: 195, 155
+  orig: 195, 155
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/handinner
+  rotate: true
+  xy: 429, 472
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/handout
+  rotate: false
+  xy: 736, 812
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/handout1
+  rotate: false
+  xy: 761, 815
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/leginnerdown
+  rotate: false
+  xy: 513, 578
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/leginnerup
+  rotate: false
+  xy: 308, 253
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/legoutdown
+  rotate: true
+  xy: 920, 861
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/legoutup
+  rotate: false
+  xy: 233, 205
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/mouth01
+  rotate: true
+  xy: 194, 28
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/mouth02
+  rotate: false
+  xy: 116, 166
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/mouth04
+  rotate: true
+  xy: 279, 620
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/qunzi
+  rotate: false
+  xy: 967, 857
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/texiao
+  rotate: false
+  xy: 379, 558
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/toushi
+  rotate: true
+  xy: 305, 333
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/weapon
+  rotate: true
+  xy: 304, 811
+  size: 92, 216
+  orig: 92, 216
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/weapon1
+  rotate: false
+  xy: 145, 251
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/weapon2
+  rotate: false
+  xy: 201, 49
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/xiabaiinner
+  rotate: true
+  xy: 379, 507
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/xiabaiinner1
+  rotate: false
+  xy: 201, 2
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_2/xiabaiout
+  rotate: true
+  xy: 199, 383
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/huan
+  rotate: true
+  xy: 2, 176
+  size: 205, 141
+  orig: 205, 141
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/huan1
+  rotate: false
+  xy: 568, 887
+  size: 201, 135
+  orig: 201, 135
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/jianjiainner
+  rotate: false
+  xy: 264, 221
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/jianjiaout
+  rotate: false
+  xy: 283, 413
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/weapon
+  rotate: false
+  xy: 2, 383
+  size: 118, 257
+  orig: 118, 257
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/xiabaiinner
+  rotate: false
+  xy: 967, 947
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/xiabaiinner1
+  rotate: false
+  xy: 563, 823
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_3/xiabaiout
+  rotate: false
+  xy: 279, 535
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/dang
+  rotate: true
+  xy: 116, 2
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/huan
+  rotate: false
+  xy: 2, 820
+  size: 300, 202
+  orig: 300, 202
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/huan1
+  rotate: false
+  xy: 2, 642
+  size: 284, 176
+  orig: 284, 176
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/jianjiainner
+  rotate: true
+  xy: 302, 291
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/jianjiaout
+  rotate: false
+  xy: 365, 464
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/p1
+  rotate: false
+  xy: 145, 166
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/p2
+  rotate: true
+  xy: 372, 624
+  size: 41, 82
+  orig: 41, 82
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/pijianout
+  rotate: false
+  xy: 967, 894
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/pijianout1
+  rotate: false
+  xy: 445, 575
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/toushi1
+  rotate: true
+  xy: 279, 454
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/weapon
+  rotate: true
+  xy: 304, 905
+  size: 117, 262
+  orig: 117, 262
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/xiongdai
+  rotate: true
+  xy: 831, 843
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/xiongshi
+  rotate: true
+  xy: 233, 166
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/xiongshi1
+  rotate: true
+  xy: 264, 209
+  size: 10, 44
+  orig: 10, 44
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/yaojiainner
+  rotate: false
+  xy: 264, 291
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Lightbringer/Healer/Lingtbringer_Healer_4/yaojiaout
+  rotate: false
+  xy: 266, 253
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+Lightbringer/Shadow
+  rotate: false
+  xy: 771, 872
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/weapon1
+  rotate: false
+  xy: 421, 667
+  size: 95, 142
+  orig: 95, 142
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/weapon2
+  rotate: false
+  xy: 116, 48
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/weapon1
+  rotate: true
+  xy: 771, 899
+  size: 123, 194
+  orig: 123, 194
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/weapon2
+  rotate: false
+  xy: 2, 4
+  size: 112, 170
+  orig: 112, 170
+  offset: 0, 0
+  index: -1

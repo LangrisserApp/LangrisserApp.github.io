@@ -1,0 +1,370 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/armout2
+  rotate: false
+  xy: 262, 270
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/bodyinner
+  rotate: false
+  xy: 484, 420
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/daizi
+  rotate: false
+  xy: 222, 277
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/daizi2
+  rotate: true
+  xy: 97, 13
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/hand inner
+  rotate: true
+  xy: 140, 196
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handinner
+  rotate: true
+  xy: 140, 196
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/leginnerdown
+  rotate: false
+  xy: 107, 152
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/leginnerup
+  rotate: false
+  xy: 107, 192
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/legoutdown
+  rotate: true
+  xy: 222, 250
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/legoutup
+  rotate: false
+  xy: 140, 156
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/qunbaiinner
+  rotate: true
+  xy: 184, 197
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/shengzi
+  rotate: true
+  xy: 107, 114
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/shengziinner
+  rotate: true
+  xy: 488, 369
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/weapon
+  rotate: false
+  xy: 421, 446
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/xiongzhen
+  rotate: true
+  xy: 258, 248
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/yaodai
+  rotate: false
+  xy: 230, 303
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/yaoshi
+  rotate: true
+  xy: 117, 84
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/dd
+  rotate: false
+  xy: 300, 348
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handinner2
+  rotate: false
+  xy: 197, 168
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handout
+  rotate: true
+  xy: 97, 33
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/mouth02
+  rotate: true
+  xy: 496, 495
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/mouth03
+  rotate: true
+  xy: 72, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/mouth04
+  rotate: true
+  xy: 279, 303
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page1
+  rotate: false
+  xy: 496, 472
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page2
+  rotate: true
+  xy: 488, 394
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page3
+  rotate: true
+  xy: 97, 67
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page4
+  rotate: true
+  xy: 175, 162
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page5
+  rotate: true
+  xy: 117, 71
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/arminner1
+  rotate: false
+  xy: 132, 322
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/armout1
+  rotate: false
+  xy: 451, 362
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/body
+  rotate: true
+  xy: 135, 376
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/body2
+  rotate: false
+  xy: 232, 347
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/eyebrow
+  rotate: false
+  xy: 2, 5
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/eyehard
+  rotate: true
+  xy: 204, 310
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/eyehard1
+  rotate: false
+  xy: 230, 321
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/eyehard2
+  rotate: false
+  xy: 132, 303
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/eyehard3
+  rotate: true
+  xy: 203, 244
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/eyesffuer
+  rotate: true
+  xy: 141, 233
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/eyeyun
+  rotate: true
+  xy: 172, 233
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/face
+  rotate: false
+  xy: 2, 102
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hair1
+  rotate: false
+  xy: 2, 17
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hair2
+  rotate: false
+  xy: 360, 361
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hair3
+  rotate: true
+  xy: 300, 450
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hair4
+  rotate: false
+  xy: 300, 354
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hair5
+  rotate: false
+  xy: 91, 303
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hairback
+  rotate: false
+  xy: 2, 386
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hatinner
+  rotate: false
+  xy: 135, 444
+  size: 163, 66
+  orig: 163, 66
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/hatout
+  rotate: true
+  xy: 2, 223
+  size: 161, 87
+  orig: 161, 87
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/mouth01
+  rotate: true
+  xy: 81, 2
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/qunbaiout
+  rotate: true
+  xy: 91, 236
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Pilgrim/Rachel_Pilgrim_2/toushi
+  rotate: false
+  xy: 408, 364
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 408, 419
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

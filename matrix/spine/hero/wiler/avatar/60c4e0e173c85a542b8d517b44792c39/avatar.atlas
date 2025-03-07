@@ -1,0 +1,286 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/arminnerdown
+  rotate: true
+  xy: 362, 330
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/arminnerup
+  rotate: false
+  xy: 362, 357
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/armoutdown
+  rotate: true
+  xy: 395, 364
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/armoutup
+  rotate: false
+  xy: 485, 412
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/body
+  rotate: true
+  xy: 382, 416
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/daizi
+  rotate: true
+  xy: 146, 191
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/eyebrow
+  rotate: true
+  xy: 130, 101
+  size: 69, 10
+  orig: 69, 10
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/eyehard
+  rotate: false
+  xy: 142, 315
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/eyehard1
+  rotate: true
+  xy: 491, 446
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/eyehard2
+  rotate: false
+  xy: 140, 299
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/eyehard3
+  rotate: true
+  xy: 142, 106
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/eyesffuer
+  rotate: false
+  xy: 78, 2
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/eyeyun
+  rotate: false
+  xy: 305, 392
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/face
+  rotate: true
+  xy: 2, 72
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/guashi
+  rotate: true
+  xy: 305, 420
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/hair1
+  rotate: true
+  xy: 2, 29
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/hair2
+  rotate: false
+  xy: 93, 96
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/hair3
+  rotate: false
+  xy: 376, 390
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/hair4
+  rotate: true
+  xy: 142, 334
+  size: 55, 109
+  orig: 55, 109
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/hairback
+  rotate: false
+  xy: 2, 323
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/handinner
+  rotate: true
+  xy: 93, 72
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/handout
+  rotate: true
+  xy: 140, 228
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/hatout
+  rotate: true
+  xy: 2, 173
+  size: 148, 90
+  orig: 148, 90
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/jianjiainner
+  rotate: false
+  xy: 310, 341
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/jianjiaout
+  rotate: false
+  xy: 253, 332
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/leginnerdown
+  rotate: false
+  xy: 140, 250
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/leginnerup
+  rotate: true
+  xy: 253, 306
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/legoutdown
+  rotate: false
+  xy: 450, 417
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/legoutup
+  rotate: false
+  xy: 88, 29
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/mouth01
+  rotate: true
+  xy: 443, 398
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/mouth02
+  rotate: false
+  xy: 146, 173
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/mouth04
+  rotate: true
+  xy: 118, 73
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/pifengback
+  rotate: false
+  xy: 142, 391
+  size: 161, 74
+  orig: 161, 74
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/pifenginner
+  rotate: false
+  xy: 94, 228
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/pifengout
+  rotate: true
+  xy: 380, 467
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/weapon
+  rotate: false
+  xy: 2, 467
+  size: 376, 43
+  orig: 376, 43
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/xiongshi
+  rotate: true
+  xy: 169, 253
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/yibaiinner
+  rotate: true
+  xy: 207, 317
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/yibaiout
+  rotate: false
+  xy: 94, 172
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1

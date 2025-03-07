@@ -1,0 +1,398 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ryou/Rekka/Ryou_Rekka_3/arminnerdown
+  rotate: false
+  xy: 501, 105
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/arminnerup
+  rotate: false
+  xy: 608, 204
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/armoutdown
+  rotate: false
+  xy: 701, 346
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/armoutup
+  rotate: true
+  xy: 640, 272
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/body
+  rotate: false
+  xy: 500, 209
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/eyebrow
+  rotate: false
+  xy: 568, 353
+  size: 86, 22
+  orig: 86, 22
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/eyehard
+  rotate: false
+  xy: 408, 57
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/eyehard 1
+  rotate: false
+  xy: 564, 326
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/eyehard2
+  rotate: false
+  xy: 564, 306
+  size: 81, 18
+  orig: 81, 18
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/eyehard3
+  rotate: false
+  xy: 561, 241
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/eyesffuer
+  rotate: true
+  xy: 373, 51
+  size: 88, 33
+  orig: 88, 33
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/eyeyun
+  rotate: true
+  xy: 401, 204
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/face
+  rotate: true
+  xy: 783, 346
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/hair1
+  rotate: true
+  xy: 318, 35
+  size: 104, 53
+  orig: 104, 53
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/hair2
+  rotate: false
+  xy: 448, 291
+  size: 114, 79
+  orig: 114, 79
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/handiinner
+  rotate: false
+  xy: 593, 178
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/handinner1
+  rotate: false
+  xy: 619, 179
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/handout
+  rotate: false
+  xy: 739, 346
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/handout2
+  rotate: true
+  xy: 678, 277
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/leginnerdown
+  rotate: true
+  xy: 318, 3
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/leginnerup
+  rotate: false
+  xy: 551, 164
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/legoutdown
+  rotate: true
+  xy: 656, 342
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/legoutup
+  rotate: false
+  xy: 436, 12
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/mouth01
+  rotate: false
+  xy: 436, 2
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/mouth02
+  rotate: false
+  xy: 298, 298
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/mouth04
+  rotate: true
+  xy: 772, 390
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/texiao1
+  rotate: false
+  xy: 568, 377
+  size: 143, 31
+  orig: 143, 31
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/texiao2
+  rotate: false
+  xy: 317, 294
+  size: 129, 76
+  orig: 129, 76
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_3/texiao3
+  rotate: false
+  xy: 561, 254
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_4/1
+  rotate: true
+  xy: 950, 353
+  size: 157, 69
+  orig: 157, 69
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_4/2
+  rotate: false
+  xy: 568, 410
+  size: 213, 100
+  orig: 213, 100
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_4/3
+  rotate: false
+  xy: 317, 372
+  size: 249, 138
+  orig: 249, 138
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_4/4
+  rotate: false
+  xy: 2, 138
+  size: 294, 171
+  orig: 294, 171
+  offset: 0, 0
+  index: -1
+Ryou/Rekka/Ryou_Rekka_4/5
+  rotate: false
+  xy: 2, 311
+  size: 313, 199
+  orig: 313, 199
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/L1_shou1
+  rotate: false
+  xy: 439, 206
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/L1_shou2
+  rotate: false
+  xy: 446, 141
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/L1_shou3
+  rotate: true
+  xy: 479, 97
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/L_shou1
+  rotate: false
+  xy: 561, 206
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/L_shou2
+  rotate: true
+  xy: 950, 284
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/L_shou3
+  rotate: true
+  xy: 298, 141
+  size: 75, 84
+  orig: 75, 84
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/R1_shou1
+  rotate: true
+  xy: 373, 2
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/R1_shou2
+  rotate: true
+  xy: 713, 370
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/R1_shou3
+  rotate: true
+  xy: 531, 104
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/R_shou1
+  rotate: false
+  xy: 500, 147
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/R_shou2
+  rotate: false
+  xy: 408, 84
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/R_shou3
+  rotate: true
+  xy: 476, 13
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/eye
+  rotate: true
+  xy: 384, 204
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/tiger_body
+  rotate: false
+  xy: 2, 7
+  size: 210, 129
+  orig: 210, 129
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/tiger_erduoinner
+  rotate: false
+  xy: 642, 204
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/tiger_erduoout
+  rotate: true
+  xy: 636, 241
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/tiger_eyehard
+  rotate: true
+  xy: 647, 304
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/tiger_head
+  rotate: true
+  xy: 214, 10
+  size: 126, 102
+  orig: 126, 102
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/tiger_weiba
+  rotate: false
+  xy: 298, 218
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/tiger_xiaba
+  rotate: true
+  xy: 384, 141
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Ryou/Tiger/Tiger_03/yun
+  rotate: false
+  xy: 479, 84
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 564, 279
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

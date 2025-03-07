@@ -1,0 +1,251 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Maiya/Maiya_ninjia/Maiya_ninjia_3/Shadow
+  rotate: false
+  xy: 96, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/arminnerdown
+  rotate: true
+  xy: 166, 192
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/arminnerup
+  rotate: false
+  xy: 311, 334
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/armoutdown
+  rotate: false
+  xy: 162, 123
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/armoutup
+  rotate: false
+  xy: 162, 155
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/body
+  rotate: false
+  xy: 431, 443
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/eyebrow
+  rotate: false
+  xy: 311, 377
+  size: 71, 10
+  orig: 71, 10
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/eyehard
+  rotate: true
+  xy: 136, 118
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/eyehard 2
+  rotate: false
+  xy: 311, 405
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/eyehard1
+  rotate: true
+  xy: 285, 333
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/eyehard3
+  rotate: false
+  xy: 311, 389
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/eyesffuer
+  rotate: true
+  xy: 136, 192
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/eyeyun
+  rotate: true
+  xy: 136, 268
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/face
+  rotate: false
+  xy: 2, 195
+  size: 132, 149
+  orig: 132, 149
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/hair1
+  rotate: false
+  xy: 177, 342
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/hair2
+  rotate: false
+  xy: 101, 96
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/hair3
+  rotate: true
+  xy: 2, 2
+  size: 25, 92
+  orig: 25, 92
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/hair4
+  rotate: false
+  xy: 2, 346
+  size: 173, 164
+  orig: 173, 164
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/handinner
+  rotate: false
+  xy: 136, 96
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/handinner2
+  rotate: false
+  xy: 281, 308
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/handout
+  rotate: false
+  xy: 163, 100
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/hudiejie
+  rotate: false
+  xy: 165, 293
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/leginnerdown
+  rotate: true
+  xy: 431, 421
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/leginnerup
+  rotate: true
+  xy: 165, 268
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/legoutdown
+  rotate: false
+  xy: 349, 332
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/legoutup
+  rotate: false
+  xy: 166, 222
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/lingjie
+  rotate: true
+  xy: 492, 486
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/mouth01
+  rotate: true
+  xy: 383, 389
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/mouth02
+  rotate: false
+  xy: 385, 405
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/mouth04
+  rotate: false
+  xy: 101, 89
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/qunzi
+  rotate: false
+  xy: 2, 29
+  size: 96, 51
+  orig: 96, 51
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/toushi
+  rotate: false
+  xy: 177, 407
+  size: 132, 103
+  orig: 132, 103
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/weapon1
+  rotate: false
+  xy: 2, 82
+  size: 97, 111
+  orig: 97, 111
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/weapon2
+  rotate: false
+  xy: 311, 422
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_ninjia/Maiya_ninjia_3/weiqun
+  rotate: false
+  xy: 227, 301
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1

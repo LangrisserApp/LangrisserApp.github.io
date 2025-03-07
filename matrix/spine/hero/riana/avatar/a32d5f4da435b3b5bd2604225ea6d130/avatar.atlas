@@ -1,0 +1,216 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riana/Riana_Bishop/Riana_HighBishop_2/Hair1
+  rotate: false
+  xy: 323, 2
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/Hair2
+  rotate: true
+  xy: 427, 81
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/Hair3
+  rotate: true
+  xy: 461, 126
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/Hair4
+  rotate: true
+  xy: 405, 130
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/Hairinner
+  rotate: true
+  xy: 256, 129
+  size: 31, 147
+  orig: 31, 147
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/arminner1
+  rotate: false
+  xy: 449, 95
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/armout1
+  rotate: true
+  xy: 472, 176
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/body
+  rotate: true
+  xy: 256, 162
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/eyebrow
+  rotate: false
+  xy: 138, 3
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/eyehard
+  rotate: true
+  xy: 298, 8
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/eyehard1
+  rotate: false
+  xy: 323, 45
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/eyehard2
+  rotate: false
+  xy: 390, 165
+  size: 69, 19
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/eyehard3
+  rotate: false
+  xy: 325, 97
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/eyesffuer
+  rotate: true
+  xy: 231, 2
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/eyeyun
+  rotate: true
+  xy: 264, 9
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/face
+  rotate: false
+  xy: 138, 67
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/fushi
+  rotate: true
+  xy: 248, 79
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/hairout
+  rotate: false
+  xy: 2, 10
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handinner
+  rotate: false
+  xy: 461, 144
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handout
+  rotate: false
+  xy: 401, 70
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/mouth01
+  rotate: false
+  xy: 208, 6
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/mouth02
+  rotate: false
+  xy: 486, 111
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/mouth04
+  rotate: true
+  xy: 248, 134
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijian
+  rotate: false
+  xy: 138, 16
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijianiinner
+  rotate: true
+  xy: 472, 205
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/toushi
+  rotate: false
+  xy: 390, 186
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/weapon
+  rotate: false
+  xy: 2, 157
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodai
+  rotate: false
+  xy: 354, 7
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodaipeijian
+  rotate: false
+  xy: 394, 51
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 325, 70
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

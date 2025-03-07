@@ -1,0 +1,363 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 10
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/arminnerdown
+  rotate: false
+  xy: 649, 401
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/arminnerup
+  rotate: true
+  xy: 251, 4
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/armoutdown
+  rotate: false
+  xy: 295, 162
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/armoutup
+  rotate: false
+  xy: 296, 35
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/body
+  rotate: false
+  xy: 352, 361
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/body1
+  rotate: false
+  xy: 412, 361
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/eyebrow
+  rotate: false
+  xy: 739, 451
+  size: 73, 17
+  orig: 73, 17
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/eyehard
+  rotate: true
+  xy: 330, 339
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/eyehard 1
+  rotate: false
+  xy: 352, 339
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/eyehard2
+  rotate: false
+  xy: 612, 434
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/eyehard3
+  rotate: false
+  xy: 78, 11
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/eyesffuer
+  rotate: true
+  xy: 295, 193
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/eyeyun
+  rotate: false
+  xy: 686, 411
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/face
+  rotate: false
+  xy: 2, 188
+  size: 182, 149
+  orig: 182, 149
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/hair1
+  rotate: true
+  xy: 739, 470
+  size: 40, 113
+  orig: 40, 113
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/hair2
+  rotate: true
+  xy: 485, 435
+  size: 75, 125
+  orig: 75, 125
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/hair3
+  rotate: true
+  xy: 186, 34
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/handiinner
+  rotate: false
+  xy: 473, 340
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/handiout1
+  rotate: false
+  xy: 296, 8
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/handout
+  rotate: true
+  xy: 447, 297
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/hudang
+  rotate: false
+  xy: 204, 2
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/jianjiainner
+  rotate: true
+  xy: 472, 365
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/jianjiaout
+  rotate: true
+  xy: 295, 263
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/leginnerdown
+  rotate: true
+  xy: 550, 399
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/leginnerup
+  rotate: false
+  xy: 403, 297
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/leginnerup1
+  rotate: true
+  xy: 296, 118
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/legoutdown
+  rotate: true
+  xy: 151, 2
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/legoutup
+  rotate: true
+  xy: 603, 395
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/legoutup1
+  rotate: true
+  xy: 552, 359
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/mouth01
+  rotate: true
+  xy: 328, 168
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/mouth02
+  rotate: true
+  xy: 1006, 489
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/mouth04
+  rotate: false
+  xy: 296, 2
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/pifeng out
+  rotate: false
+  xy: 346, 425
+  size: 137, 85
+  orig: 137, 85
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/weapon
+  rotate: false
+  xy: 2, 339
+  size: 326, 72
+  orig: 326, 72
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/weijn
+  rotate: false
+  xy: 753, 412
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/weijn1
+  rotate: false
+  xy: 929, 473
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/yaodai
+  rotate: false
+  xy: 335, 190
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/yaodai1
+  rotate: false
+  xy: 426, 339
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/yaojiainner
+  rotate: false
+  xy: 296, 76
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_3/yaojiaout
+  rotate: false
+  xy: 498, 390
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/face
+  rotate: false
+  xy: 2, 37
+  size: 182, 149
+  orig: 182, 149
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/jianjiainner
+  rotate: false
+  xy: 334, 296
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/jianjiaout
+  rotate: false
+  xy: 854, 466
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/pifeng out
+  rotate: true
+  xy: 186, 162
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/weapon
+  rotate: false
+  xy: 2, 413
+  size: 342, 97
+  orig: 342, 97
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/weijininner
+  rotate: false
+  xy: 612, 451
+  size: 125, 59
+  orig: 125, 59
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/yaodai
+  rotate: false
+  xy: 334, 267
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/yaodai1
+  rotate: false
+  xy: 498, 365
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/yaojiainner
+  rotate: false
+  xy: 598, 352
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Virash/Virash_SeaGladiator/Virash_SeaGladiator_4/yaojiaout
+  rotate: false
+  xy: 335, 209
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1

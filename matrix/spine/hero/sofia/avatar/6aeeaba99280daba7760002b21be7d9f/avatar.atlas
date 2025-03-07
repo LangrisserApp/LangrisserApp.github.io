@@ -1,0 +1,531 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/arminner1
+  rotate: true
+  xy: 194, 285
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/armout1
+  rotate: true
+  xy: 293, 354
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/armout2
+  rotate: true
+  xy: 356, 226
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/body
+  rotate: false
+  xy: 88, 186
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/body2
+  rotate: true
+  xy: 328, 445
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/bodyinner
+  rotate: true
+  xy: 126, 91
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/daizi
+  rotate: false
+  xy: 386, 341
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/daizi2
+  rotate: false
+  xy: 405, 423
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/hand inner
+  rotate: false
+  xy: 349, 346
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handinner
+  rotate: false
+  xy: 349, 346
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/leginnerdown
+  rotate: false
+  xy: 356, 253
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/leginnerup
+  rotate: false
+  xy: 268, 166
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/legoutdown
+  rotate: false
+  xy: 333, 172
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/legoutup
+  rotate: false
+  xy: 385, 301
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/qunbaiinner
+  rotate: false
+  xy: 299, 211
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/qunbaiout
+  rotate: false
+  xy: 228, 354
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/shengzi
+  rotate: false
+  xy: 474, 405
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/shengziinner
+  rotate: false
+  xy: 423, 259
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/weapon
+  rotate: false
+  xy: 423, 446
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/xiongzhen
+  rotate: false
+  xy: 348, 104
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/yaodai
+  rotate: false
+  xy: 425, 428
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/yaoshi
+  rotate: false
+  xy: 318, 111
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/arminner2
+  rotate: false
+  xy: 154, 208
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/armout1
+  rotate: true
+  xy: 213, 165
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/baoshi
+  rotate: true
+  xy: 335, 208
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/body
+  rotate: true
+  xy: 154, 158
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/body2
+  rotate: true
+  xy: 213, 211
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/jianjiaout
+  rotate: false
+  xy: 346, 293
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/leginnerdown
+  rotate: false
+  xy: 389, 261
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/legoutdown
+  rotate: false
+  xy: 318, 136
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/piaodai
+  rotate: false
+  xy: 63, 93
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/qunbaiinner
+  rotate: true
+  xy: 345, 137
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/qunbaiout
+  rotate: true
+  xy: 247, 286
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/qunzi
+  rotate: true
+  xy: 2, 9
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/qunziinner
+  rotate: true
+  xy: 288, 113
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/weapon
+  rotate: false
+  xy: 2, 195
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/yaodai
+  rotate: true
+  xy: 299, 234
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/yaoshi
+  rotate: false
+  xy: 389, 231
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/dd
+  rotate: false
+  xy: 228, 402
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handinner2
+  rotate: false
+  xy: 187, 80
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handout
+  rotate: false
+  xy: 216, 82
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/mouth01
+  rotate: false
+  xy: 301, 167
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/mouth02
+  rotate: false
+  xy: 422, 243
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth02
+  rotate: false
+  xy: 422, 243
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/mouth03
+  rotate: false
+  xy: 293, 393
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth03
+  rotate: false
+  xy: 293, 393
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/mouth04
+  rotate: false
+  xy: 356, 208
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth04
+  rotate: false
+  xy: 356, 208
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page1
+  rotate: true
+  xy: 63, 186
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page2
+  rotate: true
+  xy: 423, 281
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page3
+  rotate: false
+  xy: 152, 89
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page4
+  rotate: true
+  xy: 420, 307
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page5
+  rotate: true
+  xy: 356, 213
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 126, 110
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Priest_2/toushi1
+  rotate: false
+  xy: 218, 104
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Priest_2/toushi2
+  rotate: true
+  xy: 261, 111
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Prophet_3/toushi1
+  rotate: false
+  xy: 129, 282
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Prophet_3/toushi2
+  rotate: true
+  xy: 386, 367
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyebrow
+  rotate: true
+  xy: 336, 287
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard
+  rotate: true
+  xy: 273, 210
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard1
+  rotate: false
+  xy: 243, 402
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard2
+  rotate: false
+  xy: 328, 423
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard3
+  rotate: true
+  xy: 498, 436
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyesffuer
+  rotate: false
+  xy: 320, 390
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyeyun
+  rotate: true
+  xy: 306, 288
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/face
+  rotate: false
+  xy: 138, 408
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair1
+  rotate: false
+  xy: 301, 172
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair2
+  rotate: true
+  xy: 138, 354
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair3
+  rotate: false
+  xy: 243, 428
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair4
+  rotate: true
+  xy: 153, 109
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair5
+  rotate: false
+  xy: 2, 90
+  size: 59, 103
+  orig: 59, 103
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair6
+  rotate: false
+  xy: 2, 281
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair7
+  rotate: false
+  xy: 328, 236
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair8
+  rotate: false
+  xy: 2, 378
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth01
+  rotate: true
+  xy: 129, 362
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1

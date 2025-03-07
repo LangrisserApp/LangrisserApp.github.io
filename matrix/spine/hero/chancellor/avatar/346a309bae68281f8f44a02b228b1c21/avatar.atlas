@@ -1,0 +1,566 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chancellor/Sword/Chancellor_Sword_2/arminnerdown
+  rotate: false
+  xy: 604, 259
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/arminnerup
+  rotate: true
+  xy: 604, 292
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/armoutdown
+  rotate: true
+  xy: 160, 5
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/armoutdown1
+  rotate: true
+  xy: 1010, 384
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/armoutup
+  rotate: true
+  xy: 282, 57
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/body
+  rotate: false
+  xy: 492, 313
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/eyebrow
+  rotate: false
+  xy: 458, 248
+  size: 83, 18
+  orig: 83, 18
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/eyehard
+  rotate: false
+  xy: 441, 167
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/eyehard1
+  rotate: false
+  xy: 439, 144
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/eyehard2
+  rotate: false
+  xy: 439, 123
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/eyehard3
+  rotate: false
+  xy: 957, 450
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/eyesffuer
+  rotate: false
+  xy: 441, 218
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/eyeyun
+  rotate: false
+  xy: 441, 190
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/face
+  rotate: true
+  xy: 356, 391
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hair
+  rotate: true
+  xy: 2, 5
+  size: 49, 112
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hair1
+  rotate: false
+  xy: 315, 273
+  size: 48, 110
+  orig: 48, 110
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hair2
+  rotate: false
+  xy: 968, 406
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hair3
+  rotate: false
+  xy: 116, 8
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hairh
+  rotate: false
+  xy: 192, 273
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/handinner
+  rotate: false
+  xy: 250, 39
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/handout
+  rotate: false
+  xy: 327, 62
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hat
+  rotate: false
+  xy: 2, 56
+  size: 157, 125
+  orig: 157, 125
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hat1
+  rotate: true
+  xy: 242, 2
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/hat2
+  rotate: false
+  xy: 597, 333
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/jianjiainner
+  rotate: false
+  xy: 206, 39
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/jianjiaout
+  rotate: true
+  xy: 540, 268
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/kua
+  rotate: true
+  xy: 574, 271
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/leginnerdown
+  rotate: true
+  xy: 242, 17
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/leginnerup
+  rotate: true
+  xy: 353, 84
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/legoutdown
+  rotate: false
+  xy: 557, 203
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/legoutup
+  rotate: true
+  xy: 439, 57
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/mouth01
+  rotate: true
+  xy: 199, 2
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/mouth02
+  rotate: false
+  xy: 347, 265
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/mouth04
+  rotate: true
+  xy: 199, 16
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/pifenginner1
+  rotate: false
+  xy: 412, 111
+  size: 25, 66
+  orig: 25, 66
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/pifenginner2
+  rotate: false
+  xy: 819, 449
+  size: 136, 61
+  orig: 136, 61
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/pifenginner3
+  rotate: true
+  xy: 162, 275
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/pifengout
+  rotate: false
+  xy: 365, 313
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/weapon
+  rotate: false
+  xy: 495, 429
+  size: 165, 81
+  orig: 165, 81
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/weapon1
+  rotate: false
+  xy: 412, 54
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/weapon2
+  rotate: false
+  xy: 495, 385
+  size: 115, 42
+  orig: 115, 42
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/xiabaiinner
+  rotate: true
+  xy: 612, 380
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_2/xiabaiout1
+  rotate: true
+  xy: 543, 248
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/hat
+  rotate: false
+  xy: 2, 183
+  size: 158, 125
+  orig: 158, 125
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/jianjiaout
+  rotate: true
+  xy: 938, 394
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/leginnerdown
+  rotate: true
+  xy: 513, 167
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/leginnerup
+  rotate: false
+  xy: 528, 189
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/legoutdown
+  rotate: true
+  xy: 161, 36
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/legoutup
+  rotate: false
+  xy: 934, 341
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/lingziinner
+  rotate: true
+  xy: 556, 316
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/lingziout
+  rotate: true
+  xy: 452, 313
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/pifenginner1
+  rotate: true
+  xy: 365, 250
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/pifenginner2
+  rotate: false
+  xy: 662, 441
+  size: 155, 69
+  orig: 155, 69
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/pifengout
+  rotate: false
+  xy: 161, 64
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/weapon
+  rotate: false
+  xy: 2, 310
+  size: 188, 97
+  orig: 188, 97
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/weapon1
+  rotate: false
+  xy: 383, 113
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/weapon2
+  rotate: false
+  xy: 662, 397
+  size: 115, 42
+  orig: 115, 42
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/xiabaiinner
+  rotate: true
+  xy: 347, 179
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/xiabaiinner1
+  rotate: false
+  xy: 825, 329
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/xiabaiout
+  rotate: false
+  xy: 898, 335
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/xiuziinner
+  rotate: true
+  xy: 282, 92
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_3/xiuziout
+  rotate: true
+  xy: 779, 342
+  size: 97, 44
+  orig: 97, 44
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/hat
+  rotate: false
+  xy: 197, 385
+  size: 157, 125
+  orig: 157, 125
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/jianjiaoutx
+  rotate: false
+  xy: 511, 155
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/jianzinner
+  rotate: false
+  xy: 206, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/jianzout
+  rotate: false
+  xy: 970, 365
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/lingziinner1
+  rotate: false
+  xy: 957, 461
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/lingziout1
+  rotate: true
+  xy: 255, 64
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/pifenginner1
+  rotate: false
+  xy: 277, 170
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/pifengout
+  rotate: true
+  xy: 162, 166
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/weapon
+  rotate: false
+  xy: 2, 409
+  size: 193, 101
+  orig: 193, 101
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/weapon1
+  rotate: false
+  xy: 353, 113
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/weapon2
+  rotate: false
+  xy: 662, 354
+  size: 115, 41
+  orig: 115, 41
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/weapon3
+  rotate: true
+  xy: 353, 61
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/xiuziinner
+  rotate: false
+  xy: 458, 268
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/xiuziout
+  rotate: false
+  xy: 825, 398
+  size: 111, 49
+  orig: 111, 49
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/xx1
+  rotate: true
+  xy: 1013, 405
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/xx2
+  rotate: false
+  xy: 970, 346
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Chancellor_Sword_4/xx3
+  rotate: false
+  xy: 439, 93
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+Chancellor/Sword/Shadow
+  rotate: true
+  xy: 326, 94
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

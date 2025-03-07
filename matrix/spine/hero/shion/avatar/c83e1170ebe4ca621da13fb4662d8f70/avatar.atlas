@@ -1,0 +1,419 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shion_Sword_2/body
+  rotate: false
+  xy: 160, 275
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+Shion_Sword_2/toujin2
+  rotate: true
+  xy: 258, 114
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+Shion_Sword_2/toujin3
+  rotate: false
+  xy: 308, 152
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Shion_Sword_2/weapon1
+  rotate: true
+  xy: 69, 155
+  size: 186, 38
+  orig: 186, 38
+  offset: 0, 0
+  index: -1
+Shion_Sword_2/weapon2
+  rotate: true
+  xy: 274, 269
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+Shion_Sword_2/weijin1
+  rotate: true
+  xy: 475, 433
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+Shion_Sword_2/weijin2
+  rotate: true
+  xy: 247, 152
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+Shion_Sword_3/weapon1
+  rotate: false
+  xy: 147, 457
+  size: 198, 53
+  orig: 198, 53
+  offset: 0, 0
+  index: -1
+Shion_Sword_3/weijin3
+  rotate: false
+  xy: 347, 375
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+Shion_Sword_3/weijin4
+  rotate: false
+  xy: 423, 386
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/Shadow
+  rotate: true
+  xy: 311, 193
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/arminnerdown
+  rotate: false
+  xy: 276, 125
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/arminnerup
+  rotate: false
+  xy: 473, 342
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/armoutdown
+  rotate: false
+  xy: 395, 269
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/armoutup
+  rotate: false
+  xy: 337, 155
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/body
+  rotate: false
+  xy: 160, 195
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/eyebrow
+  rotate: false
+  xy: 70, 11
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/eyehard
+  rotate: true
+  xy: 106, 87
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/eyehard1
+  rotate: true
+  xy: 128, 92
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/eyehard2
+  rotate: false
+  xy: 2, 3
+  size: 66, 17
+  orig: 66, 17
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/eyehard3
+  rotate: false
+  xy: 70, 2
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/eyesffuer
+  rotate: true
+  xy: 317, 277
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/eyeyun
+  rotate: true
+  xy: 395, 298
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/face
+  rotate: false
+  xy: 2, 343
+  size: 143, 167
+  orig: 143, 167
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair1
+  rotate: false
+  xy: 74, 22
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair2
+  rotate: false
+  xy: 370, 161
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair3
+  rotate: true
+  xy: 429, 317
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair4
+  rotate: false
+  xy: 2, 22
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair5
+  rotate: false
+  xy: 264, 197
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair6
+  rotate: false
+  xy: 219, 271
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair7
+  rotate: false
+  xy: 289, 355
+  size: 56, 100
+  orig: 56, 100
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/hair8
+  rotate: false
+  xy: 350, 303
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/handinner
+  rotate: false
+  xy: 429, 296
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/handinner1
+  rotate: false
+  xy: 307, 124
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/handout
+  rotate: false
+  xy: 427, 269
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/handout1
+  rotate: false
+  xy: 381, 242
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/leginnerdown
+  rotate: false
+  xy: 188, 95
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/leginnerup
+  rotate: false
+  xy: 150, 94
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/legoutdown
+  rotate: false
+  xy: 475, 378
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/legoutup
+  rotate: false
+  xy: 218, 105
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/mouth01
+  rotate: false
+  xy: 317, 269
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/mouth02
+  rotate: false
+  xy: 147, 348
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/mouth03
+  rotate: true
+  xy: 69, 135
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/toujin1
+  rotate: false
+  xy: 347, 462
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/toujin2
+  rotate: true
+  xy: 74, 81
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/toujin3
+  rotate: false
+  xy: 338, 216
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/weapon1
+  rotate: true
+  xy: 2, 134
+  size: 207, 65
+  orig: 207, 65
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/weapon2
+  rotate: true
+  xy: 109, 160
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/weijin1
+  rotate: false
+  xy: 160, 152
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/weijin2
+  rotate: true
+  xy: 276, 154
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/weijin3
+  rotate: false
+  xy: 147, 355
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/weijin4
+  rotate: false
+  xy: 219, 195
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/weijin5
+  rotate: false
+  xy: 109, 249
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/yaojiainner1
+  rotate: false
+  xy: 381, 216
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/yaojiainner2
+  rotate: false
+  xy: 434, 242
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/yaojiainner3
+  rotate: false
+  xy: 407, 246
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/yaojiaout1
+  rotate: false
+  xy: 338, 190
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/yaojiaout2
+  rotate: false
+  xy: 350, 271
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Shion_Sword_4/yaojiaout3
+  rotate: false
+  xy: 473, 313
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,545 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grenier/Grenier_bb/Grenier_1/arminnerdown
+  rotate: false
+  xy: 501, 384
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/arminnerup
+  rotate: false
+  xy: 394, 132
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/armoutdown
+  rotate: true
+  xy: 526, 384
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/armoutup
+  rotate: true
+  xy: 206, 50
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/body
+  rotate: false
+  xy: 140, 81
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/handinner
+  rotate: false
+  xy: 357, 70
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/handout
+  rotate: false
+  xy: 603, 379
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/hudang
+  rotate: true
+  xy: 580, 427
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/jianjiainner
+  rotate: false
+  xy: 578, 402
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/jianjiaout
+  rotate: false
+  xy: 433, 241
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/leginnerdown
+  rotate: false
+  xy: 656, 420
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/leginnerup
+  rotate: true
+  xy: 427, 371
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/legoutdown
+  rotate: true
+  xy: 274, 49
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/legoutup
+  rotate: false
+  xy: 355, 164
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/weapon
+  rotate: false
+  xy: 427, 480
+  size: 385, 27
+  orig: 385, 27
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/yaojiainner
+  rotate: true
+  xy: 433, 217
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_1/yaojiaout
+  rotate: false
+  xy: 387, 253
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/arminnerdown
+  rotate: false
+  xy: 419, 104
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/arminnerup
+  rotate: false
+  xy: 243, 52
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/armoutdown
+  rotate: true
+  xy: 578, 380
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/armoutup
+  rotate: true
+  xy: 382, 100
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/body
+  rotate: false
+  xy: 192, 81
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/hudang
+  rotate: false
+  xy: 715, 425
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/jianjiainner
+  rotate: false
+  xy: 312, 46
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/jianjiaout
+  rotate: false
+  xy: 295, 171
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/leginnerdown
+  rotate: true
+  xy: 280, 72
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/leginnerup
+  rotate: true
+  xy: 295, 135
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/legoutdown
+  rotate: true
+  xy: 350, 46
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/legoutup
+  rotate: false
+  xy: 433, 325
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/weapon
+  rotate: false
+  xy: 2, 296
+  size: 388, 73
+  orig: 388, 73
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/yaojiainner
+  rotate: true
+  xy: 346, 133
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_2/yaojiaout
+  rotate: true
+  xy: 90, 8
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/arminnerdown
+  rotate: true
+  xy: 552, 383
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/arminnerup
+  rotate: true
+  xy: 382, 71
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/armoutdown
+  rotate: false
+  xy: 478, 381
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/armoutup
+  rotate: false
+  xy: 683, 425
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/body
+  rotate: true
+  xy: 151, 152
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/hudang
+  rotate: false
+  xy: 393, 167
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/jianjiainner
+  rotate: false
+  xy: 392, 296
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/jianjiaout
+  rotate: true
+  xy: 242, 90
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/leginnerdown
+  rotate: true
+  xy: 319, 70
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/leginnerup
+  rotate: true
+  xy: 280, 99
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/legoutdown
+  rotate: true
+  xy: 538, 408
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/legoutup
+  rotate: true
+  xy: 387, 216
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/pifeng
+  rotate: false
+  xy: 151, 203
+  size: 129, 91
+  orig: 129, 91
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/toushi
+  rotate: false
+  xy: 539, 456
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/weapon
+  rotate: false
+  xy: 2, 371
+  size: 401, 69
+  orig: 401, 69
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/yaojiainner
+  rotate: true
+  xy: 427, 268
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_3/yaojiaout
+  rotate: false
+  xy: 392, 326
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/arminnerdown
+  rotate: false
+  xy: 419, 77
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/arminnerup
+  rotate: true
+  xy: 433, 296
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/armoutdown
+  rotate: false
+  xy: 426, 49
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/armoutup
+  rotate: true
+  xy: 618, 428
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/body
+  rotate: true
+  xy: 223, 152
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/jianjiainner
+  rotate: false
+  xy: 427, 408
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/jianjiaout
+  rotate: false
+  xy: 2, 7
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/leginnerdown
+  rotate: true
+  xy: 388, 45
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/leginnerup
+  rotate: true
+  xy: 331, 97
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/legoutdown
+  rotate: true
+  xy: 539, 432
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/legoutup
+  rotate: true
+  xy: 486, 410
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/pifeng
+  rotate: false
+  xy: 2, 52
+  size: 136, 98
+  orig: 136, 98
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/toushi
+  rotate: false
+  xy: 427, 447
+  size: 110, 31
+  orig: 110, 31
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/Grenier_4/weapon
+  rotate: false
+  xy: 2, 442
+  size: 423, 65
+  orig: 423, 65
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/dd
+  rotate: false
+  xy: 387, 210
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/eyebrow
+  rotate: true
+  xy: 405, 374
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/eyehard
+  rotate: false
+  xy: 681, 461
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/eyehard1
+  rotate: false
+  xy: 959, 488
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/eyehard2
+  rotate: false
+  xy: 746, 465
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/eyehard3
+  rotate: false
+  xy: 890, 489
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/eyesffuer
+  rotate: false
+  xy: 615, 458
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/eyeyun
+  rotate: false
+  xy: 140, 56
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/face
+  rotate: false
+  xy: 2, 152
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/hair
+  rotate: false
+  xy: 282, 210
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/mouth01
+  rotate: false
+  xy: 478, 371
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/mouth02
+  rotate: false
+  xy: 472, 358
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_bb/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 814, 482
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

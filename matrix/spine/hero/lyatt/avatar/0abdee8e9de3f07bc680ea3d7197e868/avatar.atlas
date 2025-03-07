@@ -1,0 +1,440 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horse/Ornament/green/horse_tunjia
+  rotate: true
+  xy: 652, 244
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Horse/Ornament/green/horse_xiongjia
+  rotate: true
+  xy: 69, 5
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegdown
+  rotate: false
+  xy: 394, 157
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegup
+  rotate: true
+  xy: 547, 221
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_body
+  rotate: false
+  xy: 795, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegdown
+  rotate: true
+  xy: 496, 217
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegup
+  rotate: true
+  xy: 881, 363
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_guajian1
+  rotate: false
+  xy: 795, 358
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_guajian2
+  rotate: true
+  xy: 2, 2
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_head
+  rotate: false
+  xy: 220, 243
+  size: 115, 127
+  orig: 115, 127
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_neck
+  rotate: true
+  xy: 549, 283
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_weiba
+  rotate: false
+  xy: 652, 320
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_head
+  rotate: true
+  xy: 186, 2
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_neck
+  rotate: false
+  xy: 429, 270
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse3/Horse_toukui1
+  rotate: false
+  xy: 549, 355
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: true
+  xy: 447, 204
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: true
+  xy: 508, 251
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 337, 258
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: true
+  xy: 334, 134
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 810, 331
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 69, 372
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/body
+  rotate: true
+  xy: 953, 455
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/handinner
+  rotate: false
+  xy: 392, 49
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/handout
+  rotate: true
+  xy: 345, 49
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/hatout
+  rotate: true
+  xy: 69, 96
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/jianjiainner
+  rotate: false
+  xy: 651, 202
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/jianjiaout
+  rotate: false
+  xy: 318, 2
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/legoutdown
+  rotate: true
+  xy: 491, 166
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/weapon1
+  rotate: true
+  xy: 2, 33
+  size: 398, 65
+  orig: 398, 65
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_HighRider_2/yaojia
+  rotate: false
+  xy: 708, 195
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_KnightMaster_3/body
+  rotate: true
+  xy: 953, 399
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_KnightMaster_3/hatout
+  rotate: false
+  xy: 69, 248
+  size: 149, 122
+  orig: 149, 122
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_KnightMaster_3/jianjiainner
+  rotate: true
+  xy: 345, 74
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_KnightMaster_3/jianjiaout
+  rotate: false
+  xy: 337, 206
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_KnightMaster_3/shield
+  rotate: true
+  xy: 398, 349
+  size: 107, 149
+  orig: 107, 149
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_KnightMaster_3/weapon1
+  rotate: false
+  xy: 2, 433
+  size: 394, 77
+  orig: 394, 77
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/body
+  rotate: true
+  xy: 953, 344
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/handinner
+  rotate: false
+  xy: 496, 192
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/handout
+  rotate: true
+  xy: 337, 349
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/jianjiainner
+  rotate: true
+  xy: 408, 205
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/jianjiaout
+  rotate: false
+  xy: 334, 157
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/legoutdown
+  rotate: true
+  xy: 774, 331
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/weapon
+  rotate: false
+  xy: 398, 458
+  size: 395, 52
+  orig: 395, 52
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/yaojia
+  rotate: false
+  xy: 447, 222
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+Lyatt/dd
+  rotate: false
+  xy: 502, 264
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/dd
+  rotate: false
+  xy: 502, 264
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lyatt/eyebrow
+  rotate: true
+  xy: 753, 264
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard
+  rotate: true
+  xy: 776, 398
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard1
+  rotate: true
+  xy: 385, 74
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard2
+  rotate: true
+  xy: 635, 223
+  size: 58, 14
+  orig: 58, 14
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard3
+  rotate: true
+  xy: 766, 326
+  size: 55, 6
+  orig: 55, 6
+  offset: 0, 0
+  index: -1
+Lyatt/eyesffuer
+  rotate: false
+  xy: 335, 404
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+Lyatt/eyeyun
+  rotate: false
+  xy: 335, 376
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+Lyatt/face
+  rotate: false
+  xy: 652, 383
+  size: 122, 73
+  orig: 122, 73
+  offset: 0, 0
+  index: -1
+Lyatt/hatout
+  rotate: false
+  xy: 186, 125
+  size: 146, 116
+  orig: 146, 116
+  offset: 0, 0
+  index: -1
+Lyatt/mouth01
+  rotate: false
+  xy: 53, 7
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Lyatt/mouth02
+  rotate: true
+  xy: 53, 15
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Lyatt/mouth04
+  rotate: true
+  xy: 496, 251
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 318, 49
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handinner1
+  rotate: false
+  xy: 458, 168
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handout1
+  rotate: true
+  xy: 389, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/legupout
+  rotate: false
+  xy: 428, 163
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1

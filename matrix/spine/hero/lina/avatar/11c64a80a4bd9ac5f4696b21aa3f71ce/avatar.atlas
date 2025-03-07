@@ -1,0 +1,685 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lina/Lina_MagicSword/Lina_MagicSword_04/arminnerdown
+  rotate: true
+  xy: 928, 80
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/armoutdown
+  rotate: false
+  xy: 732, 42
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/armoutup
+  rotate: false
+  xy: 833, 112
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/body
+  rotate: false
+  xy: 816, 213
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/jianjiainner
+  rotate: false
+  xy: 802, 153
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/jianjiainner1
+  rotate: true
+  xy: 903, 159
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/jianjiaout
+  rotate: true
+  xy: 991, 225
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/kua
+  rotate: false
+  xy: 886, 298
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/lingzi
+  rotate: false
+  xy: 570, 164
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/paifenginner
+  rotate: true
+  xy: 942, 314
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/paifenginner1
+  rotate: true
+  xy: 724, 2
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/paifengout
+  rotate: true
+  xy: 764, 278
+  size: 25, 85
+  orig: 25, 85
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/paifengout1
+  rotate: true
+  xy: 760, 104
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/pifeng
+  rotate: true
+  xy: 435, 122
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/shiping
+  rotate: false
+  xy: 863, 112
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/yilinginner
+  rotate: true
+  xy: 991, 182
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Lina/Lina_MagicSword/Lina_MagicSword_04/yilingout
+  rotate: true
+  xy: 788, 42
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/1
+  rotate: true
+  xy: 940, 353
+  size: 157, 69
+  orig: 157, 69
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/2
+  rotate: false
+  xy: 2, 38
+  size: 209, 99
+  orig: 209, 99
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/3
+  rotate: false
+  xy: 317, 372
+  size: 249, 138
+  orig: 249, 138
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/4
+  rotate: false
+  xy: 2, 139
+  size: 295, 171
+  orig: 295, 171
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/5
+  rotate: false
+  xy: 2, 312
+  size: 313, 198
+  orig: 313, 198
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/Shadow
+  rotate: false
+  xy: 942, 287
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/arminnerdown
+  rotate: true
+  xy: 960, 166
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/arminnerup
+  rotate: false
+  xy: 863, 129
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/arminnerup1
+  rotate: false
+  xy: 687, 44
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/armoutup
+  rotate: false
+  xy: 991, 143
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/body
+  rotate: true
+  xy: 924, 232
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/eyebrow
+  rotate: true
+  xy: 1011, 443
+  size: 67, 10
+  orig: 67, 10
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/eyehard
+  rotate: false
+  xy: 569, 134
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/eyehard01
+  rotate: false
+  xy: 638, 165
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/eyehard02
+  rotate: false
+  xy: 687, 74
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/eyehard03
+  rotate: false
+  xy: 474, 3
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/eyesffuer
+  rotate: false
+  xy: 924, 195
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/eyeyun
+  rotate: false
+  xy: 84, 2
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/face
+  rotate: true
+  xy: 299, 143
+  size: 120, 134
+  orig: 120, 134
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/face2
+  rotate: false
+  xy: 213, 4
+  size: 117, 133
+  orig: 117, 133
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/fx_1
+  rotate: true
+  xy: 704, 119
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/fx_2
+  rotate: true
+  xy: 802, 174
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/fx_3
+  rotate: true
+  xy: 643, 127
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/fx_4
+  rotate: false
+  xy: 535, 122
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair
+  rotate: false
+  xy: 576, 22
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair10
+  rotate: true
+  xy: 568, 359
+  size: 151, 198
+  orig: 151, 198
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair11
+  rotate: true
+  xy: 862, 166
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair12
+  rotate: true
+  xy: 873, 226
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair13
+  rotate: false
+  xy: 568, 278
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair14
+  rotate: true
+  xy: 509, 277
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair4
+  rotate: false
+  xy: 768, 347
+  size: 170, 163
+  orig: 170, 163
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair5
+  rotate: false
+  xy: 570, 189
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair6
+  rotate: false
+  xy: 634, 195
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair7
+  rotate: false
+  xy: 666, 291
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair8
+  rotate: true
+  xy: 332, 15
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hair9
+  rotate: true
+  xy: 152, 6
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hand1
+  rotate: false
+  xy: 851, 281
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hand2
+  rotate: true
+  xy: 874, 80
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hand3
+  rotate: false
+  xy: 960, 143
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/hand3 (2)
+  rotate: false
+  xy: 871, 57
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/handinner
+  rotate: false
+  xy: 609, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/handout
+  rotate: true
+  xy: 902, 79
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/jianjiainner
+  rotate: true
+  xy: 621, 27
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/jianjiaout
+  rotate: false
+  xy: 630, 83
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/kua
+  rotate: true
+  xy: 762, 157
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/leginnerdown
+  rotate: true
+  xy: 833, 60
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/leginnerup
+  rotate: false
+  xy: 701, 2
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/legoutdown
+  rotate: false
+  xy: 761, 60
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/legoutup
+  rotate: true
+  xy: 790, 86
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/lingzi
+  rotate: false
+  xy: 687, 96
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/mouth01
+  rotate: true
+  xy: 1011, 424
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/mouth02
+  rotate: false
+  xy: 509, 265
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/mouth03
+  rotate: false
+  xy: 666, 278
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/mouth04
+  rotate: true
+  xy: 1018, 295
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/paifenginner
+  rotate: true
+  xy: 2, 2
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/paifenginner1
+  rotate: false
+  xy: 833, 83
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/paifengout
+  rotate: false
+  xy: 535, 180
+  size: 33, 95
+  orig: 33, 95
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/paifengout1
+  rotate: true
+  xy: 927, 117
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/pifeng
+  rotate: false
+  xy: 434, 17
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/pifeng1
+  rotate: false
+  xy: 317, 265
+  size: 190, 105
+  orig: 190, 105
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/shiping
+  rotate: true
+  xy: 299, 267
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/toudai
+  rotate: false
+  xy: 764, 305
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx1
+  rotate: true
+  xy: 576, 2
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx10
+  rotate: false
+  xy: 901, 114
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx11
+  rotate: false
+  xy: 712, 158
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx12
+  rotate: false
+  xy: 754, 216
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx13
+  rotate: false
+  xy: 790, 113
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx14
+  rotate: true
+  xy: 647, 42
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx15
+  rotate: false
+  xy: 576, 81
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx2
+  rotate: false
+  xy: 434, 2
+  size: 38, 13
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx3
+  rotate: false
+  xy: 900, 50
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx4
+  rotate: true
+  xy: 747, 8
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx5
+  rotate: true
+  xy: 332, 4
+  size: 9, 43
+  orig: 9, 43
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx6
+  rotate: true
+  xy: 788, 67
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx7
+  rotate: false
+  xy: 922, 160
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx8
+  rotate: true
+  xy: 647, 2
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/tx9
+  rotate: true
+  xy: 873, 205
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/yilinginner
+  rotate: true
+  xy: 932, 51
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/yilingout
+  rotate: true
+  xy: 677, 2
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Lina/Lina_Wizard/Lina_Wizard_04/yinying
+  rotate: true
+  xy: 695, 208
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1

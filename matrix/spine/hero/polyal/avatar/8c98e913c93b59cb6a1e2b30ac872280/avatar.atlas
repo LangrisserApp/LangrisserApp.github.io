@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Polyal_Healer_3/Shadow
+  rotate: true
+  xy: 193, 267
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/arminnerdown
+  rotate: false
+  xy: 179, 43
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/arminnerup
+  rotate: false
+  xy: 163, 122
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/armoutdown
+  rotate: false
+  xy: 216, 222
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/armoutup
+  rotate: false
+  xy: 477, 272
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/body
+  rotate: false
+  xy: 99, 260
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/earinner
+  rotate: true
+  xy: 163, 160
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/earout
+  rotate: true
+  xy: 258, 286
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/eyebrow
+  rotate: true
+  xy: 501, 437
+  size: 73, 9
+  orig: 73, 9
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/eyehard
+  rotate: true
+  xy: 162, 192
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/eyehard1
+  rotate: false
+  xy: 151, 343
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/eyehard2
+  rotate: true
+  xy: 189, 191
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/eyehard3
+  rotate: true
+  xy: 155, 122
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/eyesffuer
+  rotate: true
+  xy: 142, 45
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/eyeyun
+  rotate: true
+  xy: 158, 268
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/face
+  rotate: true
+  xy: 300, 318
+  size: 122, 134
+  orig: 122, 134
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair
+  rotate: false
+  xy: 99, 187
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair1
+  rotate: false
+  xy: 57, 35
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair2
+  rotate: true
+  xy: 2, 2
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair3
+  rotate: true
+  xy: 227, 337
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair4
+  rotate: false
+  xy: 2, 125
+  size: 95, 215
+  orig: 95, 215
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair5
+  rotate: true
+  xy: 99, 2
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair6
+  rotate: false
+  xy: 2, 35
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/hair7
+  rotate: true
+  xy: 300, 442
+  size: 68, 199
+  orig: 68, 199
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/handinner
+  rotate: false
+  xy: 264, 262
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/handinner1
+  rotate: false
+  xy: 288, 261
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/handout
+  rotate: false
+  xy: 216, 201
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/jiao1
+  rotate: false
+  xy: 220, 282
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/jiao2
+  rotate: false
+  xy: 179, 72
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/jiaoh
+  rotate: true
+  xy: 77, 2
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/jiaoh1
+  rotate: true
+  xy: 189, 160
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/leginnerdown
+  rotate: true
+  xy: 220, 252
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/leginnerup
+  rotate: true
+  xy: 293, 285
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/legoutdown
+  rotate: false
+  xy: 392, 273
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/legoutup
+  rotate: true
+  xy: 429, 277
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/mouth01
+  rotate: true
+  xy: 202, 142
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/mouth02
+  rotate: true
+  xy: 293, 352
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/mouth04
+  rotate: true
+  xy: 495, 421
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/toushi1
+  rotate: true
+  xy: 436, 313
+  size: 127, 57
+  orig: 127, 57
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/tuiinner1
+  rotate: true
+  xy: 249, 227
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/tuiout1
+  rotate: false
+  xy: 312, 265
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/weapon
+  rotate: false
+  xy: 151, 366
+  size: 147, 144
+  orig: 147, 144
+  offset: 0, 0
+  index: -1
+Polyal_Healer_3/yaodai
+  rotate: true
+  xy: 99, 45
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Polyal_Healer_4/mao
+  rotate: false
+  xy: 172, 7
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Polyal_Healer_4/toushi5
+  rotate: false
+  xy: 343, 274
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Polyal_Healer_4/toushi6
+  rotate: true
+  xy: 99, 120
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+Polyal_Healer_4/weapon
+  rotate: false
+  xy: 2, 342
+  size: 147, 168
+  orig: 147, 168
+  offset: 0, 0
+  index: -1

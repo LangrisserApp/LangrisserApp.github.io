@@ -1,0 +1,223 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Touma/Sora/Touma_Sora_03/Shadow
+  rotate: false
+  xy: 422, 337
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/arminnerdown
+  rotate: true
+  xy: 266, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/arminnerup
+  rotate: false
+  xy: 801, 369
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/armoutdown
+  rotate: true
+  xy: 888, 377
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/armoutup
+  rotate: false
+  xy: 313, 126
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/body
+  rotate: true
+  xy: 335, 306
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/eyebrow
+  rotate: true
+  xy: 313, 213
+  size: 82, 17
+  orig: 82, 17
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/eyehard
+  rotate: false
+  xy: 922, 454
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/eyehard1
+  rotate: false
+  xy: 422, 311
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/eyehard2
+  rotate: false
+  xy: 838, 411
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/eyehard3
+  rotate: false
+  xy: 600, 370
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/eyesffuer
+  rotate: false
+  xy: 754, 404
+  size: 82, 32
+  orig: 82, 32
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/eyeyun
+  rotate: false
+  xy: 922, 480
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/face
+  rotate: true
+  xy: 600, 381
+  size: 129, 152
+  orig: 129, 152
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/hair
+  rotate: false
+  xy: 220, 33
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/hair1
+  rotate: false
+  xy: 842, 371
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/hair2
+  rotate: true
+  xy: 220, 2
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/handinner
+  rotate: true
+  xy: 950, 432
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/handout
+  rotate: false
+  xy: 922, 430
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/leginnerdown
+  rotate: true
+  xy: 498, 331
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/leginnerup
+  rotate: false
+  xy: 313, 169
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/legoutdown
+  rotate: true
+  xy: 754, 372
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/legoutup
+  rotate: true
+  xy: 547, 324
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/mouth01
+  rotate: true
+  xy: 993, 460
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/mouth02
+  rotate: false
+  xy: 1006, 502
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_03/mouth04
+  rotate: true
+  xy: 301, 93
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_04/1
+  rotate: false
+  xy: 754, 438
+  size: 166, 72
+  orig: 166, 72
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_04/2
+  rotate: false
+  xy: 2, 6
+  size: 216, 106
+  orig: 216, 106
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_04/3
+  rotate: false
+  xy: 335, 364
+  size: 263, 146
+  orig: 263, 146
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_04/4
+  rotate: false
+  xy: 2, 114
+  size: 309, 181
+  orig: 309, 181
+  offset: 0, 0
+  index: -1
+Touma/Sora/Touma_Sora_04/5
+  rotate: false
+  xy: 2, 297
+  size: 331, 213
+  orig: 331, 213
+  offset: 0, 0
+  index: -1

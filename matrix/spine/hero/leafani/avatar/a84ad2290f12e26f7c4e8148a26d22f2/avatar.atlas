@@ -1,0 +1,356 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leafani/Leafani_Magic/Leafani_Magician_1/eyebrow
+  rotate: true
+  xy: 362, 225
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard
+  rotate: true
+  xy: 265, 319
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard1
+  rotate: true
+  xy: 364, 296
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard2
+  rotate: false
+  xy: 421, 287
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard3
+  rotate: true
+  xy: 113, 15
+  size: 68, 12
+  orig: 68, 12
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyesffuer
+  rotate: true
+  xy: 389, 303
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyeyun
+  rotate: true
+  xy: 127, 38
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/hair4
+  rotate: false
+  xy: 2, 85
+  size: 112, 134
+  orig: 112, 134
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/mouth1
+  rotate: true
+  xy: 504, 366
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/mouth2
+  rotate: true
+  xy: 254, 330
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/body
+  rotate: true
+  xy: 427, 357
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/daizi1
+  rotate: false
+  xy: 127, 13
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/dd
+  rotate: false
+  xy: 368, 366
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/jianjiainner
+  rotate: false
+  xy: 211, 196
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/jianjiaout
+  rotate: false
+  xy: 371, 195
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/maozi1
+  rotate: false
+  xy: 2, 221
+  size: 153, 143
+  orig: 153, 143
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/qunzi1
+  rotate: false
+  xy: 289, 223
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/toushi
+  rotate: true
+  xy: 290, 366
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/tuijiainner
+  rotate: false
+  xy: 491, 271
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/tuijiaout
+  rotate: true
+  xy: 157, 223
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/weapon
+  rotate: false
+  xy: 371, 234
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Hermit_3/yaojiainner
+  rotate: false
+  xy: 180, 189
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/armoutdown
+  rotate: true
+  xy: 255, 202
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/armoutup
+  rotate: false
+  xy: 180, 155
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/body
+  rotate: true
+  xy: 421, 309
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/face
+  rotate: false
+  xy: 160, 389
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/hair1
+  rotate: false
+  xy: 427, 404
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/hair2
+  rotate: true
+  xy: 160, 345
+  size: 42, 103
+  orig: 42, 103
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/handinner
+  rotate: false
+  xy: 206, 227
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/handout
+  rotate: false
+  xy: 465, 234
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/leginnerdown
+  rotate: false
+  xy: 485, 309
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/leginnerup
+  rotate: false
+  xy: 421, 199
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/legoutdown
+  rotate: true
+  xy: 453, 205
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/legoutup
+  rotate: true
+  xy: 368, 372
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/maozi
+  rotate: false
+  xy: 2, 366
+  size: 156, 144
+  orig: 156, 144
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/maozi2
+  rotate: false
+  xy: 290, 406
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/pifeng2
+  rotate: false
+  xy: 2, 4
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/pifenginner
+  rotate: false
+  xy: 157, 245
+  size: 47, 98
+  orig: 47, 98
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/pifengout
+  rotate: false
+  xy: 206, 255
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/qunzi
+  rotate: false
+  xy: 290, 294
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/toujin
+  rotate: true
+  xy: 116, 107
+  size: 112, 35
+  orig: 112, 35
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/toushi
+  rotate: false
+  xy: 157, 54
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/tuijiainner
+  rotate: false
+  xy: 237, 197
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/tuijiaout
+  rotate: false
+  xy: 186, 222
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/weapon
+  rotate: false
+  xy: 420, 242
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Summoner/Leafani_Summoner_2/weijinout
+  rotate: true
+  xy: 254, 250
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/armout1
+  rotate: false
+  xy: 153, 111
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Riana/Riana_Summoner/Riana_Summoner02/armout2
+  rotate: false
+  xy: 245, 224
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Riana/mouth04
+  rotate: true
+  xy: 504, 381
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 153, 145
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

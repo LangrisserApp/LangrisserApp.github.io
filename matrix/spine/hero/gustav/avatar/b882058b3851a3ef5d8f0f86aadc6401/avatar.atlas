@@ -1,0 +1,300 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gustav/Spear/Gustav_Spear_3/arminnerdown
+  rotate: false
+  xy: 236, 204
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/arminnerup
+  rotate: true
+  xy: 388, 304
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/armoutdown
+  rotate: true
+  xy: 241, 232
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/armoutup
+  rotate: false
+  xy: 241, 252
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/body
+  rotate: false
+  xy: 181, 318
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/ear
+  rotate: true
+  xy: 181, 237
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/eyebrow
+  rotate: true
+  xy: 375, 323
+  size: 75, 11
+  orig: 75, 11
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/eyehard
+  rotate: false
+  xy: 391, 399
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/eyehard1
+  rotate: true
+  xy: 163, 70
+  size: 79, 20
+  orig: 79, 20
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/eyehard2
+  rotate: true
+  xy: 185, 83
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/eyehard3
+  rotate: true
+  xy: 127, 2
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/eyesffuer
+  rotate: true
+  xy: 470, 435
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/eyeyun
+  rotate: true
+  xy: 127, 74
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/face
+  rotate: false
+  xy: 2, 89
+  size: 123, 141
+  orig: 123, 141
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/hair
+  rotate: true
+  xy: 2, 2
+  size: 85, 123
+  orig: 85, 123
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/hair1
+  rotate: true
+  xy: 458, 331
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/hair2
+  rotate: false
+  xy: 127, 151
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/hairinner
+  rotate: false
+  xy: 2, 232
+  size: 177, 166
+  orig: 177, 166
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/handinner
+  rotate: false
+  xy: 236, 179
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/handout
+  rotate: false
+  xy: 339, 307
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/huaninner
+  rotate: false
+  xy: 312, 308
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/huaninner1
+  rotate: true
+  xy: 291, 297
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/huanout
+  rotate: false
+  xy: 148, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/huanout1
+  rotate: false
+  xy: 185, 70
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/jianjiaout
+  rotate: true
+  xy: 148, 17
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/leginnerdown
+  rotate: true
+  xy: 242, 296
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/leginnerup
+  rotate: true
+  xy: 458, 354
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/legoutdown
+  rotate: false
+  xy: 278, 247
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/legoutup
+  rotate: false
+  xy: 471, 387
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/mouth01
+  rotate: false
+  xy: 213, 79
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/mouth02
+  rotate: false
+  xy: 458, 390
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/mouth04
+  rotate: true
+  xy: 449, 325
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/pifengout
+  rotate: false
+  xy: 310, 329
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/pifengout1
+  rotate: true
+  xy: 181, 163
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/weapon
+  rotate: false
+  xy: 2, 400
+  size: 387, 110
+  orig: 387, 110
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/xiabaiinner
+  rotate: false
+  xy: 391, 427
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/xiabaiout
+  rotate: true
+  xy: 275, 234
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/xiabaiout1
+  rotate: false
+  xy: 388, 339
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/xiabaiout2
+  rotate: false
+  xy: 242, 325
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/yadai
+  rotate: true
+  xy: 426, 342
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Gustav/Spear/Gustav_Spear_3/yaoshi
+  rotate: true
+  xy: 428, 302
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 213, 87
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

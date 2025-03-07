@@ -1,0 +1,440 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 231, 383
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/arminnerdown
+  rotate: false
+  xy: 193, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/arminnerup
+  rotate: true
+  xy: 310, 309
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/armoutdown
+  rotate: true
+  xy: 328, 264
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/armoutup
+  rotate: true
+  xy: 364, 213
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/body
+  rotate: true
+  xy: 80, 70
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/eyebrow
+  rotate: false
+  xy: 384, 351
+  size: 43, 8
+  orig: 43, 8
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/eyehard
+  rotate: true
+  xy: 283, 309
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/eyehard1
+  rotate: false
+  xy: 198, 91
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/eyehard2
+  rotate: false
+  xy: 198, 71
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/eyehard3
+  rotate: true
+  xy: 184, 6
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/eyesffuer
+  rotate: false
+  xy: 221, 222
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/eyeyun
+  rotate: false
+  xy: 282, 177
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/face
+  rotate: false
+  xy: 2, 382
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/g
+  rotate: false
+  xy: 220, 320
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair1
+  rotate: false
+  xy: 221, 253
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair10
+  rotate: false
+  xy: 334, 220
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair2
+  rotate: false
+  xy: 149, 73
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair3
+  rotate: true
+  xy: 332, 392
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair4
+  rotate: false
+  xy: 80, 121
+  size: 51, 88
+  orig: 51, 88
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair5
+  rotate: true
+  xy: 396, 213
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair6
+  rotate: false
+  xy: 2, 211
+  size: 77, 169
+  orig: 77, 169
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair7
+  rotate: true
+  xy: 429, 352
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair8
+  rotate: true
+  xy: 332, 444
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hair9
+  rotate: false
+  xy: 149, 295
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/handinner
+  rotate: true
+  xy: 343, 176
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/handout
+  rotate: false
+  xy: 372, 177
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/handout1
+  rotate: false
+  xy: 346, 321
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/handout2
+  rotate: true
+  xy: 307, 384
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hat
+  rotate: false
+  xy: 231, 410
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/hat1
+  rotate: false
+  xy: 429, 419
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/leginnerdown
+  rotate: true
+  xy: 384, 321
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/leginnerup
+  rotate: false
+  xy: 397, 281
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/legoutdown
+  rotate: false
+  xy: 310, 335
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/legoutup
+  rotate: false
+  xy: 358, 284
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/mouth01
+  rotate: false
+  xy: 149, 286
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/mouth02
+  rotate: true
+  xy: 122, 382
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/mouth04
+  rotate: true
+  xy: 167, 274
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/pifeng
+  rotate: false
+  xy: 173, 214
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/pifeng1
+  rotate: false
+  xy: 181, 136
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/pifeng2
+  rotate: true
+  xy: 81, 271
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/pijian
+  rotate: false
+  xy: 277, 258
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/pijian1
+  rotate: false
+  xy: 193, 27
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/pijian2
+  rotate: false
+  xy: 223, 118
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/weapon
+  rotate: false
+  xy: 223, 171
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/xiabai
+  rotate: false
+  xy: 259, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/xiabai1
+  rotate: false
+  xy: 396, 241
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_3/xiabai2
+  rotate: true
+  xy: 2, 3
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/arminnerdown
+  rotate: false
+  xy: 226, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/armoutdown
+  rotate: false
+  xy: 384, 361
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/bao
+  rotate: true
+  xy: 364, 242
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/body
+  rotate: false
+  xy: 133, 2
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/hat
+  rotate: false
+  xy: 122, 398
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/hat1
+  rotate: true
+  xy: 334, 207
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/pifeng
+  rotate: true
+  xy: 81, 211
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/pifeng1
+  rotate: false
+  xy: 133, 125
+  size: 46, 84
+  orig: 46, 84
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/pifeng2
+  rotate: true
+  xy: 2, 84
+  size: 125, 76
+  orig: 125, 76
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/pijian
+  rotate: false
+  xy: 283, 207
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/pijian1
+  rotate: false
+  xy: 235, 27
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/weapon
+  rotate: false
+  xy: 72, 2
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/xiabai4
+  rotate: true
+  xy: 446, 419
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+WhiteSissi/Hermit/WhiteSissi_Hermit_4/yumao
+  rotate: false
+  xy: 339, 357
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,454 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/arminnerdown
+  rotate: false
+  xy: 731, 311
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/armoutdown
+  rotate: true
+  xy: 601, 289
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/body
+  rotate: false
+  xy: 497, 317
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/jianjiainner
+  rotate: false
+  xy: 228, 13
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/jianjiainner1
+  rotate: true
+  xy: 307, 299
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/jianjiainnerinner
+  rotate: true
+  xy: 702, 291
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/jianjiaout
+  rotate: true
+  xy: 914, 417
+  size: 93, 99
+  orig: 93, 99
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/jianjiaout1
+  rotate: false
+  xy: 155, 114
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/leginnerdown
+  rotate: false
+  xy: 377, 37
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/leginnerup
+  rotate: true
+  xy: 302, 15
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/legoutdown
+  rotate: false
+  xy: 731, 335
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/legoutup
+  rotate: true
+  xy: 757, 392
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/pifeng
+  rotate: false
+  xy: 530, 398
+  size: 142, 112
+  orig: 142, 112
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/pifenginner
+  rotate: false
+  xy: 155, 2
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/pifengout
+  rotate: true
+  xy: 797, 433
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/toushi
+  rotate: false
+  xy: 403, 320
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_DeamonLord_3/weapon
+  rotate: false
+  xy: 2, 345
+  size: 303, 165
+  orig: 303, 165
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/arminnerdown
+  rotate: false
+  xy: 569, 290
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/armoutdown
+  rotate: true
+  xy: 661, 286
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/body
+  rotate: true
+  xy: 660, 337
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/jianjiainner
+  rotate: false
+  xy: 343, 155
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/jianjiainner1
+  rotate: false
+  xy: 356, 220
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/jianjiaout
+  rotate: false
+  xy: 282, 220
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/jianjiaout1
+  rotate: true
+  xy: 914, 394
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/leginnerdown
+  rotate: false
+  xy: 344, 37
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/leginnerup
+  rotate: true
+  xy: 662, 307
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/legoutdown
+  rotate: false
+  xy: 282, 299
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/legoutup
+  rotate: true
+  xy: 815, 394
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/pifeng
+  rotate: false
+  xy: 674, 419
+  size: 121, 91
+  orig: 121, 91
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/pifenginner
+  rotate: true
+  xy: 674, 380
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/pifengout
+  rotate: true
+  xy: 348, 107
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Deamon_2/weapon
+  rotate: false
+  xy: 2, 220
+  size: 278, 123
+  orig: 278, 123
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/arminnerdown
+  rotate: false
+  xy: 702, 313
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/arminnerup
+  rotate: true
+  xy: 634, 286
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/armoutdown
+  rotate: true
+  xy: 343, 16
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/armoutup
+  rotate: true
+  xy: 534, 290
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/body
+  rotate: false
+  xy: 302, 45
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/eyebrow
+  rotate: false
+  xy: 228, 2
+  size: 61, 9
+  orig: 61, 9
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/eyehard
+  rotate: false
+  xy: 403, 300
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/eyehard1
+  rotate: false
+  xy: 540, 314
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/eyehard2
+  rotate: false
+  xy: 797, 419
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/eyehard3
+  rotate: false
+  xy: 344, 57
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/eyesffuer
+  rotate: true
+  xy: 130, 11
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/eyeyun
+  rotate: false
+  xy: 344, 81
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/face
+  rotate: false
+  xy: 2, 77
+  size: 151, 141
+  orig: 151, 141
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/hair1
+  rotate: true
+  xy: 2, 6
+  size: 69, 126
+  orig: 69, 126
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/hair2
+  rotate: false
+  xy: 602, 334
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/hair3
+  rotate: false
+  xy: 790, 354
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/hair4
+  rotate: true
+  xy: 870, 396
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/handinner
+  rotate: true
+  xy: 471, 298
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/handout
+  rotate: true
+  xy: 497, 294
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/jianjiainner
+  rotate: false
+  xy: 540, 334
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/jianjiainnerinner
+  rotate: true
+  xy: 762, 315
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/jianjiaout
+  rotate: false
+  xy: 272, 143
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/leginnerdown
+  rotate: false
+  xy: 375, 18
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/leginnerup
+  rotate: false
+  xy: 759, 352
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/legoutdown
+  rotate: true
+  xy: 971, 396
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/legoutup
+  rotate: true
+  xy: 608, 310
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/mouth01
+  rotate: false
+  xy: 759, 340
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/mouth02
+  rotate: false
+  xy: 291, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/mouth04
+  rotate: true
+  xy: 726, 292
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Flakia/Flakia_Deamon/Flakia_Magician_1/weapon
+  rotate: false
+  xy: 307, 388
+  size: 221, 122
+  orig: 221, 122
+  offset: 0, 0
+  index: -1
+Flakia/dd
+  rotate: false
+  xy: 530, 392
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 272, 116
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

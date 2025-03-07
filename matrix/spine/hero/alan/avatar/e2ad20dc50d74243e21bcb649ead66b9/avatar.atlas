@@ -1,0 +1,230 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alan/Alan_Shield/Alan_ShieldMan_2/arminnerdown
+  rotate: false
+  xy: 361, 93
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/arminnerup
+  rotate: true
+  xy: 420, 101
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/armoutdown
+  rotate: false
+  xy: 271, 98
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/armoutup
+  rotate: true
+  xy: 387, 97
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/body
+  rotate: true
+  xy: 210, 131
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/handinner
+  rotate: true
+  xy: 85, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/handout
+  rotate: true
+  xy: 110, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/handout1
+  rotate: false
+  xy: 266, 61
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/hudang
+  rotate: false
+  xy: 132, 2
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/jianjiainner
+  rotate: false
+  xy: 465, 129
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/jianjiaout
+  rotate: false
+  xy: 132, 41
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/leginnerdown
+  rotate: false
+  xy: 192, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/leginnerup
+  rotate: true
+  xy: 214, 12
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/legoutdown
+  rotate: false
+  xy: 164, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/legoutup
+  rotate: true
+  xy: 214, 93
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/pifeng
+  rotate: false
+  xy: 321, 143
+  size: 142, 111
+  orig: 142, 111
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/weapon1
+  rotate: false
+  xy: 132, 179
+  size: 187, 75
+  orig: 187, 75
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/weapon2
+  rotate: true
+  xy: 2, 25
+  size: 76, 107
+  orig: 76, 107
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/yaojiainner
+  rotate: true
+  xy: 321, 101
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+Alan/Alan_Shield/Alan_ShieldMan_2/yaojiaout
+  rotate: false
+  xy: 280, 130
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Alan/eyebrow
+  rotate: false
+  xy: 2, 4
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Alan/eyehard
+  rotate: true
+  xy: 111, 37
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Alan/eyehard1
+  rotate: false
+  xy: 321, 122
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Alan/eyehard2
+  rotate: false
+  xy: 387, 125
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Alan/eyehard3
+  rotate: true
+  xy: 312, 115
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Alan/eyesffuer
+  rotate: true
+  xy: 465, 174
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Alan/eyeyun
+  rotate: false
+  xy: 132, 93
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Alan/face
+  rotate: false
+  xy: 2, 103
+  size: 128, 151
+  orig: 128, 151
+  offset: 0, 0
+  index: -1
+Alan/hair1
+  rotate: false
+  xy: 190, 39
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Alan/hair2
+  rotate: true
+  xy: 132, 127
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+Alan/huzi
+  rotate: false
+  xy: 271, 83
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 190, 66
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

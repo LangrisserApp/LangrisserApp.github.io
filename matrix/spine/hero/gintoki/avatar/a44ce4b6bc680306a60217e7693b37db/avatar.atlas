@@ -1,0 +1,307 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/arminnerdown
+  rotate: false
+  xy: 231, 3
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/arminnerdown1
+  rotate: true
+  xy: 750, 303
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/arminnerup
+  rotate: true
+  xy: 612, 310
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/armoutdown
+  rotate: false
+  xy: 352, 240
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/armoutup
+  rotate: false
+  xy: 663, 310
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/body
+  rotate: true
+  xy: 783, 341
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/eyebrow
+  rotate: true
+  xy: 327, 54
+  size: 79, 11
+  orig: 79, 11
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/eyehard
+  rotate: false
+  xy: 412, 255
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/eyehard1
+  rotate: false
+  xy: 39, 7
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/eyehard2
+  rotate: false
+  xy: 109, 9
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/eyehard3
+  rotate: true
+  xy: 340, 66
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/eyesffuer
+  rotate: true
+  xy: 327, 212
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/eyeyun
+  rotate: true
+  xy: 327, 135
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/hair1
+  rotate: true
+  xy: 534, 299
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/hair2
+  rotate: false
+  xy: 177, 20
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/handinner
+  rotate: true
+  xy: 397, 211
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/handinner1
+  rotate: false
+  xy: 785, 309
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/handinner2
+  rotate: true
+  xy: 488, 259
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/handinner4
+  rotate: false
+  xy: 397, 186
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/handout
+  rotate: false
+  xy: 393, 163
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/head
+  rotate: false
+  xy: 866, 346
+  size: 156, 164
+  orig: 156, 164
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/leginnerdown
+  rotate: true
+  xy: 704, 303
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/leginnerup
+  rotate: false
+  xy: 535, 259
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/legoutdown
+  rotate: false
+  xy: 580, 254
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/legoutup
+  rotate: false
+  xy: 352, 140
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/lignzi
+  rotate: false
+  xy: 624, 346
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/mouth01
+  rotate: true
+  xy: 857, 379
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/mouth02
+  rotate: true
+  xy: 327, 35
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/mouth03
+  rotate: false
+  xy: 612, 300
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/mouth04
+  rotate: false
+  xy: 39, 2
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/pidai
+  rotate: false
+  xy: 177, 2
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/pidai2
+  rotate: false
+  xy: 2, 2
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/qunbaiinner
+  rotate: true
+  xy: 257, 20
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/qunbaiinner1
+  rotate: false
+  xy: 352, 187
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/qunbaiout
+  rotate: false
+  xy: 706, 333
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/weapon
+  rotate: false
+  xy: 349, 298
+  size: 183, 58
+  orig: 183, 58
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_3/yifu
+  rotate: true
+  xy: 818, 312
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_4/1
+  rotate: false
+  xy: 2, 23
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_4/2
+  rotate: false
+  xy: 624, 401
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Yorozuya/Gintoki_Yorozuya_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 412, 271
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

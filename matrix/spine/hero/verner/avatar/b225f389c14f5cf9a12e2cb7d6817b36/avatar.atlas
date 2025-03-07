@@ -1,0 +1,657 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 906, 391
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/arminnerdown
+  rotate: false
+  xy: 725, 272
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/arminnerdown2
+  rotate: false
+  xy: 595, 256
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/armoutdown
+  rotate: false
+  xy: 269, 107
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/armoutup
+  rotate: false
+  xy: 239, 91
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/body
+  rotate: false
+  xy: 220, 155
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/body2
+  rotate: false
+  xy: 553, 363
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/handinner
+  rotate: true
+  xy: 341, 37
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/handout
+  rotate: true
+  xy: 418, 131
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/handout2
+  rotate: false
+  xy: 270, 37
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/jianjiainner
+  rotate: false
+  xy: 630, 290
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/jianjiainner2
+  rotate: false
+  xy: 400, 160
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/jianjiaout
+  rotate: false
+  xy: 305, 105
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/jianjiaout2
+  rotate: false
+  xy: 338, 131
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/jianjiaout3
+  rotate: false
+  xy: 52, 2
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/leginnerup
+  rotate: false
+  xy: 463, 211
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/legoutup
+  rotate: true
+  xy: 676, 276
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/lingziinner
+  rotate: false
+  xy: 381, 105
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/lingziout2
+  rotate: false
+  xy: 167, 2
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/weapon1
+  rotate: true
+  xy: 92, 129
+  size: 199, 75
+  orig: 199, 75
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_2/weapon2
+  rotate: true
+  xy: 436, 192
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/arminnerdown
+  rotate: true
+  xy: 303, 37
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/arminnerdown2
+  rotate: true
+  xy: 378, 131
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/armoutdown
+  rotate: false
+  xy: 270, 69
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/body
+  rotate: false
+  xy: 392, 259
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/body2
+  rotate: false
+  xy: 615, 364
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/jianjiainner2
+  rotate: false
+  xy: 197, 92
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/jianjiaout
+  rotate: false
+  xy: 630, 322
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/leginnerdown
+  rotate: true
+  xy: 110, 2
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/legoutdown
+  rotate: false
+  xy: 559, 263
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/lingziinner
+  rotate: true
+  xy: 980, 325
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/lingziout
+  rotate: false
+  xy: 367, 27
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/pifeng2
+  rotate: false
+  xy: 409, 431
+  size: 142, 79
+  orig: 142, 79
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/pifenginner
+  rotate: false
+  xy: 345, 327
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/pifenginner2
+  rotate: false
+  xy: 275, 233
+  size: 55, 97
+  orig: 55, 97
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/pifengout
+  rotate: true
+  xy: 2, 22
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/pifengout2
+  rotate: false
+  xy: 437, 328
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/qunbai2
+  rotate: false
+  xy: 92, 86
+  size: 103, 41
+  orig: 103, 41
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/weapon1
+  rotate: false
+  xy: 192, 425
+  size: 215, 85
+  orig: 215, 85
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_3/weapon2
+  rotate: false
+  xy: 553, 335
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/arminnerdown
+  rotate: false
+  xy: 335, 67
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/arminnerdown2
+  rotate: true
+  xy: 365, 77
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/arminnerup
+  rotate: false
+  xy: 723, 229
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/arminnerup2
+  rotate: true
+  xy: 463, 149
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/armoutdown
+  rotate: false
+  xy: 303, 67
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/armoutup
+  rotate: false
+  xy: 236, 51
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/armoutup2
+  rotate: false
+  xy: 204, 49
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/body
+  rotate: false
+  xy: 453, 260
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/body2
+  rotate: false
+  xy: 332, 257
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/eyebrow
+  rotate: false
+  xy: 909, 418
+  size: 77, 15
+  orig: 77, 15
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/eyehard
+  rotate: false
+  xy: 677, 333
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/eyehard1
+  rotate: false
+  xy: 677, 310
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/eyehard2
+  rotate: false
+  xy: 906, 372
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/eyehard3
+  rotate: false
+  xy: 522, 317
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/eyesffuer
+  rotate: false
+  xy: 771, 389
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/eyeyun
+  rotate: false
+  xy: 677, 355
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/face
+  rotate: false
+  xy: 2, 330
+  size: 188, 180
+  orig: 188, 180
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/hair1
+  rotate: true
+  xy: 553, 433
+  size: 77, 122
+  orig: 77, 122
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/hair2
+  rotate: true
+  xy: 677, 384
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/handinner
+  rotate: true
+  xy: 436, 166
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/handinner2
+  rotate: false
+  xy: 421, 104
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/handout
+  rotate: false
+  xy: 783, 361
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/handout2
+  rotate: true
+  xy: 755, 355
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/jiandai
+  rotate: true
+  xy: 522, 335
+  size: 94, 29
+  orig: 94, 29
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/jiandai2
+  rotate: false
+  xy: 753, 338
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/jianjiainner2
+  rotate: false
+  xy: 512, 264
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/jianjiaout
+  rotate: false
+  xy: 336, 199
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/kua
+  rotate: false
+  xy: 338, 105
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/leginnerdown
+  rotate: true
+  xy: 849, 384
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/leginnerup
+  rotate: true
+  xy: 674, 228
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/legoutdown
+  rotate: false
+  xy: 988, 380
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/legoutup
+  rotate: true
+  xy: 463, 177
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/lingziinner
+  rotate: true
+  xy: 281, 169
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/lingziinner2
+  rotate: false
+  xy: 367, 48
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/lingziout
+  rotate: false
+  xy: 281, 143
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/lingziout2
+  rotate: true
+  xy: 169, 141
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/mouth01
+  rotate: true
+  xy: 444, 131
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/mouth02
+  rotate: false
+  xy: 444, 150
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/mouth04
+  rotate: false
+  xy: 82, 14
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/pifeng2
+  rotate: false
+  xy: 192, 332
+  size: 151, 91
+  orig: 151, 91
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/pifenginner
+  rotate: true
+  xy: 677, 419
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/pifenginner2
+  rotate: false
+  xy: 218, 223
+  size: 55, 107
+  orig: 55, 107
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/pifengout
+  rotate: true
+  xy: 909, 435
+  size: 75, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/pifengout2
+  rotate: true
+  xy: 793, 419
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/qunbai2
+  rotate: true
+  xy: 169, 213
+  size: 115, 47
+  orig: 115, 47
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/qunbaiinner
+  rotate: false
+  xy: 392, 200
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/qunbaiout
+  rotate: true
+  xy: 336, 160
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/weapon1
+  rotate: true
+  xy: 2, 86
+  size: 242, 88
+  orig: 242, 88
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/weapon2
+  rotate: false
+  xy: 110, 36
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/yaodai
+  rotate: false
+  xy: 2, 2
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/yaodai2
+  rotate: false
+  xy: 220, 134
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/yaojiainner
+  rotate: false
+  xy: 595, 296
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Verner/Verner_Hero/Verner_Hero_4/yaojiaout
+  rotate: true
+  xy: 629, 251
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1

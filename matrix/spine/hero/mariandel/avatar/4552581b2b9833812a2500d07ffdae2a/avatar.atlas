@@ -1,0 +1,391 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/arminnerdown
+  rotate: false
+  xy: 329, 41
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/arminnerup
+  rotate: false
+  xy: 322, 121
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/armoutdown
+  rotate: false
+  xy: 291, 27
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/armoutup
+  rotate: true
+  xy: 294, 2
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/body
+  rotate: false
+  xy: 466, 316
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/bodydown
+  rotate: true
+  xy: 297, 125
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/eyebrow
+  rotate: true
+  xy: 340, 229
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/eyehard
+  rotate: false
+  xy: 150, 6
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/eyehard1
+  rotate: true
+  xy: 385, 242
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/eyehard2
+  rotate: true
+  xy: 410, 242
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/eyehard3
+  rotate: true
+  xy: 450, 249
+  size: 63, 8
+  orig: 63, 8
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/eyesffuer
+  rotate: true
+  xy: 190, 114
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/eyeyun
+  rotate: false
+  xy: 223, 162
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/face
+  rotate: false
+  xy: 344, 382
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/hair1
+  rotate: false
+  xy: 412, 314
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/hair2
+  rotate: true
+  xy: 223, 125
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/hair3
+  rotate: true
+  xy: 233, 25
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/hair4
+  rotate: true
+  xy: 180, 291
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/hair5
+  rotate: true
+  xy: 89, 193
+  size: 75, 112
+  orig: 75, 112
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/hair6
+  rotate: false
+  xy: 180, 376
+  size: 162, 134
+  orig: 162, 134
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/handinner
+  rotate: true
+  xy: 364, 179
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/handinner2
+  rotate: false
+  xy: 385, 214
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/handout
+  rotate: true
+  xy: 329, 162
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/handout2
+  rotate: true
+  xy: 302, 162
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/leginnerdown
+  rotate: true
+  xy: 466, 296
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/leginnerup
+  rotate: false
+  xy: 340, 184
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/legoutdown
+  rotate: false
+  xy: 364, 207
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/legoutup
+  rotate: false
+  xy: 314, 187
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/mouth01
+  rotate: true
+  xy: 329, 27
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/mouth02
+  rotate: true
+  xy: 81, 90
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/mouth03
+  rotate: false
+  xy: 81, 85
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/mouth04
+  rotate: false
+  xy: 496, 287
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/pifeng
+  rotate: true
+  xy: 308, 236
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/pifeng2
+  rotate: true
+  xy: 203, 236
+  size: 53, 103
+  orig: 53, 103
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/pifeng3
+  rotate: true
+  xy: 203, 195
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/pifeng4
+  rotate: false
+  xy: 81, 108
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/qunzi1
+  rotate: false
+  xy: 281, 72
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/qunzi2
+  rotate: false
+  xy: 463, 437
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/qunzi3
+  rotate: true
+  xy: 219, 4
+  size: 19, 73
+  orig: 19, 73
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/qunzi4
+  rotate: true
+  xy: 150, 31
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/toushi
+  rotate: false
+  xy: 233, 69
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_3/weapon
+  rotate: false
+  xy: 89, 270
+  size: 89, 240
+  orig: 89, 240
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/arminnerdown
+  rotate: false
+  xy: 341, 2
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/armoutdown
+  rotate: false
+  xy: 460, 251
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/pifeng
+  rotate: true
+  xy: 353, 246
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/pifeng2
+  rotate: true
+  xy: 2, 3
+  size: 78, 94
+  orig: 78, 94
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/pifeng3
+  rotate: false
+  xy: 98, 9
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/pifeng4
+  rotate: true
+  xy: 2, 83
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/qunzi1
+  rotate: false
+  xy: 466, 374
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/qunzi2
+  rotate: false
+  xy: 305, 301
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/qunzi3
+  rotate: false
+  xy: 428, 244
+  size: 20, 68
+  orig: 20, 68
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/toushi
+  rotate: false
+  xy: 352, 311
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/weapon
+  rotate: false
+  xy: 2, 217
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+Mariandel/PrimalInvoker/Mariandel_PrimalInvoker_4/yaoshi
+  rotate: true
+  xy: 322, 80
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 206, 38
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,370 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 274, 6
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/AnimalBone
+  rotate: true
+  xy: 294, 254
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/AnimalBone_body
+  rotate: false
+  xy: 157, 225
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/AnimalBone_head
+  rotate: false
+  xy: 2, 215
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/AnimalBone_saddle
+  rotate: false
+  xy: 359, 445
+  size: 142, 65
+  orig: 142, 65
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/arminnerdown
+  rotate: true
+  xy: 350, 3
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/armoutdown
+  rotate: false
+  xy: 473, 269
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/handinner
+  rotate: true
+  xy: 471, 35
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/handout
+  rotate: false
+  xy: 101, 9
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/jianjiainner
+  rotate: false
+  xy: 444, 108
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/jianjiaout
+  rotate: true
+  xy: 306, 100
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_03/light1
+  rotate: true
+  xy: 420, 266
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/AnimalBone
+  rotate: true
+  xy: 2, 31
+  size: 182, 95
+  orig: 182, 95
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/AnimalBone_body
+  rotate: true
+  xy: 167, 92
+  size: 131, 71
+  orig: 131, 71
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/AnimalBone_head
+  rotate: false
+  xy: 2, 361
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/AnimalBone_head1
+  rotate: false
+  xy: 366, 350
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/AnimalBone_head2
+  rotate: true
+  xy: 241, 33
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/AnimalBone_saddle
+  rotate: false
+  xy: 157, 421
+  size: 200, 89
+  orig: 200, 89
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/arminnerdown
+  rotate: false
+  xy: 439, 38
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/arminnerup
+  rotate: false
+  xy: 417, 53
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/armoutdown
+  rotate: true
+  xy: 241, 2
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/armoutup
+  rotate: true
+  xy: 52, 10
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/body
+  rotate: false
+  xy: 306, 170
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/eyebrow
+  rotate: true
+  xy: 222, 4
+  size: 86, 17
+  orig: 86, 17
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/eyehard
+  rotate: true
+  xy: 414, 175
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/eyehard1
+  rotate: true
+  xy: 352, 95
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/eyehard2
+  rotate: true
+  xy: 286, 36
+  size: 73, 17
+  orig: 73, 17
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/eyehard3
+  rotate: true
+  xy: 503, 447
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/eyesffuer
+  rotate: true
+  xy: 436, 178
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/eyeyun
+  rotate: true
+  xy: 469, 178
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/face
+  rotate: false
+  xy: 157, 286
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/hair1
+  rotate: false
+  xy: 439, 63
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/hair2
+  rotate: false
+  xy: 362, 176
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/hair3
+  rotate: false
+  xy: 167, 2
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/hair4
+  rotate: false
+  xy: 366, 250
+  size: 52, 98
+  orig: 52, 98
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/hair5
+  rotate: false
+  xy: 473, 301
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/hair6
+  rotate: false
+  xy: 486, 74
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/handinner
+  rotate: false
+  xy: 377, 29
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/handout
+  rotate: false
+  xy: 132, 10
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/jianjiainner
+  rotate: false
+  xy: 444, 140
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/jianjiaout
+  rotate: true
+  xy: 461, 363
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/legoutdown
+  rotate: false
+  xy: 349, 35
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/legoutup
+  rotate: false
+  xy: 376, 52
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/light1
+  rotate: false
+  xy: 2, 2
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/light2
+  rotate: true
+  xy: 414, 109
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/light3
+  rotate: true
+  xy: 305, 33
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/mouth01
+  rotate: true
+  xy: 290, 228
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/mouth02
+  rotate: false
+  xy: 377, 11
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/mouth04
+  rotate: true
+  xy: 359, 427
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/xiabaiout
+  rotate: false
+  xy: 240, 111
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/yaojiaout
+  rotate: true
+  xy: 374, 102
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+Werner/ShiningGeneral/Werner_Shining General_04/yaoshi
+  rotate: false
+  xy: 99, 37
+  size: 66, 176
+  orig: 66, 176
+  offset: 0, 0
+  index: -1

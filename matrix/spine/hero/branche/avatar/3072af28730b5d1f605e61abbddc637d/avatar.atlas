@@ -1,0 +1,363 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Branche_Sword_3/dunpai
+  rotate: false
+  xy: 635, 292
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+Branche_Sword_3/weapon
+  rotate: true
+  xy: 397, 183
+  size: 117, 71
+  orig: 117, 71
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/Shadow
+  rotate: false
+  xy: 632, 265
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/arminnerdown
+  rotate: false
+  xy: 360, 50
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/arminnerup
+  rotate: false
+  xy: 805, 314
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/armoutdown
+  rotate: true
+  xy: 838, 314
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/armoutup
+  rotate: false
+  xy: 805, 349
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/body
+  rotate: true
+  xy: 586, 238
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/dunpai
+  rotate: false
+  xy: 302, 164
+  size: 93, 136
+  orig: 93, 136
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/erhuan
+  rotate: false
+  xy: 569, 207
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/eyebrow
+  rotate: false
+  xy: 397, 170
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/eyehard
+  rotate: false
+  xy: 132, 10
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/eyehard1
+  rotate: false
+  xy: 50, 9
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/eyehard2
+  rotate: false
+  xy: 302, 139
+  size: 80, 23
+  orig: 80, 23
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/eyehard3
+  rotate: true
+  xy: 384, 93
+  size: 69, 8
+  orig: 69, 8
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/eyesffuer
+  rotate: false
+  xy: 955, 395
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/eyeyun
+  rotate: true
+  xy: 772, 312
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/face
+  rotate: false
+  xy: 566, 372
+  size: 124, 138
+  orig: 124, 138
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair1
+  rotate: false
+  xy: 305, 80
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair2
+  rotate: false
+  xy: 801, 388
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair3
+  rotate: true
+  xy: 874, 392
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair4
+  rotate: false
+  xy: 222, 42
+  size: 81, 95
+  orig: 81, 95
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair5
+  rotate: true
+  xy: 222, 2
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair6
+  rotate: false
+  xy: 354, 81
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair6a
+  rotate: true
+  xy: 801, 427
+  size: 83, 152
+  orig: 83, 152
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair7
+  rotate: true
+  xy: 470, 241
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/hair8
+  rotate: false
+  xy: 692, 381
+  size: 107, 129
+  orig: 107, 129
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/handout
+  rotate: true
+  xy: 749, 294
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/handout1
+  rotate: false
+  xy: 702, 234
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/handoutp
+  rotate: false
+  xy: 772, 288
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/haninner
+  rotate: true
+  xy: 727, 235
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/jianjaiout
+  rotate: false
+  xy: 308, 7
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/jianjiainner
+  rotate: true
+  xy: 708, 259
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/jianjiaout1
+  rotate: false
+  xy: 569, 225
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/leginnerdowm
+  rotate: false
+  xy: 839, 349
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/leginnerup
+  rotate: true
+  xy: 2, 2
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/legoutdown
+  rotate: true
+  xy: 709, 290
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/legoutup
+  rotate: true
+  xy: 305, 48
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/mouth01
+  rotate: false
+  xy: 50, 2
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/mouth02
+  rotate: true
+  xy: 945, 412
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/mouth04
+  rotate: true
+  xy: 214, 15
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/qunzi
+  rotate: false
+  xy: 470, 185
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/toushi
+  rotate: false
+  xy: 955, 430
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/toushi1
+  rotate: true
+  xy: 632, 233
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/toushiinner
+  rotate: false
+  xy: 709, 316
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/tx1
+  rotate: false
+  xy: 315, 302
+  size: 158, 68
+  orig: 158, 68
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/tx2
+  rotate: false
+  xy: 2, 38
+  size: 218, 99
+  orig: 218, 99
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/tx3
+  rotate: false
+  xy: 315, 372
+  size: 249, 138
+  orig: 249, 138
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/tx4
+  rotate: false
+  xy: 2, 139
+  size: 298, 171
+  orig: 298, 171
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/tx5
+  rotate: false
+  xy: 2, 312
+  size: 311, 198
+  orig: 311, 198
+  offset: 0, 0
+  index: -1
+Branche_Sword_4/weapon
+  rotate: false
+  xy: 475, 294
+  size: 158, 76
+  orig: 158, 76
+  offset: 0, 0
+  index: -1

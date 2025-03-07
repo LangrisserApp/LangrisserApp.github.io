@@ -1,0 +1,370 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mariel/Mariel_Saint/Mariel_Saint_3/arminnerdown
+  rotate: false
+  xy: 354, 339
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/arminnerup
+  rotate: false
+  xy: 198, 219
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/armoutdown
+  rotate: true
+  xy: 117, 105
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/armoutup
+  rotate: false
+  xy: 188, 163
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/body
+  rotate: false
+  xy: 99, 230
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/dang
+  rotate: false
+  xy: 228, 144
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/eyebrow
+  rotate: true
+  xy: 146, 156
+  size: 72, 11
+  orig: 72, 11
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/eyehard
+  rotate: true
+  xy: 198, 286
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/eyehard1
+  rotate: false
+  xy: 427, 416
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/eyehard2
+  rotate: false
+  xy: 250, 407
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/eyehard3
+  rotate: true
+  xy: 226, 303
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/eyesffuer
+  rotate: true
+  xy: 99, 293
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/eyeyun
+  rotate: false
+  xy: 250, 373
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/face
+  rotate: false
+  xy: 2, 367
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair1
+  rotate: false
+  xy: 103, 150
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair2
+  rotate: true
+  xy: 250, 432
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair3
+  rotate: false
+  xy: 136, 303
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair4
+  rotate: false
+  xy: 60, 145
+  size: 41, 82
+  orig: 41, 82
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair5
+  rotate: false
+  xy: 241, 317
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair6
+  rotate: false
+  xy: 153, 233
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair7
+  rotate: false
+  xy: 269, 319
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair8
+  rotate: false
+  xy: 2, 229
+  size: 95, 136
+  orig: 95, 136
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/hair9
+  rotate: false
+  xy: 345, 430
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/handinner
+  rotate: false
+  xy: 362, 371
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/handinner2
+  rotate: false
+  xy: 355, 311
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/handout
+  rotate: false
+  xy: 228, 178
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/jianjiainner
+  rotate: false
+  xy: 464, 387
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/jianjiaout
+  rotate: false
+  xy: 368, 393
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/leginnerdown
+  rotate: true
+  xy: 324, 371
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/leginnerup
+  rotate: false
+  xy: 321, 334
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/legoutdown
+  rotate: true
+  xy: 329, 400
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/legoutup
+  rotate: false
+  xy: 219, 377
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/mouth01
+  rotate: true
+  xy: 396, 375
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/mouth02
+  rotate: true
+  xy: 499, 380
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/mouth03
+  rotate: false
+  xy: 136, 293
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/mouth04
+  rotate: true
+  xy: 226, 286
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/page1
+  rotate: true
+  xy: 2, 12
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/page2
+  rotate: false
+  xy: 241, 295
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/page3
+  rotate: true
+  xy: 406, 395
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/page4
+  rotate: false
+  xy: 321, 312
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/page5
+  rotate: false
+  xy: 499, 394
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/texiao
+  rotate: false
+  xy: 138, 419
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/toushi
+  rotate: false
+  xy: 2, 99
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/toushi1
+  rotate: false
+  xy: 74, 29
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/weapon
+  rotate: true
+  xy: 2, 21
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/xiabai
+  rotate: false
+  xy: 427, 444
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/xiabai1
+  rotate: true
+  xy: 60, 100
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/xiabai2
+  rotate: false
+  xy: 138, 366
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/yanjing
+  rotate: true
+  xy: 159, 161
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/yaodai
+  rotate: true
+  xy: 296, 323
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_Saint/Mariel_Saint_3/yaodai2
+  rotate: false
+  xy: 426, 389
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 74, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

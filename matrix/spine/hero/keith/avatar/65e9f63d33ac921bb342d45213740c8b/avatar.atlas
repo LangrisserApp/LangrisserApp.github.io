@@ -1,0 +1,314 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Keith/Keith_SerpentKnight_2/arminnerdown
+  rotate: true
+  xy: 356, 180
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/arminnerup
+  rotate: false
+  xy: 408, 210
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/armoutdown
+  rotate: false
+  xy: 383, 217
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/armoutup
+  rotate: false
+  xy: 341, 224
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/body
+  rotate: true
+  xy: 266, 148
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/jianjiainner
+  rotate: false
+  xy: 208, 121
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/jianjiaout
+  rotate: false
+  xy: 445, 277
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/legoutdown
+  rotate: false
+  xy: 382, 176
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/legoutup
+  rotate: false
+  xy: 485, 211
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/weapon
+  rotate: true
+  xy: 2, 84
+  size: 224, 62
+  orig: 224, 62
+  offset: 0, 0
+  index: -1
+Keith/Keith_SerpentKnight_2/yaojiaout
+  rotate: false
+  xy: 161, 61
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Keith/eyebrow
+  rotate: false
+  xy: 271, 21
+  size: 63, 13
+  orig: 63, 13
+  offset: 0, 0
+  index: -1
+Keith/eyehard
+  rotate: false
+  xy: 271, 4
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Keith/eyehard1
+  rotate: false
+  xy: 441, 260
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Keith/eyehard2
+  rotate: true
+  xy: 342, 163
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+Keith/eyehard3
+  rotate: true
+  xy: 445, 356
+  size: 58, 6
+  orig: 58, 6
+  offset: 0, 0
+  index: -1
+Keith/eyesffuer
+  rotate: false
+  xy: 271, 36
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Keith/eyeyun
+  rotate: false
+  xy: 342, 266
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Keith/face
+  rotate: true
+  xy: 209, 300
+  size: 114, 131
+  orig: 114, 131
+  offset: 0, 0
+  index: -1
+Keith/hair1
+  rotate: false
+  xy: 408, 192
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+Keith/hair2
+  rotate: false
+  xy: 408, 254
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Keith/hair3
+  rotate: false
+  xy: 232, 12
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Keith/mouth01
+  rotate: false
+  xy: 64, 4
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Keith/mouth02
+  rotate: true
+  xy: 332, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Keith/mouth03
+  rotate: false
+  xy: 356, 165
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Keith/mouth04
+  rotate: false
+  xy: 447, 210
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: true
+  xy: 214, 65
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: false
+  xy: 64, 13
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 2, 310
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner
+  rotate: true
+  xy: 268, 75
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: true
+  xy: 208, 164
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: true
+  xy: 154, 8
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: false
+  xy: 66, 121
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_head
+  rotate: false
+  xy: 66, 180
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_kaijia
+  rotate: true
+  xy: 408, 174
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: true
+  xy: 339, 416
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_tuijia
+  rotate: false
+  xy: 447, 216
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: false
+  xy: 66, 63
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: false
+  xy: 457, 328
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_xiongshi
+  rotate: false
+  xy: 342, 304
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: false
+  xy: 266, 205
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: true
+  xy: 2, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 257, 121
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,552 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enya_Bishop_2/body
+  rotate: false
+  xy: 356, 58
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/face
+  rotate: false
+  xy: 832, 367
+  size: 174, 143
+  orig: 174, 143
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/handinner1
+  rotate: true
+  xy: 645, 105
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/handout1
+  rotate: false
+  xy: 651, 163
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/tx1
+  rotate: false
+  xy: 672, 105
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/tx2
+  rotate: false
+  xy: 684, 72
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/tx5
+  rotate: true
+  xy: 579, 47
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/tx7
+  rotate: false
+  xy: 356, 20
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/xiabai2
+  rotate: true
+  xy: 490, 182
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/xiabai3
+  rotate: false
+  xy: 1008, 436
+  size: 10, 74
+  orig: 10, 74
+  offset: 0, 0
+  index: -1
+Enya_Bishop_2/xiabai4
+  rotate: true
+  xy: 743, 215
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/toushi2
+  rotate: false
+  xy: 173, 101
+  size: 140, 78
+  orig: 140, 78
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/toushi3
+  rotate: false
+  xy: 535, 280
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/toushi4
+  rotate: true
+  xy: 560, 338
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/tx1
+  rotate: true
+  xy: 791, 182
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/tx2
+  rotate: true
+  xy: 919, 173
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/tx4
+  rotate: false
+  xy: 579, 65
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/tx5
+  rotate: false
+  xy: 829, 181
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/tx6
+  rotate: true
+  xy: 416, 54
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/tx7
+  rotate: true
+  xy: 327, 193
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/xiabai2
+  rotate: false
+  xy: 371, 235
+  size: 140, 45
+  orig: 140, 45
+  offset: 0, 0
+  index: -1
+Enya_Bishop_3/xiabai3
+  rotate: false
+  xy: 316, 20
+  size: 38, 79
+  orig: 38, 79
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/arminnerdown
+  rotate: true
+  xy: 173, 259
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/arminnerup
+  rotate: true
+  xy: 960, 165
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/armoutdown
+  rotate: false
+  xy: 874, 172
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/armoutup
+  rotate: false
+  xy: 646, 133
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/body
+  rotate: false
+  xy: 462, 58
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/eyebrow
+  rotate: true
+  xy: 1010, 235
+  size: 45, 9
+  orig: 45, 9
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/eyehard
+  rotate: false
+  xy: 599, 216
+  size: 79, 23
+  orig: 79, 23
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/eyehard1
+  rotate: true
+  xy: 315, 101
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/eyehard2
+  rotate: false
+  xy: 599, 193
+  size: 79, 21
+  orig: 79, 21
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/eyehard3
+  rotate: false
+  xy: 316, 8
+  size: 71, 10
+  orig: 71, 10
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/eyesffuer
+  rotate: true
+  xy: 339, 129
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/eyeyun
+  rotate: false
+  xy: 579, 105
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/face
+  rotate: false
+  xy: 212, 367
+  size: 180, 143
+  orig: 180, 143
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair1
+  rotate: true
+  xy: 919, 202
+  size: 31, 90
+  orig: 31, 90
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair2
+  rotate: true
+  xy: 371, 194
+  size: 39, 117
+  orig: 39, 117
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair3
+  rotate: false
+  xy: 276, 9
+  size: 38, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair4
+  rotate: true
+  xy: 613, 358
+  size: 63, 128
+  orig: 63, 128
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair5
+  rotate: true
+  xy: 613, 330
+  size: 26, 128
+  orig: 26, 128
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair6
+  rotate: true
+  xy: 371, 176
+  size: 16, 114
+  orig: 16, 114
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair7
+  rotate: true
+  xy: 394, 347
+  size: 59, 164
+  orig: 59, 164
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair8
+  rotate: true
+  xy: 613, 423
+  size: 87, 217
+  orig: 87, 217
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/hair9
+  rotate: false
+  xy: 2, 107
+  size: 169, 179
+  orig: 169, 179
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/handinner
+  rotate: true
+  xy: 1000, 174
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/handout
+  rotate: true
+  xy: 571, 193
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/leginnerdown
+  rotate: false
+  xy: 626, 61
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/leginnerup
+  rotate: true
+  xy: 680, 203
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/legoutdown
+  rotate: true
+  xy: 693, 233
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/legoutup
+  rotate: true
+  xy: 738, 181
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/mouth01
+  rotate: false
+  xy: 535, 338
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/mouth02
+  rotate: false
+  xy: 680, 233
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/mouth03
+  rotate: false
+  xy: 173, 254
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/pifeng1
+  rotate: true
+  xy: 145, 12
+  size: 87, 129
+  orig: 87, 129
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/pifeng2
+  rotate: true
+  xy: 599, 241
+  size: 29, 92
+  orig: 29, 92
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/pifeng3
+  rotate: true
+  xy: 575, 135
+  size: 29, 69
+  orig: 29, 69
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/toushi1
+  rotate: true
+  xy: 452, 127
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/toushi2
+  rotate: false
+  xy: 212, 254
+  size: 157, 111
+  orig: 157, 111
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/toushi3
+  rotate: true
+  xy: 522, 112
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/toushi4
+  rotate: false
+  xy: 651, 69
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/toushi5
+  rotate: false
+  xy: 832, 295
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx0
+  rotate: false
+  xy: 2, 288
+  size: 208, 222
+  orig: 208, 222
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx1
+  rotate: true
+  xy: 702, 265
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx10
+  rotate: false
+  xy: 2, 5
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx2
+  rotate: false
+  xy: 371, 127
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx3
+  rotate: true
+  xy: 413, 2
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx4
+  rotate: false
+  xy: 513, 231
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx5
+  rotate: false
+  xy: 930, 282
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx6
+  rotate: false
+  xy: 173, 181
+  size: 152, 71
+  orig: 152, 71
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx7
+  rotate: true
+  xy: 394, 408
+  size: 102, 217
+  orig: 102, 217
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx8
+  rotate: true
+  xy: 743, 298
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/tx9
+  rotate: false
+  xy: 522, 55
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/xiabai
+  rotate: false
+  xy: 371, 282
+  size: 162, 63
+  orig: 162, 63
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/xiabai1
+  rotate: true
+  xy: 919, 235
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/xiabai3
+  rotate: true
+  xy: 611, 272
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/xiabai4
+  rotate: false
+  xy: 829, 205
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Enya_Bishop_4/zhuangshi
+  rotate: true
+  xy: 680, 177
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 575, 166
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

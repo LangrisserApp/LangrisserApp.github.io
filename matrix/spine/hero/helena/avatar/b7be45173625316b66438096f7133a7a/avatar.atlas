@@ -1,0 +1,496 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/arminnerdown
+  rotate: false
+  xy: 152, 19
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/armoutdown
+  rotate: true
+  xy: 721, 307
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/horse_head
+  rotate: false
+  xy: 180, 49
+  size: 118, 131
+  orig: 118, 131
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/horse_tunjia
+  rotate: true
+  xy: 300, 2
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/horse_xiongjia
+  rotate: true
+  xy: 392, 3
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/jianjiainner
+  rotate: false
+  xy: 561, 195
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/jianjiaout
+  rotate: true
+  xy: 774, 325
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/weapon
+  rotate: false
+  xy: 2, 340
+  size: 256, 78
+  orig: 256, 78
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/weapon1
+  rotate: false
+  xy: 560, 371
+  size: 127, 21
+  orig: 127, 21
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_2/Helena_KnightMaster_2/yaojiaout
+  rotate: false
+  xy: 646, 248
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_3/Helena_KnightMaster_3/armoutup
+  rotate: true
+  xy: 576, 45
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_3/Helena_KnightMaster_3/body
+  rotate: true
+  xy: 825, 344
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_3/Helena_KnightMaster_3/horse_head
+  rotate: true
+  xy: 560, 394
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_3/Helena_KnightMaster_3/horse_tunjia
+  rotate: false
+  xy: 372, 345
+  size: 87, 104
+  orig: 87, 104
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_3/Helena_KnightMaster_3/horse_xiongjia
+  rotate: false
+  xy: 461, 271
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_3/Helena_KnightMaster_3/jianjiainner
+  rotate: false
+  xy: 609, 195
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_3/Helena_KnightMaster_3/jianjiaout
+  rotate: true
+  xy: 903, 331
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/arminnerdown
+  rotate: false
+  xy: 510, 6
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/arminnerup
+  rotate: true
+  xy: 476, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/armoutdown
+  rotate: true
+  xy: 684, 307
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/armoutup
+  rotate: true
+  xy: 618, 125
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/body
+  rotate: false
+  xy: 953, 334
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/eyebrow
+  rotate: false
+  xy: 2, 6
+  size: 74, 14
+  orig: 74, 14
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/eyehard
+  rotate: true
+  xy: 562, 125
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/eyehard1
+  rotate: true
+  xy: 590, 125
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/eyehard2
+  rotate: true
+  xy: 1000, 264
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/eyehard3
+  rotate: true
+  xy: 614, 61
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/eyesffuer
+  rotate: true
+  xy: 543, 45
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/eyeyun
+  rotate: false
+  xy: 294, 420
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/face
+  rotate: true
+  xy: 822, 400
+  size: 110, 126
+  orig: 110, 126
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hair1
+  rotate: false
+  xy: 897, 270
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hair2
+  rotate: false
+  xy: 576, 71
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hair3
+  rotate: true
+  xy: 468, 121
+  size: 54, 92
+  orig: 54, 92
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hair4
+  rotate: true
+  xy: 376, 83
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hair5
+  rotate: true
+  xy: 543, 2
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hair6
+  rotate: true
+  xy: 560, 342
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hairinner
+  rotate: false
+  xy: 2, 173
+  size: 151, 165
+  orig: 151, 165
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/hairinner1
+  rotate: true
+  xy: 260, 293
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/handinner
+  rotate: true
+  xy: 78, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/handout
+  rotate: false
+  xy: 635, 62
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_backlegdown
+  rotate: false
+  xy: 646, 293
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_body
+  rotate: true
+  xy: 155, 182
+  size: 156, 103
+  orig: 156, 103
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_frontlegdown
+  rotate: false
+  xy: 610, 289
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_guajian1
+  rotate: false
+  xy: 561, 240
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_guajian2
+  rotate: false
+  xy: 955, 267
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_guajian3
+  rotate: false
+  xy: 180, 2
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_guajian4
+  rotate: true
+  xy: 950, 412
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_head
+  rotate: true
+  xy: 691, 394
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_mana
+  rotate: false
+  xy: 468, 177
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_neck
+  rotate: false
+  xy: 300, 79
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_tunjia
+  rotate: false
+  xy: 373, 239
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_tunjia1
+  rotate: true
+  xy: 461, 368
+  size: 81, 97
+  orig: 81, 97
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_weiba
+  rotate: true
+  xy: 260, 186
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/horse_xiongjia
+  rotate: false
+  xy: 376, 143
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/jianjiainner
+  rotate: false
+  xy: 553, 291
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/jianjiaout
+  rotate: false
+  xy: 689, 329
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/legoutdown
+  rotate: false
+  xy: 635, 83
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/legoutup
+  rotate: false
+  xy: 610, 239
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/mouth01
+  rotate: false
+  xy: 155, 173
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/mouth02
+  rotate: false
+  xy: 614, 45
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/mouth04
+  rotate: true
+  xy: 461, 255
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/weapon
+  rotate: false
+  xy: 2, 420
+  size: 290, 90
+  orig: 290, 90
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/weapon1
+  rotate: false
+  xy: 2, 22
+  size: 148, 22
+  orig: 148, 22
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/weapon2
+  rotate: true
+  xy: 2, 46
+  size: 125, 176
+  orig: 125, 176
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/yaodai
+  rotate: true
+  xy: 285, 24
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Helena/Helena_KnightMaster/Helena_KnightMaster_4/Helena_KnightMaster_4/yaojiaout
+  rotate: false
+  xy: 618, 151
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_Knight/MysteryKnight_Knight_3/Pike
+  rotate: false
+  xy: 294, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_Knight/MysteryKnight_Knight_3/horse_backlegup
+  rotate: false
+  xy: 476, 33
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_Knight/MysteryKnight_Knight_3/horse_frontlegup
+  rotate: true
+  xy: 825, 290
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 613, 344
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

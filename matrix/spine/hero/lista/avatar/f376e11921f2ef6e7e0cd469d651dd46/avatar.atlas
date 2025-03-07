@@ -1,0 +1,230 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lista/Lista_Water/Lista_CrocodileKnight_1/Shadow
+  rotate: false
+  xy: 389, 416
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/arminnerdown
+  rotate: false
+  xy: 2, 2
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/arminnerup
+  rotate: true
+  xy: 108, 181
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/armoutdown
+  rotate: false
+  xy: 108, 136
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/armoutup
+  rotate: true
+  xy: 390, 379
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/body
+  rotate: true
+  xy: 396, 443
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/eyeborw
+  rotate: true
+  xy: 492, 439
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/eyehard
+  rotate: false
+  xy: 317, 383
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/eyehard1
+  rotate: false
+  xy: 317, 361
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/eyehard2
+  rotate: true
+  xy: 108, 233
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/eyehard3
+  rotate: true
+  xy: 87, 104
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/eyesffuer
+  rotate: false
+  xy: 221, 320
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/eyeyun
+  rotate: false
+  xy: 317, 408
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/face
+  rotate: false
+  xy: 2, 305
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/hair
+  rotate: false
+  xy: 87, 51
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/hair1
+  rotate: false
+  xy: 126, 309
+  size: 93, 139
+  orig: 93, 139
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/hairinner
+  rotate: true
+  xy: 251, 443
+  size: 67, 143
+  orig: 67, 143
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/handinner
+  rotate: false
+  xy: 465, 416
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/handout
+  rotate: false
+  xy: 443, 379
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/handout1
+  rotate: false
+  xy: 108, 104
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/leginnerdown
+  rotate: false
+  xy: 95, 12
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/leginnerup
+  rotate: false
+  xy: 122, 52
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/legoutdown
+  rotate: false
+  xy: 442, 343
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/legoutup
+  rotate: true
+  xy: 389, 341
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/mouth1
+  rotate: true
+  xy: 74, 2
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/mouth2
+  rotate: true
+  xy: 122, 16
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/mouth3
+  rotate: true
+  xy: 47, 2
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/mouth4
+  rotate: true
+  xy: 492, 397
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/pijian
+  rotate: false
+  xy: 221, 354
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/pijian1
+  rotate: false
+  xy: 2, 43
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/pijianinner
+  rotate: false
+  xy: 2, 173
+  size: 104, 130
+  orig: 104, 130
+  offset: 0, 0
+  index: -1
+Lista/Lista_Water/Lista_CrocodileKnight_1/weapon
+  rotate: false
+  xy: 2, 450
+  size: 247, 60
+  orig: 247, 60
+  offset: 0, 0
+  index: -1

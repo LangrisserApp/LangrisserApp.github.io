@@ -1,0 +1,461 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/arminnerup
+  rotate: true
+  xy: 991, 718
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/armoutup
+  rotate: true
+  xy: 449, 323
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/body
+  rotate: false
+  xy: 914, 810
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/eyebrow
+  rotate: false
+  xy: 2, 4
+  size: 60, 7
+  orig: 60, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/eyehard
+  rotate: false
+  xy: 373, 277
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/eyehard1
+  rotate: false
+  xy: 373, 254
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/eyehard2
+  rotate: true
+  xy: 905, 664
+  size: 61, 13
+  orig: 61, 13
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/eyehard3
+  rotate: false
+  xy: 111, 2
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/eyesffuer
+  rotate: false
+  xy: 570, 352
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/eyeyun
+  rotate: false
+  xy: 373, 300
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/face
+  rotate: false
+  xy: 612, 497
+  size: 105, 146
+  orig: 105, 146
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/hair1
+  rotate: true
+  xy: 819, 660
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/hair2
+  rotate: false
+  xy: 321, 248
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/hair5
+  rotate: true
+  xy: 501, 378
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/hairinner
+  rotate: false
+  xy: 378, 384
+  size: 121, 252
+  orig: 121, 252
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/handinner
+  rotate: true
+  xy: 991, 745
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/handout
+  rotate: false
+  xy: 1003, 917
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/jianjiainner
+  rotate: true
+  xy: 740, 385
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/jianjiaout
+  rotate: true
+  xy: 916, 736
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/legoutdown
+  rotate: true
+  xy: 740, 360
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/legoutup
+  rotate: false
+  xy: 789, 394
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/mouth01
+  rotate: true
+  xy: 703, 727
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/pifeng
+  rotate: true
+  xy: 636, 358
+  size: 137, 102
+  orig: 137, 102
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/toushi
+  rotate: false
+  xy: 493, 346
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/toushi1
+  rotate: true
+  xy: 994, 809
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonKnight_2/yaojiaout
+  rotate: true
+  xy: 824, 440
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonMaster_3/jianjiaout
+  rotate: false
+  xy: 826, 727
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonMaster_3/pifeng
+  rotate: true
+  xy: 719, 515
+  size: 135, 100
+  orig: 135, 100
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_DragonKnight/Angelina_DragonMaster_3/toushi
+  rotate: false
+  xy: 2, 13
+  size: 107, 43
+  orig: 107, 43
+  offset: 0, 0
+  index: -1
+Fana/Fana_DragonKnight/Fana_DragonKnight_2/mouth02
+  rotate: false
+  xy: 612, 485
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Fana/Fana_DragonKnight/Fana_DragonKnight_2/mouth04
+  rotate: true
+  xy: 719, 497
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Fana/Fana_DragonKnight/Fana_DragonKnight_2/weapon
+  rotate: true
+  xy: 321, 339
+  size: 615, 55
+  orig: 615, 55
+  offset: 0, 0
+  index: -1
+Fana/Fana_DragonKnight/Fana_DragonMaster_3/weapon
+  rotate: false
+  xy: 321, 956
+  size: 612, 66
+  orig: 612, 66
+  offset: 0, 0
+  index: -1
+Leticia/dd
+  rotate: false
+  xy: 493, 378
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sherry/SherryDragon/SherryDragon02/dd
+  rotate: false
+  xy: 493, 378
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_datuishi
+  rotate: false
+  xy: 740, 446
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_toushi
+  rotate: true
+  xy: 572, 645
+  size: 80, 138
+  orig: 80, 138
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_toushiinner
+  rotate: true
+  xy: 320, 57
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_weishi
+  rotate: false
+  xy: 838, 893
+  size: 109, 61
+  orig: 109, 61
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_xiaotuishi
+  rotate: true
+  xy: 994, 782
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_xiongshi
+  rotate: false
+  xy: 501, 480
+  size: 109, 156
+  orig: 109, 156
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/an
+  rotate: false
+  xy: 826, 806
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/xiongjiainner
+  rotate: false
+  xy: 875, 468
+  size: 16, 58
+  orig: 16, 58
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_arm
+  rotate: false
+  xy: 935, 960
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_body
+  rotate: true
+  xy: 703, 740
+  size: 153, 121
+  orig: 153, 121
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_footout
+  rotate: false
+  xy: 949, 893
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_head
+  rotate: false
+  xy: 572, 727
+  size: 129, 166
+  orig: 129, 166
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_legoutdown
+  rotate: false
+  xy: 824, 476
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_legoutup
+  rotate: false
+  xy: 320, 162
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_neck
+  rotate: false
+  xy: 712, 652
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_weiba1
+  rotate: false
+  xy: 821, 594
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_weiba2
+  rotate: false
+  xy: 111, 15
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_weiba3
+  rotate: false
+  xy: 378, 348
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_winginner
+  rotate: true
+  xy: 2, 58
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_winginner2
+  rotate: false
+  xy: 378, 638
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_wingout
+  rotate: false
+  xy: 2, 638
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_wingout2
+  rotate: false
+  xy: 2, 252
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White_H/Dragon_weiba1
+  rotate: false
+  xy: 821, 528
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White_H/Dragon_weiba2
+  rotate: true
+  xy: 320, 73
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White_H/Dragon_weiba3
+  rotate: true
+  xy: 792, 438
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White_H/weiqi1
+  rotate: false
+  xy: 378, 325
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White_H/weiqi2
+  rotate: true
+  xy: 964, 799
+  size: 92, 28
+  orig: 92, 28
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White_H/weiqi3
+  rotate: false
+  xy: 203, 24
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 964, 723
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 572, 895
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

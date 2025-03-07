@@ -1,0 +1,692 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Precia_Spear_2/arminerup
+  rotate: true
+  xy: 529, 71
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/arminnerdown
+  rotate: false
+  xy: 709, 162
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/arminnerdownp
+  rotate: true
+  xy: 966, 369
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/arminnerupp
+  rotate: false
+  xy: 880, 266
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/armoutdown
+  rotate: true
+  xy: 967, 262
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/armoutup
+  rotate: false
+  xy: 709, 127
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/armoutupp
+  rotate: false
+  xy: 526, 30
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/arnoutdownp
+  rotate: false
+  xy: 963, 295
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/body
+  rotate: true
+  xy: 308, 25
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/bodyp
+  rotate: true
+  xy: 755, 288
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/handinner
+  rotate: false
+  xy: 996, 263
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/handout
+  rotate: false
+  xy: 585, 4
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/handout1
+  rotate: true
+  xy: 318, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/jianjiainner
+  rotate: false
+  xy: 631, 157
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/legoutup
+  rotate: false
+  xy: 631, 251
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/lingzi
+  rotate: true
+  xy: 566, 71
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/lingziinnerp
+  rotate: true
+  xy: 749, 132
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/lingziout
+  rotate: false
+  xy: 559, 153
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/lingzioutp
+  rotate: false
+  xy: 611, 159
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/qunbai1
+  rotate: false
+  xy: 444, 152
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+Precia_Spear_2/weapon
+  rotate: false
+  xy: 2, 42
+  size: 219, 55
+  orig: 219, 55
+  offset: 0, 0
+  index: -1
+Precia_Spear_3/qunbai1
+  rotate: false
+  xy: 97, 2
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+Precia_Spear_3/qunbai3
+  rotate: false
+  xy: 783, 218
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Precia_Spear_3/weapon
+  rotate: false
+  xy: 522, 350
+  size: 301, 79
+  orig: 301, 79
+  offset: 0, 0
+  index: -1
+Precia_Spear_3/weijininner
+  rotate: false
+  xy: 2, 2
+  size: 93, 38
+  orig: 93, 38
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/arminerup
+  rotate: false
+  xy: 567, 30
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/arminnerdown
+  rotate: false
+  xy: 996, 315
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/armoutdown
+  rotate: true
+  xy: 996, 345
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/armoutdownp
+  rotate: true
+  xy: 526, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/armoutup
+  rotate: true
+  xy: 744, 169
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/body
+  rotate: false
+  xy: 407, 69
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/bodyp
+  rotate: false
+  xy: 468, 73
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/bodyp1
+  rotate: false
+  xy: 556, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/eyebrow
+  rotate: false
+  xy: 665, 251
+  size: 65, 6
+  orig: 65, 6
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/eyehard
+  rotate: true
+  xy: 469, 2
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/eyehard1
+  rotate: true
+  xy: 493, 2
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/eyehard2
+  rotate: true
+  xy: 610, 181
+  size: 69, 19
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/eyehard3
+  rotate: true
+  xy: 517, 5
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/eyesffuer
+  rotate: true
+  xy: 631, 184
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/eyeyun
+  rotate: true
+  xy: 388, 2
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/face
+  rotate: true
+  xy: 265, 86
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair1
+  rotate: true
+  xy: 522, 252
+  size: 62, 107
+  orig: 62, 107
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair2
+  rotate: true
+  xy: 670, 286
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair3a
+  rotate: true
+  xy: 522, 316
+  size: 32, 146
+  orig: 32, 146
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair4
+  rotate: true
+  xy: 813, 218
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair5
+  rotate: true
+  xy: 223, 2
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair6
+  rotate: true
+  xy: 519, 178
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair7
+  rotate: false
+  xy: 880, 301
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hair8
+  rotate: true
+  xy: 340, 6
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/hairinner
+  rotate: false
+  xy: 444, 197
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/handinner
+  rotate: true
+  xy: 591, 156
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/handout
+  rotate: false
+  xy: 833, 220
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/handout1
+  rotate: false
+  xy: 295, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jianjia
+  rotate: false
+  xy: 835, 246
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jianjiap
+  rotate: true
+  xy: 996, 281
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jin1
+  rotate: false
+  xy: 917, 330
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jin2
+  rotate: false
+  xy: 985, 410
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jin4
+  rotate: true
+  xy: 798, 247
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jin5
+  rotate: true
+  xy: 662, 163
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jin6
+  rotate: false
+  xy: 662, 200
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jin7
+  rotate: true
+  xy: 917, 293
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/jin8
+  rotate: false
+  xy: 743, 210
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/leginnerdown
+  rotate: true
+  xy: 917, 262
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/leginnerdownb
+  rotate: true
+  xy: 709, 199
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/leginnerup
+  rotate: false
+  xy: 560, 105
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/legoutdown
+  rotate: true
+  xy: 508, 153
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/legoutup
+  rotate: false
+  xy: 529, 99
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/legoutupp
+  rotate: true
+  xy: 911, 371
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/mouth01
+  rotate: true
+  xy: 867, 246
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/mouth02
+  rotate: false
+  xy: 265, 209
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/mouth04
+  rotate: true
+  xy: 295, 25
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/pifenginner1
+  rotate: false
+  xy: 444, 267
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/pifenginner2
+  rotate: false
+  xy: 847, 404
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/pifenginner3
+  rotate: true
+  xy: 223, 48
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/pifenginner4
+  rotate: false
+  xy: 985, 445
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/qunbai1
+  rotate: false
+  xy: 835, 303
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/qunbai1p
+  rotate: true
+  xy: 161, 2
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/qunbai2
+  rotate: true
+  xy: 419, 17
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/qunbai2p
+  rotate: true
+  xy: 755, 251
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/qunbai3
+  rotate: false
+  xy: 996, 377
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/weapon
+  rotate: false
+  xy: 522, 431
+  size: 323, 79
+  orig: 323, 79
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/weijin
+  rotate: false
+  xy: 835, 268
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/weijinp
+  rotate: true
+  xy: 407, 149
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/xiongshi
+  rotate: false
+  xy: 388, 69
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/xiongshi1p
+  rotate: false
+  xy: 662, 131
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/yaoshi
+  rotate: false
+  xy: 419, 4
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/yaoshi1
+  rotate: false
+  xy: 377, 2
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Precia_Spear_4/yaoshi2
+  rotate: false
+  xy: 208, 17
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+Precia_t/head1
+  rotate: true
+  xy: 265, 48
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Precia_t/head2
+  rotate: false
+  xy: 280, 207
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+Precia_t/head3
+  rotate: true
+  xy: 846, 347
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+Precia_t/head4
+  rotate: true
+  xy: 963, 325
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Precia_t/ren
+  rotate: false
+  xy: 2, 363
+  size: 518, 147
+  orig: 518, 147
+  offset: 0, 0
+  index: -1
+Precia_t/weapon
+  rotate: false
+  xy: 846, 374
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+Precia_t/weijin1
+  rotate: false
+  xy: 2, 99
+  size: 261, 118
+  orig: 261, 118
+  offset: 0, 0
+  index: -1
+Precia_t/weijin2
+  rotate: false
+  xy: 2, 219
+  size: 276, 142
+  orig: 276, 142
+  offset: 0, 0
+  index: -1
+Precia_t/wejin
+  rotate: true
+  xy: 825, 366
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 665, 259
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

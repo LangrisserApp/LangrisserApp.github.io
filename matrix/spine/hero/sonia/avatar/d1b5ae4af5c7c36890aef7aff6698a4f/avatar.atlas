@@ -1,0 +1,405 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leon/Pike
+  rotate: false
+  xy: 502, 444
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_backlegdown
+  rotate: true
+  xy: 293, 78
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_backlegup
+  rotate: false
+  xy: 700, 352
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_body
+  rotate: false
+  xy: 338, 280
+  size: 167, 100
+  orig: 167, 100
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_frontlegdown
+  rotate: false
+  xy: 185, 24
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_frontlegup
+  rotate: false
+  xy: 870, 335
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_neck
+  rotate: true
+  xy: 766, 337
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_weiba
+  rotate: false
+  xy: 768, 414
+  size: 152, 89
+  orig: 152, 89
+  offset: 0, 0
+  index: -1
+Mount/dd
+  rotate: false
+  xy: 281, 78
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sonia/dd
+  rotate: false
+  xy: 281, 78
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 766, 310
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sonia/Ears
+  rotate: true
+  xy: 296, 161
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/body
+  rotate: true
+  xy: 612, 280
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handinner
+  rotate: false
+  xy: 521, 197
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handinner1
+  rotate: false
+  xy: 643, 247
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handout
+  rotate: true
+  xy: 220, 23
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handout1
+  rotate: false
+  xy: 608, 246
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/horse_guajian2
+  rotate: true
+  xy: 126, 2
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/horse_head
+  rotate: false
+  xy: 2, 73
+  size: 168, 146
+  orig: 168, 146
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/horse_mana
+  rotate: false
+  xy: 507, 311
+  size: 103, 131
+  orig: 103, 131
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/jianjiainner
+  rotate: false
+  xy: 237, 84
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/jianjiaout1
+  rotate: false
+  xy: 702, 269
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/jianjiaoutinner
+  rotate: true
+  xy: 673, 243
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/legdownout
+  rotate: true
+  xy: 281, 47
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/legoutup
+  rotate: true
+  xy: 271, 16
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/toushi
+  rotate: false
+  xy: 338, 250
+  size: 104, 28
+  orig: 104, 28
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/weapon
+  rotate: false
+  xy: 2, 382
+  size: 493, 60
+  orig: 493, 60
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/yaojia
+  rotate: false
+  xy: 521, 237
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/handinner
+  rotate: false
+  xy: 562, 242
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/handout
+  rotate: true
+  xy: 444, 255
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/horse_guajian2
+  rotate: true
+  xy: 196, 170
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/horse_hair
+  rotate: true
+  xy: 920, 313
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/horse_head
+  rotate: false
+  xy: 2, 221
+  size: 192, 159
+  orig: 192, 159
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/horse_mana
+  rotate: false
+  xy: 196, 249
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/jianjiainner
+  rotate: false
+  xy: 773, 267
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/jianjiaout1
+  rotate: false
+  xy: 196, 119
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/jianjiaoutinner
+  rotate: false
+  xy: 220, 51
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/toushi
+  rotate: false
+  xy: 507, 281
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/weapon
+  rotate: false
+  xy: 2, 444
+  size: 498, 59
+  orig: 498, 59
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornMaster_3/yaojia
+  rotate: false
+  xy: 294, 115
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+Sonia/eyebrow
+  rotate: false
+  xy: 342, 81
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+Sonia/eyehard
+  rotate: false
+  xy: 349, 97
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+Sonia/eyehard1
+  rotate: false
+  xy: 172, 85
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+Sonia/eyehard2
+  rotate: false
+  xy: 702, 309
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Sonia/eyehard3
+  rotate: false
+  xy: 349, 131
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Sonia/eyesffuer
+  rotate: true
+  xy: 487, 188
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+Sonia/eyeyun
+  rotate: true
+  xy: 453, 187
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Sonia/face
+  rotate: false
+  xy: 345, 174
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+Sonia/hair1
+  rotate: false
+  xy: 172, 131
+  size: 22, 88
+  orig: 22, 88
+  offset: 0, 0
+  index: -1
+Sonia/hair2
+  rotate: false
+  xy: 420, 175
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+Sonia/hair3
+  rotate: false
+  xy: 612, 335
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Sonia/hairinner
+  rotate: true
+  xy: 922, 384
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+Sonia/hairinner1
+  rotate: false
+  xy: 2, 5
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: -1
+Sonia/mouth01
+  rotate: false
+  xy: 842, 310
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Sonia/mouth02
+  rotate: false
+  xy: 842, 319
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Sonia/mouth03
+  rotate: false
+  xy: 185, 9
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Sonia/mouth04
+  rotate: true
+  xy: 497, 421
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1

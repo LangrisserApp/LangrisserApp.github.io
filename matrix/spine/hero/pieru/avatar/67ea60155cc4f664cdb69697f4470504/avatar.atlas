@@ -1,0 +1,272 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_qb/Elwin_General/arm_out1
+  rotate: false
+  xy: 423, 87
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_General/shield
+  rotate: true
+  xy: 133, 169
+  size: 85, 154
+  orig: 85, 154
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_General/weapon1
+  rotate: false
+  xy: 133, 125
+  size: 115, 42
+  orig: 115, 42
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_General/weapon2
+  rotate: false
+  xy: 373, 45
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_General/weapon3
+  rotate: false
+  xy: 375, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_Lord/hand_out1
+  rotate: true
+  xy: 402, 19
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_Lord/jianjiainner
+  rotate: true
+  xy: 450, 135
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_qb/Elwin_Lord/weapon
+  rotate: false
+  xy: 2, 10
+  size: 148, 7
+  orig: 148, 7
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/arm_out
+  rotate: false
+  xy: 250, 135
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/arm_out1
+  rotate: false
+  xy: 341, 38
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_1/hand_out
+  rotate: false
+  xy: 375, 20
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/body
+  rotate: true
+  xy: 405, 181
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/jianjiaout
+  rotate: false
+  xy: 373, 87
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/jianjiaoutinner
+  rotate: true
+  xy: 480, 61
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/leginnerdown
+  rotate: true
+  xy: 439, 61
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/leginnerup
+  rotate: false
+  xy: 226, 2
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/legoutdown
+  rotate: true
+  xy: 335, 9
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/legoutup
+  rotate: false
+  xy: 456, 87
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/pifenginner
+  rotate: false
+  xy: 2, 19
+  size: 134, 92
+  orig: 134, 92
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/pifengout1
+  rotate: true
+  xy: 289, 150
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Guardian/Pieru_Guardian_2/pifengout2
+  rotate: true
+  xy: 376, 152
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/daizi1
+  rotate: true
+  xy: 289, 89
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/daizi2
+  rotate: true
+  xy: 138, 49
+  size: 28, 91
+  orig: 28, 91
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/eyebrow
+  rotate: true
+  xy: 501, 127
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/eyehard
+  rotate: false
+  xy: 275, 41
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/eyehard1
+  rotate: false
+  xy: 376, 131
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/eyehard2
+  rotate: false
+  xy: 373, 67
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/eyehard3
+  rotate: true
+  xy: 500, 191
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/eyesffuer
+  rotate: false
+  xy: 275, 62
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/eyeyun
+  rotate: false
+  xy: 271, 14
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/face
+  rotate: false
+  xy: 2, 113
+  size: 129, 141
+  orig: 129, 141
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/hair1
+  rotate: true
+  xy: 289, 182
+  size: 72, 114
+  orig: 72, 114
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/hair2
+  rotate: true
+  xy: 138, 79
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/mouth01
+  rotate: true
+  xy: 231, 55
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/mouth02
+  rotate: false
+  xy: 493, 114
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/mouth04
+  rotate: false
+  xy: 2, 5
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Spear/Pieru_Sergeant_1/toushi
+  rotate: false
+  xy: 138, 21
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 248, 49
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

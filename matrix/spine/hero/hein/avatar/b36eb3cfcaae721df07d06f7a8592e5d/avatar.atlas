@@ -1,0 +1,265 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hein/Hein02/eyebrow
+  rotate: true
+  xy: 342, 58
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard
+  rotate: false
+  xy: 276, 56
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard1
+  rotate: true
+  xy: 357, 61
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard2
+  rotate: true
+  xy: 480, 104
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard3
+  rotate: false
+  xy: 276, 128
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyesffuer
+  rotate: false
+  xy: 372, 128
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyeyun
+  rotate: false
+  xy: 276, 88
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein02/face
+  rotate: false
+  xy: 393, 170
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair
+  rotate: false
+  xy: 276, 189
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair1
+  rotate: false
+  xy: 98, 107
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair2
+  rotate: true
+  xy: 163, 167
+  size: 87, 111
+  orig: 87, 111
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair3
+  rotate: true
+  xy: 149, 92
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair4
+  rotate: true
+  xy: 430, 66
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth01
+  rotate: false
+  xy: 482, 170
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth02
+  rotate: false
+  xy: 187, 2
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth03
+  rotate: false
+  xy: 97, 2
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/arminnerdown
+  rotate: false
+  xy: 97, 10
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/arminnerup
+  rotate: false
+  xy: 134, 15
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/armoutdown
+  rotate: true
+  xy: 231, 60
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/armoutup
+  rotate: false
+  xy: 346, 128
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/body
+  rotate: false
+  xy: 2, 61
+  size: 94, 118
+  orig: 94, 118
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/bodyinner
+  rotate: true
+  xy: 229, 92
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/handinner
+  rotate: false
+  xy: 160, 18
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/handout
+  rotate: true
+  xy: 480, 82
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/jianjiainner
+  rotate: false
+  xy: 435, 131
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/jianjiaout
+  rotate: true
+  xy: 389, 67
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/jianjiaoutinner
+  rotate: false
+  xy: 98, 79
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/leginnerdown
+  rotate: false
+  xy: 187, 20
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/leginnerup
+  rotate: true
+  xy: 98, 46
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/legoutdown
+  rotate: true
+  xy: 182, 47
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/legoutup
+  rotate: true
+  xy: 435, 92
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/piaodai
+  rotate: true
+  xy: 2, 6
+  size: 53, 93
+  orig: 53, 93
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/toushi
+  rotate: false
+  xy: 149, 73
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/weapon
+  rotate: false
+  xy: 276, 168
+  size: 90, 19
+  orig: 90, 19
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/weapon0
+  rotate: false
+  xy: 2, 181
+  size: 159, 73
+  orig: 159, 73
+  offset: 0, 0
+  index: -1
+Hein/Hein_Bishop/Hein_BISHOP_2/weijin
+  rotate: false
+  xy: 141, 46
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 482, 180
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,321 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 983, 948
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/arminner
+  rotate: true
+  xy: 360, 229
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/armoutdown
+  rotate: false
+  xy: 407, 245
+  size: 118, 59
+  orig: 118, 59
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/armoutup
+  rotate: false
+  xy: 773, 540
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/backlegdown
+  rotate: true
+  xy: 946, 669
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/backlegup
+  rotate: true
+  xy: 194, 32
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/backlegup1
+  rotate: false
+  xy: 362, 37
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/body
+  rotate: true
+  xy: 399, 306
+  size: 114, 132
+  orig: 114, 132
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/body1
+  rotate: true
+  xy: 868, 794
+  size: 228, 113
+  orig: 228, 113
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/body2
+  rotate: true
+  xy: 290, 84
+  size: 143, 63
+  orig: 143, 63
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/eye
+  rotate: false
+  xy: 362, 24
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/foot1
+  rotate: true
+  xy: 983, 891
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/foot2
+  rotate: false
+  xy: 51, 9
+  size: 60, 22
+  orig: 60, 22
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/foot3
+  rotate: false
+  xy: 946, 636
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/frontlegdown
+  rotate: false
+  xy: 651, 457
+  size: 115, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/frontlegdown1
+  rotate: true
+  xy: 172, 7
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/frontleginner
+  rotate: true
+  xy: 414, 23
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/frontleginner1
+  rotate: false
+  xy: 983, 837
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/frontlegup
+  rotate: true
+  xy: 417, 82
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/hadninner1
+  rotate: true
+  xy: 1005, 639
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/handinner
+  rotate: true
+  xy: 2, 2
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/handinner2
+  rotate: false
+  xy: 145, 5
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/handinner3
+  rotate: false
+  xy: 983, 794
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/handout
+  rotate: false
+  xy: 504, 194
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/handout1
+  rotate: false
+  xy: 504, 167
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/handout2
+  rotate: false
+  xy: 651, 439
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/handout3
+  rotate: false
+  xy: 983, 813
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/head
+  rotate: false
+  xy: 2, 33
+  size: 190, 196
+  orig: 190, 196
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/huolong_10001
+  rotate: true
+  xy: 2, 231
+  size: 400, 198
+  orig: 400, 198
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/huolong_10002
+  rotate: false
+  xy: 266, 824
+  size: 400, 198
+  orig: 400, 198
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/huolong_10003
+  rotate: false
+  xy: 266, 624
+  size: 400, 198
+  orig: 400, 198
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/huolong_10004
+  rotate: true
+  xy: 668, 622
+  size: 400, 198
+  orig: 400, 198
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/mouth
+  rotate: false
+  xy: 283, 24
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/neck
+  rotate: false
+  xy: 946, 722
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/shipin
+  rotate: true
+  xy: 868, 640
+  size: 152, 76
+  orig: 152, 76
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/shipininner
+  rotate: true
+  xy: 355, 88
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/weiba
+  rotate: false
+  xy: 194, 99
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/weiba1
+  rotate: false
+  xy: 202, 229
+  size: 156, 65
+  orig: 156, 65
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/weiba2
+  rotate: true
+  xy: 535, 435
+  size: 187, 114
+  orig: 187, 114
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/winginner
+  rotate: false
+  xy: 202, 296
+  size: 195, 326
+  orig: 195, 326
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/wingout
+  rotate: false
+  xy: 399, 422
+  size: 134, 200
+  orig: 134, 200
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/wingout1
+  rotate: false
+  xy: 2, 633
+  size: 262, 389
+  orig: 262, 389
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/yan
+  rotate: false
+  xy: 651, 530
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/yaoshi
+  rotate: false
+  xy: 417, 161
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+Zigodlla/Bahamoh/yaoshiinner
+  rotate: false
+  xy: 113, 3
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

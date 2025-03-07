@@ -1,0 +1,454 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horse/brownhorse/brownhorse1/horse_backlegdown
+  rotate: false
+  xy: 803, 334
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegup
+  rotate: false
+  xy: 335, 346
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_body
+  rotate: true
+  xy: 69, 23
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegdown
+  rotate: false
+  xy: 339, 80
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegup
+  rotate: true
+  xy: 589, 272
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_guajian1
+  rotate: false
+  xy: 504, 327
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_guajian2
+  rotate: false
+  xy: 772, 328
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_head
+  rotate: true
+  xy: 164, 3
+  size: 115, 127
+  orig: 115, 127
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_neck
+  rotate: true
+  xy: 512, 386
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_weiba
+  rotate: false
+  xy: 398, 395
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_head
+  rotate: true
+  xy: 178, 120
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_neck
+  rotate: false
+  xy: 716, 379
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse3/Horse_toukui1
+  rotate: false
+  xy: 912, 409
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/handinner1
+  rotate: false
+  xy: 411, 151
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: false
+  xy: 373, 82
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: false
+  xy: 795, 382
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: true
+  xy: 323, 254
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: false
+  xy: 316, 62
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia
+  rotate: true
+  xy: 615, 382
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 339, 53
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_xiongjia
+  rotate: true
+  xy: 795, 421
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: false
+  xy: 164, 165
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 69, 373
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leon/dd
+  rotate: false
+  xy: 401, 248
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/dd
+  rotate: false
+  xy: 401, 248
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 500, 244
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/body
+  rotate: true
+  xy: 590, 326
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handinner
+  rotate: true
+  xy: 293, 5
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handinner1
+  rotate: false
+  xy: 544, 208
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handout
+  rotate: false
+  xy: 310, 122
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handout1
+  rotate: false
+  xy: 338, 131
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/jianjiainner
+  rotate: false
+  xy: 837, 345
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/jianjiaout1
+  rotate: false
+  xy: 661, 271
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/legdownout
+  rotate: false
+  xy: 385, 138
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/legupout
+  rotate: true
+  xy: 502, 176
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/weapon1
+  rotate: false
+  xy: 398, 458
+  size: 395, 52
+  orig: 395, 52
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/yaojia
+  rotate: false
+  xy: 401, 210
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/body
+  rotate: true
+  xy: 504, 271
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/handinner
+  rotate: false
+  xy: 456, 179
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/handout
+  rotate: false
+  xy: 773, 275
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/jianjiainner
+  rotate: true
+  xy: 461, 204
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/jianjiaout1
+  rotate: false
+  xy: 716, 276
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/legdownout
+  rotate: false
+  xy: 879, 344
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/weapon1
+  rotate: true
+  xy: 2, 34
+  size: 398, 65
+  orig: 398, 65
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/yaojia
+  rotate: true
+  xy: 675, 322
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/body
+  rotate: true
+  xy: 414, 248
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/handout
+  rotate: true
+  xy: 399, 180
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/jianjiainner
+  rotate: false
+  xy: 499, 206
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/jianjiaout1
+  rotate: false
+  xy: 714, 327
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/legdownout
+  rotate: true
+  xy: 449, 153
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/weapon1
+  rotate: false
+  xy: 2, 434
+  size: 394, 76
+  orig: 394, 76
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/weapon2
+  rotate: false
+  xy: 69, 181
+  size: 107, 190
+  orig: 107, 190
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/eyebrow
+  rotate: false
+  xy: 70, 12
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/eyehard
+  rotate: true
+  xy: 293, 52
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/eyehard1
+  rotate: true
+  xy: 310, 175
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/eyehard3
+  rotate: false
+  xy: 2, 22
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/eyesffuer
+  rotate: false
+  xy: 333, 177
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/eyeyun
+  rotate: false
+  xy: 333, 216
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/face
+  rotate: false
+  xy: 414, 305
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/hair
+  rotate: false
+  xy: 178, 243
+  size: 143, 128
+  orig: 143, 128
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth01
+  rotate: false
+  xy: 385, 131
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth02
+  rotate: true
+  xy: 397, 376
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth04
+  rotate: true
+  xy: 1015, 491
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1

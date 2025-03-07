@@ -1,0 +1,531 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Autokrato/RoyalMarshal/RoyalMarshal_2/arminnerdown
+  rotate: true
+  xy: 345, 118
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/arminnerup
+  rotate: false
+  xy: 404, 200
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/armoutdown
+  rotate: true
+  xy: 434, 234
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/armoutdown1
+  rotate: true
+  xy: 573, 281
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/armoutup
+  rotate: false
+  xy: 258, 15
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/body
+  rotate: false
+  xy: 192, 253
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/body1
+  rotate: false
+  xy: 277, 239
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/bodyinner
+  rotate: false
+  xy: 284, 60
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/bodyinner1
+  rotate: true
+  xy: 452, 313
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/face
+  rotate: false
+  xy: 2, 39
+  size: 125, 139
+  orig: 125, 139
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/hair1
+  rotate: false
+  xy: 470, 357
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/hair2
+  rotate: true
+  xy: 535, 451
+  size: 59, 134
+  orig: 59, 134
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/hair3
+  rotate: true
+  xy: 796, 464
+  size: 46, 115
+  orig: 46, 115
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/hair4
+  rotate: true
+  xy: 535, 393
+  size: 56, 100
+  orig: 56, 100
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/hair5
+  rotate: false
+  xy: 2, 180
+  size: 112, 154
+  orig: 112, 154
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/handinner
+  rotate: false
+  xy: 635, 364
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/handout
+  rotate: false
+  xy: 407, 172
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/handout1
+  rotate: true
+  xy: 407, 146
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/jianjiainner
+  rotate: false
+  xy: 356, 195
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/jianjiaout
+  rotate: false
+  xy: 345, 149
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/leginnerdown
+  rotate: false
+  xy: 336, 65
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/leginnerup
+  rotate: false
+  xy: 364, 65
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/legoutdown
+  rotate: true
+  xy: 735, 392
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/legoutup
+  rotate: true
+  xy: 519, 284
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/mianju
+  rotate: false
+  xy: 286, 309
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/mianju1
+  rotate: false
+  xy: 284, 2
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/mouth01
+  rotate: false
+  xy: 893, 457
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/mouth02
+  rotate: false
+  xy: 202, 98
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/mouth04
+  rotate: true
+  xy: 488, 240
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/pifeng
+  rotate: false
+  xy: 637, 390
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/pifeng1
+  rotate: false
+  xy: 276, 130
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/pifeng2
+  rotate: false
+  xy: 671, 454
+  size: 123, 56
+  orig: 123, 56
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/weapon
+  rotate: false
+  xy: 199, 429
+  size: 183, 81
+  orig: 183, 81
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/xiabai
+  rotate: true
+  xy: 129, 42
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/xiabai1
+  rotate: false
+  xy: 985, 369
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/xiabai2
+  rotate: true
+  xy: 271, 201
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/xiabai3
+  rotate: false
+  xy: 913, 457
+  size: 108, 53
+  orig: 108, 53
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_2/xongshi
+  rotate: true
+  xy: 391, 149
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/arminnerdown
+  rotate: true
+  xy: 735, 423
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/armoutdown
+  rotate: false
+  xy: 357, 239
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/daizi1
+  rotate: true
+  xy: 434, 292
+  size: 19, 83
+  orig: 19, 83
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/daizi2
+  rotate: true
+  xy: 523, 331
+  size: 21, 84
+  orig: 21, 84
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/daizi3
+  rotate: true
+  xy: 666, 375
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/daizi4
+  rotate: true
+  xy: 693, 379
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/jianjiainner
+  rotate: true
+  xy: 371, 315
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/jianjiaout
+  rotate: true
+  xy: 198, 326
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/mianju
+  rotate: false
+  xy: 384, 367
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/pifeng
+  rotate: false
+  xy: 686, 393
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/pifeng1
+  rotate: false
+  xy: 202, 110
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/pifeng2
+  rotate: true
+  xy: 116, 193
+  size: 141, 74
+  orig: 141, 74
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/weapon
+  rotate: false
+  xy: 2, 336
+  size: 194, 85
+  orig: 194, 85
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/xiabai
+  rotate: true
+  xy: 292, 376
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/xiabai1
+  rotate: false
+  xy: 985, 281
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/xiabai2
+  rotate: true
+  xy: 2, 2
+  size: 35, 84
+  orig: 35, 84
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_3/xongshi
+  rotate: false
+  xy: 519, 267
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/daizi1
+  rotate: true
+  xy: 523, 310
+  size: 19, 84
+  orig: 19, 84
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/daizi2
+  rotate: false
+  xy: 412, 229
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/erhuan
+  rotate: true
+  xy: 258, 3
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/jianjiainner
+  rotate: true
+  xy: 192, 194
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/jianjiaout
+  rotate: false
+  xy: 129, 95
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/pifeng
+  rotate: true
+  xy: 222, 47
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/pifeng1
+  rotate: true
+  xy: 796, 385
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/pifeng2
+  rotate: false
+  xy: 384, 434
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/tx1
+  rotate: false
+  xy: 893, 366
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/tx2
+  rotate: false
+  xy: 173, 2
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/tx3
+  rotate: false
+  xy: 434, 261
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/weapon
+  rotate: false
+  xy: 2, 423
+  size: 195, 87
+  orig: 195, 87
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/xiabai
+  rotate: true
+  xy: 199, 377
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/xiabai1
+  rotate: true
+  xy: 531, 354
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/xiabai2
+  rotate: true
+  xy: 88, 2
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/xiongshi1
+  rotate: false
+  xy: 499, 258
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/xiongshi2
+  rotate: true
+  xy: 635, 345
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/xongshi
+  rotate: true
+  xy: 619, 348
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+Autokrato/RoyalMarshal/RoyalMarshal_4/yaoshi
+  rotate: true
+  xy: 519, 251
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 385, 239
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

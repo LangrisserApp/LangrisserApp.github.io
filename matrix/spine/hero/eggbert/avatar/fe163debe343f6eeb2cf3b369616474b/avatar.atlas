@@ -1,0 +1,328 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/Hair1
+  rotate: true
+  xy: 252, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/Hair2
+  rotate: true
+  xy: 101, 2
+  size: 13, 59
+  orig: 13, 59
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/Hair3
+  rotate: false
+  xy: 296, 278
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/body
+  rotate: false
+  xy: 631, 309
+  size: 87, 123
+  orig: 87, 123
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyehard
+  rotate: true
+  xy: 269, 187
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyehard2
+  rotate: true
+  xy: 930, 313
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyesffuer
+  rotate: false
+  xy: 357, 303
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyeyun
+  rotate: false
+  xy: 966, 334
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/face
+  rotate: true
+  xy: 838, 294
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/handinner
+  rotate: true
+  xy: 968, 469
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/handinner1
+  rotate: true
+  xy: 966, 305
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/handout
+  rotate: true
+  xy: 357, 261
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/handout1
+  rotate: false
+  xy: 582, 274
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/hatout
+  rotate: false
+  xy: 137, 133
+  size: 130, 196
+  orig: 130, 196
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/mouth01
+  rotate: false
+  xy: 2, 4
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/mouth02
+  rotate: true
+  xy: 999, 302
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/mouth03
+  rotate: false
+  xy: 146, 30
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/pifeng
+  rotate: false
+  xy: 720, 382
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/pifengout
+  rotate: false
+  xy: 101, 17
+  size: 43, 110
+  orig: 43, 110
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/weapon
+  rotate: true
+  xy: 717, 474
+  size: 36, 249
+  orig: 36, 249
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/weapon1
+  rotate: false
+  xy: 998, 426
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/weapon2
+  rotate: false
+  xy: 998, 447
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/weijin
+  rotate: false
+  xy: 146, 37
+  size: 104, 43
+  orig: 104, 43
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Magician_1/body
+  rotate: true
+  xy: 843, 382
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Magician_1/dd
+  rotate: false
+  xy: 296, 272
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/dd
+  rotate: false
+  xy: 296, 272
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Magician_1/handinner
+  rotate: false
+  xy: 449, 269
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Magician_1/handout
+  rotate: false
+  xy: 965, 402
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Magician_1/hatout
+  rotate: true
+  xy: 291, 380
+  size: 130, 202
+  orig: 130, 202
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Magician_1/weapon
+  rotate: false
+  xy: 495, 434
+  size: 220, 76
+  orig: 220, 76
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Magician_1/weijin
+  rotate: false
+  xy: 146, 82
+  size: 105, 49
+  orig: 105, 49
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/body
+  rotate: false
+  xy: 2, 11
+  size: 97, 116
+  orig: 97, 116
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/handinner
+  rotate: false
+  xy: 269, 129
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/handinner1
+  rotate: true
+  xy: 495, 274
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/handout
+  rotate: true
+  xy: 966, 370
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/handout1
+  rotate: false
+  xy: 539, 273
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/hatout
+  rotate: false
+  xy: 2, 129
+  size: 133, 200
+  orig: 133, 200
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/jianjiainner
+  rotate: false
+  xy: 253, 82
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/jianjiaout
+  rotate: false
+  xy: 412, 301
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/linzi
+  rotate: false
+  xy: 291, 335
+  size: 119, 43
+  orig: 119, 43
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/pifeng
+  rotate: false
+  xy: 495, 306
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/pifengout
+  rotate: true
+  xy: 720, 302
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/weapon
+  rotate: false
+  xy: 2, 331
+  size: 287, 179
+  orig: 287, 179
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/weapon1
+  rotate: true
+  xy: 405, 258
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_Wizard_3/xiongjia
+  rotate: false
+  xy: 252, 40
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 269, 255
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

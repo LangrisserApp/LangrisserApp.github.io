@@ -1,0 +1,419 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 181, 176
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/arminnerdown
+  rotate: true
+  xy: 242, 70
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/arminnerup
+  rotate: true
+  xy: 474, 358
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/armoutdown
+  rotate: false
+  xy: 471, 398
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/armoutup
+  rotate: false
+  xy: 356, 146
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/body
+  rotate: true
+  xy: 248, 313
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/bodyinner
+  rotate: true
+  xy: 301, 225
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/dd
+  rotate: false
+  xy: 228, 371
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/eyebrow
+  rotate: true
+  xy: 295, 110
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/eyehard
+  rotate: false
+  xy: 111, 182
+  size: 68, 18
+  orig: 68, 18
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/eyehard1
+  rotate: false
+  xy: 2, 6
+  size: 68, 18
+  orig: 68, 18
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/eyehard2
+  rotate: true
+  xy: 242, 106
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/eyehard3
+  rotate: true
+  xy: 260, 107
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/eyesffuer
+  rotate: true
+  xy: 386, 244
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/eyeyun
+  rotate: true
+  xy: 448, 176
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/face
+  rotate: false
+  xy: 102, 364
+  size: 124, 146
+  orig: 124, 146
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/hair1
+  rotate: false
+  xy: 175, 203
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/hair2
+  rotate: false
+  xy: 2, 331
+  size: 98, 179
+  orig: 98, 179
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/hair3
+  rotate: false
+  xy: 228, 424
+  size: 117, 86
+  orig: 117, 86
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/handinner
+  rotate: false
+  xy: 356, 118
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/handout
+  rotate: true
+  xy: 301, 194
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/hudang
+  rotate: true
+  xy: 237, 203
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/jianjiainner
+  rotate: true
+  xy: 144, 96
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/jianjiaout
+  rotate: false
+  xy: 312, 145
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/leginnerdown
+  rotate: true
+  xy: 312, 112
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/leginnerup
+  rotate: false
+  xy: 84, 72
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/legoutdown
+  rotate: false
+  xy: 474, 178
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/legoutup
+  rotate: true
+  xy: 84, 15
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/toushi1
+  rotate: false
+  xy: 111, 291
+  size: 124, 39
+  orig: 124, 39
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/toushi2
+  rotate: false
+  xy: 237, 250
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/weapon1
+  rotate: false
+  xy: 102, 332
+  size: 144, 30
+  orig: 144, 30
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Assassin_1/weijin
+  rotate: false
+  xy: 357, 377
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/body
+  rotate: false
+  xy: 111, 202
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/hudang
+  rotate: false
+  xy: 456, 436
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/jianjiainner
+  rotate: true
+  xy: 272, 71
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/jianjiaout
+  rotate: true
+  xy: 385, 140
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/leginnerup
+  rotate: true
+  xy: 322, 190
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/legoutup
+  rotate: false
+  xy: 414, 244
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/weapon1
+  rotate: true
+  xy: 70, 182
+  size: 147, 39
+  orig: 147, 39
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Ninja_2/weijininner
+  rotate: true
+  xy: 2, 26
+  size: 107, 80
+  orig: 107, 80
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/arminnerdown
+  rotate: true
+  xy: 466, 140
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/armoutdown
+  rotate: true
+  xy: 471, 257
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/body
+  rotate: true
+  xy: 331, 312
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/hudang
+  rotate: true
+  xy: 70, 135
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/jianjiainner
+  rotate: false
+  xy: 430, 141
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/jianjiaout
+  rotate: false
+  xy: 385, 184
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/leginnerdown
+  rotate: true
+  xy: 385, 107
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/leginnerup
+  rotate: true
+  xy: 179, 118
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/legoutdown
+  rotate: false
+  xy: 474, 217
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/legoutup
+  rotate: true
+  xy: 179, 61
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/toushi
+  rotate: false
+  xy: 228, 377
+  size: 127, 45
+  orig: 127, 45
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/toushi1
+  rotate: false
+  xy: 322, 249
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/tuijiainner
+  rotate: false
+  xy: 465, 308
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/weapon1
+  rotate: true
+  xy: 2, 135
+  size: 194, 66
+  orig: 194, 66
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/weijininner
+  rotate: false
+  xy: 347, 429
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/yaodai
+  rotate: true
+  xy: 414, 308
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/yaodai1
+  rotate: false
+  xy: 279, 107
+  size: 14, 67
+  orig: 14, 67
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/yaodaiinner
+  rotate: false
+  xy: 257, 177
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+SilverWolf/Ninjia/SilverWolf_Shadow_3/yaoshi
+  rotate: true
+  xy: 146, 133
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1

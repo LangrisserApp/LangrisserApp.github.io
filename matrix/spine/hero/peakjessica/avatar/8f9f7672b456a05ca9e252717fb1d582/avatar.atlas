@@ -1,0 +1,454 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PeakJessica/Bishops/PeakJessica_Bishops_3/handout
+  rotate: false
+  xy: 249, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+PeakJessica/Saint/PeakJessica_Saint_3/texiao
+  rotate: false
+  xy: 245, 372
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+PeakJessica/Saint/PeakJessica_Saint_4/handout
+  rotate: true
+  xy: 144, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/arminnerdown
+  rotate: true
+  xy: 275, 2
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/arminnerup
+  rotate: false
+  xy: 397, 267
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/armoutdown
+  rotate: true
+  xy: 296, 2
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/armoutup
+  rotate: true
+  xy: 49, 2
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/body
+  rotate: true
+  xy: 228, 30
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/qunzi
+  rotate: false
+  xy: 245, 302
+  size: 111, 68
+  orig: 111, 68
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/toushi
+  rotate: true
+  xy: 292, 27
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/weapon
+  rotate: true
+  xy: 49, 34
+  size: 230, 46
+  orig: 230, 46
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/xiabai
+  rotate: true
+  xy: 358, 112
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_2/xiabai1
+  rotate: false
+  xy: 148, 100
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_3/body
+  rotate: false
+  xy: 454, 376
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_3/weapon
+  rotate: true
+  xy: 2, 2
+  size: 262, 45
+  orig: 262, 45
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_3/xiabai1
+  rotate: false
+  xy: 222, 166
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/arminnerdown
+  rotate: false
+  xy: 443, 239
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/arminnerup
+  rotate: false
+  xy: 389, 125
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/armoutdown
+  rotate: true
+  xy: 397, 229
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/armoutup
+  rotate: false
+  xy: 426, 124
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/body
+  rotate: false
+  xy: 385, 310
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/dd
+  rotate: false
+  xy: 385, 167
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/erhuan
+  rotate: true
+  xy: 322, 28
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/erhuan1
+  rotate: false
+  xy: 496, 288
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/eyebrow
+  rotate: true
+  xy: 384, 241
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/eyehard
+  rotate: true
+  xy: 336, 230
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/eyehard1
+  rotate: true
+  xy: 360, 238
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/eyehard2
+  rotate: true
+  xy: 367, 167
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/eyehard3
+  rotate: true
+  xy: 385, 173
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/eyesffuer
+  rotate: false
+  xy: 442, 309
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/eyeyun
+  rotate: true
+  xy: 332, 168
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/face
+  rotate: false
+  xy: 118, 329
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair1
+  rotate: false
+  xy: 236, 86
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair2
+  rotate: true
+  xy: 402, 441
+  size: 69, 108
+  orig: 69, 108
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair3
+  rotate: false
+  xy: 454, 346
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair4
+  rotate: false
+  xy: 357, 385
+  size: 26, 78
+  orig: 26, 78
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair5
+  rotate: false
+  xy: 311, 168
+  size: 19, 61
+  orig: 19, 61
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair6
+  rotate: false
+  xy: 2, 266
+  size: 114, 244
+  orig: 114, 244
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair7
+  rotate: true
+  xy: 97, 100
+  size: 164, 49
+  orig: 164, 49
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/hair8
+  rotate: false
+  xy: 148, 165
+  size: 72, 113
+  orig: 72, 113
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/handinner
+  rotate: false
+  xy: 389, 104
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/handinner1
+  rotate: false
+  xy: 318, 87
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/handout
+  rotate: true
+  xy: 183, 2
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/handout1
+  rotate: true
+  xy: 218, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/jianjiainner
+  rotate: false
+  xy: 395, 194
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/jianjiainner1
+  rotate: true
+  xy: 442, 363
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/jianjiaout
+  rotate: false
+  xy: 97, 2
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/leginnerdown
+  rotate: false
+  xy: 322, 45
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/leginnerup
+  rotate: false
+  xy: 480, 240
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/legoutdown
+  rotate: true
+  xy: 207, 308
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/legoutup
+  rotate: true
+  xy: 395, 165
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/mouth01
+  rotate: false
+  xy: 385, 441
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/mouth02
+  rotate: false
+  xy: 385, 449
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/mouth03
+  rotate: true
+  xy: 503, 331
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/mouth04
+  rotate: false
+  xy: 183, 30
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/qunzi
+  rotate: false
+  xy: 222, 231
+  size: 112, 69
+  orig: 112, 69
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/texiao
+  rotate: false
+  xy: 385, 374
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/toushi
+  rotate: true
+  xy: 185, 38
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/toushi1
+  rotate: false
+  xy: 118, 280
+  size: 87, 47
+  orig: 87, 47
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/weapon
+  rotate: false
+  xy: 118, 465
+  size: 282, 45
+  orig: 282, 45
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/xiabai
+  rotate: false
+  xy: 441, 278
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/xiabai1
+  rotate: false
+  xy: 97, 35
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+PeakJessica/Wizard/PeakJessica_Wizard_4/xiabai2
+  rotate: true
+  xy: 318, 109
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 358, 309
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

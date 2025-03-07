@@ -1,0 +1,251 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bargas/Bargas_Spear/Bargas_General_2/hudang
+  rotate: false
+  xy: 227, 144
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/jianjiainner
+  rotate: true
+  xy: 385, 273
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/jianjiaout
+  rotate: false
+  xy: 259, 260
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/leginnerdown
+  rotate: true
+  xy: 335, 233
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/legoutdown
+  rotate: true
+  xy: 186, 100
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/pifeng
+  rotate: false
+  xy: 2, 189
+  size: 179, 144
+  orig: 179, 144
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/weapon
+  rotate: false
+  xy: 2, 420
+  size: 442, 85
+  orig: 442, 85
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/yaojiainner
+  rotate: false
+  xy: 318, 167
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/yaojiaout
+  rotate: false
+  xy: 189, 50
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/arminnerdown
+  rotate: false
+  xy: 477, 377
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/arminnerup
+  rotate: false
+  xy: 186, 136
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/armoutdown
+  rotate: true
+  xy: 446, 420
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/armoutup
+  rotate: false
+  xy: 272, 159
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/body
+  rotate: false
+  xy: 183, 227
+  size: 74, 106
+  orig: 74, 106
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/eyebrow
+  rotate: true
+  xy: 165, 99
+  size: 88, 19
+  orig: 88, 19
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/eyehard
+  rotate: false
+  xy: 183, 205
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/eyehard1
+  rotate: true
+  xy: 455, 345
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/eyehard2
+  rotate: false
+  xy: 259, 213
+  size: 76, 18
+  orig: 76, 18
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/eyehard3
+  rotate: false
+  xy: 385, 259
+  size: 72, 12
+  orig: 72, 12
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/eyesffuer
+  rotate: false
+  xy: 2, 5
+  size: 91, 38
+  orig: 91, 38
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/eyeyun
+  rotate: true
+  xy: 125, 99
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/face
+  rotate: false
+  xy: 2, 45
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/handinner
+  rotate: false
+  xy: 477, 346
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/handout
+  rotate: false
+  xy: 228, 61
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/jianjiainner
+  rotate: false
+  xy: 335, 262
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/jianjiaout
+  rotate: false
+  xy: 381, 344
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/leginnerdown
+  rotate: false
+  xy: 95, 2
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/leginnerup
+  rotate: true
+  xy: 125, 53
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/legoutdown
+  rotate: false
+  xy: 233, 98
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/legoutup
+  rotate: true
+  xy: 446, 454
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/mouth01
+  rotate: false
+  xy: 337, 216
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/weapon
+  rotate: false
+  xy: 2, 335
+  size: 377, 83
+  orig: 377, 83
+  offset: 0, 0
+  index: -1
+Bargas/mouth02
+  rotate: false
+  xy: 272, 141
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+Bargas/mouth04
+  rotate: false
+  xy: 269, 127
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 259, 233
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

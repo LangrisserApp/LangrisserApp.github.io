@@ -1,0 +1,342 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 15
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wiler/General/Wiler_General_3/handout
+  rotate: true
+  xy: 385, 204
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/arminner1
+  rotate: false
+  xy: 314, 84
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/arminner2
+  rotate: true
+  xy: 354, 127
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/armout1
+  rotate: false
+  xy: 286, 49
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/armout2
+  rotate: true
+  xy: 282, 121
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/body
+  rotate: false
+  xy: 123, 115
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/eyebrow
+  rotate: true
+  xy: 421, 293
+  size: 69, 10
+  orig: 69, 10
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/eyehard
+  rotate: false
+  xy: 320, 207
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/eyehard1
+  rotate: false
+  xy: 320, 226
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/eyehard2
+  rotate: false
+  xy: 314, 160
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/eyehard3
+  rotate: false
+  xy: 2, 5
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/eyesffuer
+  rotate: false
+  xy: 125, 2
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/eyeyun
+  rotate: false
+  xy: 215, 41
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/face
+  rotate: false
+  xy: 320, 273
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/guashi
+  rotate: false
+  xy: 78, 17
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/hair1
+  rotate: false
+  xy: 125, 29
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/hair2
+  rotate: false
+  xy: 473, 436
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/hair3
+  rotate: false
+  xy: 320, 247
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/hair4
+  rotate: true
+  xy: 323, 364
+  size: 55, 109
+  orig: 55, 109
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/hairback
+  rotate: false
+  xy: 183, 368
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/handinner
+  rotate: false
+  xy: 387, 244
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/handout1
+  rotate: false
+  xy: 314, 59
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/handout2
+  rotate: true
+  xy: 421, 274
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/hatout
+  rotate: true
+  xy: 183, 218
+  size: 148, 90
+  orig: 148, 90
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/jianjiainner1
+  rotate: false
+  xy: 434, 370
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/jianjiaout1
+  rotate: false
+  xy: 215, 69
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/jianjiaout2
+  rotate: false
+  xy: 275, 218
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/leginnerdown
+  rotate: false
+  xy: 337, 89
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/leginnerup
+  rotate: false
+  xy: 362, 95
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/legoutdown
+  rotate: true
+  xy: 311, 127
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/legoutup
+  rotate: false
+  xy: 475, 369
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/mouth01
+  rotate: false
+  xy: 92, 208
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/mouth02
+  rotate: false
+  xy: 386, 226
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/mouth04
+  rotate: false
+  xy: 190, 115
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/pifengback
+  rotate: true
+  xy: 2, 42
+  size: 161, 74
+  orig: 161, 74
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/pifenginner
+  rotate: false
+  xy: 190, 123
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/pifengout
+  rotate: false
+  xy: 78, 94
+  size: 43, 109
+  orig: 43, 109
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/weapon
+  rotate: false
+  xy: 92, 215
+  size: 89, 295
+  orig: 89, 295
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_3/xiongshi
+  rotate: true
+  xy: 282, 161
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/guashi
+  rotate: false
+  xy: 168, 38
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/hatout
+  rotate: false
+  xy: 323, 421
+  size: 148, 89
+  orig: 148, 89
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/leginnerdown
+  rotate: true
+  xy: 475, 410
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/legoutdown
+  rotate: false
+  xy: 281, 78
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/pifenginner
+  rotate: false
+  xy: 236, 123
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/pifengout
+  rotate: false
+  xy: 275, 256
+  size: 43, 110
+  orig: 43, 110
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/weapon
+  rotate: false
+  xy: 2, 205
+  size: 88, 305
+  orig: 88, 305
+  offset: 0, 0
+  index: -1
+Wiler/Prophet/Wiler_Prophet_4/xiongshi
+  rotate: false
+  xy: 314, 176
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1

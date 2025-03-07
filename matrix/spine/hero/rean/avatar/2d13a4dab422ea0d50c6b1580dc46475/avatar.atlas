@@ -1,0 +1,426 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/arminnerdown
+  rotate: true
+  xy: 412, 80
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/arminnerdown (2)
+  rotate: false
+  xy: 368, 22
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/arminnerup
+  rotate: true
+  xy: 327, 102
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/arminnerup (2)
+  rotate: false
+  xy: 767, 222
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/armoutdown
+  rotate: false
+  xy: 428, 123
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/armoutdown (2)
+  rotate: false
+  xy: 415, 50
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/armoutup
+  rotate: true
+  xy: 983, 341
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/armoutup (2)
+  rotate: true
+  xy: 983, 307
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/body
+  rotate: true
+  xy: 349, 232
+  size: 69, 98
+  orig: 69, 98
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/body (2)
+  rotate: true
+  xy: 347, 158
+  size: 72, 97
+  orig: 72, 97
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/handinner
+  rotate: false
+  xy: 368, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/handinner (2)
+  rotate: false
+  xy: 391, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/handout
+  rotate: false
+  xy: 792, 283
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/handout1
+  rotate: true
+  xy: 170, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/handout2
+  rotate: false
+  xy: 799, 307
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/handout3
+  rotate: false
+  xy: 413, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/leginnerdown
+  rotate: true
+  xy: 370, 55
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/leginnerup
+  rotate: false
+  xy: 337, 12
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/legoutdown
+  rotate: false
+  xy: 393, 110
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/legoutup
+  rotate: true
+  xy: 717, 223
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/weapon1
+  rotate: false
+  xy: 2, 45
+  size: 220, 53
+  orig: 220, 53
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/weapon4
+  rotate: true
+  xy: 327, 150
+  size: 137, 18
+  orig: 137, 18
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/yaodai1
+  rotate: false
+  xy: 532, 238
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/yaodai2
+  rotate: false
+  xy: 188, 4
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/yifu1
+  rotate: false
+  xy: 617, 224
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_3/AshenChevalier_3/yifu2
+  rotate: false
+  xy: 717, 262
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_4/1
+  rotate: false
+  xy: 624, 324
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_4/2
+  rotate: false
+  xy: 624, 401
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Rean/AshenChevalier/AshenChevalier_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/Shadow
+  rotate: false
+  xy: 2, 18
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/eyebrow
+  rotate: false
+  xy: 2, 3
+  size: 69, 13
+  orig: 69, 13
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/eyehard3
+  rotate: false
+  xy: 449, 237
+  size: 68, 7
+  orig: 68, 7
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/eyesffuer
+  rotate: false
+  xy: 552, 300
+  size: 70, 26
+  orig: 70, 26
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/eyeyun
+  rotate: false
+  xy: 552, 328
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/handout
+  rotate: true
+  xy: 824, 307
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/handout2
+  rotate: false
+  xy: 813, 283
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/leginnerup
+  rotate: false
+  xy: 680, 230
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/legoutup
+  rotate: false
+  xy: 357, 110
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/mouth01
+  rotate: true
+  xy: 849, 313
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/mouth02
+  rotate: false
+  xy: 208, 10
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/mouth03
+  rotate: false
+  xy: 337, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/mouth04
+  rotate: true
+  xy: 617, 281
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/weapon1
+  rotate: false
+  xy: 349, 303
+  size: 201, 53
+  orig: 201, 53
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/weapon2
+  rotate: true
+  xy: 123, 4
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/weapon3
+  rotate: true
+  xy: 78, 2
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+Rean/Rean_Sacred/Rean_Sacred/yifu2
+  rotate: false
+  xy: 370, 80
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/eyehard
+  rotate: false
+  xy: 78, 21
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/eyehard1
+  rotate: false
+  xy: 147, 21
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/eyehard2
+  rotate: true
+  xy: 596, 232
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/face
+  rotate: true
+  xy: 866, 383
+  size: 127, 153
+  orig: 127, 153
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/hair1
+  rotate: true
+  xy: 449, 246
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/hair2
+  rotate: false
+  xy: 224, 5
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/hair3
+  rotate: false
+  xy: 866, 312
+  size: 115, 69
+  orig: 115, 69
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/hair4
+  rotate: true
+  xy: 624, 279
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/hair5
+  rotate: true
+  xy: 799, 331
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/hair6
+  rotate: false
+  xy: 337, 56
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/hair7
+  rotate: true
+  xy: 404, 27
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Rean/SwordMaster/SwordMaster_2/mouth01
+  rotate: false
+  xy: 428, 112
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1

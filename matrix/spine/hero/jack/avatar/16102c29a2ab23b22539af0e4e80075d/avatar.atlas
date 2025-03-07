@@ -1,0 +1,363 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 434, 726
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/chuan
+  rotate: false
+  xy: 2, 620
+  size: 372, 197
+  orig: 372, 197
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/mao
+  rotate: false
+  xy: 2, 3
+  size: 104, 142
+  orig: 104, 142
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/maozi
+  rotate: true
+  xy: 69, 247
+  size: 199, 153
+  orig: 199, 153
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/pifeng
+  rotate: false
+  xy: 517, 766
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/pifeng1
+  rotate: true
+  xy: 238, 144
+  size: 136, 91
+  orig: 136, 91
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/qizhi
+  rotate: false
+  xy: 322, 2
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/weapon
+  rotate: false
+  xy: 344, 458
+  size: 92, 160
+  orig: 92, 160
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_03/weapon1
+  rotate: false
+  xy: 413, 254
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/arminnerdown
+  rotate: false
+  xy: 376, 620
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/arminnerup
+  rotate: true
+  xy: 416, 303
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/armoutdown
+  rotate: false
+  xy: 438, 538
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/armoutup
+  rotate: false
+  xy: 413, 211
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/body
+  rotate: false
+  xy: 331, 191
+  size: 80, 111
+  orig: 80, 111
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/chuan
+  rotate: false
+  xy: 2, 819
+  size: 385, 203
+  orig: 385, 203
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/chuan1
+  rotate: false
+  xy: 389, 828
+  size: 199, 65
+  orig: 199, 65
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/eyehard
+  rotate: true
+  xy: 409, 2
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/eyehard03
+  rotate: true
+  xy: 490, 681
+  size: 43, 13
+  orig: 43, 13
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/eyehard1
+  rotate: true
+  xy: 438, 578
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/eyehard2
+  rotate: false
+  xy: 264, 6
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/eyesffuer
+  rotate: true
+  xy: 438, 498
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/eyeyun
+  rotate: false
+  xy: 435, 647
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/face
+  rotate: true
+  xy: 108, 19
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/fan
+  rotate: false
+  xy: 219, 474
+  size: 123, 144
+  orig: 123, 144
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/fan1
+  rotate: true
+  xy: 232, 27
+  size: 115, 88
+  orig: 115, 88
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/handinner
+  rotate: false
+  xy: 374, 2
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/handup
+  rotate: false
+  xy: 232, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/huzii
+  rotate: true
+  xy: 416, 354
+  size: 102, 28
+  orig: 102, 28
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/leginnerdown
+  rotate: true
+  xy: 427, 620
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/leginnerup
+  rotate: false
+  xy: 967, 958
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/legoutdowm
+  rotate: false
+  xy: 438, 461
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/legoutup
+  rotate: false
+  xy: 376, 654
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/mao
+  rotate: true
+  xy: 69, 151
+  size: 94, 167
+  orig: 94, 167
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/maozi
+  rotate: false
+  xy: 2, 448
+  size: 215, 170
+  orig: 215, 170
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/mouth01
+  rotate: true
+  xy: 446, 425
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/mouth02
+  rotate: true
+  xy: 446, 389
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/mouth04
+  rotate: false
+  xy: 517, 743
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/pifeng
+  rotate: true
+  xy: 871, 823
+  size: 69, 97
+  orig: 69, 97
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/pifeng1
+  rotate: true
+  xy: 330, 304
+  size: 152, 84
+  orig: 152, 84
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/qizhi
+  rotate: true
+  xy: 331, 116
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/tx1
+  rotate: false
+  xy: 660, 894
+  size: 301, 62
+  orig: 301, 62
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/tx2
+  rotate: true
+  xy: 2, 147
+  size: 299, 65
+  orig: 299, 65
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/tx3
+  rotate: false
+  xy: 660, 958
+  size: 305, 64
+  orig: 305, 64
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/tx4
+  rotate: false
+  xy: 590, 830
+  size: 279, 62
+  orig: 279, 62
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/weapon
+  rotate: false
+  xy: 224, 282
+  size: 104, 190
+  orig: 104, 190
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/weapon1
+  rotate: false
+  xy: 435, 680
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/weigan
+  rotate: true
+  xy: 389, 895
+  size: 127, 269
+  orig: 127, 269
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/weigan1
+  rotate: false
+  xy: 434, 753
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/weigan2
+  rotate: true
+  xy: 970, 829
+  size: 127, 52
+  orig: 127, 52
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/weixjin
+  rotate: true
+  xy: 376, 718
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+jack_Serpent/jack_Serpent_04/wibao
+  rotate: false
+  xy: 322, 44
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/arminnerdown
+  rotate: true
+  xy: 569, 160
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/arminnerup
+  rotate: false
+  xy: 799, 383
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/armoutdown
+  rotate: true
+  xy: 474, 133
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/armoutup
+  rotate: true
+  xy: 854, 336
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/body
+  rotate: true
+  xy: 897, 439
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/dang
+  rotate: false
+  xy: 936, 358
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/eyebrow
+  rotate: false
+  xy: 936, 416
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/eyehard
+  rotate: false
+  xy: 403, 141
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/eyehard1
+  rotate: false
+  xy: 327, 113
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/eyehard3
+  rotate: true
+  xy: 999, 439
+  size: 71, 19
+  orig: 71, 19
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/eyesffuer
+  rotate: true
+  xy: 569, 201
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/eyeyun
+  rotate: true
+  xy: 284, 28
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/face
+  rotate: true
+  xy: 616, 209
+  size: 139, 167
+  orig: 139, 167
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/hair
+  rotate: false
+  xy: 904, 357
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/handinner
+  rotate: true
+  xy: 569, 135
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/handout
+  rotate: true
+  xy: 546, 136
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/handout1
+  rotate: true
+  xy: 992, 406
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/handout2
+  rotate: false
+  xy: 512, 134
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/leginnerdown
+  rotate: true
+  xy: 936, 382
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/leginnerup
+  rotate: false
+  xy: 900, 386
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/legoutdown
+  rotate: false
+  xy: 857, 375
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/legoutup
+  rotate: true
+  xy: 799, 338
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/mouth01
+  rotate: false
+  xy: 284, 2
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/mouth02
+  rotate: false
+  xy: 904, 336
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/mouth03
+  rotate: false
+  xy: 327, 96
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/mouth04
+  rotate: true
+  xy: 600, 234
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/weapon
+  rotate: false
+  xy: 349, 272
+  size: 265, 84
+  orig: 265, 84
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/weapon1
+  rotate: false
+  xy: 2, 15
+  size: 280, 83
+  orig: 280, 83
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_3/weapon2
+  rotate: false
+  xy: 624, 427
+  size: 271, 83
+  orig: 271, 83
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_4/1
+  rotate: false
+  xy: 624, 350
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_4/2
+  rotate: false
+  xy: 327, 161
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritLance/Kazuma_SpiritLance_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 327, 134
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,685 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archbishop/Lucretia_Archbishop_03/Shadow
+  rotate: true
+  xy: 260, 201
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/arminnerdown
+  rotate: false
+  xy: 287, 170
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/arminnerup
+  rotate: true
+  xy: 287, 195
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/armoutdown
+  rotate: true
+  xy: 441, 593
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/armoutup
+  rotate: false
+  xy: 405, 595
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/body
+  rotate: false
+  xy: 152, 2
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/body1
+  rotate: true
+  xy: 666, 650
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/eyebrow
+  rotate: true
+  xy: 1003, 707
+  size: 49, 7
+  orig: 49, 7
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/eyehard
+  rotate: false
+  xy: 376, 741
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/eyehard1
+  rotate: false
+  xy: 451, 741
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/eyehard2
+  rotate: false
+  xy: 560, 750
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/eyehard3
+  rotate: true
+  xy: 395, 616
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/eyesffuer
+  rotate: true
+  xy: 526, 715
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/eyeyun
+  rotate: false
+  xy: 339, 581
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/face
+  rotate: false
+  xy: 904, 888
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/hair
+  rotate: false
+  xy: 207, 4
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/hair1
+  rotate: false
+  xy: 217, 519
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/hair2
+  rotate: false
+  xy: 238, 314
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/hair3
+  rotate: false
+  xy: 405, 626
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/hair4
+  rotate: true
+  xy: 635, 745
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/hair5
+  rotate: true
+  xy: 377, 772
+  size: 100, 181
+  orig: 100, 181
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/hair6
+  rotate: false
+  xy: 92, 89
+  size: 69, 186
+  orig: 69, 186
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/handinner
+  rotate: true
+  xy: 260, 170
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/handout
+  rotate: true
+  xy: 536, 874
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/handout2
+  rotate: false
+  xy: 513, 630
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/leginnerdown
+  rotate: true
+  xy: 277, 314
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/leginnerup
+  rotate: false
+  xy: 258, 400
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/legoutdown
+  rotate: false
+  xy: 257, 126
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/legoutup
+  rotate: false
+  xy: 262, 41
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/mouth01
+  rotate: false
+  xy: 687, 714
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/mouth02
+  rotate: true
+  xy: 896, 904
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/mouth04
+  rotate: true
+  xy: 455, 659
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetearinner
+  rotate: false
+  xy: 215, 774
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetearout
+  rotate: true
+  xy: 163, 172
+  size: 103, 95
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandinner
+  rotate: false
+  xy: 214, 673
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandinner1
+  rotate: false
+  xy: 483, 610
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandinner2
+  rotate: true
+  xy: 1003, 758
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandinner3
+  rotate: false
+  xy: 687, 720
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandinner4
+  rotate: true
+  xy: 483, 588
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandout
+  rotate: false
+  xy: 339, 615
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandout1
+  rotate: true
+  xy: 697, 632
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandout3
+  rotate: false
+  xy: 465, 595
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandout4
+  rotate: true
+  xy: 365, 510
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethandoutr2
+  rotate: true
+  xy: 334, 513
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppethead
+  rotate: false
+  xy: 377, 874
+  size: 157, 148
+  orig: 157, 148
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetinner
+  rotate: true
+  xy: 93, 2
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetjianjiainner
+  rotate: false
+  xy: 560, 659
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetjianjiaout
+  rotate: false
+  xy: 560, 704
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetline
+  rotate: true
+  xy: 716, 807
+  size: 108, 178
+  orig: 108, 178
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetline1
+  rotate: true
+  xy: 715, 697
+  size: 108, 177
+  orig: 108, 177
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetline2
+  rotate: true
+  xy: 716, 917
+  size: 105, 186
+  orig: 105, 186
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetline3
+  rotate: false
+  xy: 2, 64
+  size: 88, 211
+  orig: 88, 211
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetpifeng
+  rotate: true
+  xy: 896, 790
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetpifeng1
+  rotate: true
+  xy: 894, 613
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetpifeng2
+  rotate: true
+  xy: 164, 277
+  size: 121, 72
+  orig: 121, 72
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/puppetxiongshi
+  rotate: true
+  xy: 322, 755
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/qunziinner
+  rotate: true
+  xy: 617, 658
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/qunziinner1
+  rotate: true
+  xy: 286, 662
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/qunziout
+  rotate: false
+  xy: 339, 680
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/toushi
+  rotate: false
+  xy: 214, 739
+  size: 102, 33
+  orig: 102, 33
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/toushi1
+  rotate: false
+  xy: 462, 660
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/toushi2
+  rotate: true
+  xy: 525, 681
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/tuzi
+  rotate: false
+  xy: 217, 400
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/tuzi1
+  rotate: true
+  xy: 290, 131
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/tuzi2
+  rotate: false
+  xy: 257, 83
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/weapon
+  rotate: false
+  xy: 2, 797
+  size: 211, 225
+  orig: 211, 225
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/weapon_FX
+  rotate: false
+  xy: 405, 682
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_03/yaodai
+  rotate: true
+  xy: 287, 227
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/arminnerdown
+  rotate: true
+  xy: 455, 626
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/arminnerup
+  rotate: false
+  xy: 262, 2
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/armoutdown
+  rotate: false
+  xy: 480, 635
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/armoutup
+  rotate: false
+  xy: 238, 277
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/body1
+  rotate: true
+  xy: 277, 341
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/handinner
+  rotate: true
+  xy: 498, 660
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/handout
+  rotate: false
+  xy: 724, 633
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetdaiziinner
+  rotate: false
+  xy: 166, 400
+  size: 49, 169
+  orig: 49, 169
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetdaiziout
+  rotate: true
+  xy: 560, 777
+  size: 121, 153
+  orig: 121, 153
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppethead
+  rotate: false
+  xy: 2, 424
+  size: 162, 145
+  orig: 162, 145
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetinner
+  rotate: false
+  xy: 2, 2
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetjianjiainner
+  rotate: true
+  xy: 214, 598
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetjianjiaout
+  rotate: false
+  xy: 274, 597
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetpifeng
+  rotate: false
+  xy: 215, 818
+  size: 160, 204
+  orig: 160, 204
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetpifeng1
+  rotate: true
+  xy: 536, 900
+  size: 122, 178
+  orig: 122, 178
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppetpifeng2
+  rotate: false
+  xy: 2, 277
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/puppettoushi
+  rotate: true
+  xy: 163, 83
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/qunziinner
+  rotate: true
+  xy: 462, 692
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/qunziinner1
+  rotate: true
+  xy: 217, 441
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/qunziout
+  rotate: true
+  xy: 271, 526
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/toushi3
+  rotate: false
+  xy: 525, 654
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/toushi4
+  rotate: false
+  xy: 334, 535
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/toushi5
+  rotate: true
+  xy: 625, 703
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/toushi6
+  rotate: true
+  xy: 853, 652
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/toushi7
+  rotate: false
+  xy: 697, 658
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/toushi8
+  rotate: true
+  xy: 751, 659
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/toushi9
+  rotate: false
+  xy: 802, 660
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/weapon
+  rotate: false
+  xy: 2, 571
+  size: 210, 224
+  orig: 210, 224
+  offset: 0, 0
+  index: -1
+Archbishop/Lucretia_Archbishop_04/yaodai
+  rotate: false
+  xy: 278, 278
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1

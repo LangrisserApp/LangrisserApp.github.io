@@ -1,0 +1,419 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/arminnerup
+  rotate: false
+  xy: 934, 223
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/armoutup
+  rotate: true
+  xy: 214, 2
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/body
+  rotate: true
+  xy: 413, 12
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/eyebrow
+  rotate: true
+  xy: 534, 98
+  size: 60, 7
+  orig: 60, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/eyehard
+  rotate: true
+  xy: 757, 116
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/eyehard1
+  rotate: false
+  xy: 898, 283
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/eyehard2
+  rotate: false
+  xy: 898, 268
+  size: 61, 13
+  orig: 61, 13
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/eyehard3
+  rotate: false
+  xy: 898, 254
+  size: 61, 12
+  orig: 61, 12
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/eyesffuer
+  rotate: false
+  xy: 540, 8
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/eyeyun
+  rotate: false
+  xy: 111, 2
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/face
+  rotate: true
+  xy: 125, 157
+  size: 105, 146
+  orig: 105, 146
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/hair1
+  rotate: false
+  xy: 706, 179
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/hair2
+  rotate: false
+  xy: 715, 265
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/hair5
+  rotate: false
+  xy: 447, 305
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/hairinner
+  rotate: false
+  xy: 2, 186
+  size: 121, 252
+  orig: 121, 252
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/handinner
+  rotate: false
+  xy: 897, 223
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/handout
+  rotate: true
+  xy: 602, 5
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/jianjiainner
+  rotate: true
+  xy: 491, 5
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/jianjiaout
+  rotate: true
+  xy: 653, 48
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/legoutdown
+  rotate: true
+  xy: 173, 2
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/legoutup
+  rotate: false
+  xy: 961, 262
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/mouth01
+  rotate: false
+  xy: 533, 442
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/pifeng
+  rotate: false
+  xy: 414, 66
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_PegasusKnight/Angelina_PegasusKnight_1/toushi
+  rotate: true
+  xy: 991, 435
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/horse_body
+  rotate: true
+  xy: 2, 9
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/mouth02
+  rotate: true
+  xy: 111, 171
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/mouth04
+  rotate: true
+  xy: 543, 287
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_winginner3
+  rotate: false
+  xy: 430, 160
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_winginner4
+  rotate: true
+  xy: 273, 75
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_wingout1
+  rotate: true
+  xy: 269, 308
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_wingout3
+  rotate: false
+  xy: 273, 179
+  size: 155, 127
+  orig: 155, 127
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_wingout4
+  rotate: false
+  xy: 111, 27
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusKnight_1/horse head
+  rotate: true
+  xy: 795, 314
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusKnight_1/horse_xiongjia
+  rotate: false
+  xy: 632, 103
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_an
+  rotate: true
+  xy: 549, 266
+  size: 88, 164
+  orig: 88, 164
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear inner
+  rotate: true
+  xy: 773, 179
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear out
+  rotate: false
+  xy: 997, 304
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner down
+  rotate: true
+  xy: 694, 49
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner up
+  rotate: true
+  xy: 603, 28
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out down
+  rotate: false
+  xy: 828, 201
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out up
+  rotate: false
+  xy: 540, 34
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair1
+  rotate: false
+  xy: 543, 93
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair2
+  rotate: true
+  xy: 272, 9
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair3
+  rotate: false
+  xy: 701, 91
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg inner up
+  rotate: true
+  xy: 767, 265
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out down
+  rotate: true
+  xy: 737, 363
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out up
+  rotate: true
+  xy: 773, 200
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leginnerdown
+  rotate: false
+  xy: 862, 205
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_huijia1
+  rotate: false
+  xy: 828, 264
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_neck
+  rotate: false
+  xy: 911, 306
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_weiba
+  rotate: false
+  xy: 543, 179
+  size: 161, 85
+  orig: 161, 85
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/wingdown
+  rotate: true
+  xy: 549, 356
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/winginnerup
+  rotate: true
+  xy: 799, 418
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/wingout2
+  rotate: false
+  xy: 125, 264
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: true
+  xy: 371, 7
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 997, 359
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 533, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/dd
+  rotate: false
+  xy: 991, 429
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/weapon
+  rotate: false
+  xy: 2, 440
+  size: 529, 70
+  orig: 529, 70
+  offset: 0, 0
+  index: -1

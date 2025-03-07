@@ -1,0 +1,377 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Julian/Julian_Bow/Julian_Bow_03/jianbang
+  rotate: true
+  xy: 470, 158
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_03/jianjia
+  rotate: true
+  xy: 385, 115
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_03/jianjia1
+  rotate: false
+  xy: 237, 44
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_03/lingzi
+  rotate: false
+  xy: 437, 97
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_03/pifeng
+  rotate: true
+  xy: 91, 9
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_03/pifeng1
+  rotate: false
+  xy: 173, 160
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_03/weapon
+  rotate: false
+  xy: 2, 55
+  size: 169, 219
+  orig: 169, 219
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/arminnerdown
+  rotate: false
+  xy: 437, 158
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/arminnerup
+  rotate: true
+  xy: 422, 34
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/armoutdown
+  rotate: false
+  xy: 266, 2
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/armoutup
+  rotate: true
+  xy: 444, 280
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/body
+  rotate: false
+  xy: 237, 72
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/eyebrow
+  rotate: false
+  xy: 299, 63
+  size: 77, 15
+  orig: 77, 15
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/eyehard
+  rotate: false
+  xy: 372, 251
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/eyehard1
+  rotate: false
+  xy: 369, 200
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/eyehard2
+  rotate: true
+  xy: 420, 97
+  size: 73, 15
+  orig: 73, 15
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/eyehard3
+  rotate: false
+  xy: 391, 2
+  size: 72, 14
+  orig: 72, 14
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/eyesffuer
+  rotate: true
+  xy: 342, 273
+  size: 81, 28
+  orig: 81, 28
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/eyeyun
+  rotate: true
+  xy: 473, 345
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/face
+  rotate: false
+  xy: 201, 356
+  size: 170, 154
+  orig: 170, 154
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/hair1
+  rotate: false
+  xy: 473, 421
+  size: 36, 89
+  orig: 36, 89
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/hair2
+  rotate: false
+  xy: 372, 318
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/hair3
+  rotate: false
+  xy: 299, 80
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/hair4
+  rotate: true
+  xy: 2, 12
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/handiner
+  rotate: false
+  xy: 173, 251
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/handout
+  rotate: true
+  xy: 455, 71
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/handout1
+  rotate: false
+  xy: 466, 126
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/jianbang
+  rotate: true
+  xy: 437, 122
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/jiandai
+  rotate: false
+  xy: 220, 2
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/jianjia
+  rotate: true
+  xy: 175, 2
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/jianjia1
+  rotate: true
+  xy: 385, 70
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/kua
+  rotate: true
+  xy: 363, 6
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/leginnerdown
+  rotate: false
+  xy: 391, 18
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/leginnerup
+  rotate: false
+  xy: 445, 192
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/legoutdown
+  rotate: true
+  xy: 458, 313
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/legoutup
+  rotate: true
+  xy: 448, 236
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/lingzi
+  rotate: true
+  xy: 485, 280
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/lingzi1
+  rotate: false
+  xy: 299, 17
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/mouth01
+  rotate: false
+  xy: 494, 273
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/mouth02
+  rotate: false
+  xy: 299, 4
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/mouth03
+  rotate: false
+  xy: 342, 262
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/mouth04
+  rotate: false
+  xy: 2, 6
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/piaodai
+  rotate: false
+  xy: 372, 275
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/piaodai1
+  rotate: false
+  xy: 369, 172
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/pifeng
+  rotate: false
+  xy: 173, 56
+  size: 62, 102
+  orig: 62, 102
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/pifeng1
+  rotate: false
+  xy: 356, 80
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/pifeng2
+  rotate: true
+  xy: 373, 350
+  size: 160, 98
+  orig: 160, 98
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/shiping
+  rotate: true
+  xy: 420, 71
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/toushi
+  rotate: false
+  xy: 297, 162
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/weapon
+  rotate: false
+  xy: 2, 276
+  size: 197, 234
+  orig: 197, 234
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/weapon2
+  rotate: false
+  xy: 201, 250
+  size: 139, 104
+  orig: 139, 104
+  offset: 0, 0
+  index: -1
+Julian/Julian_Bow/Julian_Bow_04/yaobao
+  rotate: false
+  xy: 469, 95
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 369, 224
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

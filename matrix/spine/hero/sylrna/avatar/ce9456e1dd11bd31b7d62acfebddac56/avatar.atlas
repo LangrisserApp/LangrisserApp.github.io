@@ -1,0 +1,524 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sylrna_Spear2/arminnerdown
+  rotate: true
+  xy: 452, 386
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/arminnerup
+  rotate: true
+  xy: 596, 265
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/armoutup
+  rotate: false
+  xy: 556, 268
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/weapon1
+  rotate: true
+  xy: 267, 69
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/weapon2
+  rotate: true
+  xy: 321, 173
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/wshi
+  rotate: false
+  xy: 708, 341
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/wtx1
+  rotate: false
+  xy: 634, 393
+  size: 90, 28
+  orig: 90, 28
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/wtx2
+  rotate: false
+  xy: 851, 421
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/yifu1
+  rotate: false
+  xy: 559, 307
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/yifu2
+  rotate: false
+  xy: 296, 169
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/yifu3
+  rotate: false
+  xy: 726, 388
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+Sylrna_Spear2/yifu4
+  rotate: true
+  xy: 445, 219
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+Sylrna_Spear3/face
+  rotate: false
+  xy: 2, 184
+  size: 179, 153
+  orig: 179, 153
+  offset: 0, 0
+  index: -1
+Sylrna_Spear3/weapon1
+  rotate: false
+  xy: 305, 339
+  size: 145, 74
+  orig: 145, 74
+  offset: 0, 0
+  index: -1
+Sylrna_Spear3/weapon2
+  rotate: true
+  xy: 596, 298
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+Sylrna_Spear3/wtx1
+  rotate: false
+  xy: 634, 423
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+Sylrna_Spear3/wtx3
+  rotate: true
+  xy: 411, 245
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/Shadow
+  rotate: false
+  xy: 632, 340
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/arminnerdown
+  rotate: false
+  xy: 347, 70
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/arminnerup
+  rotate: false
+  xy: 349, 172
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/armoutdown
+  rotate: false
+  xy: 880, 385
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/armoutup
+  rotate: false
+  xy: 348, 124
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/body
+  rotate: false
+  xy: 350, 256
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/ershi
+  rotate: false
+  xy: 327, 71
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/eyebrow
+  rotate: false
+  xy: 851, 409
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/eyehard
+  rotate: false
+  xy: 632, 317
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/eyehard1
+  rotate: false
+  xy: 632, 294
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/eyehard2
+  rotate: true
+  xy: 327, 96
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/eyehard3
+  rotate: false
+  xy: 950, 414
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/eyeyun
+  rotate: false
+  xy: 71, 2
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/face
+  rotate: false
+  xy: 2, 339
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/hair1
+  rotate: true
+  xy: 492, 386
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/hair2
+  rotate: false
+  xy: 301, 239
+  size: 47, 96
+  orig: 47, 96
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/hair3
+  rotate: true
+  xy: 492, 435
+  size: 75, 140
+  orig: 75, 140
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/hair4
+  rotate: false
+  xy: 183, 337
+  size: 120, 173
+  orig: 120, 173
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/hair5
+  rotate: false
+  xy: 2, 34
+  size: 129, 148
+  orig: 129, 148
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/hand1
+  rotate: true
+  xy: 348, 89
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/hand2
+  rotate: false
+  xy: 675, 260
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/handinner
+  rotate: true
+  xy: 389, 92
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/handinner1
+  rotate: false
+  xy: 338, 42
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/handout
+  rotate: false
+  xy: 916, 395
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/handout1
+  rotate: false
+  xy: 338, 15
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/leginnerdown
+  rotate: true
+  xy: 399, 221
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/leginnerup
+  rotate: true
+  xy: 448, 238
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/legoutdown
+  rotate: true
+  xy: 630, 265
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/legoutup
+  rotate: false
+  xy: 599, 381
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/mouth01
+  rotate: true
+  xy: 709, 294
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/mouth02
+  rotate: false
+  xy: 234, 2
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/mouth03
+  rotate: false
+  xy: 301, 234
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/qunzi
+  rotate: false
+  xy: 181, 2
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/qunzi2
+  rotate: true
+  xy: 812, 392
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/weapon1
+  rotate: false
+  xy: 305, 415
+  size: 185, 95
+  orig: 185, 95
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/weapon2
+  rotate: true
+  xy: 133, 68
+  size: 114, 46
+  orig: 114, 46
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/wen
+  rotate: true
+  xy: 780, 390
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/wtx1
+  rotate: false
+  xy: 183, 227
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/wtx2
+  rotate: true
+  xy: 844, 392
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/wtx3
+  rotate: false
+  xy: 140, 2
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/wtx4
+  rotate: false
+  xy: 183, 169
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/xiabai2
+  rotate: false
+  xy: 181, 75
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu1
+  rotate: true
+  xy: 747, 418
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu2
+  rotate: false
+  xy: 448, 266
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu3
+  rotate: true
+  xy: 452, 327
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu4
+  rotate: false
+  xy: 510, 257
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu5
+  rotate: true
+  xy: 234, 9
+  size: 58, 102
+  orig: 58, 102
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu6
+  rotate: true
+  xy: 500, 234
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu7
+  rotate: true
+  xy: 950, 426
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/yifu8
+  rotate: true
+  xy: 634, 367
+  size: 24, 86
+  orig: 24, 86
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/zhuangshi1
+  rotate: false
+  xy: 709, 313
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/zhuangshi2
+  rotate: false
+  xy: 478, 394
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/zhuangshi3
+  rotate: false
+  xy: 386, 130
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/zhuangshi4
+  rotate: true
+  xy: 556, 254
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/zhuangshi5
+  rotate: true
+  xy: 745, 391
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Sylrna_Spear4/zhuangshi6
+  rotate: false
+  xy: 350, 217
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1

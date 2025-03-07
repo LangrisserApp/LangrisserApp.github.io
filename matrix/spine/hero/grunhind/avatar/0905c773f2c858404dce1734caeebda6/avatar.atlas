@@ -1,0 +1,720 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grunhind/Maiden/Grunhind_Maiden_2/arminnerup
+  rotate: false
+  xy: 803, 104
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/armoutup
+  rotate: true
+  xy: 811, 209
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/body
+  rotate: false
+  xy: 849, 281
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/chibang1
+  rotate: true
+  xy: 2, 9
+  size: 77, 140
+  orig: 77, 140
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/chibang2
+  rotate: true
+  xy: 477, 415
+  size: 95, 170
+  orig: 95, 170
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/handinner
+  rotate: false
+  xy: 377, 79
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/handout
+  rotate: true
+  xy: 809, 177
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/handout1
+  rotate: true
+  xy: 875, 141
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/jianjiainner
+  rotate: false
+  xy: 934, 154
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/jianjiainner2
+  rotate: true
+  xy: 406, 83
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/jianjiaout
+  rotate: true
+  xy: 257, 49
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/leginnerdown
+  rotate: false
+  xy: 777, 92
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/leginnerup
+  rotate: true
+  xy: 968, 157
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/legoutdown
+  rotate: false
+  xy: 781, 181
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/legoutup
+  rotate: false
+  xy: 741, 141
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/qunzi
+  rotate: true
+  xy: 263, 3
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/weapon
+  rotate: true
+  xy: 827, 470
+  size: 40, 194
+  orig: 40, 194
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/weapon2
+  rotate: true
+  xy: 429, 129
+  size: 54, 113
+  orig: 54, 113
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/yaojiainner
+  rotate: true
+  xy: 848, 176
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_2/yaojiaout
+  rotate: true
+  xy: 849, 193
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/body
+  rotate: true
+  xy: 906, 283
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/chibang1
+  rotate: true
+  xy: 308, 244
+  size: 101, 127
+  orig: 101, 127
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/chibang2
+  rotate: false
+  xy: 330, 388
+  size: 145, 122
+  orig: 145, 122
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/chibang3
+  rotate: false
+  xy: 437, 236
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/jianjiainner
+  rotate: false
+  xy: 382, 107
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/jianjiaout
+  rotate: true
+  xy: 966, 281
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/leginnerup
+  rotate: true
+  xy: 345, 87
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/legoutup
+  rotate: false
+  xy: 627, 132
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/qunzi
+  rotate: true
+  xy: 224, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/qunzi1
+  rotate: true
+  xy: 900, 183
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/qunzi2
+  rotate: false
+  xy: 461, 345
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/qunzi3
+  rotate: false
+  xy: 926, 371
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/toushi
+  rotate: true
+  xy: 310, 68
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/toushi1
+  rotate: true
+  xy: 163, 99
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/toushi2
+  rotate: false
+  xy: 1002, 420
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/weapon
+  rotate: false
+  xy: 124, 256
+  size: 50, 254
+  orig: 50, 254
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/weapon2
+  rotate: true
+  xy: 477, 345
+  size: 68, 159
+  orig: 68, 159
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/yaojiainner
+  rotate: true
+  xy: 629, 66
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_3/yaojiaout
+  rotate: false
+  xy: 666, 94
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/arminnerdown
+  rotate: true
+  xy: 707, 62
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/arminnerup
+  rotate: false
+  xy: 840, 141
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/armoutdown
+  rotate: true
+  xy: 709, 138
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/armoutup
+  rotate: false
+  xy: 803, 139
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/body
+  rotate: false
+  xy: 572, 69
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/chibang1
+  rotate: false
+  xy: 649, 406
+  size: 182, 43
+  orig: 182, 43
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/chibang2
+  rotate: false
+  xy: 177, 2
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/chibang3
+  rotate: true
+  xy: 649, 451
+  size: 59, 176
+  orig: 59, 176
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/chibang4
+  rotate: false
+  xy: 638, 332
+  size: 157, 72
+  orig: 157, 72
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/chibang5
+  rotate: false
+  xy: 901, 150
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/chibang6
+  rotate: false
+  xy: 176, 259
+  size: 130, 109
+  orig: 130, 109
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/chibang7
+  rotate: true
+  xy: 635, 240
+  size: 90, 114
+  orig: 90, 114
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/daizi
+  rotate: true
+  xy: 797, 334
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/daizi1
+  rotate: true
+  xy: 849, 225
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/eyebrow
+  rotate: true
+  xy: 1011, 341
+  size: 77, 11
+  orig: 77, 11
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/eyehard
+  rotate: false
+  xy: 299, 113
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/eyehard1
+  rotate: false
+  xy: 926, 340
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/eyehard2
+  rotate: false
+  xy: 843, 341
+  size: 81, 21
+  orig: 81, 21
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/eyehard3
+  rotate: false
+  xy: 211, 101
+  size: 76, 8
+  orig: 76, 8
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/eyesffuer
+  rotate: true
+  xy: 811, 246
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/eyeyun
+  rotate: false
+  xy: 211, 111
+  size: 86, 34
+  orig: 86, 34
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/face
+  rotate: false
+  xy: 176, 370
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hair1
+  rotate: false
+  xy: 211, 147
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hair2
+  rotate: false
+  xy: 751, 226
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hair3
+  rotate: false
+  xy: 561, 234
+  size: 72, 109
+  orig: 72, 109
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hair4
+  rotate: true
+  xy: 950, 183
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hair5
+  rotate: false
+  xy: 1000, 190
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hairinner
+  rotate: false
+  xy: 2, 88
+  size: 106, 163
+  orig: 106, 163
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hairinner1
+  rotate: false
+  xy: 212, 49
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/hairinner2
+  rotate: true
+  xy: 728, 185
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/handinner
+  rotate: false
+  xy: 377, 51
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/handout
+  rotate: true
+  xy: 668, 63
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/handout1
+  rotate: false
+  xy: 310, 88
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/jianjiainner
+  rotate: false
+  xy: 664, 138
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/jianjiaout
+  rotate: true
+  xy: 906, 221
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/leginnerdown
+  rotate: false
+  xy: 777, 136
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/leginnerup
+  rotate: true
+  xy: 345, 61
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/legoutdown
+  rotate: false
+  xy: 750, 96
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/legoutup
+  rotate: false
+  xy: 629, 87
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/mouth01
+  rotate: false
+  xy: 728, 232
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/mouth02
+  rotate: false
+  xy: 308, 354
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/mouth03
+  rotate: false
+  xy: 803, 95
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/mouth04
+  rotate: true
+  xy: 325, 352
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/qunzi
+  rotate: false
+  xy: 110, 88
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/qunzi1
+  rotate: true
+  xy: 505, 86
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/qunzi2
+  rotate: false
+  xy: 177, 39
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/qunzi3
+  rotate: false
+  xy: 555, 177
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/texiao1
+  rotate: false
+  xy: 330, 347
+  size: 129, 39
+  orig: 129, 39
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/texiao2
+  rotate: true
+  xy: 110, 125
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/texiao3
+  rotate: false
+  xy: 302, 144
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/texiao4
+  rotate: false
+  xy: 302, 190
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/texiao5
+  rotate: false
+  xy: 429, 185
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/texiao6
+  rotate: true
+  xy: 162, 128
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/toushi
+  rotate: false
+  xy: 958, 216
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/toushi1
+  rotate: true
+  xy: 645, 183
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/toushi2
+  rotate: false
+  xy: 144, 7
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/weapon
+  rotate: false
+  xy: 2, 253
+  size: 120, 257
+  orig: 120, 257
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/weapon1
+  rotate: false
+  xy: 544, 129
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/weapon2
+  rotate: false
+  xy: 843, 364
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/weapon3a
+  rotate: true
+  xy: 833, 411
+  size: 57, 167
+  orig: 57, 167
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/yaojiainner
+  rotate: false
+  xy: 289, 72
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Grunhind/Maiden/Grunhind_Maiden_4/yaojiaout
+  rotate: false
+  xy: 708, 94
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 429, 102
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

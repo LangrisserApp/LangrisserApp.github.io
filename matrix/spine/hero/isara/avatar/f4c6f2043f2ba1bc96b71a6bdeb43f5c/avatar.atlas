@@ -1,0 +1,244 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Isara/Tank/Tank_3/paota
+  rotate: false
+  xy: 691, 250
+  size: 218, 89
+  orig: 218, 89
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_3/paota1
+  rotate: false
+  xy: 692, 341
+  size: 221, 71
+  orig: 221, 71
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_3/zhuangjia1
+  rotate: true
+  xy: 691, 187
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_3/zhuangjia2
+  rotate: false
+  xy: 536, 144
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_3/zhuangjia3
+  rotate: true
+  xy: 225, 10
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_3/zhuangjia4
+  rotate: true
+  xy: 822, 191
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_3/zhuti
+  rotate: false
+  xy: 2, 372
+  size: 377, 138
+  orig: 377, 138
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/Shadow
+  rotate: false
+  xy: 345, 3
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/bao1
+  rotate: false
+  xy: 911, 256
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/bao2
+  rotate: false
+  xy: 736, 154
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/ludai1
+  rotate: false
+  xy: 381, 383
+  size: 309, 127
+  orig: 309, 127
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/ludai2
+  rotate: false
+  xy: 2, 104
+  size: 309, 126
+  orig: 309, 126
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/ludai3
+  rotate: false
+  xy: 381, 265
+  size: 308, 116
+  orig: 308, 116
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi
+  rotate: false
+  xy: 692, 414
+  size: 268, 96
+  orig: 268, 96
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi1inner
+  rotate: true
+  xy: 962, 441
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi1out
+  rotate: false
+  xy: 759, 188
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi2inner
+  rotate: true
+  xy: 886, 204
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi2out
+  rotate: false
+  xy: 960, 338
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi3inner
+  rotate: false
+  xy: 915, 328
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi3out
+  rotate: false
+  xy: 911, 288
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/lungzi4
+  rotate: true
+  xy: 962, 378
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/paota
+  rotate: false
+  xy: 2, 14
+  size: 221, 88
+  orig: 221, 88
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/paota1
+  rotate: false
+  xy: 313, 143
+  size: 221, 71
+  orig: 221, 71
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/qiqizhi
+  rotate: false
+  xy: 683, 151
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/shiping
+  rotate: false
+  xy: 345, 30
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/shiping2
+  rotate: false
+  xy: 1000, 344
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/tianxian
+  rotate: true
+  xy: 313, 79
+  size: 62, 136
+  orig: 62, 136
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/zhuangjia
+  rotate: false
+  xy: 451, 85
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/zhuangjia1
+  rotate: true
+  xy: 632, 141
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/zhuangjia2
+  rotate: true
+  xy: 292, 2
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/zhuangjia3
+  rotate: true
+  xy: 641, 190
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/zhuangjia4
+  rotate: false
+  xy: 915, 368
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/zhuangjia5
+  rotate: false
+  xy: 381, 216
+  size: 258, 47
+  orig: 258, 47
+  offset: 0, 0
+  index: -1
+Isara/Tank/Tank_4/zhuti
+  rotate: false
+  xy: 2, 232
+  size: 377, 138
+  orig: 377, 138
+  offset: 0, 0
+  index: -1

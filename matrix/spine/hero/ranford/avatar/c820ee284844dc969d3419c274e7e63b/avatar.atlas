@@ -1,0 +1,524 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leon/Leon_1/horse_neck
+  rotate: true
+  xy: 288, 313
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegdown
+  rotate: false
+  xy: 668, 370
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegup
+  rotate: false
+  xy: 462, 105
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_body
+  rotate: false
+  xy: 546, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegdown
+  rotate: false
+  xy: 649, 206
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegup
+  rotate: false
+  xy: 481, 33
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 370, 102
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: true
+  xy: 722, 334
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 280, 388
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 280, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leon/dd
+  rotate: false
+  xy: 529, 105
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/body
+  rotate: false
+  xy: 575, 247
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/handinner
+  rotate: false
+  xy: 504, 334
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/handout
+  rotate: false
+  xy: 633, 329
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/horse_head
+  rotate: true
+  xy: 704, 398
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/horse_neck
+  rotate: false
+  xy: 209, 86
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/horse_neck1
+  rotate: false
+  xy: 674, 71
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/horse_pigua1
+  rotate: false
+  xy: 623, 50
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/horse_tuijia
+  rotate: true
+  xy: 394, 260
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/horse_xiongjia
+  rotate: true
+  xy: 209, 2
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/jianjiainner
+  rotate: true
+  xy: 122, 2
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/jianjiaout
+  rotate: true
+  xy: 962, 419
+  size: 91, 56
+  orig: 91, 56
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/legoutdown
+  rotate: true
+  xy: 786, 371
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/weapon1
+  rotate: false
+  xy: 2, 333
+  size: 275, 82
+  orig: 275, 82
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/weapon2
+  rotate: false
+  xy: 545, 394
+  size: 118, 21
+  orig: 118, 21
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_HighRider_2/yaojiaout
+  rotate: true
+  xy: 688, 7
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/arminnerup
+  rotate: true
+  xy: 675, 299
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/armoutup
+  rotate: true
+  xy: 587, 2
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/body
+  rotate: false
+  xy: 593, 120
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/eyebrow
+  rotate: true
+  xy: 659, 256
+  size: 71, 14
+  orig: 71, 14
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/eyehard
+  rotate: true
+  xy: 657, 141
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/eyehard1
+  rotate: false
+  xy: 460, 2
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/eyehard2
+  rotate: false
+  xy: 481, 20
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/eyehard3
+  rotate: false
+  xy: 375, 4
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/eyesffuer
+  rotate: true
+  xy: 655, 47
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/eyeyun
+  rotate: true
+  xy: 639, 256
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/face
+  rotate: false
+  xy: 166, 196
+  size: 120, 135
+  orig: 120, 135
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/hair1
+  rotate: false
+  xy: 460, 20
+  size: 19, 80
+  orig: 19, 80
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/hair2
+  rotate: true
+  xy: 387, 193
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/hair3
+  rotate: false
+  xy: 122, 58
+  size: 85, 125
+  orig: 85, 125
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/hair4
+  rotate: false
+  xy: 535, 39
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/hair5
+  rotate: true
+  xy: 487, 194
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/hair6
+  rotate: true
+  xy: 657, 120
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/hairback
+  rotate: false
+  xy: 2, 185
+  size: 162, 146
+  orig: 162, 146
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/handinner
+  rotate: true
+  xy: 665, 329
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/handout
+  rotate: false
+  xy: 658, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/horse_guajian1
+  rotate: false
+  xy: 495, 255
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/horse_guajian2
+  rotate: false
+  xy: 394, 346
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/horse_guajian3
+  rotate: false
+  xy: 749, 339
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/horse_head
+  rotate: true
+  xy: 833, 394
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/jianjiainner
+  rotate: true
+  xy: 165, 5
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/jianjiaout
+  rotate: false
+  xy: 568, 201
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/legoutdown
+  rotate: true
+  xy: 744, 372
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/legoutup
+  rotate: false
+  xy: 694, 330
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/mouth01
+  rotate: false
+  xy: 166, 185
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/mouth02
+  rotate: false
+  xy: 186, 185
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/mouth04
+  rotate: false
+  xy: 596, 39
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/weapon
+  rotate: false
+  xy: 545, 374
+  size: 121, 18
+  orig: 121, 18
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/weapon1
+  rotate: false
+  xy: 2, 417
+  size: 276, 93
+  orig: 276, 93
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_Knight_1/yaojiaout
+  rotate: true
+  xy: 544, 2
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/body
+  rotate: false
+  xy: 529, 111
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/handinner
+  rotate: false
+  xy: 702, 369
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/handout
+  rotate: false
+  xy: 626, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/horse_neck
+  rotate: false
+  xy: 289, 100
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/horse_neck1
+  rotate: true
+  xy: 674, 47
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/horse_toushi
+  rotate: false
+  xy: 504, 363
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/horse_tuijia
+  rotate: false
+  xy: 288, 210
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/horse_xiongjia
+  rotate: false
+  xy: 375, 14
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/jianjiainner
+  rotate: false
+  xy: 962, 376
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/jianjiaout
+  rotate: true
+  xy: 296, 5
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/shield
+  rotate: false
+  xy: 2, 8
+  size: 118, 175
+  orig: 118, 175
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/toushi
+  rotate: false
+  xy: 545, 328
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Knight/Ranford_RoyalKnight_3/yaojiaout
+  rotate: false
+  xy: 676, 157
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 596, 44
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

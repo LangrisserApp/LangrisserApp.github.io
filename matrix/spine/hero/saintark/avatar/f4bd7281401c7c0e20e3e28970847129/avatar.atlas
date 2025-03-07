@@ -1,0 +1,468 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/body
+  rotate: true
+  xy: 756, 360
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/hair6
+  rotate: false
+  xy: 2, 3
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/hair9
+  rotate: true
+  xy: 154, 244
+  size: 117, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/hat
+  rotate: true
+  xy: 146, 2
+  size: 116, 70
+  orig: 116, 70
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/hudang
+  rotate: true
+  xy: 686, 360
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/jianjiainner
+  rotate: false
+  xy: 766, 322
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/jianjiaout
+  rotate: false
+  xy: 612, 277
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/leginnerdown
+  rotate: false
+  xy: 388, 52
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/legoutdown
+  rotate: true
+  xy: 355, 246
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/lingzi
+  rotate: false
+  xy: 300, 363
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/lingziinner
+  rotate: false
+  xy: 170, 363
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/piaodaiinner
+  rotate: false
+  xy: 355, 276
+  size: 26, 85
+  orig: 26, 85
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/piaodaiout
+  rotate: true
+  xy: 439, 281
+  size: 36, 89
+  orig: 36, 89
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/pifenginner
+  rotate: false
+  xy: 218, 6
+  size: 76, 115
+  orig: 76, 115
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/pifengout
+  rotate: false
+  xy: 279, 246
+  size: 74, 115
+  orig: 74, 115
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/weapon
+  rotate: false
+  xy: 516, 432
+  size: 170, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_3/yaojiaout
+  rotate: false
+  xy: 732, 298
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/arminnerdown
+  rotate: false
+  xy: 366, 95
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/arminnerup
+  rotate: true
+  xy: 363, 130
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/armoutdown
+  rotate: false
+  xy: 363, 204
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/armoutup
+  rotate: false
+  xy: 669, 238
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/body
+  rotate: false
+  xy: 383, 280
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/eyebrow
+  rotate: false
+  xy: 753, 350
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/eyehard
+  rotate: false
+  xy: 296, 5
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/eyehard01
+  rotate: false
+  xy: 822, 364
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/eyehard02
+  rotate: false
+  xy: 822, 341
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/eyehard03
+  rotate: false
+  xy: 685, 350
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/eyesffuer
+  rotate: false
+  xy: 606, 238
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/eyeyun
+  rotate: false
+  xy: 612, 310
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/face
+  rotate: false
+  xy: 2, 114
+  size: 120, 138
+  orig: 120, 138
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair1
+  rotate: false
+  xy: 384, 354
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair10
+  rotate: false
+  xy: 212, 123
+  size: 75, 119
+  orig: 75, 119
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair2
+  rotate: true
+  xy: 897, 363
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair3
+  rotate: true
+  xy: 439, 319
+  size: 32, 94
+  orig: 32, 94
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair4
+  rotate: false
+  xy: 676, 291
+  size: 19, 56
+  orig: 19, 56
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair5
+  rotate: true
+  xy: 538, 350
+  size: 38, 92
+  orig: 38, 92
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair6
+  rotate: false
+  xy: 688, 415
+  size: 137, 95
+  orig: 137, 95
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair7
+  rotate: true
+  xy: 467, 353
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hair9
+  rotate: true
+  xy: 827, 393
+  size: 117, 133
+  orig: 117, 133
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/handinner
+  rotate: false
+  xy: 847, 322
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/handinner1
+  rotate: false
+  xy: 818, 303
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/handout
+  rotate: false
+  xy: 697, 298
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hat
+  rotate: false
+  xy: 2, 254
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/hudang
+  rotate: true
+  xy: 530, 260
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/jianjiainner
+  rotate: false
+  xy: 973, 333
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/jianjiaout
+  rotate: false
+  xy: 535, 305
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/leginnerdown
+  rotate: false
+  xy: 366, 51
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/leginnerup
+  rotate: true
+  xy: 766, 296
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/legoutdown
+  rotate: false
+  xy: 363, 160
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/legoutup
+  rotate: true
+  xy: 632, 349
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/lingzi
+  rotate: true
+  xy: 296, 34
+  size: 93, 68
+  orig: 93, 68
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/lingzi1
+  rotate: false
+  xy: 170, 413
+  size: 166, 97
+  orig: 166, 97
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/mouth01
+  rotate: false
+  xy: 154, 373
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/mouth02
+  rotate: true
+  xy: 676, 277
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/mouth04
+  rotate: false
+  xy: 124, 114
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/piaodaiinner
+  rotate: true
+  xy: 538, 390
+  size: 40, 99
+  orig: 40, 99
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/piaodaiout
+  rotate: false
+  xy: 962, 403
+  size: 60, 107
+  orig: 60, 107
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/pifenginner
+  rotate: false
+  xy: 2, 382
+  size: 166, 128
+  orig: 166, 128
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/pifengout
+  rotate: false
+  xy: 124, 120
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/texiao
+  rotate: false
+  xy: 289, 129
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/weapon
+  rotate: false
+  xy: 338, 430
+  size: 176, 80
+  orig: 176, 80
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/weapon1
+  rotate: false
+  xy: 967, 373
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/xiabai
+  rotate: true
+  xy: 816, 322
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/yaojiaout
+  rotate: false
+  xy: 639, 378
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+SaintArk/TwilightEnvoy/SainArk_TwilightEnvoy_4/yaojiaout1
+  rotate: true
+  xy: 400, 247
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 897, 336
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

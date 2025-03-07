@@ -1,0 +1,412 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Listell/Listell_Blood/Listell_blood_1/earinner
+  rotate: false
+  xy: 458, 219
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/earout
+  rotate: false
+  xy: 86, 3
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/eyebrow
+  rotate: false
+  xy: 2, 5
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/eyehard
+  rotate: true
+  xy: 352, 54
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/eyehard1
+  rotate: true
+  xy: 429, 62
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/eyehard2
+  rotate: true
+  xy: 202, 130
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/eyehard3
+  rotate: true
+  xy: 447, 136
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/eyesffuer
+  rotate: true
+  xy: 416, 136
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/eyeyun
+  rotate: true
+  xy: 461, 150
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/face
+  rotate: false
+  xy: 2, 360
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hair1
+  rotate: false
+  xy: 147, 46
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hair2
+  rotate: false
+  xy: 458, 253
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hair3
+  rotate: false
+  xy: 264, 334
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hair4
+  rotate: false
+  xy: 374, 232
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hair5
+  rotate: false
+  xy: 491, 168
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hair6
+  rotate: false
+  xy: 377, 87
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hair7
+  rotate: false
+  xy: 270, 55
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/hairback
+  rotate: false
+  xy: 94, 204
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/mouth01
+  rotate: true
+  xy: 450, 205
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/mouth02
+  rotate: true
+  xy: 500, 363
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/mouth03
+  rotate: true
+  xy: 454, 117
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/toushi
+  rotate: false
+  xy: 311, 218
+  size: 61, 114
+  orig: 61, 114
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/toushi1
+  rotate: true
+  xy: 242, 3
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Listell/Listell_Blood/Listell_blood_1/toushi2
+  rotate: true
+  xy: 380, 32
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/arminnerdown
+  rotate: true
+  xy: 222, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/arminnerup
+  rotate: false
+  xy: 483, 74
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/armoutdown
+  rotate: true
+  xy: 344, 23
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/armoutup
+  rotate: false
+  xy: 461, 113
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/body
+  rotate: false
+  xy: 305, 59
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/dd
+  rotate: false
+  xy: 242, 28
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/leginnerdown
+  rotate: false
+  xy: 454, 68
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/leginnerup
+  rotate: true
+  xy: 206, 34
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/legoutdown
+  rotate: false
+  xy: 491, 121
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/legoutup
+  rotate: true
+  xy: 311, 196
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/qunzi
+  rotate: false
+  xy: 206, 58
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/weapon
+  rotate: true
+  xy: 94, 130
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/winginner
+  rotate: false
+  xy: 121, 334
+  size: 141, 86
+  orig: 141, 86
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_2/wingout
+  rotate: true
+  xy: 2, 15
+  size: 170, 82
+  orig: 170, 82
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/body
+  rotate: false
+  xy: 369, 136
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/handinner
+  rotate: false
+  xy: 380, 2
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/handout
+  rotate: false
+  xy: 94, 335
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/jianjiainner
+  rotate: true
+  xy: 199, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/jianjiaout
+  rotate: false
+  xy: 154, 16
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/pifeng
+  rotate: true
+  xy: 461, 325
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/qunzi
+  rotate: true
+  xy: 299, 128
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/qunzi1
+  rotate: true
+  xy: 441, 423
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/shipin
+  rotate: true
+  xy: 500, 379
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/shipin1
+  rotate: false
+  xy: 86, 41
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/shipin2
+  rotate: false
+  xy: 221, 128
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/shipin3
+  rotate: false
+  xy: 305, 41
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/weapon
+  rotate: true
+  xy: 348, 336
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/weapon1
+  rotate: true
+  xy: 377, 54
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/winginner
+  rotate: true
+  xy: 223, 192
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/winginner1
+  rotate: false
+  xy: 294, 423
+  size: 145, 87
+  orig: 145, 87
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/wingout
+  rotate: false
+  xy: 121, 422
+  size: 171, 88
+  orig: 171, 88
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/wingout1
+  rotate: true
+  xy: 2, 187
+  size: 171, 90
+  orig: 171, 90
+  offset: 0, 0
+  index: -1
+Listell/Listell_Demon/Listel_demon_3/yaodai
+  rotate: false
+  xy: 254, 28
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 374, 205
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

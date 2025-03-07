@@ -1,0 +1,356 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grenier/Grenier_horse/Grenier_3/weapon1
+  rotate: false
+  xy: 2, 429
+  size: 276, 81
+  orig: 276, 81
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/weapon1
+  rotate: false
+  xy: 2, 429
+  size: 276, 81
+  orig: 276, 81
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_horse/Grenier_3/weapon2
+  rotate: true
+  xy: 97, 121
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/weapon2
+  rotate: true
+  xy: 97, 121
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_horse/Grenier_3/yaojia
+  rotate: false
+  xy: 246, 203
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegdown
+  rotate: false
+  xy: 130, 77
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegup
+  rotate: false
+  xy: 441, 252
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_body
+  rotate: true
+  xy: 2, 73
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegdown
+  rotate: true
+  xy: 441, 218
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegup
+  rotate: false
+  xy: 253, 131
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_head
+  rotate: false
+  xy: 121, 242
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_neck
+  rotate: false
+  xy: 115, 124
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_tuijia
+  rotate: true
+  xy: 338, 259
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_weiba
+  rotate: false
+  xy: 385, 336
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_xiongjia
+  rotate: true
+  xy: 280, 423
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: true
+  xy: 193, 69
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: false
+  xy: 121, 203
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 246, 257
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: false
+  xy: 334, 144
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: true
+  xy: 219, 207
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: false
+  xy: 246, 352
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 368
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/arminnerdown
+  rotate: false
+  xy: 298, 101
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/arminnerup
+  rotate: false
+  xy: 154, 37
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/armoutdown
+  rotate: false
+  xy: 165, 73
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/armoutup
+  rotate: false
+  xy: 120, 35
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/body
+  rotate: false
+  xy: 2, 2
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/eyebrow
+  rotate: true
+  xy: 502, 277
+  size: 58, 8
+  orig: 58, 8
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/eyehard
+  rotate: true
+  xy: 102, 11
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/eyehard1
+  rotate: false
+  xy: 193, 99
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/eyehard2
+  rotate: true
+  xy: 499, 337
+  size: 60, 11
+  orig: 60, 11
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/eyehard3
+  rotate: false
+  xy: 193, 87
+  size: 59, 10
+  orig: 59, 10
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/eyesffuer
+  rotate: true
+  xy: 357, 150
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/eyeyun
+  rotate: true
+  xy: 383, 150
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/face
+  rotate: false
+  xy: 2, 231
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/hair1
+  rotate: true
+  xy: 406, 399
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/hair2
+  rotate: true
+  xy: 97, 73
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/hair3
+  rotate: false
+  xy: 411, 216
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/hair4
+  rotate: false
+  xy: 356, 210
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/hair5
+  rotate: true
+  xy: 268, 348
+  size: 73, 115
+  orig: 73, 115
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/jianjiainner
+  rotate: true
+  xy: 318, 204
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/jianjiaout
+  rotate: true
+  xy: 54, 10
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/legoutdown
+  rotate: true
+  xy: 120, 9
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/legoutup
+  rotate: true
+  xy: 255, 103
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/mouth01
+  rotate: false
+  xy: 75, 2
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/mouth02
+  rotate: true
+  xy: 177, 54
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Rune/Rune_Knight/Rune_HighRider_2/mouth04
+  rotate: false
+  xy: 54, 2
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Rune/Rune_Sword/Rune_SwardMan_2/toushi
+  rotate: true
+  xy: 194, 117
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 307, 127
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/dd
+  rotate: false
+  xy: 268, 423
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Excela/Dragon/Excela_Dragon_3/Dragon_head
+  rotate: false
+  xy: 757, 693
+  size: 185, 179
+  orig: 185, 179
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_3/weapon
+  rotate: false
+  xy: 551, 874
+  size: 397, 73
+  orig: 397, 73
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_3/weiba1
+  rotate: false
+  xy: 536, 640
+  size: 189, 42
+  orig: 189, 42
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_body
+  rotate: true
+  xy: 335, 243
+  size: 153, 120
+  orig: 153, 120
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_footout
+  rotate: false
+  xy: 970, 956
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_head
+  rotate: false
+  xy: 551, 684
+  size: 204, 188
+  orig: 204, 188
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_legoutdown
+  rotate: false
+  xy: 977, 901
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_legoutup
+  rotate: false
+  xy: 727, 598
+  size: 50, 84
+  orig: 50, 84
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_neck
+  rotate: true
+  xy: 457, 323
+  size: 117, 100
+  orig: 117, 100
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_winginner
+  rotate: true
+  xy: 2, 19
+  size: 207, 319
+  orig: 207, 319
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_winginner1
+  rotate: false
+  xy: 339, 702
+  size: 210, 320
+  orig: 210, 320
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_wingout
+  rotate: false
+  xy: 2, 228
+  size: 331, 396
+  orig: 331, 396
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Dragon_wingout1
+  rotate: false
+  xy: 2, 626
+  size: 335, 396
+  orig: 335, 396
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/Shadow
+  rotate: true
+  xy: 950, 873
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/arminnerdown
+  rotate: true
+  xy: 977, 868
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/arminnerup
+  rotate: true
+  xy: 971, 631
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/armoutdown
+  rotate: true
+  xy: 779, 594
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/armoutup
+  rotate: false
+  xy: 557, 271
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/body
+  rotate: false
+  xy: 779, 622
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/eyebrow
+  rotate: true
+  xy: 1009, 643
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/eyehard
+  rotate: false
+  xy: 944, 837
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/eyehard1
+  rotate: false
+  xy: 944, 806
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/eyehard2
+  rotate: false
+  xy: 944, 775
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/eyehard3
+  rotate: false
+  xy: 944, 744
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/eyesffuer
+  rotate: true
+  xy: 912, 626
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/eyeyun
+  rotate: false
+  xy: 944, 711
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/face
+  rotate: false
+  xy: 548, 461
+  size: 122, 133
+  orig: 122, 133
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/hair
+  rotate: false
+  xy: 626, 337
+  size: 43, 122
+  orig: 43, 122
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/hair1
+  rotate: false
+  xy: 323, 13
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/hair2
+  rotate: true
+  xy: 335, 206
+  size: 35, 114
+  orig: 35, 114
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/hair3
+  rotate: false
+  xy: 415, 69
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/hair4
+  rotate: true
+  xy: 339, 591
+  size: 109, 195
+  orig: 109, 195
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/hair5
+  rotate: false
+  xy: 335, 398
+  size: 106, 191
+  orig: 106, 191
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/handinner
+  rotate: true
+  xy: 796, 541
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/handout
+  rotate: true
+  xy: 557, 247
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/hudiejie
+  rotate: false
+  xy: 323, 154
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/jianjiainner
+  rotate: true
+  xy: 768, 480
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/jianjiaout
+  rotate: true
+  xy: 971, 665
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/jianjiaout1
+  rotate: true
+  xy: 796, 522
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/kua
+  rotate: false
+  xy: 768, 567
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/leginnerdown
+  rotate: false
+  xy: 768, 520
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/legotup
+  rotate: true
+  xy: 559, 312
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/maan
+  rotate: true
+  xy: 443, 442
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/maan1
+  rotate: true
+  xy: 559, 342
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/mouth01
+  rotate: true
+  xy: 536, 686
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/mouth02
+  rotate: false
+  xy: 757, 684
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/mouth04
+  rotate: false
+  xy: 672, 470
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/qunzi
+  rotate: true
+  xy: 672, 476
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/toushi
+  rotate: true
+  xy: 415, 2
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/toushinner
+  rotate: false
+  xy: 944, 641
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/toushiout
+  rotate: false
+  xy: 844, 626
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/weapon4
+  rotate: false
+  xy: 551, 949
+  size: 417, 73
+  orig: 417, 73
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/weiba
+  rotate: false
+  xy: 323, 83
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/weiba1
+  rotate: false
+  xy: 536, 596
+  size: 189, 42
+  orig: 189, 42
+  offset: 0, 0
+  index: -1
+Excela/Dragon/Excela_Dragon_4/xiongjia
+  rotate: false
+  xy: 457, 247
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1

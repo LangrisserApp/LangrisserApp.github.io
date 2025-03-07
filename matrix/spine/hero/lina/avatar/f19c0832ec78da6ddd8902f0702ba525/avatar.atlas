@@ -1,0 +1,405 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lina_MagicSword/Lina_MagicSword_04/1
+  rotate: true
+  xy: 695, 212
+  size: 157, 69
+  orig: 157, 69
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/2
+  rotate: false
+  xy: 317, 271
+  size: 209, 99
+  orig: 209, 99
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/3
+  rotate: false
+  xy: 317, 372
+  size: 249, 138
+  orig: 249, 138
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/4
+  rotate: false
+  xy: 2, 139
+  size: 295, 171
+  orig: 295, 171
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/5
+  rotate: false
+  xy: 2, 312
+  size: 313, 198
+  orig: 313, 198
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/Shadow
+  rotate: false
+  xy: 282, 9
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/arminnerdown
+  rotate: false
+  xy: 444, 2
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/arminnerup1
+  rotate: true
+  xy: 994, 414
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/armoutdown
+  rotate: false
+  xy: 960, 192
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/armoutup
+  rotate: false
+  xy: 994, 373
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/body
+  rotate: true
+  xy: 508, 64
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/eyebrow
+  rotate: false
+  xy: 483, 22
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/eyehard
+  rotate: true
+  xy: 987, 226
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/eyehard01
+  rotate: false
+  xy: 483, 33
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/eyehard02
+  rotate: false
+  xy: 573, 59
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/eyehard03
+  rotate: true
+  xy: 686, 129
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/eyesffuer
+  rotate: true
+  xy: 987, 301
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/eyeyun
+  rotate: false
+  xy: 214, 2
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/face
+  rotate: false
+  xy: 766, 231
+  size: 119, 134
+  orig: 119, 134
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/fx_1
+  rotate: false
+  xy: 299, 132
+  size: 207, 137
+  orig: 207, 137
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/fx_2
+  rotate: false
+  xy: 568, 371
+  size: 213, 139
+  orig: 213, 139
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/fx_3
+  rotate: false
+  xy: 783, 367
+  size: 209, 143
+  orig: 209, 143
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/fx_4
+  rotate: false
+  xy: 2, 11
+  size: 210, 126
+  orig: 210, 126
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hair
+  rotate: false
+  xy: 701, 153
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hair1
+  rotate: true
+  xy: 214, 38
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hair2
+  rotate: false
+  xy: 411, 26
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hair3
+  rotate: true
+  xy: 291, 36
+  size: 94, 118
+  orig: 94, 118
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hair4
+  rotate: false
+  xy: 528, 204
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hand1
+  rotate: false
+  xy: 618, 36
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hand2
+  rotate: true
+  xy: 904, 174
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/hand3
+  rotate: false
+  xy: 589, 36
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/handinner
+  rotate: true
+  xy: 989, 194
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/handout1
+  rotate: false
+  xy: 925, 178
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/jianjiainner
+  rotate: false
+  xy: 701, 132
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/jianjiainner1
+  rotate: true
+  xy: 508, 225
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/jianjiaout
+  rotate: false
+  xy: 803, 171
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/kua2
+  rotate: false
+  xy: 747, 164
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/leginnerdown
+  rotate: true
+  xy: 865, 174
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/leginnerup
+  rotate: true
+  xy: 402, 2
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/legoutdown
+  rotate: true
+  xy: 358, 9
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/legoutup
+  rotate: true
+  xy: 878, 197
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/lingzi
+  rotate: true
+  xy: 483, 64
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/mouth01
+  rotate: false
+  xy: 282, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/mouth02
+  rotate: true
+  xy: 946, 185
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/mouth03
+  rotate: false
+  xy: 508, 212
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/mouth04
+  rotate: false
+  xy: 994, 367
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/paifenginner
+  rotate: false
+  xy: 647, 122
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/paifenginner1
+  rotate: false
+  xy: 920, 201
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/paifengout
+  rotate: true
+  xy: 766, 204
+  size: 25, 85
+  orig: 25, 85
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/paifengout1
+  rotate: true
+  xy: 994, 459
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/pifeng
+  rotate: true
+  xy: 887, 224
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/shiping
+  rotate: true
+  xy: 299, 274
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/weapon3
+  rotate: false
+  xy: 557, 31
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/weapon4
+  rotate: true
+  xy: 573, 82
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/weapon5
+  rotate: false
+  xy: 508, 121
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/yilinginner
+  rotate: false
+  xy: 756, 131
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Lina_MagicSword/Lina_MagicSword_04/yilingout
+  rotate: false
+  xy: 853, 204
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

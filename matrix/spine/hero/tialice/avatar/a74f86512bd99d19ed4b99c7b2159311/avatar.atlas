@@ -1,0 +1,314 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chris/Chris_fs/Chris_1/weapon
+  rotate: false
+  xy: 2, 394
+  size: 271, 114
+  orig: 271, 114
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 181, 304
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/arminnerdown
+  rotate: false
+  xy: 239, 235
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/arminnerup
+  rotate: false
+  xy: 125, 154
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/armoutdown
+  rotate: false
+  xy: 180, 194
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/armoutup
+  rotate: true
+  xy: 99, 147
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/armoutup1
+  rotate: true
+  xy: 96, 83
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/body
+  rotate: true
+  xy: 183, 260
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/handinner
+  rotate: true
+  xy: 125, 124
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/handinner1
+  rotate: false
+  xy: 150, 158
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/handout
+  rotate: false
+  xy: 150, 133
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/leginnerdown
+  rotate: false
+  xy: 236, 261
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/leginnerup
+  rotate: true
+  xy: 411, 407
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/legoutdown
+  rotate: false
+  xy: 322, 310
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/legoutup
+  rotate: false
+  xy: 279, 351
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/qunzi1
+  rotate: false
+  xy: 180, 217
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/qunzi2
+  rotate: true
+  xy: 279, 315
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/qunzi3
+  rotate: true
+  xy: 96, 115
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/qunzi4
+  rotate: false
+  xy: 316, 352
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_Healer_1/qunzi5
+  rotate: true
+  xy: 221, 232
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+Tialice/eyebrow
+  rotate: false
+  xy: 275, 396
+  size: 68, 7
+  orig: 68, 7
+  offset: 0, 0
+  index: -1
+Tialice/eyehard
+  rotate: false
+  xy: 117, 237
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+Tialice/eyehard1
+  rotate: false
+  xy: 117, 213
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+Tialice/eyehard2
+  rotate: false
+  xy: 117, 195
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Tialice/eyehard3
+  rotate: false
+  xy: 117, 185
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+Tialice/eyesffuer
+  rotate: true
+  xy: 466, 444
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Tialice/eyeyun
+  rotate: false
+  xy: 117, 261
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+Tialice/face
+  rotate: false
+  xy: 2, 251
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+Tialice/hair1
+  rotate: false
+  xy: 411, 439
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Tialice/hair2
+  rotate: false
+  xy: 2, 73
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+Tialice/hair3
+  rotate: false
+  xy: 117, 298
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+Tialice/hair4
+  rotate: false
+  xy: 181, 331
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+Tialice/hair7
+  rotate: false
+  xy: 2, 2
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Tialice/hairinner1
+  rotate: false
+  xy: 2, 153
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+Tialice/hairinner2
+  rotate: false
+  xy: 70, 147
+  size: 27, 102
+  orig: 27, 102
+  offset: 0, 0
+  index: -1
+Tialice/hairinner3
+  rotate: false
+  xy: 358, 409
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+Tialice/hairinner4
+  rotate: false
+  xy: 275, 405
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+Tialice/mouth01
+  rotate: true
+  xy: 456, 422
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Tialice/mouth02
+  rotate: false
+  xy: 257, 307
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Tialice/mouth04
+  rotate: false
+  xy: 466, 439
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Tialice/toushi1
+  rotate: false
+  xy: 99, 179
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+Tialice/toushi2
+  rotate: false
+  xy: 257, 319
+  size: 20, 73
+  orig: 20, 73
+  offset: 0, 0
+  index: -1
+Tialice/toushi3
+  rotate: false
+  xy: 46, 4
+  size: 18, 67
+  orig: 18, 67
+  offset: 0, 0
+  index: -1
+Tialice/toushi4
+  rotate: false
+  xy: 70, 75
+  size: 24, 70
+  orig: 24, 70
+  offset: 0, 0
+  index: -1

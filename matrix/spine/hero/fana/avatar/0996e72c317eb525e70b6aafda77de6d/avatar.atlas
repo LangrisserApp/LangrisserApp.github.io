@@ -1,0 +1,272 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fana/Fana_Spear/Fana_General_2/arminnerdown
+  rotate: false
+  xy: 169, 136
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/arminnerup
+  rotate: false
+  xy: 259, 239
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/armoutdown
+  rotate: false
+  xy: 419, 435
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/armoutup
+  rotate: false
+  xy: 120, 130
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/body
+  rotate: true
+  xy: 433, 472
+  size: 38, 67
+  orig: 38, 67
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/eyebrow
+  rotate: false
+  xy: 2, 5
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/eyehard
+  rotate: true
+  xy: 236, 247
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/eyehard1
+  rotate: true
+  xy: 171, 162
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/eyehard2
+  rotate: false
+  xy: 276, 325
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/eyehard3
+  rotate: false
+  xy: 161, 307
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/eyesffuer
+  rotate: true
+  xy: 171, 237
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/eyeyun
+  rotate: true
+  xy: 203, 238
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/face
+  rotate: false
+  xy: 161, 322
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/hair1
+  rotate: true
+  xy: 276, 341
+  size: 57, 142
+  orig: 57, 142
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/hair2
+  rotate: true
+  xy: 2, 79
+  size: 49, 131
+  orig: 49, 131
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/hair3
+  rotate: true
+  xy: 276, 400
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/hair4
+  rotate: false
+  xy: 120, 165
+  size: 49, 140
+  orig: 49, 140
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/hairback
+  rotate: false
+  xy: 2, 307
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/handinner
+  rotate: false
+  xy: 283, 245
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/handout
+  rotate: false
+  xy: 304, 245
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/jianjiainner
+  rotate: false
+  xy: 384, 309
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/jianjiainner1
+  rotate: false
+  xy: 419, 407
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/jianjiaout
+  rotate: false
+  xy: 283, 288
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/jianjiaoutinner
+  rotate: true
+  xy: 351, 279
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/leginnerdown
+  rotate: false
+  xy: 259, 265
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/leginnerup
+  rotate: false
+  xy: 145, 127
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/legoutdown
+  rotate: true
+  xy: 82, 50
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/legoutup
+  rotate: false
+  xy: 323, 280
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/mouth01
+  rotate: false
+  xy: 433, 464
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/mouth02
+  rotate: false
+  xy: 323, 268
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/mouth03
+  rotate: true
+  xy: 502, 496
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/mouth04
+  rotate: true
+  xy: 194, 219
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/pifeng
+  rotate: true
+  xy: 2, 130
+  size: 175, 116
+  orig: 175, 116
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/toushi
+  rotate: false
+  xy: 2, 43
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/weapon
+  rotate: false
+  xy: 2, 464
+  size: 429, 46
+  orig: 429, 46
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/yaojiainner
+  rotate: true
+  xy: 283, 266
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Fana/Fana_Spear/Fana_General_2/yaojiaout
+  rotate: false
+  xy: 351, 299
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 16
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

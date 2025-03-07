@@ -1,0 +1,412 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chris/Chris_BattleSister/Chris_Valkyrja_3/gg
+  rotate: false
+  xy: 2, 203
+  size: 131, 170
+  orig: 131, 170
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/arminnerdown
+  rotate: false
+  xy: 341, 187
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/armoutdown
+  rotate: false
+  xy: 231, 103
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/body
+  rotate: false
+  xy: 129, 97
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/body2
+  rotate: true
+  xy: 380, 212
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/jianjiainner
+  rotate: true
+  xy: 295, 182
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/jianjiainner1
+  rotate: true
+  xy: 300, 373
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/jianjiaout
+  rotate: false
+  xy: 463, 304
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/leginnerdown
+  rotate: false
+  xy: 285, 141
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/legoutdown
+  rotate: true
+  xy: 460, 278
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/pifeng
+  rotate: true
+  xy: 129, 50
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/pifeng1
+  rotate: true
+  xy: 231, 276
+  size: 108, 67
+  orig: 108, 67
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/shield
+  rotate: false
+  xy: 404, 307
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/toushi
+  rotate: false
+  xy: 327, 372
+  size: 127, 43
+  orig: 127, 43
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_BattleSister_2/weapon
+  rotate: true
+  xy: 70, 42
+  size: 159, 57
+  orig: 159, 57
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/arminnerdown
+  rotate: true
+  xy: 259, 98
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/arminnerup
+  rotate: false
+  xy: 441, 213
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/armoutdown
+  rotate: true
+  xy: 467, 224
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/armoutup
+  rotate: true
+  xy: 345, 214
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/body
+  rotate: true
+  xy: 231, 233
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/body2
+  rotate: false
+  xy: 463, 330
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/body3
+  rotate: true
+  xy: 468, 250
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/dd
+  rotate: false
+  xy: 129, 180
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/jianjiainner
+  rotate: false
+  xy: 407, 216
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/jianjiaout
+  rotate: true
+  xy: 153, 3
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/leginnerdown
+  rotate: true
+  xy: 467, 203
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/leginnerup
+  rotate: false
+  xy: 456, 376
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/legoutdown
+  rotate: false
+  xy: 186, 7
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/legoutup
+  rotate: true
+  xy: 253, 181
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/pifeng1
+  rotate: false
+  xy: 327, 417
+  size: 151, 93
+  orig: 151, 93
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/shield
+  rotate: true
+  xy: 300, 242
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/toushi
+  rotate: false
+  xy: 2, 375
+  size: 178, 135
+  orig: 178, 135
+  offset: 0, 0
+  index: -1
+Freya/BattleSister/Freya_Valkyrja_3/weapon
+  rotate: true
+  xy: 2, 12
+  size: 189, 66
+  orig: 189, 66
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/arminnerup
+  rotate: true
+  xy: 218, 179
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/armoutup
+  rotate: true
+  xy: 307, 215
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/eyebrow
+  rotate: false
+  xy: 402, 243
+  size: 63, 5
+  orig: 63, 5
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/eyehard
+  rotate: false
+  xy: 402, 250
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/eyehard1
+  rotate: false
+  xy: 218, 210
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/eyehard2
+  rotate: true
+  xy: 382, 242
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/eyehard3
+  rotate: false
+  xy: 2, 2
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/eyesffuer
+  rotate: true
+  xy: 480, 372
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/eyeyun
+  rotate: false
+  xy: 402, 273
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/face
+  rotate: true
+  xy: 182, 386
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/hair
+  rotate: true
+  xy: 135, 179
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/hair1
+  rotate: true
+  xy: 70, 2
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/hair2
+  rotate: true
+  xy: 300, 308
+  size: 62, 102
+  orig: 62, 102
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/hair3
+  rotate: true
+  xy: 480, 431
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/hair4
+  rotate: false
+  xy: 286, 101
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/hair5
+  rotate: true
+  xy: 135, 237
+  size: 136, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/handinner
+  rotate: false
+  xy: 319, 193
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/handout
+  rotate: false
+  xy: 284, 210
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/leginnerup
+  rotate: false
+  xy: 231, 133
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/legoutup
+  rotate: false
+  xy: 256, 139
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/mouth01
+  rotate: false
+  xy: 198, 377
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/mouth02
+  rotate: true
+  xy: 368, 199
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/mouth03
+  rotate: false
+  xy: 182, 375
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Freya/Spear/Freya_Sergeant_1/mouth04
+  rotate: true
+  xy: 129, 186
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 204, 103
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

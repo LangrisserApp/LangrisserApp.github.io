@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragonslayer_Fly_3/chibanginner1
+  rotate: false
+  xy: 2, 372
+  size: 181, 134
+  orig: 181, 134
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/chibangout1
+  rotate: false
+  xy: 2, 663
+  size: 261, 162
+  orig: 261, 162
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/handinner1
+  rotate: false
+  xy: 543, 685
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/handinner1fx
+  rotate: false
+  xy: 842, 783
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/handout1
+  rotate: false
+  xy: 674, 770
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/handout1fx
+  rotate: true
+  xy: 447, 661
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/jianjiaout2
+  rotate: false
+  xy: 555, 775
+  size: 117, 78
+  orig: 117, 78
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/toukui
+  rotate: false
+  xy: 555, 855
+  size: 197, 166
+  orig: 197, 166
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/yaojiainner
+  rotate: false
+  xy: 534, 451
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_3/yaojiaout
+  rotate: false
+  xy: 277, 533
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/Shadow
+  rotate: false
+  xy: 842, 756
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/arminnerdown
+  rotate: false
+  xy: 480, 451
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/arminnerup
+  rotate: false
+  xy: 177, 67
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/armoutdown
+  rotate: false
+  xy: 277, 595
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/armoutdown1
+  rotate: true
+  xy: 579, 505
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/armoutup
+  rotate: true
+  xy: 225, 474
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/body
+  rotate: true
+  xy: 442, 756
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/chibanginner1
+  rotate: false
+  xy: 2, 508
+  size: 216, 153
+  orig: 216, 153
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/chibangout1
+  rotate: false
+  xy: 2, 827
+  size: 334, 194
+  orig: 334, 194
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/eyebrow
+  rotate: false
+  xy: 555, 755
+  size: 84, 18
+  orig: 84, 18
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/eyehard
+  rotate: false
+  xy: 918, 760
+  size: 71, 19
+  orig: 71, 19
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/eyehard1
+  rotate: true
+  xy: 625, 612
+  size: 71, 19
+  orig: 71, 19
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/eyehard2
+  rotate: true
+  xy: 617, 685
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/eyehard3
+  rotate: true
+  xy: 123, 156
+  size: 74, 11
+  orig: 74, 11
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/eyesffuer
+  rotate: true
+  xy: 522, 576
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/eyeyun
+  rotate: false
+  xy: 556, 579
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/face
+  rotate: false
+  xy: 2, 232
+  size: 123, 138
+  orig: 123, 138
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handinner1
+  rotate: true
+  xy: 420, 495
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handinner1fx
+  rotate: false
+  xy: 756, 772
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handinner2
+  rotate: true
+  xy: 504, 494
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handinner2fx
+  rotate: false
+  xy: 336, 588
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handinner3
+  rotate: false
+  xy: 277, 478
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handinner3fx
+  rotate: true
+  xy: 412, 391
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handout1
+  rotate: false
+  xy: 918, 917
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handout1fx
+  rotate: false
+  xy: 2, 113
+  size: 119, 117
+  orig: 119, 117
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handout2
+  rotate: false
+  xy: 429, 576
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handout2fx
+  rotate: false
+  xy: 918, 820
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handout3
+  rotate: false
+  xy: 225, 403
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/handout3fx
+  rotate: true
+  xy: 335, 510
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/huzi
+  rotate: false
+  xy: 225, 391
+  size: 48, 10
+  orig: 48, 10
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/jianjiainner1
+  rotate: false
+  xy: 136, 122
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/jianjiainner2
+  rotate: false
+  xy: 476, 398
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/jianjiaout1
+  rotate: true
+  xy: 530, 397
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/jianjiaout2
+  rotate: false
+  xy: 754, 911
+  size: 162, 110
+  orig: 162, 110
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/leginnerdown
+  rotate: true
+  xy: 136, 183
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/leginnerup
+  rotate: false
+  xy: 125, 61
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/leginnerup1
+  rotate: false
+  xy: 191, 356
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/legoutdown
+  rotate: true
+  xy: 408, 453
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/legoutup
+  rotate: true
+  xy: 340, 400
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/legoutup1
+  rotate: true
+  xy: 578, 456
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/mouth01
+  rotate: false
+  xy: 890, 900
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/mouth03
+  rotate: false
+  xy: 641, 761
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/mouth04
+  rotate: true
+  xy: 1015, 790
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/texiao1
+  rotate: false
+  xy: 185, 394
+  size: 38, 112
+  orig: 38, 112
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/texiao2
+  rotate: true
+  xy: 918, 781
+  size: 37, 95
+  orig: 37, 95
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/texiao3
+  rotate: true
+  xy: 754, 865
+  size: 44, 134
+  orig: 44, 134
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/toukui
+  rotate: false
+  xy: 338, 842
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/toukuiinner
+  rotate: true
+  xy: 2, 2
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx1
+  rotate: false
+  xy: 220, 540
+  size: 55, 121
+  orig: 55, 121
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx2
+  rotate: true
+  xy: 579, 488
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx3
+  rotate: false
+  xy: 340, 446
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx4
+  rotate: true
+  xy: 293, 402
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx6
+  rotate: false
+  xy: 127, 246
+  size: 62, 124
+  orig: 62, 124
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx7
+  rotate: false
+  xy: 265, 672
+  size: 73, 153
+  orig: 73, 153
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx8
+  rotate: false
+  xy: 340, 743
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/tx9
+  rotate: false
+  xy: 340, 669
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/yaojiainner
+  rotate: false
+  xy: 125, 5
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+Dragonslayer_Fly_4/yaojiaout
+  rotate: false
+  xy: 556, 610
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda _fs/dd
+  rotate: false
+  xy: 271, 13
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/body
+  rotate: true
+  xy: 82, 12
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/handinner
+  rotate: false
+  xy: 469, 115
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/handinner1
+  rotate: false
+  xy: 280, 12
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/handout
+  rotate: false
+  xy: 280, 44
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/handout1
+  rotate: true
+  xy: 326, 39
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/handout2
+  rotate: false
+  xy: 324, 10
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/leginnerdown
+  rotate: false
+  xy: 355, 49
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/leginnerup
+  rotate: false
+  xy: 440, 61
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/legoutdown
+  rotate: false
+  xy: 382, 54
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/legoutup
+  rotate: false
+  xy: 412, 57
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/qunzi
+  rotate: false
+  xy: 342, 93
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/qunziinner
+  rotate: true
+  xy: 149, 8
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/qunziinner1
+  rotate: false
+  xy: 468, 79
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/qunziout
+  rotate: false
+  xy: 201, 82
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/qunziout1
+  rotate: true
+  xy: 373, 98
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/weapon
+  rotate: false
+  xy: 2, 147
+  size: 274, 107
+  orig: 274, 107
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Chris_2/xiongshi
+  rotate: false
+  xy: 368, 20
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/bianzi
+  rotate: true
+  xy: 2, 54
+  size: 91, 197
+  orig: 91, 197
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/erhuaninner
+  rotate: false
+  xy: 503, 127
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/erhuanout
+  rotate: true
+  xy: 355, 41
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/eyebrow
+  rotate: false
+  xy: 207, 8
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/eyehard
+  rotate: false
+  xy: 403, 140
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/eyehard1
+  rotate: false
+  xy: 403, 119
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/eyehard2
+  rotate: true
+  xy: 495, 190
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/eyehard3
+  rotate: true
+  xy: 266, 82
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/eyesffuer
+  rotate: false
+  xy: 278, 118
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/eyeyun
+  rotate: false
+  xy: 278, 83
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/face
+  rotate: false
+  xy: 403, 161
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/hair
+  rotate: false
+  xy: 278, 153
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/hair1
+  rotate: true
+  xy: 207, 19
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/hair2
+  rotate: true
+  xy: 2, 7
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/hair3
+  rotate: true
+  xy: 468, 53
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/mouth01
+  rotate: true
+  xy: 503, 150
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/mouth02
+  rotate: false
+  xy: 368, 4
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/toushi
+  rotate: false
+  xy: 403, 101
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+Jessica/Jessica_fs/toushi1
+  rotate: true
+  xy: 495, 165
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 201, 55
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

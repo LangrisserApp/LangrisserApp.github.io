@@ -1,0 +1,384 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hiei/Black dragon wave/body1
+  rotate: false
+  xy: 2, 15
+  size: 133, 214
+  orig: 133, 214
+  offset: 0, 0
+  index: -1
+Hiei/Black dragon wave/body2
+  rotate: true
+  xy: 349, 900
+  size: 119, 329
+  orig: 119, 329
+  offset: 0, 0
+  index: -1
+Hiei/Black dragon wave/body3
+  rotate: true
+  xy: 349, 745
+  size: 79, 186
+  orig: 79, 186
+  offset: 0, 0
+  index: -1
+Hiei/Black dragon wave/body4
+  rotate: true
+  xy: 349, 826
+  size: 72, 227
+  orig: 72, 227
+  offset: 0, 0
+  index: -1
+Hiei/Black dragon wave/head2
+  rotate: false
+  xy: 137, 77
+  size: 148, 130
+  orig: 148, 130
+  offset: 0, 0
+  index: -1
+Hiei/Black dragon wave/head4
+  rotate: true
+  xy: 155, 286
+  size: 167, 153
+  orig: 167, 153
+  offset: 0, 0
+  index: -1
+Hiei/Black dragon wave/head6
+  rotate: false
+  xy: 2, 231
+  size: 151, 222
+  orig: 151, 222
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/1
+  rotate: true
+  xy: 277, 478
+  size: 102, 133
+  orig: 102, 133
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/2
+  rotate: false
+  xy: 412, 489
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/3
+  rotate: true
+  xy: 578, 810
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/4
+  rotate: false
+  xy: 310, 355
+  size: 107, 121
+  orig: 107, 121
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/arminnerdown
+  rotate: false
+  xy: 277, 455
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/arminnerdown1
+  rotate: false
+  xy: 455, 396
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/arminnerdown2
+  rotate: false
+  xy: 327, 759
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/arminnerup
+  rotate: true
+  xy: 384, 315
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/arminnerup1
+  rotate: true
+  xy: 277, 582
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/armoutdown
+  rotate: false
+  xy: 419, 356
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/armoutup
+  rotate: false
+  xy: 419, 392
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/armoutup1
+  rotate: false
+  xy: 330, 208
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/body
+  rotate: true
+  xy: 137, 6
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/eyehard
+  rotate: false
+  xy: 578, 788
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/eyehard1
+  rotate: true
+  xy: 493, 594
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 73, 11
+  orig: 73, 11
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/eyehard3
+  rotate: false
+  xy: 412, 478
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/eyesffuer
+  rotate: false
+  xy: 419, 456
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/eyeyun
+  rotate: false
+  xy: 419, 435
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/face
+  rotate: false
+  xy: 922, 952
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/hair1
+  rotate: false
+  xy: 330, 233
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/hair3
+  rotate: false
+  xy: 327, 582
+  size: 164, 161
+  orig: 164, 161
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/hairback
+  rotate: true
+  xy: 310, 293
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/hand3
+  rotate: false
+  xy: 329, 132
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handinner
+  rotate: false
+  xy: 329, 181
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handinner1
+  rotate: false
+  xy: 329, 106
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handinner2
+  rotate: true
+  xy: 618, 761
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handinner4
+  rotate: true
+  xy: 654, 785
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handinner5
+  rotate: false
+  xy: 329, 156
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handout
+  rotate: true
+  xy: 537, 749
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handout1
+  rotate: true
+  xy: 578, 761
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/handout2
+  rotate: false
+  xy: 420, 324
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/leginnerdown
+  rotate: false
+  xy: 230, 7
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/leginnerup
+  rotate: true
+  xy: 287, 93
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/legoutup
+  rotate: true
+  xy: 537, 777
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/leoutdown
+  rotate: false
+  xy: 287, 148
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/mouth01
+  rotate: false
+  xy: 493, 582
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/mouth02
+  rotate: true
+  xy: 520, 720
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/mouth03
+  rotate: false
+  xy: 327, 745
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/mouth04
+  rotate: false
+  xy: 680, 904
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_3/toushi
+  rotate: false
+  xy: 922, 919
+  size: 99, 31
+  orig: 99, 31
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_4/1
+  rotate: false
+  xy: 155, 209
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_4/2
+  rotate: false
+  xy: 680, 910
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_4/3
+  rotate: false
+  xy: 2, 455
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_4/4
+  rotate: false
+  xy: 2, 609
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Hiei/Hiei_JaoEnsatsu/Hiei_JaoEnsatsu_4/5
+  rotate: false
+  xy: 2, 798
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 493, 669
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

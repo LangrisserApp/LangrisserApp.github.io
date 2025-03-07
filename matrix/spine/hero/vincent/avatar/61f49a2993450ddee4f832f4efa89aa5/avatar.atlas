@@ -1,0 +1,552 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 748, 191
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/body
+  rotate: false
+  xy: 309, 134
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/jianjiainner
+  rotate: true
+  xy: 464, 97
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/jianjiaout
+  rotate: false
+  xy: 936, 311
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/weapon
+  rotate: false
+  xy: 509, 453
+  size: 489, 57
+  orig: 489, 57
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing11
+  rotate: false
+  xy: 874, 323
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing12
+  rotate: true
+  xy: 587, 346
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing13
+  rotate: true
+  xy: 682, 217
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing14
+  rotate: true
+  xy: 218, 92
+  size: 36, 94
+  orig: 36, 94
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing3
+  rotate: false
+  xy: 590, 267
+  size: 98, 26
+  orig: 98, 26
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing4
+  rotate: false
+  xy: 635, 384
+  size: 103, 21
+  orig: 103, 21
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing5
+  rotate: true
+  xy: 984, 316
+  size: 109, 38
+  orig: 109, 38
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_2/wing6
+  rotate: false
+  xy: 758, 361
+  size: 114, 90
+  orig: 114, 90
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/arminnerdown
+  rotate: true
+  xy: 256, 47
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/arminnerup
+  rotate: false
+  xy: 842, 315
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/armoutdown
+  rotate: false
+  xy: 113, 48
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/armoutup
+  rotate: false
+  xy: 421, 96
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/body
+  rotate: true
+  xy: 763, 303
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/daiziinner
+  rotate: false
+  xy: 345, 229
+  size: 137, 47
+  orig: 137, 47
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/daiziout
+  rotate: false
+  xy: 345, 278
+  size: 153, 54
+  orig: 153, 54
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/erhuaninner
+  rotate: false
+  xy: 575, 209
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/erhuanout
+  rotate: true
+  xy: 244, 26
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/eyebrow
+  rotate: true
+  xy: 1000, 427
+  size: 83, 22
+  orig: 83, 22
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/eyehard
+  rotate: false
+  xy: 141, 79
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/eyehard1
+  rotate: false
+  xy: 215, 74
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/eyehard2
+  rotate: false
+  xy: 141, 65
+  size: 72, 12
+  orig: 72, 12
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/eyehard3
+  rotate: false
+  xy: 141, 51
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/eyesffuer
+  rotate: false
+  xy: 483, 172
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/eyeyun
+  rotate: false
+  xy: 690, 267
+  size: 83, 26
+  orig: 83, 26
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/face
+  rotate: false
+  xy: 2, 206
+  size: 110, 126
+  orig: 110, 126
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/hair1
+  rotate: true
+  xy: 499, 340
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/hair2
+  rotate: true
+  xy: 682, 295
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/hair3
+  rotate: true
+  xy: 146, 2
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/hairinner
+  rotate: false
+  xy: 590, 295
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/handinner
+  rotate: true
+  xy: 289, 69
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/handout
+  rotate: false
+  xy: 287, 45
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/hudang
+  rotate: false
+  xy: 217, 15
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/jianjiainner
+  rotate: false
+  xy: 113, 2
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/jianjiaout
+  rotate: false
+  xy: 775, 203
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/leginnerdown
+  rotate: false
+  xy: 503, 101
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/leginnerup
+  rotate: true
+  xy: 522, 130
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/legoutdown
+  rotate: false
+  xy: 541, 96
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/legoutup
+  rotate: true
+  xy: 474, 130
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/mouth01
+  rotate: true
+  xy: 334, 216
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/mouth02
+  rotate: true
+  xy: 740, 388
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/mouth04
+  rotate: true
+  xy: 984, 436
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/weapon
+  rotate: false
+  xy: 2, 334
+  size: 495, 81
+  orig: 495, 81
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing1
+  rotate: true
+  xy: 500, 266
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing10
+  rotate: false
+  xy: 424, 160
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing11
+  rotate: false
+  xy: 874, 290
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing12
+  rotate: false
+  xy: 314, 86
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing13
+  rotate: true
+  xy: 775, 253
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing14
+  rotate: true
+  xy: 635, 346
+  size: 36, 93
+  orig: 36, 93
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing2
+  rotate: true
+  xy: 874, 357
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing3
+  rotate: false
+  xy: 484, 228
+  size: 109, 36
+  orig: 109, 36
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing4
+  rotate: false
+  xy: 217, 213
+  size: 115, 26
+  orig: 115, 26
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing5
+  rotate: false
+  xy: 635, 407
+  size: 121, 44
+  orig: 121, 44
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing6
+  rotate: true
+  xy: 2, 77
+  size: 127, 99
+  orig: 127, 99
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing7
+  rotate: false
+  xy: 218, 130
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing8
+  rotate: true
+  xy: 483, 201
+  size: 25, 90
+  orig: 25, 90
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/wing9
+  rotate: false
+  xy: 103, 95
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/xiabaiinner
+  rotate: true
+  xy: 424, 135
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/xiabaiinner1
+  rotate: false
+  xy: 2, 8
+  size: 109, 67
+  orig: 109, 67
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/xiabaiout
+  rotate: false
+  xy: 595, 219
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/yaojiainner
+  rotate: true
+  xy: 314, 69
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_3/yaojiaout
+  rotate: true
+  xy: 984, 272
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/body
+  rotate: false
+  xy: 366, 150
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/jianjiainner
+  rotate: false
+  xy: 180, 6
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/jianjiaout
+  rotate: true
+  xy: 370, 92
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/weapon
+  rotate: false
+  xy: 2, 417
+  size: 505, 93
+  orig: 505, 93
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/wing1
+  rotate: false
+  xy: 114, 208
+  size: 101, 124
+  orig: 101, 124
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/wing15
+  rotate: true
+  xy: 217, 241
+  size: 91, 126
+  orig: 91, 126
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/wing16
+  rotate: true
+  xy: 483, 157
+  size: 13, 87
+  orig: 13, 87
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/wing8
+  rotate: true
+  xy: 509, 402
+  size: 49, 124
+  orig: 49, 124
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/xiabaiinner
+  rotate: true
+  xy: 775, 178
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/xiabaiout
+  rotate: true
+  xy: 141, 97
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/yaojiainner
+  rotate: true
+  xy: 215, 51
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Vincent/Vincent_GreencrystalMaster/Vincent_GreencrystalMaster_4/yaojiaout
+  rotate: false
+  xy: 936, 267
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1

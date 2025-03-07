@@ -1,0 +1,265 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 480, 390
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/arminnerdown
+  rotate: false
+  xy: 480, 358
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/arminnerup
+  rotate: true
+  xy: 480, 315
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/armoutdown
+  rotate: false
+  xy: 441, 274
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/armoutup
+  rotate: true
+  xy: 406, 233
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/body
+  rotate: true
+  xy: 2, 6
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/eyebrow
+  rotate: true
+  xy: 462, 310
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/eyehard
+  rotate: false
+  xy: 180, 214
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/eyehard 1
+  rotate: false
+  xy: 252, 214
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/eyehard2
+  rotate: true
+  xy: 165, 141
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/eyehard3
+  rotate: false
+  xy: 91, 65
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/eyesffuer
+  rotate: false
+  xy: 182, 176
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/eyeyun
+  rotate: false
+  xy: 250, 176
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/face
+  rotate: false
+  xy: 2, 213
+  size: 176, 145
+  orig: 176, 145
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/hair1
+  rotate: true
+  xy: 286, 274
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/hair2
+  rotate: false
+  xy: 91, 90
+  size: 72, 121
+  orig: 72, 121
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/hair3
+  rotate: true
+  xy: 180, 236
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/handiinner
+  rotate: true
+  xy: 324, 211
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/handout
+  rotate: false
+  xy: 437, 248
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/hudang
+  rotate: true
+  xy: 480, 466
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/hudang1
+  rotate: true
+  xy: 182, 145
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/jianjiainner
+  rotate: false
+  xy: 241, 150
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/jianjiaout
+  rotate: false
+  xy: 286, 236
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/leginnerdown
+  rotate: false
+  xy: 64, 9
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/leginnerup
+  rotate: false
+  xy: 360, 232
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/legoutdown
+  rotate: false
+  xy: 165, 89
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/legoutup
+  rotate: false
+  xy: 200, 100
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/mouth01
+  rotate: false
+  xy: 64, 2
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/mouth02
+  rotate: true
+  xy: 97, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/mouth04
+  rotate: false
+  xy: 286, 354
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/pifeng
+  rotate: false
+  xy: 303, 382
+  size: 175, 128
+  orig: 175, 128
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/shield
+  rotate: false
+  xy: 2, 63
+  size: 87, 148
+  orig: 87, 148
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/toushi2
+  rotate: true
+  xy: 303, 315
+  size: 65, 116
+  orig: 65, 116
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/weapon
+  rotate: false
+  xy: 2, 360
+  size: 299, 150
+  orig: 299, 150
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/weijin
+  rotate: true
+  xy: 421, 310
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/yaojiainner
+  rotate: true
+  xy: 397, 274
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Virash/Virash_Guardian/Virash_Guardian_3/yaojiaout
+  rotate: false
+  xy: 97, 17
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

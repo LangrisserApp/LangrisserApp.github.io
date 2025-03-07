@@ -1,0 +1,468 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/arminnerdown
+  rotate: false
+  xy: 937, 333
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/armoutdown
+  rotate: false
+  xy: 903, 340
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/armoutup
+  rotate: true
+  xy: 197, 56
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/body
+  rotate: true
+  xy: 551, 275
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/leginnerdown
+  rotate: true
+  xy: 159, 54
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/leginnerup
+  rotate: true
+  xy: 968, 337
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/legoutdown
+  rotate: true
+  xy: 786, 300
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/legoutup
+  rotate: false
+  xy: 277, 200
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/lingziinner
+  rotate: true
+  xy: 773, 259
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/lingziout
+  rotate: false
+  xy: 305, 181
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/qunzi
+  rotate: false
+  xy: 680, 409
+  size: 142, 101
+  orig: 142, 101
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/toushi1
+  rotate: false
+  xy: 2, 2
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/toushi2
+  rotate: false
+  xy: 842, 350
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_2/weapon
+  rotate: false
+  xy: 466, 406
+  size: 212, 104
+  orig: 212, 104
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/body
+  rotate: false
+  xy: 655, 326
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/qunzi
+  rotate: true
+  xy: 162, 245
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/shidaiinner1
+  rotate: false
+  xy: 505, 211
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/shidaiinner2
+  rotate: true
+  xy: 903, 361
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/shidaiout1
+  rotate: false
+  xy: 460, 217
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/shidaiout2
+  rotate: false
+  xy: 784, 342
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/shidaiout3
+  rotate: false
+  xy: 699, 222
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/toushi1
+  rotate: false
+  xy: 551, 336
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/toushi2
+  rotate: false
+  xy: 471, 244
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_3/weapon
+  rotate: false
+  xy: 248, 407
+  size: 216, 103
+  orig: 216, 103
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/arminnerdown
+  rotate: true
+  xy: 819, 232
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/arminnerup
+  rotate: false
+  xy: 305, 210
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/armoutdown
+  rotate: true
+  xy: 801, 225
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/armoutup
+  rotate: true
+  xy: 761, 222
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/body
+  rotate: true
+  xy: 549, 217
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/eyebrow
+  rotate: true
+  xy: 1014, 342
+  size: 59, 8
+  orig: 59, 8
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/eyehard
+  rotate: false
+  xy: 633, 293
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/eyehard1
+  rotate: false
+  xy: 633, 260
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/eyehard2
+  rotate: false
+  xy: 162, 93
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/eyehard3
+  rotate: false
+  xy: 715, 324
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/eyesffuer
+  rotate: false
+  xy: 630, 224
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/eyeyun
+  rotate: false
+  xy: 710, 259
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/face
+  rotate: false
+  xy: 2, 54
+  size: 120, 139
+  orig: 120, 139
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/hair1
+  rotate: false
+  xy: 715, 339
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/hair2
+  rotate: true
+  xy: 162, 118
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/hair3
+  rotate: false
+  xy: 968, 403
+  size: 49, 107
+  orig: 49, 107
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/hair3a
+  rotate: true
+  xy: 100, 2
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/hair4
+  rotate: true
+  xy: 369, 244
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/hair5
+  rotate: false
+  xy: 124, 111
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/hair6
+  rotate: false
+  xy: 2, 195
+  size: 158, 191
+  orig: 158, 191
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/handinner
+  rotate: true
+  xy: 343, 215
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/handout
+  rotate: false
+  xy: 277, 175
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/leginnerdown
+  rotate: false
+  xy: 809, 262
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/leginnerup
+  rotate: true
+  xy: 369, 214
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/legoutdown
+  rotate: true
+  xy: 790, 321
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/legoutup
+  rotate: true
+  xy: 414, 216
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/lingziinner
+  rotate: false
+  xy: 274, 155
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/lingziout
+  rotate: true
+  xy: 252, 187
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/mouth01
+  rotate: false
+  xy: 633, 332
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/mouth02
+  rotate: true
+  xy: 833, 300
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/mouth04
+  rotate: true
+  xy: 248, 390
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/qunzi
+  rotate: false
+  xy: 824, 410
+  size: 142, 100
+  orig: 142, 100
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/qunziinner
+  rotate: false
+  xy: 264, 319
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/shidaiinner1
+  rotate: false
+  xy: 968, 367
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/shidaiinner2
+  rotate: true
+  xy: 162, 185
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/shidaiout1
+  rotate: true
+  xy: 124, 56
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/shidaiout2
+  rotate: false
+  xy: 375, 312
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/shidaiout3
+  rotate: true
+  xy: 240, 124
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/toushi1
+  rotate: false
+  xy: 264, 249
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/toushi2
+  rotate: false
+  xy: 465, 312
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+Rozenciel/Rozenciel_Wizard/Rozenciel_Wizard_4/weapon
+  rotate: false
+  xy: 2, 388
+  size: 244, 122
+  orig: 244, 122
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 710, 297
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

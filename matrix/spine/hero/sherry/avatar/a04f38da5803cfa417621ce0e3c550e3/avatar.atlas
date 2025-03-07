@@ -1,0 +1,468 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mount/Pegasus/horse head
+  rotate: false
+  xy: 913, 396
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_an
+  rotate: true
+  xy: 268, 350
+  size: 88, 164
+  orig: 88, 164
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_body
+  rotate: true
+  xy: 146, 202
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear inner
+  rotate: false
+  xy: 936, 181
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear out
+  rotate: false
+  xy: 955, 251
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner down
+  rotate: false
+  xy: 982, 211
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner up
+  rotate: false
+  xy: 570, 46
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out down
+  rotate: false
+  xy: 536, 42
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out up
+  rotate: false
+  xy: 892, 247
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair1
+  rotate: false
+  xy: 607, 245
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair2
+  rotate: true
+  xy: 434, 374
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair3
+  rotate: true
+  xy: 377, 49
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg inner up
+  rotate: false
+  xy: 434, 313
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out down
+  rotate: false
+  xy: 495, 187
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out up
+  rotate: false
+  xy: 804, 173
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leginnerdown
+  rotate: false
+  xy: 661, 186
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_huijia1
+  rotate: false
+  xy: 696, 181
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_neck
+  rotate: true
+  xy: 495, 245
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_pigua
+  rotate: true
+  xy: 264, 13
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_weiba
+  rotate: false
+  xy: 533, 331
+  size: 161, 85
+  orig: 161, 85
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_xiongjia
+  rotate: true
+  xy: 696, 231
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner3
+  rotate: false
+  xy: 264, 76
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner4
+  rotate: true
+  xy: 696, 313
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout1
+  rotate: false
+  xy: 2, 25
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout3
+  rotate: false
+  xy: 255, 221
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout4
+  rotate: true
+  xy: 134, 41
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: true
+  xy: 982, 265
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingdown
+  rotate: true
+  xy: 725, 417
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/eagle/winginnerup
+  rotate: true
+  xy: 533, 418
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingout2
+  rotate: false
+  xy: 2, 203
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 906, 306
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 2, 379
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/arm inner down
+  rotate: false
+  xy: 486, 2
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/body
+  rotate: true
+  xy: 465, 51
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/dd
+  rotate: false
+  xy: 255, 215
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/handout
+  rotate: true
+  xy: 570, 17
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/jianjia
+  rotate: false
+  xy: 906, 333
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/jianjia inner
+  rotate: false
+  xy: 372, 16
+  size: 81, 31
+  orig: 81, 31
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/jianjiainner
+  rotate: false
+  xy: 570, 128
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/legoutdown
+  rotate: false
+  xy: 455, 2
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/legoutup
+  rotate: true
+  xy: 483, 343
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/toushi
+  rotate: false
+  xy: 408, 221
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/weapon
+  rotate: false
+  xy: 2, 440
+  size: 529, 70
+  orig: 529, 70
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/eyebrow
+  rotate: false
+  xy: 2, 12
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/eyehard
+  rotate: false
+  xy: 570, 96
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/eyehard1
+  rotate: false
+  xy: 892, 215
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/eyehard2
+  rotate: false
+  xy: 194, 9
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/eyehard3
+  rotate: false
+  xy: 869, 183
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/eyesffuer
+  rotate: false
+  xy: 134, 2
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/eyeyun
+  rotate: false
+  xy: 869, 150
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/face
+  rotate: false
+  xy: 492, 105
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/hair1
+  rotate: false
+  xy: 804, 228
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/hair2
+  rotate: true
+  xy: 531, 15
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/hair3
+  rotate: false
+  xy: 837, 311
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/hair4
+  rotate: false
+  xy: 766, 174
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/hair5
+  rotate: false
+  xy: 408, 314
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/handinner
+  rotate: true
+  xy: 693, 152
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/handout1
+  rotate: false
+  xy: 729, 150
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/hatout
+  rotate: false
+  xy: 377, 105
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/leginnerdown
+  rotate: false
+  xy: 668, 149
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/leginnerup
+  rotate: false
+  xy: 637, 139
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/mouth01
+  rotate: true
+  xy: 255, 364
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/mouth02
+  rotate: true
+  xy: 933, 155
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/mouth03
+  rotate: false
+  xy: 960, 234
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/mouth04
+  rotate: false
+  xy: 869, 220
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/yaojia
+  rotate: false
+  xy: 583, 185
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1

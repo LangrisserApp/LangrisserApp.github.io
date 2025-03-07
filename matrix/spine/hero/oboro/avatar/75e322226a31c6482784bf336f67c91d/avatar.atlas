@@ -1,0 +1,594 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Oboro/Oboro_Monk/Oboro_Monk_2/armoutup
+  rotate: true
+  xy: 435, 145
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/body
+  rotate: false
+  xy: 237, 313
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/leginnerdown
+  rotate: true
+  xy: 392, 269
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/leginnerup
+  rotate: true
+  xy: 442, 334
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/legoutdown
+  rotate: true
+  xy: 334, 310
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/legoutup
+  rotate: false
+  xy: 217, 263
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/weapon
+  rotate: false
+  xy: 130, 263
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/xiabai1
+  rotate: false
+  xy: 2, 85
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/yaojiainner
+  rotate: false
+  xy: 474, 183
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_2/yaojiaout
+  rotate: false
+  xy: 442, 463
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_3/body
+  rotate: false
+  xy: 187, 191
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_3/legoutup
+  rotate: false
+  xy: 396, 154
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_3/toushi
+  rotate: true
+  xy: 150, 118
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_3/xiabai1
+  rotate: false
+  xy: 248, 422
+  size: 99, 88
+  orig: 99, 88
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_3/yaojiainner
+  rotate: false
+  xy: 173, 263
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_3/yaojiaout
+  rotate: true
+  xy: 132, 190
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/arminnerup
+  rotate: false
+  xy: 375, 97
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/arminnnerdown
+  rotate: true
+  xy: 480, 143
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/armoutdown
+  rotate: true
+  xy: 484, 229
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/armoutdownb
+  rotate: false
+  xy: 477, 109
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/armoutup
+  rotate: false
+  xy: 396, 109
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/armoutupb
+  rotate: true
+  xy: 433, 109
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/armoutupb1
+  rotate: true
+  xy: 445, 73
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/body
+  rotate: false
+  xy: 189, 119
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/dang
+  rotate: false
+  xy: 319, 101
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/eyebrow
+  rotate: true
+  xy: 298, 120
+  size: 73, 19
+  orig: 73, 19
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/eyehard
+  rotate: false
+  xy: 142, 387
+  size: 81, 22
+  orig: 81, 22
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/eyehard1
+  rotate: true
+  xy: 112, 181
+  size: 80, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/eyehard2
+  rotate: true
+  xy: 92, 96
+  size: 81, 22
+  orig: 81, 22
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/eyehard3
+  rotate: false
+  xy: 349, 409
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/eyesffuer
+  rotate: false
+  xy: 248, 387
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/eyeyun
+  rotate: true
+  xy: 299, 310
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/face
+  rotate: false
+  xy: 2, 385
+  size: 138, 125
+  orig: 138, 125
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/fx_1
+  rotate: false
+  xy: 110, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/fx_2
+  rotate: false
+  xy: 116, 74
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/fx_3
+  rotate: false
+  xy: 225, 387
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/fx_4
+  rotate: true
+  xy: 365, 201
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/fx_5
+  rotate: false
+  xy: 150, 89
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/fx_6
+  rotate: false
+  xy: 385, 343
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/fx_7
+  rotate: false
+  xy: 393, 201
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair1
+  rotate: false
+  xy: 116, 102
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair10
+  rotate: false
+  xy: 142, 411
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair2
+  rotate: false
+  xy: 393, 224
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair3
+  rotate: true
+  xy: 325, 387
+  size: 20, 60
+  orig: 20, 60
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair4
+  rotate: true
+  xy: 441, 267
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair5
+  rotate: true
+  xy: 347, 259
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair6
+  rotate: false
+  xy: 248, 195
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair7
+  rotate: false
+  xy: 387, 371
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair8
+  rotate: false
+  xy: 2, 179
+  size: 108, 82
+  orig: 108, 82
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/hair9
+  rotate: false
+  xy: 319, 138
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/handinner
+  rotate: true
+  xy: 489, 79
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/handinner1
+  rotate: true
+  xy: 113, 21
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/handout
+  rotate: false
+  xy: 490, 271
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/handout2
+  rotate: true
+  xy: 78, 4
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/handoutb
+  rotate: true
+  xy: 489, 53
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/jianjia
+  rotate: false
+  xy: 334, 341
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/jianjia1
+  rotate: false
+  xy: 113, 45
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/leginnerdown
+  rotate: true
+  xy: 435, 229
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/leginnerup
+  rotate: true
+  xy: 392, 307
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/legoutdown
+  rotate: true
+  xy: 396, 78
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/legoutup
+  rotate: false
+  xy: 435, 182
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/mouth01
+  rotate: true
+  xy: 383, 321
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/mouth02
+  rotate: false
+  xy: 325, 409
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/mouth03
+  rotate: false
+  xy: 419, 414
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/mouth04
+  rotate: false
+  xy: 92, 89
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/piaodai
+  rotate: false
+  xy: 2, 29
+  size: 109, 54
+  orig: 109, 54
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/pijian
+  rotate: false
+  xy: 307, 197
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/qunbaiinner
+  rotate: true
+  xy: 130, 306
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/shangyi
+  rotate: false
+  xy: 492, 311
+  size: 16, 57
+  orig: 16, 57
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/toushi
+  rotate: false
+  xy: 349, 424
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/weapon
+  rotate: false
+  xy: 294, 257
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/weijing
+  rotate: false
+  xy: 442, 370
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/xiabai1
+  rotate: false
+  xy: 2, 263
+  size: 126, 120
+  orig: 126, 120
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/xiuziinner
+  rotate: true
+  xy: 442, 298
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/xiuziinner1
+  rotate: false
+  xy: 255, 256
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaodai
+  rotate: true
+  xy: 371, 141
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaodai1
+  rotate: false
+  xy: 492, 292
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaodai2
+  rotate: true
+  xy: 233, 79
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaodai3
+  rotate: true
+  xy: 499, 371
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaojiainner
+  rotate: false
+  xy: 250, 124
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaojiaout
+  rotate: true
+  xy: 170, 310
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaojiaout1
+  rotate: false
+  xy: 196, 85
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Oboro/Oboro_Monk/Oboro_Monk_4/yaojiaout2
+  rotate: true
+  xy: 442, 402
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

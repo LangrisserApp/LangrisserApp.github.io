@@ -1,0 +1,258 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Loga/Loga_Assassin/loga_Assassin_1/eyebrow
+  rotate: false
+  xy: 261, 382
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard
+  rotate: true
+  xy: 66, 46
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard1
+  rotate: true
+  xy: 181, 211
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard2
+  rotate: true
+  xy: 200, 222
+  size: 71, 16
+  orig: 71, 16
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard3
+  rotate: true
+  xy: 218, 223
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyesffuer
+  rotate: false
+  xy: 402, 473
+  size: 92, 37
+  orig: 92, 37
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyeyun
+  rotate: true
+  xy: 2, 25
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/face
+  rotate: false
+  xy: 2, 224
+  size: 126, 156
+  orig: 126, 156
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth01
+  rotate: false
+  xy: 2, 12
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth02
+  rotate: false
+  xy: 86, 55
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth03
+  rotate: true
+  xy: 496, 479
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+Loga/Loga_Spear/loga_General/handout
+  rotate: false
+  xy: 136, 89
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/arminnerdown
+  rotate: false
+  xy: 86, 68
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/arminnerup
+  rotate: false
+  xy: 130, 222
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/armoutdown
+  rotate: true
+  xy: 39, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/armoutup
+  rotate: true
+  xy: 220, 337
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/body
+  rotate: false
+  xy: 2, 119
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/handinner
+  rotate: false
+  xy: 235, 260
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/handout
+  rotate: false
+  xy: 135, 122
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/hudang
+  rotate: true
+  xy: 197, 295
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/jianjiainner
+  rotate: true
+  xy: 355, 359
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/jianjiaout
+  rotate: false
+  xy: 130, 284
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/leginnerdown
+  rotate: true
+  xy: 79, 119
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/leginnerup
+  rotate: false
+  xy: 470, 408
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/legoutdown
+  rotate: false
+  xy: 130, 161
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/legoutup
+  rotate: false
+  xy: 79, 153
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/lingziinner
+  rotate: true
+  xy: 402, 364
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/lingziout
+  rotate: false
+  xy: 281, 334
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/pifeng
+  rotate: false
+  xy: 463, 358
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/weapon1
+  rotate: false
+  xy: 2, 382
+  size: 257, 128
+  orig: 257, 128
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/weapon2
+  rotate: true
+  xy: 261, 408
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/weijin
+  rotate: false
+  xy: 130, 337
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/yaojiainner
+  rotate: true
+  xy: 402, 393
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Loga/Loga_Sword/loga_SwardMan/yaojiaout
+  rotate: true
+  xy: 402, 426
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 39, 43
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 484, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/arminnerdown
+  rotate: false
+  xy: 484, 405
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/arminnerup
+  rotate: true
+  xy: 165, 224
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/armoutdown
+  rotate: false
+  xy: 97, 179
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/armoutup
+  rotate: false
+  xy: 442, 392
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/body
+  rotate: false
+  xy: 2, 19
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/dang
+  rotate: false
+  xy: 186, 282
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 75, 15
+  orig: 75, 15
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/eyehard
+  rotate: false
+  xy: 113, 292
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/eyehard1
+  rotate: false
+  xy: 113, 268
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/eyehard2
+  rotate: false
+  xy: 370, 408
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/eyehard3
+  rotate: true
+  xy: 351, 370
+  size: 70, 17
+  orig: 70, 17
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/eyesffuer
+  rotate: false
+  xy: 113, 316
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/eyeyun
+  rotate: false
+  xy: 79, 2
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/face
+  rotate: false
+  xy: 2, 362
+  size: 123, 148
+  orig: 123, 148
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/hair1
+  rotate: false
+  xy: 97, 140
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/hair2
+  rotate: false
+  xy: 2, 219
+  size: 109, 141
+  orig: 109, 141
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/hair3
+  rotate: true
+  xy: 235, 313
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/hair4
+  rotate: false
+  xy: 127, 386
+  size: 109, 124
+  orig: 109, 124
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/handinner
+  rotate: false
+  xy: 162, 202
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/handinner1
+  rotate: false
+  xy: 419, 365
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/handout
+  rotate: false
+  xy: 329, 356
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/jianjiainner
+  rotate: true
+  xy: 205, 348
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/jianjiaout
+  rotate: false
+  xy: 284, 345
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/jianjiaout1
+  rotate: false
+  xy: 97, 106
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/leginnerdown
+  rotate: true
+  xy: 190, 313
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/leginnerup
+  rotate: true
+  xy: 238, 343
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/legoutdown
+  rotate: true
+  xy: 113, 226
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/legoutup
+  rotate: true
+  xy: 370, 367
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/mianju
+  rotate: false
+  xy: 127, 348
+  size: 76, 36
+  orig: 76, 36
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/pifeng
+  rotate: false
+  xy: 2, 94
+  size: 93, 123
+  orig: 93, 123
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/pifeng1
+  rotate: false
+  xy: 238, 442
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/weapon
+  rotate: true
+  xy: 370, 429
+  size: 81, 112
+  orig: 81, 112
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/weapon1
+  rotate: false
+  xy: 238, 384
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/xiabai
+  rotate: true
+  xy: 60, 33
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/xiabai1
+  rotate: true
+  xy: 285, 307
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/xiabai2
+  rotate: false
+  xy: 229, 281
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/yaojia
+  rotate: false
+  xy: 127, 193
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Sigma/BladeOfTranscendent/yaojia1
+  rotate: false
+  xy: 419, 383
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1

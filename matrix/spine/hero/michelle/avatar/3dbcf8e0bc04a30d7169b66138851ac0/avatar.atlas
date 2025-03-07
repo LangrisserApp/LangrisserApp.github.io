@@ -1,0 +1,300 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Michelle/Spear/Michelle_Spear_3/arminnerdown
+  rotate: false
+  xy: 475, 254
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/arminnerup
+  rotate: false
+  xy: 381, 17
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/armoutdown
+  rotate: false
+  xy: 391, 218
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/armoutup
+  rotate: true
+  xy: 435, 252
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/body
+  rotate: true
+  xy: 111, 18
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/body1
+  rotate: false
+  xy: 425, 452
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 81, 12
+  orig: 81, 12
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/eyehard
+  rotate: true
+  xy: 246, 14
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/eyehard1
+  rotate: false
+  xy: 330, 132
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/eyehard2
+  rotate: false
+  xy: 271, 104
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/eyehard3
+  rotate: false
+  xy: 213, 2
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/eyesffuer
+  rotate: false
+  xy: 123, 79
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/eyeyun
+  rotate: true
+  xy: 213, 11
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/face
+  rotate: false
+  xy: 2, 232
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/hair
+  rotate: true
+  xy: 425, 357
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/hair1
+  rotate: true
+  xy: 263, 252
+  size: 26, 125
+  orig: 26, 125
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/hair2
+  rotate: false
+  xy: 187, 2
+  size: 24, 75
+  orig: 24, 75
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/hair3
+  rotate: true
+  xy: 130, 216
+  size: 41, 128
+  orig: 41, 128
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/hair4
+  rotate: false
+  xy: 214, 92
+  size: 55, 122
+  orig: 55, 122
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/hair5
+  rotate: false
+  xy: 2, 89
+  size: 119, 141
+  orig: 119, 141
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/handinner
+  rotate: true
+  xy: 411, 229
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/handout
+  rotate: false
+  xy: 434, 229
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/jianjiainner
+  rotate: false
+  xy: 273, 17
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/jianjiainner1
+  rotate: false
+  xy: 330, 159
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/jianjiaout
+  rotate: false
+  xy: 273, 59
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/jianjiout1
+  rotate: true
+  xy: 394, 284
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/leginnerdown
+  rotate: false
+  xy: 333, 57
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/leginnerup
+  rotate: false
+  xy: 401, 58
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/legoutdown
+  rotate: false
+  xy: 365, 57
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/legoutup
+  rotate: true
+  xy: 332, 24
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/mouth01
+  rotate: true
+  xy: 501, 435
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/mouth02
+  rotate: true
+  xy: 85, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/mouth04
+  rotate: false
+  xy: 273, 11
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/pifenginner
+  rotate: false
+  xy: 271, 131
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/pifenginner1
+  rotate: true
+  xy: 2, 16
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/pifengout
+  rotate: true
+  xy: 263, 280
+  size: 94, 129
+  orig: 94, 129
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/pifengout1
+  rotate: false
+  xy: 123, 113
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/toushi
+  rotate: false
+  xy: 130, 259
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/weapon
+  rotate: false
+  xy: 2, 376
+  size: 421, 134
+  orig: 421, 134
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/wejin
+  rotate: true
+  xy: 413, 11
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+Michelle/Spear/Michelle_Spear_3/yibaiinner1
+  rotate: true
+  xy: 394, 254
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 349, 105
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

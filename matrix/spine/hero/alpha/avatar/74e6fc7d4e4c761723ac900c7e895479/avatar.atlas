@@ -1,0 +1,433 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alpha/Hero/Alpha_Hero_3/arminnerdown
+  rotate: true
+  xy: 259, 127
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/arminnerup
+  rotate: false
+  xy: 140, 63
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/armoutdown
+  rotate: true
+  xy: 282, 219
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/armoutup
+  rotate: true
+  xy: 95, 204
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/body
+  rotate: true
+  xy: 263, 332
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/eyebrow
+  rotate: false
+  xy: 131, 353
+  size: 75, 15
+  orig: 75, 15
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/eyehard
+  rotate: true
+  xy: 225, 293
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/eyehard 2
+  rotate: true
+  xy: 90, 128
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/eyehard1
+  rotate: true
+  xy: 316, 255
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/eyehard3
+  rotate: true
+  xy: 90, 53
+  size: 73, 17
+  orig: 73, 17
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/eyesffuer
+  rotate: true
+  xy: 195, 219
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/eyeyun
+  rotate: true
+  xy: 107, 134
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/face
+  rotate: false
+  xy: 131, 370
+  size: 130, 140
+  orig: 130, 140
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/hair1
+  rotate: true
+  xy: 408, 308
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/hair2
+  rotate: false
+  xy: 2, 359
+  size: 127, 151
+  orig: 127, 151
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/hair3
+  rotate: true
+  xy: 95, 249
+  size: 108, 28
+  orig: 108, 28
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/hair4
+  rotate: true
+  xy: 134, 210
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/handinner
+  rotate: true
+  xy: 492, 432
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/handinner1
+  rotate: true
+  xy: 491, 378
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/handinner2
+  rotate: true
+  xy: 282, 256
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/handout
+  rotate: true
+  xy: 109, 53
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/handout1
+  rotate: true
+  xy: 492, 411
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/jianjiainner
+  rotate: true
+  xy: 259, 164
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/jianjiainner1
+  rotate: true
+  xy: 213, 87
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/jianjiaout
+  rotate: false
+  xy: 213, 168
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/jianjiaout1
+  rotate: true
+  xy: 178, 154
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/leginnerdown
+  rotate: false
+  xy: 457, 255
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/leginnerup
+  rotate: true
+  xy: 213, 128
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/legoutdown
+  rotate: false
+  xy: 178, 61
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/legoutup
+  rotate: false
+  xy: 257, 83
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/legoutup1
+  rotate: true
+  xy: 206, 48
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/mouth01
+  rotate: false
+  xy: 250, 345
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/mouth02
+  rotate: true
+  xy: 250, 355
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/mouth03
+  rotate: false
+  xy: 208, 359
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/mouth04
+  rotate: false
+  xy: 2, 5
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/toushi
+  rotate: false
+  xy: 109, 75
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/weapon1
+  rotate: false
+  xy: 263, 434
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/weapon2
+  rotate: true
+  xy: 485, 233
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/weijin1
+  rotate: true
+  xy: 341, 322
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/yaodai
+  rotate: false
+  xy: 226, 212
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/yaodai1
+  rotate: false
+  xy: 226, 244
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/yaojiainner1
+  rotate: false
+  xy: 138, 152
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_3/yaojiaout
+  rotate: true
+  xy: 84, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/arminnerdown
+  rotate: true
+  xy: 314, 218
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/body
+  rotate: true
+  xy: 410, 402
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/handoutdown
+  rotate: true
+  xy: 177, 111
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/jianjiainner
+  rotate: true
+  xy: 189, 289
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/jianjiainner1
+  rotate: true
+  xy: 250, 42
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/jianjiaout
+  rotate: false
+  xy: 341, 260
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/jianjiaout1
+  rotate: false
+  xy: 125, 245
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/toushi
+  rotate: true
+  xy: 408, 454
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/weapon1
+  rotate: true
+  xy: 2, 204
+  size: 153, 91
+  orig: 153, 91
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/weijin
+  rotate: true
+  xy: 2, 71
+  size: 131, 86
+  orig: 131, 86
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/weijin1
+  rotate: false
+  xy: 263, 382
+  size: 145, 50
+  orig: 145, 50
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/yaodai
+  rotate: true
+  xy: 140, 93
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/yaojiainner
+  rotate: true
+  xy: 250, 284
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/yaojiainner1
+  rotate: true
+  xy: 391, 263
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/yaojiainner2
+  rotate: false
+  xy: 2, 11
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/yaojiaout
+  rotate: false
+  xy: 125, 288
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+Alpha/Hero/Alpha_Hero_4/yaojiaout1
+  rotate: true
+  xy: 410, 354
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 485, 278
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

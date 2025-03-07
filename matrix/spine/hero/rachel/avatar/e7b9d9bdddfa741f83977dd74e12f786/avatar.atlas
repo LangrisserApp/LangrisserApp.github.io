@@ -1,0 +1,286 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rachel/Rachel_Monk/Rachel_Sister_1/body
+  rotate: false
+  xy: 91, 12
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/eyebrow
+  rotate: false
+  xy: 270, 395
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/eyehard
+  rotate: false
+  xy: 159, 284
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/eyehard1
+  rotate: false
+  xy: 159, 258
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/eyehard2
+  rotate: false
+  xy: 159, 239
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/eyehard3
+  rotate: true
+  xy: 151, 63
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/eyesffuer
+  rotate: false
+  xy: 157, 341
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/eyeyun
+  rotate: false
+  xy: 157, 310
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/face
+  rotate: true
+  xy: 270, 407
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hair1
+  rotate: true
+  xy: 70, 129
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hair2
+  rotate: true
+  xy: 2, 11
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hair3
+  rotate: true
+  xy: 391, 450
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hair4
+  rotate: true
+  xy: 391, 390
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hair5
+  rotate: false
+  xy: 116, 303
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hairback
+  rotate: false
+  xy: 2, 386
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/handinner
+  rotate: true
+  xy: 487, 371
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/handinner1
+  rotate: false
+  xy: 309, 367
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/handout
+  rotate: true
+  xy: 487, 421
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/handout1
+  rotate: false
+  xy: 349, 379
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/handout2
+  rotate: true
+  xy: 193, 162
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hatinner
+  rotate: true
+  xy: 2, 59
+  size: 163, 66
+  orig: 163, 66
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hatout
+  rotate: true
+  xy: 2, 224
+  size: 160, 87
+  orig: 160, 87
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/hudiejie
+  rotate: false
+  xy: 267, 365
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/jianjiainner
+  rotate: true
+  xy: 233, 360
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/jianjiainner1
+  rotate: false
+  xy: 143, 2
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/jianjiaout
+  rotate: false
+  xy: 155, 203
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/jianjiaout1
+  rotate: true
+  xy: 143, 18
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/leginnerdown
+  rotate: true
+  xy: 155, 132
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/legoutdown
+  rotate: false
+  xy: 227, 320
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/legoutup
+  rotate: false
+  xy: 155, 153
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/mouth01
+  rotate: false
+  xy: 91, 236
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/mouth02
+  rotate: false
+  xy: 135, 387
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/mouth04
+  rotate: false
+  xy: 70, 60
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/qunzi
+  rotate: false
+  xy: 70, 65
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/toushi
+  rotate: false
+  xy: 116, 248
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/toushi1
+  rotate: true
+  xy: 116, 224
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/weapon
+  rotate: true
+  xy: 91, 244
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/weapon1
+  rotate: false
+  xy: 135, 399
+  size: 133, 111
+  orig: 133, 111
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Monk/Rachel_Sister_1/yaodai
+  rotate: true
+  xy: 487, 394
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 157, 372
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

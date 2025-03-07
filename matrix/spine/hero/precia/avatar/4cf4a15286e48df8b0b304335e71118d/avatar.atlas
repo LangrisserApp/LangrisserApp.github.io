@@ -1,0 +1,419 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bishop/Precia_Bishop_3/piaodai
+  rotate: false
+  xy: 83, 90
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_3/weapon
+  rotate: false
+  xy: 85, 226
+  size: 86, 284
+  orig: 86, 284
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_3/xiabai2
+  rotate: false
+  xy: 241, 107
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_3/xiabai3
+  rotate: false
+  xy: 156, 98
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/arminnerdown
+  rotate: false
+  xy: 462, 319
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/arminnerup
+  rotate: true
+  xy: 351, 215
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/armoutdown
+  rotate: false
+  xy: 357, 293
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/armoutup
+  rotate: false
+  xy: 388, 214
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/body
+  rotate: true
+  xy: 293, 343
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/dang
+  rotate: false
+  xy: 158, 62
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/eyebrow
+  rotate: true
+  xy: 504, 367
+  size: 66, 6
+  orig: 66, 6
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/eyehard
+  rotate: false
+  xy: 432, 411
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/eyehard1
+  rotate: false
+  xy: 422, 356
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/eyehard2
+  rotate: false
+  xy: 283, 194
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/eyehard3
+  rotate: true
+  xy: 149, 22
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/eyesffuer
+  rotate: false
+  xy: 422, 380
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/eyeyun
+  rotate: false
+  xy: 283, 215
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/face
+  rotate: false
+  xy: 173, 370
+  size: 118, 140
+  orig: 118, 140
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair1
+  rotate: false
+  xy: 293, 404
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair2
+  rotate: true
+  xy: 85, 163
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair3
+  rotate: false
+  xy: 2, 71
+  size: 79, 128
+  orig: 79, 128
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair4
+  rotate: false
+  xy: 355, 194
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair5
+  rotate: true
+  xy: 173, 201
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair6
+  rotate: false
+  xy: 357, 421
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair7
+  rotate: false
+  xy: 246, 201
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hair8
+  rotate: false
+  xy: 398, 293
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/hairinner
+  rotate: false
+  xy: 283, 273
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/handinner
+  rotate: true
+  xy: 494, 294
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/handout
+  rotate: false
+  xy: 338, 168
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/handout1
+  rotate: true
+  xy: 364, 169
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/jianjia
+  rotate: false
+  xy: 427, 262
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/leginnerdown
+  rotate: true
+  xy: 358, 330
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/leginnerup
+  rotate: true
+  xy: 280, 121
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/legoutdown
+  rotate: true
+  xy: 410, 331
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/legoutup
+  rotate: false
+  xy: 211, 103
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/lingzi
+  rotate: false
+  xy: 359, 245
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/mouth01
+  rotate: true
+  xy: 490, 388
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/mouth02
+  rotate: true
+  xy: 283, 355
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/mouth04
+  rotate: false
+  xy: 338, 156
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pifenginner
+  rotate: false
+  xy: 88, 6
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pifenginner1
+  rotate: false
+  xy: 416, 294
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pifenginner2
+  rotate: false
+  xy: 405, 245
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pifengout
+  rotate: true
+  xy: 173, 247
+  size: 121, 108
+  orig: 121, 108
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pifengout1
+  rotate: true
+  xy: 236, 158
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pifengout2
+  rotate: true
+  xy: 357, 273
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pifengout3
+  rotate: false
+  xy: 2, 7
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pijianinner
+  rotate: true
+  xy: 280, 100
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/pijianinner1
+  rotate: false
+  xy: 384, 194
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/tx4
+  rotate: false
+  xy: 432, 435
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/weapon1
+  rotate: false
+  xy: 2, 201
+  size: 81, 309
+  orig: 81, 309
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/xiabai1
+  rotate: false
+  xy: 158, 21
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/xiabai2
+  rotate: true
+  xy: 171, 156
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/xiabai3
+  rotate: false
+  xy: 358, 361
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/xiabai4
+  rotate: true
+  xy: 282, 155
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/xiongshi1
+  rotate: true
+  xy: 427, 244
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/yaoshi
+  rotate: false
+  xy: 399, 202
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/yaoshi1
+  rotate: false
+  xy: 452, 296
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+Bishop/Precia_Bishop_4/yaoshi2
+  rotate: true
+  xy: 462, 302
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 283, 246
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

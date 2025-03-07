@@ -1,0 +1,482 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/arminnerdown
+  rotate: true
+  xy: 304, 194
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/arminnerup
+  rotate: false
+  xy: 328, 2
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/armoutdown
+  rotate: false
+  xy: 264, 9
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/armoutup
+  rotate: false
+  xy: 365, 78
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/body
+  rotate: true
+  xy: 423, 369
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/bodyinner
+  rotate: true
+  xy: 291, 142
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/daizi
+  rotate: true
+  xy: 237, 21
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/handinner
+  rotate: false
+  xy: 377, 203
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/handout
+  rotate: true
+  xy: 244, 95
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/hat
+  rotate: false
+  xy: 190, 392
+  size: 155, 118
+  orig: 155, 118
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/hatout
+  rotate: false
+  xy: 347, 374
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/jianjiainner
+  rotate: true
+  xy: 220, 218
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/jianjiaout
+  rotate: false
+  xy: 403, 208
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/jianjiaoutinner
+  rotate: true
+  xy: 220, 72
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/leginnerdown
+  rotate: false
+  xy: 269, 84
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/leginnerup
+  rotate: false
+  xy: 301, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/legoutdown
+  rotate: false
+  xy: 264, 37
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/legoutup
+  rotate: true
+  xy: 159, 193
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/weapon
+  rotate: false
+  xy: 2, 22
+  size: 145, 46
+  orig: 145, 46
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/yaojia
+  rotate: true
+  xy: 361, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/yibaiinner
+  rotate: true
+  xy: 339, 258
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/yibaiinnerinner
+  rotate: false
+  xy: 409, 245
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/yibaiout
+  rotate: false
+  xy: 339, 307
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Engineer_2/yibaioutinner
+  rotate: false
+  xy: 397, 310
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Magician_1/daizi
+  rotate: true
+  xy: 299, 91
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Magician_1/hat
+  rotate: false
+  xy: 2, 126
+  size: 155, 118
+  orig: 155, 118
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Magician_1/leginnerdown
+  rotate: true
+  xy: 464, 223
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Magician_1/leginnerup
+  rotate: false
+  xy: 301, 42
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Magician_1/legoutdown
+  rotate: true
+  xy: 330, 189
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Magician_1/legoutup
+  rotate: false
+  xy: 462, 315
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Magician_1/weapon
+  rotate: false
+  xy: 190, 345
+  size: 138, 45
+  orig: 138, 45
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/arminnerdown
+  rotate: false
+  xy: 331, 30
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/armoutdown
+  rotate: false
+  xy: 365, 50
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/body
+  rotate: true
+  xy: 255, 222
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/daizi
+  rotate: true
+  xy: 325, 95
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/hat
+  rotate: false
+  xy: 2, 246
+  size: 156, 118
+  orig: 156, 118
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/jianjiainner
+  rotate: false
+  xy: 168, 72
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/jianjiaout
+  rotate: true
+  xy: 149, 2
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/leginnerdown
+  rotate: true
+  xy: 464, 193
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/leginnerup
+  rotate: false
+  xy: 358, 150
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/legoutdown
+  rotate: false
+  xy: 322, 142
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/legoutup
+  rotate: true
+  xy: 258, 193
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/pifeng
+  rotate: false
+  xy: 347, 417
+  size: 145, 93
+  orig: 145, 93
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/toushi
+  rotate: false
+  xy: 204, 193
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/weapon
+  rotate: true
+  xy: 2, 70
+  size: 54, 164
+  orig: 54, 164
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/weapon1
+  rotate: false
+  xy: 209, 9
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+Anjelica/Anjelica_Magic/Anjelica_Scientist_3/yaojia
+  rotate: true
+  xy: 352, 109
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Anjelica/dd
+  rotate: false
+  xy: 403, 252
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Anjelica/eyebrow
+  rotate: false
+  xy: 61, 13
+  size: 54, 7
+  orig: 54, 7
+  offset: 0, 0
+  index: -1
+Anjelica/eyehard
+  rotate: true
+  xy: 198, 131
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Anjelica/eyehard1
+  rotate: true
+  xy: 269, 131
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Anjelica/eyehard2
+  rotate: true
+  xy: 494, 450
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Anjelica/eyehard3
+  rotate: true
+  xy: 496, 305
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+Anjelica/eyesffuer
+  rotate: true
+  xy: 464, 253
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+Anjelica/eyeyun
+  rotate: false
+  xy: 160, 222
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Anjelica/face
+  rotate: false
+  xy: 160, 250
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+Anjelica/hair1
+  rotate: false
+  xy: 220, 132
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Anjelica/hair2
+  rotate: false
+  xy: 159, 126
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Anjelica/hair3
+  rotate: true
+  xy: 255, 269
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+Anjelica/hair4
+  rotate: true
+  xy: 2, 3
+  size: 17, 57
+  orig: 17, 57
+  offset: 0, 0
+  index: -1
+Anjelica/hair5
+  rotate: true
+  xy: 329, 225
+  size: 31, 72
+  orig: 31, 72
+  offset: 0, 0
+  index: -1
+Anjelica/hair6
+  rotate: false
+  xy: 331, 57
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Anjelica/hairinner
+  rotate: false
+  xy: 2, 366
+  size: 186, 144
+  orig: 186, 144
+  offset: 0, 0
+  index: -1
+Anjelica/mouth01
+  rotate: true
+  xy: 330, 358
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Anjelica/mouth02
+  rotate: false
+  xy: 330, 376
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Anjelica/mouth03
+  rotate: false
+  xy: 160, 357
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Anjelica/mouth04
+  rotate: false
+  xy: 397, 369
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 312, 269
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

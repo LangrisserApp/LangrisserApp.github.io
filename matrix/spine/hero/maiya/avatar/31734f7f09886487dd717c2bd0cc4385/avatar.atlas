@@ -1,0 +1,349 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Maiya/Maiya_Saint/Maiya_Saint_3/Shadow
+  rotate: true
+  xy: 80, 31
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/arminnerdown
+  rotate: false
+  xy: 170, 302
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/arminnerup
+  rotate: true
+  xy: 465, 379
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/armoutdown
+  rotate: false
+  xy: 159, 41
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/armoutup
+  rotate: false
+  xy: 273, 348
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/body
+  rotate: true
+  xy: 311, 387
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/eyebrow
+  rotate: true
+  xy: 159, 126
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/eyehard
+  rotate: true
+  xy: 107, 45
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/eyehard 2
+  rotate: false
+  xy: 2, 4
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/eyehard1
+  rotate: true
+  xy: 133, 45
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/eyehard3
+  rotate: true
+  xy: 496, 414
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/eyesffuer
+  rotate: true
+  xy: 435, 381
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/eyeyun
+  rotate: false
+  xy: 418, 456
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/face
+  rotate: false
+  xy: 2, 197
+  size: 131, 148
+  orig: 131, 148
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/hair1
+  rotate: false
+  xy: 311, 447
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/hair2
+  rotate: false
+  xy: 135, 249
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/hair3
+  rotate: true
+  xy: 418, 485
+  size: 25, 92
+  orig: 25, 92
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/hair4
+  rotate: false
+  xy: 2, 347
+  size: 172, 163
+  orig: 172, 163
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/handinner
+  rotate: true
+  xy: 362, 351
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/handinner2
+  rotate: true
+  xy: 170, 126
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/handinner3
+  rotate: false
+  xy: 170, 280
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/handinner4
+  rotate: false
+  xy: 80, 9
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/handout
+  rotate: true
+  xy: 153, 2
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/hudiejie
+  rotate: true
+  xy: 387, 386
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/leginnerdown
+  rotate: true
+  xy: 176, 333
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/leginnerup
+  rotate: false
+  xy: 170, 152
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/legoutdown
+  rotate: false
+  xy: 465, 411
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/legoutup
+  rotate: true
+  xy: 315, 355
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/lingjie
+  rotate: true
+  xy: 205, 307
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/mouth01
+  rotate: true
+  xy: 257, 337
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/mouth02
+  rotate: true
+  xy: 205, 288
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/mouth04
+  rotate: false
+  xy: 418, 450
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/page1
+  rotate: true
+  xy: 170, 249
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/page2
+  rotate: false
+  xy: 223, 312
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/page3
+  rotate: false
+  xy: 222, 334
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/page4
+  rotate: false
+  xy: 170, 258
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/page5
+  rotate: false
+  xy: 179, 227
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/qunzi
+  rotate: false
+  xy: 176, 354
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/toushi
+  rotate: false
+  xy: 176, 406
+  size: 133, 104
+  orig: 133, 104
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/weapon
+  rotate: true
+  xy: 91, 119
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_3/weiqun
+  rotate: true
+  xy: 159, 72
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/arminnerdown
+  rotate: false
+  xy: 426, 351
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/armoutdown
+  rotate: false
+  xy: 384, 353
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/armoutup
+  rotate: false
+  xy: 463, 348
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/hudiejie
+  rotate: false
+  xy: 2, 21
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/hudiejie2
+  rotate: true
+  xy: 135, 199
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/lingjie
+  rotate: false
+  xy: 273, 379
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/toushi2
+  rotate: true
+  xy: 107, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_Saint/Maiya_Saint_4/weapon
+  rotate: false
+  xy: 2, 107
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1

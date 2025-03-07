@@ -1,0 +1,496 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 505, 197
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/Pike
+  rotate: false
+  xy: 567, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/arminnerdown
+  rotate: true
+  xy: 544, 125
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/arminnerup
+  rotate: false
+  xy: 57, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/armoutdown
+  rotate: true
+  xy: 503, 127
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/armoutup
+  rotate: true
+  xy: 568, 151
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/body
+  rotate: true
+  xy: 614, 246
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/eyebrow
+  rotate: false
+  xy: 690, 376
+  size: 88, 17
+  orig: 88, 17
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/eyehard
+  rotate: false
+  xy: 695, 234
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/eyehard1
+  rotate: true
+  xy: 333, 115
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/eyehard2
+  rotate: true
+  xy: 333, 39
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/eyehard3
+  rotate: false
+  xy: 266, 21
+  size: 64, 7
+  orig: 64, 7
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/eyesffuer
+  rotate: false
+  xy: 243, 30
+  size: 88, 31
+  orig: 88, 31
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/eyeyun
+  rotate: false
+  xy: 94, 4
+  size: 88, 31
+  orig: 88, 31
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/face
+  rotate: false
+  xy: 123, 286
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/hair1
+  rotate: false
+  xy: 604, 151
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/hair2
+  rotate: true
+  xy: 695, 257
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/hair3
+  rotate: true
+  xy: 690, 395
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/hair4
+  rotate: true
+  xy: 545, 377
+  size: 52, 99
+  orig: 52, 99
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/hair5
+  rotate: true
+  xy: 961, 358
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/hair6
+  rotate: true
+  xy: 602, 131
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/hairinner
+  rotate: false
+  xy: 744, 190
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/handinner
+  rotate: false
+  xy: 717, 166
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/handout
+  rotate: true
+  xy: 234, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_backlegdown
+  rotate: false
+  xy: 774, 309
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_backlegup
+  rotate: true
+  xy: 417, 206
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_body
+  rotate: false
+  xy: 123, 191
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_frontlegdown
+  rotate: true
+  xy: 184, 3
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_frontlegup
+  rotate: true
+  xy: 532, 195
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_head
+  rotate: false
+  xy: 104, 63
+  size: 113, 126
+  orig: 113, 126
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_mana
+  rotate: false
+  xy: 440, 273
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_neck
+  rotate: true
+  xy: 438, 364
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_tuijia1
+  rotate: true
+  xy: 628, 306
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_tunjia
+  rotate: false
+  xy: 545, 308
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_weiba
+  rotate: true
+  xy: 961, 398
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/horse_xiongjia
+  rotate: false
+  xy: 340, 193
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/jianjiainner
+  rotate: true
+  xy: 770, 260
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/jianjiaout
+  rotate: false
+  xy: 503, 156
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/legoutdown
+  rotate: false
+  xy: 801, 268
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/legoutup
+  rotate: true
+  xy: 281, 273
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/mouth01
+  rotate: false
+  xy: 296, 424
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/mouth02
+  rotate: true
+  xy: 262, 289
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/mouth04
+  rotate: false
+  xy: 545, 433
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/weapon
+  rotate: false
+  xy: 296, 440
+  size: 269, 70
+  orig: 269, 70
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/weapon1
+  rotate: false
+  xy: 567, 431
+  size: 121, 18
+  orig: 121, 18
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/yaodai
+  rotate: true
+  xy: 808, 308
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_02/yaojiaout
+  rotate: false
+  xy: 780, 356
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/arminnerdown
+  rotate: true
+  xy: 652, 167
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/armoutdown
+  rotate: true
+  xy: 675, 162
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/body
+  rotate: false
+  xy: 281, 191
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/handinner
+  rotate: false
+  xy: 771, 235
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/handout
+  rotate: true
+  xy: 568, 122
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_backlegup
+  rotate: true
+  xy: 417, 140
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_body
+  rotate: true
+  xy: 2, 39
+  size: 153, 100
+  orig: 153, 100
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_frontlegup
+  rotate: false
+  xy: 356, 129
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_head
+  rotate: false
+  xy: 219, 63
+  size: 112, 126
+  orig: 112, 126
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_neck
+  rotate: false
+  xy: 262, 309
+  size: 72, 113
+  orig: 72, 113
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_tuijia1
+  rotate: true
+  xy: 693, 309
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_xiongjia
+  rotate: true
+  xy: 336, 276
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/horse_xiongjia1
+  rotate: false
+  xy: 336, 353
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/jianjiainner
+  rotate: false
+  xy: 2, 2
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/jianjiaout
+  rotate: false
+  xy: 675, 191
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/weapon1
+  rotate: false
+  xy: 104, 37
+  size: 137, 24
+  orig: 137, 24
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_03/yaojiaout
+  rotate: true
+  xy: 782, 395
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_04/body
+  rotate: true
+  xy: 532, 249
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_04/horse_head
+  rotate: true
+  xy: 833, 397
+  size: 113, 126
+  orig: 113, 126
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_04/jianjiainner
+  rotate: true
+  xy: 646, 374
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_04/jianjiaout
+  rotate: false
+  xy: 604, 197
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_04/weapon
+  rotate: false
+  xy: 2, 424
+  size: 292, 86
+  orig: 292, 86
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/RoyalKnight_04/weapon2
+  rotate: false
+  xy: 2, 194
+  size: 119, 228
+  orig: 119, 228
+  offset: 0, 0
+  index: -1

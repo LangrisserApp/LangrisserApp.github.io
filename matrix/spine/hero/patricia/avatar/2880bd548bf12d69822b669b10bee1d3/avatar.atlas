@@ -1,0 +1,580 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Patricia_Magic_2/body
+  rotate: false
+  xy: 413, 138
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/jianjiainner
+  rotate: false
+  xy: 880, 289
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/jianjiainner3
+  rotate: true
+  xy: 346, 76
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/jianjiaout
+  rotate: true
+  xy: 590, 164
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/jianjiaout1
+  rotate: false
+  xy: 636, 132
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/toushiout
+  rotate: true
+  xy: 637, 163
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/toushiout1
+  rotate: false
+  xy: 476, 369
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/toushiout2
+  rotate: true
+  xy: 530, 108
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/toushiout3
+  rotate: true
+  xy: 932, 354
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/weapon
+  rotate: false
+  xy: 289, 456
+  size: 267, 54
+  orig: 267, 54
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/yaojiainner
+  rotate: true
+  xy: 531, 135
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/yaojiainner1
+  rotate: false
+  xy: 634, 249
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+Patricia_Magic_2/yaojiaout
+  rotate: false
+  xy: 2, 5
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/body
+  rotate: false
+  xy: 466, 221
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/jianjiainner
+  rotate: true
+  xy: 637, 201
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/jianjiainner1
+  rotate: false
+  xy: 531, 164
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/jianjiainner2
+  rotate: false
+  xy: 797, 335
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/jianjiainner3
+  rotate: false
+  xy: 677, 132
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/jianjiaout
+  rotate: false
+  xy: 773, 277
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/jianjiaout1
+  rotate: true
+  xy: 633, 355
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/jianjiaout2
+  rotate: false
+  xy: 633, 294
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/toushiout
+  rotate: false
+  xy: 525, 230
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/toushiout1
+  rotate: true
+  xy: 388, 299
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/toushiout2
+  rotate: true
+  xy: 695, 170
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/toushiout3
+  rotate: true
+  xy: 846, 336
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/weapon
+  rotate: true
+  xy: 2, 98
+  size: 287, 96
+  orig: 287, 96
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/yaojiainner
+  rotate: true
+  xy: 690, 242
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/yaojiainner1
+  rotate: true
+  xy: 836, 280
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/yaojiainner2
+  rotate: false
+  xy: 709, 341
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+Patricia_Magic_3/yaojiaout
+  rotate: false
+  xy: 287, 196
+  size: 64, 91
+  orig: 64, 91
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/Shadow
+  rotate: true
+  xy: 606, 288
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/arminnerdown
+  rotate: false
+  xy: 977, 285
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/arminnerup
+  rotate: false
+  xy: 272, 43
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/armoutdown
+  rotate: true
+  xy: 744, 135
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/armoutup
+  rotate: false
+  xy: 714, 133
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/body
+  rotate: false
+  xy: 472, 143
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/eyebrow
+  rotate: false
+  xy: 137, 7
+  size: 80, 12
+  orig: 80, 12
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/eyehard
+  rotate: false
+  xy: 848, 376
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/eyehard1
+  rotate: true
+  xy: 343, 112
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/eyehard2
+  rotate: false
+  xy: 939, 393
+  size: 82, 22
+  orig: 82, 22
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/eyehard3
+  rotate: true
+  xy: 1006, 276
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/eyesffuer
+  rotate: false
+  xy: 695, 305
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/eyeyun
+  rotate: false
+  xy: 695, 271
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/guang1
+  rotate: false
+  xy: 540, 298
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hair
+  rotate: true
+  xy: 690, 206
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hair1
+  rotate: false
+  xy: 229, 276
+  size: 54, 109
+  orig: 54, 109
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hair2
+  rotate: true
+  xy: 137, 21
+  size: 60, 112
+  orig: 60, 112
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hair3
+  rotate: true
+  xy: 413, 108
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hair4
+  rotate: false
+  xy: 251, 2
+  size: 19, 79
+  orig: 19, 79
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hair6
+  rotate: false
+  xy: 100, 187
+  size: 127, 198
+  orig: 127, 198
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hair7
+  rotate: true
+  xy: 289, 368
+  size: 86, 185
+  orig: 86, 185
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hairinner
+  rotate: true
+  xy: 558, 433
+  size: 77, 150
+  orig: 77, 150
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/hairout
+  rotate: true
+  xy: 100, 83
+  size: 102, 159
+  orig: 102, 159
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/handinner
+  rotate: false
+  xy: 304, 52
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/handinner1
+  rotate: false
+  xy: 608, 132
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/handout
+  rotate: false
+  xy: 272, 15
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/handout1
+  rotate: false
+  xy: 336, 50
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/head
+  rotate: true
+  xy: 710, 390
+  size: 120, 136
+  orig: 120, 136
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/jianjiainner
+  rotate: false
+  xy: 476, 299
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/jianjiainner1
+  rotate: false
+  xy: 353, 197
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/jianjiainner2
+  rotate: false
+  xy: 229, 187
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/jianjiainner3
+  rotate: false
+  xy: 377, 84
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/jianjiaout
+  rotate: true
+  xy: 69, 2
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/jianjiaout1
+  rotate: false
+  xy: 848, 409
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/jianjiaout2
+  rotate: true
+  xy: 285, 289
+  size: 77, 101
+  orig: 77, 101
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/leginnerdown
+  rotate: true
+  xy: 413, 77
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/leginnerup
+  rotate: true
+  xy: 472, 110
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/legoutdown
+  rotate: true
+  xy: 922, 285
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/legoutup
+  rotate: true
+  xy: 293, 77
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/mouth01
+  rotate: false
+  xy: 587, 288
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/mouth02
+  rotate: false
+  xy: 272, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/mouth03
+  rotate: false
+  xy: 69, 87
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/mouth04
+  rotate: true
+  xy: 926, 357
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/toushiout
+  rotate: false
+  xy: 405, 216
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/toushiout1
+  rotate: true
+  xy: 546, 364
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/toushiout2
+  rotate: false
+  xy: 376, 115
+  size: 35, 80
+  orig: 35, 80
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/toushiout3
+  rotate: true
+  xy: 926, 315
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/weapon
+  rotate: false
+  xy: 2, 387
+  size: 285, 123
+  orig: 285, 123
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/yaojiainner
+  rotate: false
+  xy: 261, 98
+  size: 30, 87
+  orig: 30, 87
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/yaojiainner1
+  rotate: true
+  xy: 587, 230
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/yaojiainner2
+  rotate: true
+  xy: 293, 108
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+Patricia_Magic_4/yaojiaout
+  rotate: false
+  xy: 939, 417
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,776 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/arminner1
+  rotate: true
+  xy: 346, 610
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/arminnerdown
+  rotate: false
+  xy: 48, 2
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/arminnerup
+  rotate: false
+  xy: 600, 714
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/arminnerup1
+  rotate: true
+  xy: 547, 697
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/armoutdown1
+  rotate: false
+  xy: 755, 860
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/armoutup
+  rotate: false
+  xy: 187, 100
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/body
+  rotate: true
+  xy: 505, 795
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/body1
+  rotate: true
+  xy: 256, 525
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/daiziinner
+  rotate: false
+  xy: 134, 436
+  size: 94, 29
+  orig: 94, 29
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/daiziinnerinner
+  rotate: false
+  xy: 421, 751
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/daiziout
+  rotate: false
+  xy: 134, 467
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/daizioutinner
+  rotate: false
+  xy: 802, 779
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/handinner
+  rotate: false
+  xy: 430, 607
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/handinner1
+  rotate: false
+  xy: 465, 609
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/handout
+  rotate: true
+  xy: 249, 92
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/handout1
+  rotate: false
+  xy: 93, 13
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/hudang
+  rotate: false
+  xy: 234, 219
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/hudanginner
+  rotate: false
+  xy: 183, 209
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/jianjiaout2
+  rotate: true
+  xy: 349, 409
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/leginnerdown
+  rotate: false
+  xy: 286, 220
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/leginnerup
+  rotate: false
+  xy: 346, 102
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/legoutdown
+  rotate: true
+  xy: 404, 706
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/legoutup
+  rotate: false
+  xy: 328, 226
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/lingzi
+  rotate: false
+  xy: 243, 694
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/lingzi1
+  rotate: false
+  xy: 241, 466
+  size: 101, 57
+  orig: 101, 57
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/maoinner
+  rotate: false
+  xy: 332, 762
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/maoinner1
+  rotate: false
+  xy: 738, 784
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/maoout
+  rotate: false
+  xy: 646, 784
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/maoout1
+  rotate: false
+  xy: 2, 42
+  size: 118, 82
+  orig: 118, 82
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifeng
+  rotate: false
+  xy: 286, 892
+  size: 245, 130
+  orig: 245, 130
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifeng1
+  rotate: true
+  xy: 533, 867
+  size: 39, 111
+  orig: 39, 111
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifeng2
+  rotate: true
+  xy: 792, 876
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pifengout1
+  rotate: false
+  xy: 2, 126
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/pifengout1
+  rotate: false
+  xy: 2, 126
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pijianout
+  rotate: false
+  xy: 421, 799
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/pijianout1
+  rotate: false
+  xy: 896, 783
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/toushi
+  rotate: false
+  xy: 646, 860
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/weapon
+  rotate: false
+  xy: 2, 851
+  size: 282, 171
+  orig: 282, 171
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/yaojiainner
+  rotate: true
+  xy: 710, 690
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Emperor_3/yaojiaout
+  rotate: false
+  xy: 128, 119
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/arminnerdown
+  rotate: true
+  xy: 388, 648
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/arminnerup
+  rotate: false
+  xy: 299, 407
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/armoutdown
+  rotate: false
+  xy: 470, 664
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/armoutup
+  rotate: false
+  xy: 183, 2
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/body
+  rotate: false
+  xy: 256, 597
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/dd
+  rotate: false
+  xy: 122, 120
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyebrow
+  rotate: true
+  xy: 986, 886
+  size: 136, 26
+  orig: 136, 26
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyehard
+  rotate: true
+  xy: 329, 627
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyehard1
+  rotate: false
+  xy: 771, 683
+  size: 65, 15
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyehard2
+  rotate: true
+  xy: 389, 696
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyehard3
+  rotate: true
+  xy: 329, 693
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyesffuer
+  rotate: true
+  xy: 944, 889
+  size: 133, 40
+  orig: 133, 40
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/eyeyun
+  rotate: false
+  xy: 286, 851
+  size: 133, 39
+  orig: 133, 39
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/face
+  rotate: false
+  xy: 134, 548
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/hair1
+  rotate: true
+  xy: 600, 771
+  size: 94, 44
+  orig: 94, 44
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/hair2
+  rotate: false
+  xy: 243, 760
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/hair3
+  rotate: false
+  xy: 230, 407
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/hairinner
+  rotate: false
+  xy: 2, 283
+  size: 127, 164
+  orig: 127, 164
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/handinner
+  rotate: false
+  xy: 349, 575
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/handout
+  rotate: true
+  xy: 340, 162
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/hudang
+  rotate: true
+  xy: 491, 740
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/hudanginner
+  rotate: true
+  xy: 230, 355
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/jianjiainner
+  rotate: false
+  xy: 710, 731
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/jianjiaout
+  rotate: false
+  xy: 953, 751
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/leginnerdown
+  rotate: true
+  xy: 488, 705
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/leginnerup
+  rotate: true
+  xy: 235, 46
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/legoutdown
+  rotate: false
+  xy: 558, 736
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/legoutup
+  rotate: false
+  xy: 242, 154
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth01
+  rotate: true
+  xy: 516, 660
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth02
+  rotate: true
+  xy: 462, 707
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth03
+  rotate: false
+  xy: 346, 90
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/mouth04
+  rotate: true
+  xy: 1014, 990
+  size: 32, 7
+  orig: 32, 7
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/weapon
+  rotate: false
+  xy: 533, 908
+  size: 257, 114
+  orig: 257, 114
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/yaojiainner
+  rotate: true
+  xy: 390, 612
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Fighter_1/yaojiaout
+  rotate: true
+  xy: 300, 355
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/arminnerdown1
+  rotate: false
+  xy: 771, 739
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/arminnerup
+  rotate: false
+  xy: 340, 705
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/arminnerup1
+  rotate: false
+  xy: 431, 659
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/armoutdown
+  rotate: false
+  xy: 2, 2
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/armoutdown1
+  rotate: true
+  xy: 538, 659
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/armoutup
+  rotate: false
+  xy: 122, 2
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/body
+  rotate: true
+  xy: 802, 805
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/body1
+  rotate: false
+  xy: 131, 343
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/daizi1
+  rotate: true
+  xy: 595, 676
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/daiziinner
+  rotate: true
+  xy: 431, 641
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/daiziinner1
+  rotate: false
+  xy: 329, 598
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/dazi
+  rotate: true
+  xy: 187, 144
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/handinner
+  rotate: false
+  xy: 349, 540
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/handinner1
+  rotate: false
+  xy: 838, 674
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/handout
+  rotate: true
+  xy: 298, 93
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/handout1
+  rotate: false
+  xy: 470, 635
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/hudang
+  rotate: false
+  xy: 286, 155
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/hudanginner
+  rotate: false
+  xy: 276, 287
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/jianjiainner
+  rotate: false
+  xy: 649, 720
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/jianjiaout1
+  rotate: false
+  xy: 131, 279
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/leginnerdown
+  rotate: true
+  xy: 802, 700
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/leginnerup
+  rotate: true
+  xy: 246, 2
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/legoutdown
+  rotate: false
+  xy: 344, 466
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/legoutup
+  rotate: true
+  xy: 802, 735
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/lingzi
+  rotate: true
+  xy: 953, 799
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/lingzi1
+  rotate: true
+  xy: 128, 188
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/pifeng
+  rotate: false
+  xy: 2, 694
+  size: 239, 155
+  orig: 239, 155
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/pifeng1
+  rotate: false
+  xy: 177, 46
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/pijian
+  rotate: true
+  xy: 122, 45
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/toushi1
+  rotate: true
+  xy: 771, 700
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/toushi2
+  rotate: true
+  xy: 327, 290
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/weapon
+  rotate: true
+  xy: 2, 449
+  size: 243, 130
+  orig: 243, 130
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/yaojiainner
+  rotate: false
+  xy: 346, 643
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+Barnhart/Barnhart_Sword/Barnhart_Sward_2/yaojiaout
+  rotate: false
+  xy: 217, 287
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 203, 360
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

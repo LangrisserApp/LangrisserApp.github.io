@@ -1,0 +1,258 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 125, 265
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/arminnerdown
+  rotate: true
+  xy: 358, 366
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/arminnerup
+  rotate: false
+  xy: 2, 61
+  size: 107, 123
+  orig: 107, 123
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/armoutdown
+  rotate: false
+  xy: 2, 2
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/armoutup
+  rotate: false
+  xy: 153, 383
+  size: 135, 127
+  orig: 135, 127
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/body
+  rotate: false
+  xy: 2, 341
+  size: 149, 169
+  orig: 149, 169
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/dang
+  rotate: true
+  xy: 125, 193
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyebrow
+  rotate: false
+  xy: 290, 409
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyebrow1
+  rotate: true
+  xy: 153, 348
+  size: 33, 99
+  orig: 33, 99
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyehard
+  rotate: false
+  xy: 153, 327
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyehard1
+  rotate: true
+  xy: 400, 302
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyehard2
+  rotate: false
+  xy: 152, 265
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyehard3
+  rotate: true
+  xy: 132, 61
+  size: 57, 6
+  orig: 57, 6
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyesffuer
+  rotate: true
+  xy: 111, 62
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/eyeyun
+  rotate: true
+  xy: 55, 2
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/face
+  rotate: false
+  xy: 2, 186
+  size: 121, 153
+  orig: 121, 153
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handinner
+  rotate: true
+  xy: 472, 474
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handinner1
+  rotate: true
+  xy: 79, 11
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handinner2
+  rotate: false
+  xy: 163, 223
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handinner3
+  rotate: true
+  xy: 351, 318
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handinner4
+  rotate: false
+  xy: 424, 323
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handinnerXX
+  rotate: false
+  xy: 140, 93
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handout
+  rotate: false
+  xy: 152, 283
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/handoutXX
+  rotate: false
+  xy: 200, 283
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/leginnerdown
+  rotate: false
+  xy: 136, 131
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/leginnerup
+  rotate: false
+  xy: 414, 435
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/legoutdown
+  rotate: false
+  xy: 424, 368
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/legoutup
+  rotate: true
+  xy: 290, 319
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/mouth01
+  rotate: false
+  xy: 472, 455
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/mouth02
+  rotate: false
+  xy: 163, 207
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/mouth03
+  rotate: false
+  xy: 424, 307
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/mouth04
+  rotate: false
+  xy: 185, 210
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/texiao1
+  rotate: false
+  xy: 360, 409
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/texiao2
+  rotate: false
+  xy: 111, 120
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/texiao3
+  rotate: false
+  xy: 254, 337
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Toguro/Toguro_100Power/Toguro_100Power_4/texiao4
+  rotate: true
+  xy: 290, 379
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1

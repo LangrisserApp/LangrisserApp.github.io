@@ -1,0 +1,496 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Landius/Knight/Landius_HighRider_2/body
+  rotate: true
+  xy: 212, 98
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/handout
+  rotate: true
+  xy: 758, 281
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/horse_head
+  rotate: true
+  xy: 85, 122
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/horse_head
+  rotate: true
+  xy: 85, 122
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/horse_neck
+  rotate: false
+  xy: 2, 32
+  size: 78, 106
+  orig: 78, 106
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/horse_neck1
+  rotate: false
+  xy: 643, 201
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/horse_tuijia
+  rotate: false
+  xy: 212, 160
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/horse_xiongjia
+  rotate: true
+  xy: 672, 345
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/jianjiainner
+  rotate: false
+  xy: 501, 139
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/jianjiaout
+  rotate: false
+  xy: 406, 130
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/jianjiaout1
+  rotate: false
+  xy: 676, 269
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/pifeng
+  rotate: false
+  xy: 683, 428
+  size: 125, 82
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_HighRider_2/weapon
+  rotate: true
+  xy: 2, 140
+  size: 276, 81
+  orig: 276, 81
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/arminnerup
+  rotate: false
+  xy: 703, 213
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/armoutup
+  rotate: false
+  xy: 667, 209
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/body
+  rotate: true
+  xy: 419, 257
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/eyebrow
+  rotate: false
+  xy: 804, 303
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/eyehard
+  rotate: true
+  xy: 190, 61
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/eyehard1
+  rotate: false
+  xy: 804, 319
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/eyehard2
+  rotate: false
+  xy: 804, 284
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/eyehard3
+  rotate: true
+  xy: 378, 110
+  size: 57, 5
+  orig: 57, 5
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/eyesffuer
+  rotate: true
+  xy: 892, 341
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/eyeyun
+  rotate: true
+  xy: 657, 277
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/face
+  rotate: false
+  xy: 421, 320
+  size: 89, 129
+  orig: 89, 129
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/hair
+  rotate: false
+  xy: 385, 124
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/hair1
+  rotate: false
+  xy: 460, 185
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/hair2
+  rotate: false
+  xy: 303, 104
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/hair3
+  rotate: false
+  xy: 543, 432
+  size: 138, 78
+  orig: 138, 78
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/hair4
+  rotate: false
+  xy: 463, 129
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/handinner
+  rotate: true
+  xy: 170, 3
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/handout
+  rotate: false
+  xy: 273, 49
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/hgorse_pigua
+  rotate: false
+  xy: 810, 408
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/horse_guajian1
+  rotate: false
+  xy: 513, 253
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/horse_head
+  rotate: false
+  xy: 305, 323
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/jianjiainner
+  rotate: false
+  xy: 676, 303
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/jianjiaout
+  rotate: false
+  xy: 593, 202
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/jianjiaout1
+  rotate: false
+  xy: 548, 156
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/legoutdown
+  rotate: true
+  xy: 675, 243
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/legoutup
+  rotate: true
+  xy: 548, 130
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/mouth01
+  rotate: true
+  xy: 277, 418
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/mouth02
+  rotate: false
+  xy: 864, 330
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/mouth03
+  rotate: false
+  xy: 559, 193
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/mouth04
+  rotate: true
+  xy: 512, 432
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/toushi
+  rotate: true
+  xy: 757, 339
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/weapon
+  rotate: false
+  xy: 2, 418
+  size: 273, 92
+  orig: 273, 92
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_Knight_1/yaojiaout
+  rotate: false
+  xy: 718, 302
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/body
+  rotate: false
+  xy: 593, 250
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/horse_neck
+  rotate: true
+  xy: 82, 43
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/horse_toushi
+  rotate: true
+  xy: 82, 2
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/horse_tuijia
+  rotate: false
+  xy: 919, 409
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/horse_xiongjia
+  rotate: false
+  xy: 587, 344
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/jianjiainner
+  rotate: true
+  xy: 212, 48
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/jianjiaout
+  rotate: false
+  xy: 499, 193
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/jianjiaoutinner
+  rotate: true
+  xy: 718, 271
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Landius/Knight/Landius_RoyalKnight_3/shield
+  rotate: false
+  xy: 85, 234
+  size: 123, 182
+  orig: 123, 182
+  offset: 0, 0
+  index: -1
+Leon/Leon_1/horse_neck
+  rotate: false
+  xy: 512, 326
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegdown
+  rotate: true
+  xy: 757, 305
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_backlegup
+  rotate: true
+  xy: 804, 341
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_body
+  rotate: true
+  xy: 210, 260
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegdown
+  rotate: false
+  xy: 559, 203
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_frontlegup
+  rotate: false
+  xy: 406, 185
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 296, 169
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 758, 254
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 305, 260
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout3
+  rotate: false
+  xy: 657, 250
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: false
+  xy: 277, 435
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/weapon2
+  rotate: true
+  xy: 388, 150
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 277, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leon/dd
+  rotate: false
+  xy: 1018, 506
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 5
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

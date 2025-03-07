@@ -1,0 +1,433 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/arminnerdown
+  rotate: true
+  xy: 997, 369
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/arminnerdown2
+  rotate: false
+  xy: 930, 344
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/arminnerup
+  rotate: false
+  xy: 785, 315
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/armoutdown
+  rotate: false
+  xy: 877, 326
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/armoutdown2
+  rotate: true
+  xy: 187, 4
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/armoutup
+  rotate: false
+  xy: 964, 370
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/body
+  rotate: false
+  xy: 376, 226
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/eyebrow
+  rotate: false
+  xy: 376, 211
+  size: 78, 13
+  orig: 78, 13
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/eyehard
+  rotate: true
+  xy: 162, 26
+  size: 84, 19
+  orig: 84, 19
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/eyehard1
+  rotate: true
+  xy: 183, 27
+  size: 84, 19
+  orig: 84, 19
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/eyehard2
+  rotate: true
+  xy: 204, 27
+  size: 84, 16
+  orig: 84, 16
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/eyehard3
+  rotate: true
+  xy: 366, 310
+  size: 72, 10
+  orig: 72, 10
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/eyesffuer
+  rotate: false
+  xy: 893, 375
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/eyeyun
+  rotate: true
+  xy: 178, 113
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/face
+  rotate: true
+  xy: 379, 301
+  size: 130, 145
+  orig: 130, 145
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/fx_1
+  rotate: true
+  xy: 379, 433
+  size: 77, 223
+  orig: 77, 223
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/fx_2
+  rotate: false
+  xy: 91, 112
+  size: 85, 222
+  orig: 85, 222
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/fx_3
+  rotate: false
+  xy: 2, 109
+  size: 87, 225
+  orig: 87, 225
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/fx_4
+  rotate: true
+  xy: 604, 432
+  size: 78, 222
+  orig: 78, 222
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/hair1
+  rotate: false
+  xy: 318, 309
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/hair2
+  rotate: true
+  xy: 193, 300
+  size: 82, 123
+  orig: 82, 123
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/hair3
+  rotate: false
+  xy: 178, 181
+  size: 39, 117
+  orig: 39, 117
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/hair4
+  rotate: false
+  xy: 278, 196
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/handinner
+  rotate: false
+  xy: 421, 166
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/handinner2
+  rotate: true
+  xy: 997, 410
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/handout
+  rotate: false
+  xy: 899, 344
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/handout2
+  rotate: false
+  xy: 162, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/jianjiainner
+  rotate: false
+  xy: 824, 363
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/jianjiaout
+  rotate: true
+  xy: 512, 215
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/leginnerdown
+  rotate: true
+  xy: 327, 183
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/leginnerup
+  rotate: true
+  xy: 454, 166
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/legoutdown
+  rotate: true
+  xy: 278, 165
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/legoutup
+  rotate: false
+  xy: 714, 310
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/lingziinner
+  rotate: false
+  xy: 828, 325
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/lingziout
+  rotate: true
+  xy: 673, 228
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/mouth01
+  rotate: false
+  xy: 102, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/mouth02
+  rotate: true
+  xy: 512, 283
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/pifeng
+  rotate: false
+  xy: 193, 384
+  size: 184, 126
+  orig: 184, 126
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/weapon
+  rotate: false
+  xy: 604, 356
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/yaodai1
+  rotate: false
+  xy: 219, 182
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/yaodai2
+  rotate: false
+  xy: 668, 279
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/yaojia1
+  rotate: false
+  xy: 587, 216
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/yaojia2
+  rotate: false
+  xy: 668, 298
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_3/yaojia3
+  rotate: true
+  xy: 102, 15
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/body
+  rotate: false
+  xy: 444, 226
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/hair5
+  rotate: false
+  xy: 2, 336
+  size: 189, 174
+  orig: 189, 174
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/jianjiainner
+  rotate: true
+  xy: 785, 352
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/jianjiainner2
+  rotate: false
+  xy: 526, 279
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/jianjiaout
+  rotate: true
+  xy: 526, 342
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/jianjiaout2
+  rotate: false
+  xy: 694, 359
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/leginnerdown
+  rotate: true
+  xy: 374, 180
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/legoutdown
+  rotate: false
+  xy: 753, 316
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/pifeng1
+  rotate: false
+  xy: 828, 415
+  size: 167, 95
+  orig: 167, 95
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/pifeng2
+  rotate: false
+  xy: 327, 214
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/pifeng3
+  rotate: false
+  xy: 219, 204
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/toushi
+  rotate: false
+  xy: 604, 279
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/weapon
+  rotate: true
+  xy: 2, 8
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/yaodai1
+  rotate: true
+  xy: 651, 220
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+Clotaire/Clotaire_FlamebladeMaster/Clotaire_FlamebladeMaster_4/yaodai2
+  rotate: false
+  xy: 456, 206
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 997, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,321 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Suzette/HighMaster/Suzette_HighMaster_3/Shadow
+  rotate: false
+  xy: 420, 355
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/arminnerdown
+  rotate: false
+  xy: 372, 317
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/arminnerup
+  rotate: false
+  xy: 70, 54
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/armoutdown
+  rotate: false
+  xy: 111, 98
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/armoutup
+  rotate: true
+  xy: 122, 234
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/body
+  rotate: false
+  xy: 160, 317
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/eyebrow
+  rotate: false
+  xy: 420, 447
+  size: 80, 11
+  orig: 80, 11
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/eyehard
+  rotate: true
+  xy: 103, 153
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/eyehard1
+  rotate: false
+  xy: 413, 420
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/eyehard2
+  rotate: false
+  xy: 420, 333
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/eyehard3
+  rotate: true
+  xy: 130, 163
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/eyesffuer
+  rotate: true
+  xy: 217, 314
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/eyeyun
+  rotate: true
+  xy: 299, 312
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/face
+  rotate: false
+  xy: 2, 231
+  size: 118, 135
+  orig: 118, 135
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hair
+  rotate: false
+  xy: 251, 307
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hair1
+  rotate: true
+  xy: 320, 406
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hair2
+  rotate: false
+  xy: 122, 268
+  size: 36, 98
+  orig: 36, 98
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hair3
+  rotate: false
+  xy: 330, 326
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hair4
+  rotate: false
+  xy: 372, 341
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hair5
+  rotate: true
+  xy: 57, 93
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hairinner
+  rotate: false
+  xy: 320, 456
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/handinner
+  rotate: false
+  xy: 287, 258
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/handout
+  rotate: true
+  xy: 103, 126
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hat
+  rotate: false
+  xy: 2, 368
+  size: 148, 142
+  orig: 148, 142
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hatinner
+  rotate: true
+  xy: 160, 256
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/hatinner1
+  rotate: true
+  xy: 287, 282
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/leginnerdown
+  rotate: false
+  xy: 250, 257
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/leginnerup
+  rotate: true
+  xy: 70, 16
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/legoutdown
+  rotate: true
+  xy: 160, 223
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/legoutup
+  rotate: true
+  xy: 149, 163
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/mouth01
+  rotate: true
+  xy: 152, 378
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/mouth02
+  rotate: true
+  xy: 502, 495
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/mouth04
+  rotate: false
+  xy: 299, 307
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/weapon
+  rotate: true
+  xy: 2, 79
+  size: 150, 53
+  orig: 150, 53
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/xiabaiinner
+  rotate: true
+  xy: 2, 2
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/xiabaiout
+  rotate: false
+  xy: 420, 460
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_3/yaodai
+  rotate: true
+  xy: 215, 258
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/pifeng
+  rotate: false
+  xy: 152, 394
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/pifenginner
+  rotate: true
+  xy: 57, 126
+  size: 103, 44
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/toush1
+  rotate: true
+  xy: 330, 314
+  size: 10, 39
+  orig: 10, 39
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/toush2
+  rotate: false
+  xy: 486, 382
+  size: 10, 36
+  orig: 10, 36
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/toushi
+  rotate: true
+  xy: 251, 392
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/weapon
+  rotate: false
+  xy: 152, 452
+  size: 166, 58
+  orig: 166, 58
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/xiongshi
+  rotate: false
+  xy: 149, 189
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+Suzette/HighMaster/Suzette_HighMaster_4/yaodai
+  rotate: false
+  xy: 420, 382
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/arminnerdown
+  rotate: false
+  xy: 425, 251
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/arminnerup
+  rotate: true
+  xy: 600, 317
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/armoutdown
+  rotate: true
+  xy: 379, 114
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/armoutup
+  rotate: true
+  xy: 220, 2
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/body
+  rotate: false
+  xy: 364, 238
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/body2
+  rotate: false
+  xy: 313, 143
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/eyebrow
+  rotate: true
+  xy: 301, 33
+  size: 79, 11
+  orig: 79, 11
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/eyehard
+  rotate: true
+  xy: 922, 368
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/eyehard1
+  rotate: false
+  xy: 767, 348
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/eyehard2
+  rotate: false
+  xy: 364, 224
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/eyehard3
+  rotate: false
+  xy: 485, 246
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/eyesffuer
+  rotate: false
+  xy: 485, 257
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/eyeyun
+  rotate: false
+  xy: 845, 354
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/hair1
+  rotate: true
+  xy: 845, 379
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/hair2
+  rotate: false
+  xy: 220, 33
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/handinner
+  rotate: false
+  xy: 314, 33
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/handinner1
+  rotate: false
+  xy: 644, 323
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/handinner2
+  rotate: false
+  xy: 976, 395
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/handout
+  rotate: false
+  xy: 677, 328
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/head
+  rotate: true
+  xy: 600, 355
+  size: 155, 165
+  orig: 155, 165
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/leginnerdown
+  rotate: true
+  xy: 373, 143
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/leginnerup
+  rotate: false
+  xy: 938, 393
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/legoutdown
+  rotate: true
+  xy: 267, 5
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/legoutup
+  rotate: false
+  xy: 373, 177
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/lignzi
+  rotate: false
+  xy: 492, 309
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/lingzi
+  rotate: true
+  xy: 313, 217
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/mouth01
+  rotate: true
+  xy: 561, 287
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/mouth02
+  rotate: false
+  xy: 335, 297
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/mouth03
+  rotate: true
+  xy: 1014, 493
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/mouth04
+  rotate: false
+  xy: 938, 388
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/pidai
+  rotate: true
+  xy: 355, 60
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/pidai2
+  rotate: false
+  xy: 373, 79
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/qunbaiinner
+  rotate: false
+  xy: 935, 442
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/qunbaiinner1
+  rotate: false
+  xy: 314, 58
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/qunbaiout
+  rotate: false
+  xy: 767, 364
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/weapon1
+  rotate: false
+  xy: 335, 309
+  size: 155, 53
+  orig: 155, 53
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/weapon2
+  rotate: false
+  xy: 313, 114
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_3/yifu
+  rotate: false
+  xy: 574, 326
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_4/1
+  rotate: false
+  xy: 767, 438
+  size: 166, 72
+  orig: 166, 72
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_4/2
+  rotate: false
+  xy: 2, 6
+  size: 216, 106
+  orig: 216, 106
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_4/3
+  rotate: false
+  xy: 335, 364
+  size: 263, 146
+  orig: 263, 146
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_4/4
+  rotate: false
+  xy: 2, 114
+  size: 309, 181
+  orig: 309, 181
+  offset: 0, 0
+  index: -1
+Gintoki/Gintoki_Kensei/Gintoki_Kensei_4/5
+  rotate: false
+  xy: 2, 297
+  size: 331, 213
+  orig: 331, 213
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 485, 282
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

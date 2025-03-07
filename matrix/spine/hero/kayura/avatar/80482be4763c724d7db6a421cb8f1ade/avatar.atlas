@@ -1,0 +1,468 @@
+
+Kayura_Assassin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kayura/Assassin/Kayura_Assassin_2/arminnerdown
+  rotate: true
+  xy: 274, 70
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/arminnerup
+  rotate: false
+  xy: 350, 203
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/armoutdown
+  rotate: false
+  xy: 375, 169
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/armoutup
+  rotate: false
+  xy: 344, 168
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/body
+  rotate: true
+  xy: 901, 231
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/handinner
+  rotate: false
+  xy: 359, 146
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/jianjiainner1
+  rotate: false
+  xy: 375, 192
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/jianjiakouzi
+  rotate: true
+  xy: 481, 389
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/jianjiaout1
+  rotate: true
+  xy: 273, 99
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/jianjiaout2
+  rotate: true
+  xy: 952, 191
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/xiangquan1
+  rotate: false
+  xy: 238, 65
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/xiangquan2
+  rotate: false
+  xy: 58, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/xiangquan3
+  rotate: true
+  xy: 481, 376
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/xiangquan4
+  rotate: false
+  xy: 344, 153
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_2/xiangquan5
+  rotate: false
+  xy: 375, 220
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/arminnerdown
+  rotate: true
+  xy: 269, 4
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/arminnerup
+  rotate: true
+  xy: 335, 109
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/armoutdown
+  rotate: false
+  xy: 378, 146
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/armoutup
+  rotate: false
+  xy: 234, 29
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/body
+  rotate: false
+  xy: 968, 301
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/eyebrow
+  rotate: false
+  xy: 2, 3
+  size: 54, 14
+  orig: 54, 14
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/eyehard
+  rotate: false
+  xy: 635, 207
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/eyehard1
+  rotate: false
+  xy: 713, 207
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/eyehard2
+  rotate: false
+  xy: 209, 218
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/eyehard3
+  rotate: false
+  xy: 791, 213
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/eyesffuer
+  rotate: true
+  xy: 238, 88
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/eyeyun
+  rotate: false
+  xy: 287, 212
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/face
+  rotate: true
+  xy: 635, 235
+  size: 124, 147
+  orig: 124, 147
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/fx1
+  rotate: false
+  xy: 784, 242
+  size: 115, 117
+  orig: 115, 117
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/fx2
+  rotate: true
+  xy: 481, 220
+  size: 141, 152
+  orig: 141, 152
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/hair1
+  rotate: true
+  xy: 901, 285
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/hair2
+  rotate: false
+  xy: 976, 234
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/hair3
+  rotate: false
+  xy: 207, 151
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/hair4
+  rotate: true
+  xy: 374, 248
+  size: 37, 95
+  orig: 37, 95
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/hair5
+  rotate: false
+  xy: 207, 78
+  size: 29, 71
+  orig: 29, 71
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/hair6
+  rotate: true
+  xy: 732, 361
+  size: 149, 228
+  orig: 149, 228
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/handinner
+  rotate: false
+  xy: 822, 190
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/handout
+  rotate: false
+  xy: 791, 190
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/jianjiainner
+  rotate: false
+  xy: 976, 203
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/jianjiaout
+  rotate: false
+  xy: 901, 198
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/leginnerdown
+  rotate: true
+  xy: 417, 225
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/leginnerup
+  rotate: false
+  xy: 315, 151
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/legoutdown
+  rotate: true
+  xy: 976, 174
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/legoutup
+  rotate: false
+  xy: 279, 153
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/mouth01
+  rotate: false
+  xy: 851, 202
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/mouth02
+  rotate: false
+  xy: 481, 363
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/mouth03
+  rotate: true
+  xy: 471, 271
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/mouth04
+  rotate: false
+  xy: 851, 196
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/weapon1
+  rotate: false
+  xy: 209, 245
+  size: 163, 40
+  orig: 163, 40
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/weapon2
+  rotate: false
+  xy: 962, 435
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/weapon4
+  rotate: true
+  xy: 962, 376
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/xiangquan1
+  rotate: true
+  xy: 264, 29
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/xiangquan2
+  rotate: false
+  xy: 71, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/xiangquan3
+  rotate: false
+  xy: 403, 153
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/xiangquan4
+  rotate: false
+  xy: 84, 4
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/xiangquan5
+  rotate: false
+  xy: 234, 3
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/yaojia
+  rotate: true
+  xy: 301, 106
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/yaojiainner
+  rotate: false
+  xy: 302, 69
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/yaojiainner1
+  rotate: false
+  xy: 328, 73
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_3/yaojiaout
+  rotate: false
+  xy: 869, 198
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_4/10009
+  rotate: false
+  xy: 2, 231
+  size: 205, 279
+  orig: 205, 279
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_4/10010
+  rotate: false
+  xy: 497, 363
+  size: 233, 147
+  orig: 233, 147
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_4/10011
+  rotate: true
+  xy: 209, 404
+  size: 106, 286
+  orig: 106, 286
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_4/10012
+  rotate: true
+  xy: 209, 287
+  size: 115, 270
+  orig: 115, 270
+  offset: 0, 0
+  index: -1
+Kayura/Assassin/Kayura_Assassin_4/10013
+  rotate: false
+  xy: 2, 19
+  size: 203, 210
+  orig: 203, 210
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 207, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

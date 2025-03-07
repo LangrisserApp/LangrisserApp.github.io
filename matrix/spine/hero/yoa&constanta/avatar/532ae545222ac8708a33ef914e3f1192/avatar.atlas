@@ -1,0 +1,678 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 227, 58
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_arminnerdown
+  rotate: false
+  xy: 272, 185
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_arminnerup
+  rotate: false
+  xy: 245, 174
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_armoutdown
+  rotate: true
+  xy: 543, 399
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_armoutup
+  rotate: false
+  xy: 617, 289
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_bianzi
+  rotate: true
+  xy: 459, 434
+  size: 76, 119
+  orig: 76, 119
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_body
+  rotate: false
+  xy: 166, 132
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_eyebrow
+  rotate: true
+  xy: 702, 269
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_eyehard
+  rotate: false
+  xy: 580, 415
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_eyehard1
+  rotate: false
+  xy: 580, 392
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_eyehard2
+  rotate: false
+  xy: 424, 245
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_eyehard3
+  rotate: false
+  xy: 437, 289
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_eyesffuer
+  rotate: false
+  xy: 555, 297
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_eyeyun
+  rotate: false
+  xy: 717, 310
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_face
+  rotate: false
+  xy: 175, 370
+  size: 156, 140
+  orig: 156, 140
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_hair1
+  rotate: true
+  xy: 345, 253
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_hair2
+  rotate: false
+  xy: 785, 389
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_hair3
+  rotate: true
+  xy: 436, 393
+  size: 39, 105
+  orig: 39, 105
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_hair4
+  rotate: false
+  xy: 249, 251
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_handinner
+  rotate: true
+  xy: 272, 161
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_handout
+  rotate: true
+  xy: 271, 136
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_jianjiainner
+  rotate: false
+  xy: 593, 266
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_kua
+  rotate: false
+  xy: 964, 304
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_leginnerdown
+  rotate: true
+  xy: 544, 237
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_leginnerup
+  rotate: false
+  xy: 983, 379
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_legoutdown
+  rotate: true
+  xy: 500, 271
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_legoutup
+  rotate: true
+  xy: 549, 263
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_mouth
+  rotate: false
+  xy: 785, 434
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_mouth02
+  rotate: true
+  xy: 643, 243
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_mouth04
+  rotate: true
+  xy: 587, 242
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_tx1
+  rotate: true
+  xy: 436, 380
+  size: 11, 110
+  orig: 11, 110
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_tx2
+  rotate: true
+  xy: 175, 356
+  size: 12, 149
+  orig: 12, 149
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_tx3
+  rotate: false
+  xy: 153, 75
+  size: 11, 135
+  orig: 11, 135
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_tx4
+  rotate: true
+  xy: 175, 343
+  size: 11, 146
+  orig: 11, 146
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_txm1
+  rotate: false
+  xy: 166, 62
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_txm2
+  rotate: false
+  xy: 654, 376
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_txm3
+  rotate: true
+  xy: 155, 2
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_txm4
+  rotate: true
+  xy: 91, 2
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_yanjin
+  rotate: true
+  xy: 226, 134
+  size: 76, 17
+  orig: 76, 17
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/Yoa_yanwei
+  rotate: false
+  xy: 345, 295
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/arminnerdown
+  rotate: true
+  xy: 235, 213
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/arminnerdownTX
+  rotate: true
+  xy: 653, 283
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/arminnerup
+  rotate: true
+  xy: 617, 260
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/arminnerupTX
+  rotate: false
+  xy: 609, 335
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/armoutdown
+  rotate: true
+  xy: 982, 267
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/armoutdownTX
+  rotate: false
+  xy: 210, 2
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/armoutup
+  rotate: false
+  xy: 264, 215
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/armoutupTX
+  rotate: true
+  xy: 853, 379
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/bianziTX
+  rotate: false
+  xy: 2, 73
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/body
+  rotate: false
+  xy: 437, 305
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/bodyTX
+  rotate: true
+  xy: 916, 432
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/eyebrow
+  rotate: false
+  xy: 916, 372
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/eyehard
+  rotate: true
+  xy: 410, 295
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/eyehard1
+  rotate: false
+  xy: 424, 263
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/eyehard2
+  rotate: false
+  xy: 779, 315
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/eyehard3
+  rotate: false
+  xy: 2, 2
+  size: 59, 9
+  orig: 59, 9
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/eyesuffer
+  rotate: false
+  xy: 853, 309
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/eyeyun
+  rotate: false
+  xy: 779, 281
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/face
+  rotate: false
+  xy: 2, 212
+  size: 161, 137
+  orig: 161, 137
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/haie3
+  rotate: false
+  xy: 302, 256
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/haindout
+  rotate: false
+  xy: 617, 238
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair1
+  rotate: true
+  xy: 952, 263
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair10
+  rotate: true
+  xy: 165, 212
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair2
+  rotate: false
+  xy: 500, 300
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair3TX
+  rotate: false
+  xy: 99, 90
+  size: 52, 120
+  orig: 52, 120
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair4
+  rotate: true
+  xy: 333, 369
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair4TX
+  rotate: true
+  xy: 702, 442
+  size: 68, 108
+  orig: 68, 108
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair5
+  rotate: true
+  xy: 842, 339
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/hair6
+  rotate: true
+  xy: 2, 13
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/handinner
+  rotate: true
+  xy: 593, 243
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/handinnerTX
+  rotate: false
+  xy: 653, 239
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/handoutTX
+  rotate: false
+  xy: 980, 334
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/jiajiainnerA
+  rotate: false
+  xy: 326, 346
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/jiajiainnerB
+  rotate: true
+  xy: 957, 341
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/jianjiainnerTX
+  rotate: true
+  xy: 717, 268
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/jianjiaout
+  rotate: true
+  xy: 245, 142
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/kuaTX
+  rotate: false
+  xy: 916, 382
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/leginner
+  rotate: false
+  xy: 904, 257
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/leginnerdown
+  rotate: true
+  xy: 907, 341
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/leginnerdownTX
+  rotate: true
+  xy: 654, 330
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/leginnerupTX
+  rotate: true
+  xy: 716, 390
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/legoutdown
+  rotate: true
+  xy: 914, 303
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/legoutdownTX
+  rotate: true
+  xy: 717, 341
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/legoutup
+  rotate: true
+  xy: 498, 242
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/legoutupTX
+  rotate: false
+  xy: 555, 328
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/mouth
+  rotate: false
+  xy: 139, 80
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/mouth02
+  rotate: false
+  xy: 424, 289
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/mouth04
+  rotate: false
+  xy: 964, 335
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/weapon
+  rotate: false
+  xy: 333, 436
+  size: 124, 74
+  orig: 124, 74
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/weapon1
+  rotate: false
+  xy: 812, 434
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/weijing
+  rotate: false
+  xy: 845, 263
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/weijing1
+  rotate: false
+  xy: 580, 438
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/wgTX
+  rotate: false
+  xy: 2, 351
+  size: 171, 159
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/yanweiTX
+  rotate: false
+  xy: 165, 250
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/yibaiinner
+  rotate: true
+  xy: 99, 62
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Assassin_3/yibaiout
+  rotate: true
+  xy: 780, 339
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1

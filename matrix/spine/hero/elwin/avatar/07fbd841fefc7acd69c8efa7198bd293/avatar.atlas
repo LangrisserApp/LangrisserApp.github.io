@@ -1,0 +1,398 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/arminnerdown
+  rotate: false
+  xy: 636, 212
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/arminnerup
+  rotate: false
+  xy: 696, 251
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/armoutdown
+  rotate: true
+  xy: 378, 196
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/armoutup
+  rotate: false
+  xy: 665, 250
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/body
+  rotate: true
+  xy: 119, 94
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/eyebrow
+  rotate: true
+  xy: 1000, 434
+  size: 76, 15
+  orig: 76, 15
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/eyehard
+  rotate: false
+  xy: 263, 206
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/eyehard1
+  rotate: false
+  xy: 263, 184
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/eyehard2
+  rotate: false
+  xy: 713, 396
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/eyehard3
+  rotate: true
+  xy: 245, 90
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/eyesffuer
+  rotate: false
+  xy: 574, 272
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/eyeyun
+  rotate: false
+  xy: 781, 388
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/face
+  rotate: true
+  xy: 123, 296
+  size: 153, 147
+  orig: 153, 147
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/hair1
+  rotate: false
+  xy: 75, 88
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/hair2
+  rotate: true
+  xy: 256, 228
+  size: 66, 120
+  orig: 66, 120
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/hair3
+  rotate: true
+  xy: 572, 222
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/hair4
+  rotate: false
+  xy: 75, 161
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/hair5
+  rotate: false
+  xy: 297, 140
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/hair6
+  rotate: false
+  xy: 237, 159
+  size: 24, 61
+  orig: 24, 61
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/handinner
+  rotate: false
+  xy: 459, 198
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/handout
+  rotate: false
+  xy: 1000, 411
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_backlegdown
+  rotate: true
+  xy: 331, 194
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_backlegup
+  rotate: true
+  xy: 484, 214
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_body
+  rotate: false
+  xy: 713, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_frontlegdown
+  rotate: false
+  xy: 263, 134
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_frontlegup
+  rotate: false
+  xy: 191, 87
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_head
+  rotate: true
+  xy: 871, 385
+  size: 125, 127
+  orig: 125, 127
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_maan
+  rotate: true
+  xy: 272, 296
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_neck
+  rotate: true
+  xy: 378, 221
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_tuijia
+  rotate: true
+  xy: 394, 296
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_tuijia1
+  rotate: false
+  xy: 497, 281
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_weiba
+  rotate: false
+  xy: 123, 159
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_xiongjia
+  rotate: false
+  xy: 574, 302
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_xiongjia1
+  rotate: true
+  xy: 75, 5
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/horse_xiongjia2
+  rotate: true
+  xy: 662, 281
+  size: 113, 54
+  orig: 113, 54
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/hudang
+  rotate: false
+  xy: 298, 106
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/jianjiainner
+  rotate: false
+  xy: 718, 344
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/jianjiaout
+  rotate: true
+  xy: 183, 12
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/legoutdown
+  rotate: true
+  xy: 420, 190
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/legoutup
+  rotate: false
+  xy: 263, 92
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/lingzi
+  rotate: false
+  xy: 636, 239
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/mouth01
+  rotate: true
+  xy: 859, 400
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/mouth02
+  rotate: false
+  xy: 718, 281
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/mouth03
+  rotate: false
+  xy: 128, 6
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/mouth04
+  rotate: true
+  xy: 236, 66
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/pifeng
+  rotate: false
+  xy: 431, 381
+  size: 137, 129
+  orig: 137, 129
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/pifeng1
+  rotate: true
+  xy: 128, 17
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/pifeng2
+  rotate: false
+  xy: 123, 222
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/pifeng3
+  rotate: false
+  xy: 272, 387
+  size: 157, 123
+  orig: 157, 123
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/toushi
+  rotate: false
+  xy: 570, 396
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/weapon
+  rotate: true
+  xy: 2, 2
+  size: 241, 71
+  orig: 241, 71
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/weapon1
+  rotate: false
+  xy: 775, 362
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/weapon2
+  rotate: false
+  xy: 2, 245
+  size: 119, 204
+  orig: 119, 204
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_GoldDragonmaster/Elwin_GoldDragonmaster_SP/yaojia
+  rotate: false
+  xy: 718, 297
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 775, 335
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

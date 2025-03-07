@@ -1,0 +1,580 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lucretia_Magic/Lucretia_Magic_02/Shadow
+  rotate: false
+  xy: 858, 287
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/leginnerdown
+  rotate: true
+  xy: 118, 4
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/leginnerup
+  rotate: true
+  xy: 550, 218
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/legoutdown
+  rotate: true
+  xy: 809, 229
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/legoutup
+  rotate: true
+  xy: 966, 276
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/puppetearinner
+  rotate: false
+  xy: 858, 352
+  size: 106, 41
+  orig: 106, 41
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/puppetearout
+  rotate: false
+  xy: 709, 304
+  size: 103, 96
+  orig: 103, 96
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/puppethead
+  rotate: true
+  xy: 479, 284
+  size: 115, 129
+  orig: 115, 129
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/puppetjianjiainner
+  rotate: false
+  xy: 762, 224
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/puppetjianjiaout
+  rotate: true
+  xy: 541, 28
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/puppetpifeng1
+  rotate: false
+  xy: 867, 395
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/qunziout
+  rotate: false
+  xy: 709, 262
+  size: 87, 40
+  orig: 87, 40
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/toushi
+  rotate: false
+  xy: 858, 314
+  size: 102, 36
+  orig: 102, 36
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/weapon
+  rotate: false
+  xy: 2, 371
+  size: 291, 65
+  orig: 291, 65
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_02/yaodai
+  rotate: true
+  xy: 535, 152
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/arminnerdown
+  rotate: true
+  xy: 490, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/arminnerup
+  rotate: true
+  xy: 580, 253
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/armoutdown
+  rotate: true
+  xy: 1003, 450
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/armoutup
+  rotate: false
+  xy: 610, 203
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/body
+  rotate: true
+  xy: 163, 2
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/body1
+  rotate: false
+  xy: 709, 231
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/eyebrow
+  rotate: false
+  xy: 324, 2
+  size: 49, 6
+  orig: 49, 6
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/eyehard
+  rotate: true
+  xy: 392, 70
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/eyehard1
+  rotate: false
+  xy: 476, 218
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/eyehard2
+  rotate: true
+  xy: 462, 77
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/eyehard3
+  rotate: true
+  xy: 281, 306
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/eyesffuer
+  rotate: false
+  xy: 610, 241
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/eyeyun
+  rotate: false
+  xy: 798, 262
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/face
+  rotate: false
+  xy: 162, 234
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/hair
+  rotate: true
+  xy: 324, 10
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/hair1
+  rotate: true
+  xy: 244, 2
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/hair2
+  rotate: false
+  xy: 379, 144
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/hair3
+  rotate: false
+  xy: 490, 30
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/hair4
+  rotate: false
+  xy: 577, 153
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/hair5
+  rotate: true
+  xy: 295, 303
+  size: 100, 182
+  orig: 100, 182
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/hair6
+  rotate: false
+  xy: 92, 31
+  size: 69, 188
+  orig: 69, 188
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/handinner
+  rotate: false
+  xy: 584, 19
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/handout
+  rotate: false
+  xy: 948, 218
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/leginnerdown
+  rotate: false
+  xy: 920, 242
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/leginnerup
+  rotate: false
+  xy: 584, 46
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/legoutdown
+  rotate: true
+  xy: 947, 243
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/legoutup
+  rotate: true
+  xy: 647, 204
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/mouth01
+  rotate: false
+  xy: 610, 153
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/mouth02
+  rotate: false
+  xy: 375, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/mouth04
+  rotate: false
+  xy: 389, 2
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetearinner
+  rotate: true
+  xy: 814, 295
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetearout
+  rotate: false
+  xy: 273, 133
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandinner
+  rotate: false
+  xy: 404, 237
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandinner1
+  rotate: false
+  xy: 920, 217
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandinner2
+  rotate: true
+  xy: 1003, 480
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandinner3
+  rotate: false
+  xy: 517, 2
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandinner4
+  rotate: false
+  xy: 1003, 420
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandout
+  rotate: false
+  xy: 489, 86
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandout1
+  rotate: true
+  xy: 545, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandout3
+  rotate: false
+  xy: 295, 406
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandout4
+  rotate: false
+  xy: 92, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethandoutr2
+  rotate: true
+  xy: 934, 292
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppethead
+  rotate: false
+  xy: 2, 221
+  size: 158, 148
+  orig: 158, 148
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetinner
+  rotate: true
+  xy: 966, 307
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetjianjiainner
+  rotate: true
+  xy: 445, 19
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetjianjiaout
+  rotate: true
+  xy: 592, 88
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetline
+  rotate: true
+  xy: 507, 401
+  size: 109, 179
+  orig: 109, 179
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetline1
+  rotate: true
+  xy: 688, 402
+  size: 108, 177
+  orig: 108, 177
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetline2
+  rotate: true
+  xy: 319, 405
+  size: 105, 186
+  orig: 105, 186
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetline3
+  rotate: false
+  xy: 2, 6
+  size: 88, 213
+  orig: 88, 213
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetpifeng
+  rotate: false
+  xy: 610, 275
+  size: 97, 124
+  orig: 97, 124
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetpifeng1
+  rotate: true
+  xy: 163, 57
+  size: 175, 108
+  orig: 175, 108
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetpifeng2
+  rotate: false
+  xy: 281, 230
+  size: 121, 71
+  orig: 121, 71
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/puppetxiongshi
+  rotate: false
+  xy: 857, 234
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/qunzi
+  rotate: true
+  xy: 423, 77
+  size: 72, 37
+  orig: 72, 37
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/qunziinner
+  rotate: false
+  xy: 403, 9
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/qunziinner1
+  rotate: true
+  xy: 417, 151
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/qunziout
+  rotate: false
+  xy: 273, 66
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/texiao
+  rotate: false
+  xy: 469, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/toushi
+  rotate: false
+  xy: 476, 249
+  size: 102, 33
+  orig: 102, 33
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/toushi1
+  rotate: true
+  xy: 614, 51
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/toushi2
+  rotate: false
+  xy: 617, 17
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/tuzi
+  rotate: false
+  xy: 668, 234
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/tuzi1
+  rotate: true
+  xy: 991, 237
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/tuzi2
+  rotate: false
+  xy: 610, 159
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/weapon
+  rotate: false
+  xy: 2, 438
+  size: 315, 72
+  orig: 315, 72
+  offset: 0, 0
+  index: -1
+Lucretia_Magic/Lucretia_Magic_03/yaodai
+  rotate: true
+  xy: 545, 86
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1

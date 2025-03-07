@@ -1,0 +1,517 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fana/Fana_Bow/Fana_Archer_1/arminnerdown
+  rotate: false
+  xy: 736, 409
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/armoutdown
+  rotate: true
+  xy: 439, 59
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/body
+  rotate: false
+  xy: 410, 230
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/jianjiaout
+  rotate: true
+  xy: 460, 137
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/leginnerdown
+  rotate: false
+  xy: 405, 88
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/legoutdown
+  rotate: true
+  xy: 411, 173
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/qunzi1
+  rotate: false
+  xy: 333, 275
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/qunzi2
+  rotate: false
+  xy: 372, 8
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/qunzi3
+  rotate: true
+  xy: 381, 202
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/toushi
+  rotate: true
+  xy: 306, 184
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Archer_1/weapon
+  rotate: false
+  xy: 330, 447
+  size: 291, 63
+  orig: 291, 63
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/arminnerdown
+  rotate: true
+  xy: 529, 260
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/arminnerup
+  rotate: false
+  xy: 559, 268
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/armoutdown
+  rotate: false
+  xy: 673, 373
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/armoutup
+  rotate: true
+  xy: 405, 61
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/body
+  rotate: false
+  xy: 461, 226
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/jianjiaout
+  rotate: false
+  xy: 608, 357
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/leginnerdown
+  rotate: false
+  xy: 438, 89
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/leginnerup
+  rotate: false
+  xy: 656, 316
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/legoutdown
+  rotate: true
+  xy: 410, 204
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/legoutup
+  rotate: false
+  xy: 429, 130
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/pifeng2
+  rotate: true
+  xy: 161, 169
+  size: 155, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/pifenginner
+  rotate: true
+  xy: 333, 331
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/pifengout
+  rotate: true
+  xy: 516, 409
+  size: 36, 92
+  orig: 36, 92
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/qunzi1
+  rotate: false
+  xy: 326, 129
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/qunzi2
+  rotate: false
+  xy: 275, 11
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/qunzi3
+  rotate: true
+  xy: 491, 148
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/toushi
+  rotate: false
+  xy: 515, 334
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/weapon
+  rotate: false
+  xy: 2, 413
+  size: 326, 97
+  orig: 326, 97
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/weapon1
+  rotate: false
+  xy: 623, 454
+  size: 205, 56
+  orig: 205, 56
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/yaojiaout
+  rotate: false
+  xy: 337, 10
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Ranger_3/yaoshi
+  rotate: true
+  xy: 336, 202
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/arminnerdown
+  rotate: false
+  xy: 508, 238
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/arminnerup
+  rotate: true
+  xy: 232, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/armoutdown
+  rotate: false
+  xy: 491, 185
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/armoutup
+  rotate: false
+  xy: 679, 405
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/body
+  rotate: false
+  xy: 974, 440
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/dd
+  rotate: false
+  xy: 392, 173
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/eyebrow
+  rotate: false
+  xy: 515, 323
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/eyehard
+  rotate: false
+  xy: 2, 4
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/eyehard1
+  rotate: false
+  xy: 336, 179
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/eyehard2
+  rotate: false
+  xy: 623, 438
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/eyehard3
+  rotate: false
+  xy: 698, 439
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/eyesffuer
+  rotate: true
+  xy: 373, 59
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/eyeyun
+  rotate: false
+  xy: 610, 405
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/face
+  rotate: false
+  xy: 2, 27
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/hair1
+  rotate: false
+  xy: 275, 51
+  size: 49, 131
+  orig: 49, 131
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/hair2
+  rotate: true
+  xy: 830, 453
+  size: 57, 142
+  orig: 57, 142
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/hair3
+  rotate: false
+  xy: 211, 26
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/hair4
+  rotate: false
+  xy: 2, 169
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/hair5
+  rotate: false
+  xy: 255, 184
+  size: 49, 140
+  orig: 49, 140
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/handinner
+  rotate: true
+  xy: 211, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/handout
+  rotate: false
+  xy: 508, 266
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/jianjiaout
+  rotate: true
+  xy: 392, 129
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/jianjiaout1
+  rotate: false
+  xy: 77, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/leginnerdown
+  rotate: true
+  xy: 598, 316
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/leginnerup
+  rotate: true
+  xy: 482, 292
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/legoutdown
+  rotate: true
+  xy: 529, 288
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/legoutup
+  rotate: false
+  xy: 456, 178
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/mouth01
+  rotate: true
+  xy: 402, 277
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/mouth02
+  rotate: false
+  xy: 508, 226
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/mouth04
+  rotate: false
+  xy: 482, 323
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/pifeng2
+  rotate: true
+  xy: 117, 12
+  size: 155, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/pifenginner
+  rotate: false
+  xy: 427, 328
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/pifengout
+  rotate: true
+  xy: 515, 370
+  size: 37, 91
+  orig: 37, 91
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/qunzi1
+  rotate: true
+  xy: 282, 340
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/qunzi2
+  rotate: false
+  xy: 710, 406
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/qunzi3
+  rotate: true
+  xy: 326, 62
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/toushi
+  rotate: false
+  xy: 402, 292
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/weapon
+  rotate: false
+  xy: 2, 326
+  size: 278, 85
+  orig: 278, 85
+  offset: 0, 0
+  index: -1
+Fana/Fana_Bow/Fana_Sniper_2/weapon1
+  rotate: false
+  xy: 330, 421
+  size: 184, 24
+  orig: 184, 24
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/jianjiainner
+  rotate: false
+  xy: 251, 4
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 306, 264
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

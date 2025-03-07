@@ -1,0 +1,615 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Seraphina_Assassin/Seraphina_Assassin_3/body
+  rotate: false
+  xy: 347, 371
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner
+  rotate: true
+  xy: 409, 356
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner1
+  rotate: false
+  xy: 160, 106
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner1a
+  rotate: false
+  xy: 279, 286
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner2
+  rotate: true
+  xy: 190, 268
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner2a
+  rotate: false
+  xy: 919, 319
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner3
+  rotate: false
+  xy: 789, 404
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner3a
+  rotate: true
+  xy: 189, 195
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner4
+  rotate: false
+  xy: 919, 360
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner4a
+  rotate: false
+  xy: 973, 338
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner5
+  rotate: false
+  xy: 259, 68
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner5a
+  rotate: false
+  xy: 772, 347
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner6a
+  rotate: false
+  xy: 253, 333
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainner7a
+  rotate: false
+  xy: 985, 434
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiainnera
+  rotate: false
+  xy: 702, 402
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiaout
+  rotate: true
+  xy: 78, 110
+  size: 45, 80
+  orig: 45, 80
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiaout1
+  rotate: false
+  xy: 279, 4
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiaout2
+  rotate: false
+  xy: 611, 423
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiaout3
+  rotate: true
+  xy: 78, 157
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/jianjiaout4
+  rotate: true
+  xy: 2, 108
+  size: 136, 74
+  orig: 136, 74
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/pifeng
+  rotate: false
+  xy: 548, 329
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/pifeng1
+  rotate: false
+  xy: 141, 405
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/pifeng2
+  rotate: true
+  xy: 702, 347
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_3/toushi
+  rotate: true
+  xy: 702, 314
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/Shadow
+  rotate: false
+  xy: 496, 396
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/arminnerdown
+  rotate: false
+  xy: 114, 4
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/arminnerup
+  rotate: true
+  xy: 382, 333
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/armoutdown
+  rotate: true
+  xy: 85, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/armoutdown1
+  rotate: true
+  xy: 494, 322
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/armoutup
+  rotate: true
+  xy: 302, 338
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/body
+  rotate: false
+  xy: 85, 33
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/eyebrow
+  rotate: false
+  xy: 256, 368
+  size: 63, 5
+  orig: 63, 5
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/eyehard
+  rotate: false
+  xy: 910, 446
+  size: 73, 15
+  orig: 73, 15
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/eyehard1
+  rotate: false
+  xy: 567, 344
+  size: 73, 15
+  orig: 73, 15
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/eyehard2
+  rotate: false
+  xy: 805, 438
+  size: 73, 12
+  orig: 73, 12
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/eyehard3
+  rotate: false
+  xy: 2, 4
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/eyesffuer
+  rotate: true
+  xy: 236, 2
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/eyeyun
+  rotate: true
+  xy: 258, 2
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/face
+  rotate: false
+  xy: 2, 367
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair1
+  rotate: true
+  xy: 642, 342
+  size: 15, 58
+  orig: 15, 58
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair2
+  rotate: true
+  xy: 771, 314
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair3
+  rotate: true
+  xy: 141, 338
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair4
+  rotate: true
+  xy: 878, 294
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair5
+  rotate: true
+  xy: 201, 126
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair6
+  rotate: true
+  xy: 202, 2
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair7
+  rotate: true
+  xy: 409, 334
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/hair8
+  rotate: false
+  xy: 835, 304
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/handinner
+  rotate: true
+  xy: 230, 373
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/handinner1
+  rotate: false
+  xy: 523, 326
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/handinner9
+  rotate: false
+  xy: 454, 329
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/handout
+  rotate: false
+  xy: 230, 343
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/handout1
+  rotate: false
+  xy: 321, 313
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner
+  rotate: true
+  xy: 910, 463
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner1
+  rotate: true
+  xy: 908, 414
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner1a
+  rotate: true
+  xy: 572, 361
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner2
+  rotate: false
+  xy: 409, 396
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner2a
+  rotate: false
+  xy: 232, 285
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner3
+  rotate: false
+  xy: 495, 350
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner3a
+  rotate: true
+  xy: 644, 359
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner4
+  rotate: false
+  xy: 828, 347
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner4a
+  rotate: false
+  xy: 202, 68
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner5
+  rotate: false
+  xy: 881, 346
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner5a
+  rotate: false
+  xy: 148, 46
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner6
+  rotate: false
+  xy: 116, 341
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner6a
+  rotate: false
+  xy: 919, 278
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner7a
+  rotate: true
+  xy: 245, 243
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainner8a
+  rotate: false
+  xy: 975, 392
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiainnera
+  rotate: false
+  xy: 256, 375
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout
+  rotate: true
+  xy: 805, 452
+  size: 58, 103
+  orig: 58, 103
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout1
+  rotate: true
+  xy: 702, 449
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout2
+  rotate: true
+  xy: 503, 423
+  size: 87, 106
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout3
+  rotate: false
+  xy: 391, 450
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout4
+  rotate: false
+  xy: 116, 269
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout5
+  rotate: false
+  xy: 256, 448
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout6
+  rotate: true
+  xy: 974, 283
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/jianjiaout7
+  rotate: false
+  xy: 148, 2
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/leginnerdown
+  rotate: true
+  xy: 857, 404
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/leginnerup
+  rotate: false
+  xy: 245, 201
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/legoutdown
+  rotate: true
+  xy: 144, 157
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/legoutup
+  rotate: true
+  xy: 338, 342
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/mouth01
+  rotate: true
+  xy: 1014, 492
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/mouth02
+  rotate: true
+  xy: 1014, 473
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/mouth04
+  rotate: true
+  xy: 189, 24
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/pifeng
+  rotate: false
+  xy: 116, 248
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/pifeng1
+  rotate: false
+  xy: 2, 13
+  size: 81, 93
+  orig: 81, 93
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/pifeng2
+  rotate: false
+  xy: 2, 246
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+Seraphina_Assassin/Seraphina_Assassin_4/toushi
+  rotate: false
+  xy: 144, 193
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1

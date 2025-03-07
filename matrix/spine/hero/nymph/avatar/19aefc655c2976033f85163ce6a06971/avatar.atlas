@@ -1,0 +1,475 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nymph/water/Nymph_water_3/arminnerdown
+  rotate: true
+  xy: 559, 333
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/arminnerdown1
+  rotate: false
+  xy: 138, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/armoutdown
+  rotate: true
+  xy: 523, 291
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/armoutdown1
+  rotate: false
+  xy: 252, 402
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/armoutdown2
+  rotate: false
+  xy: 402, 154
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/armoutdown3
+  rotate: false
+  xy: 385, 268
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/armoutup
+  rotate: false
+  xy: 610, 403
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/armoutupp
+  rotate: false
+  xy: 655, 403
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/arninnerup
+  rotate: false
+  xy: 415, 242
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/body
+  rotate: false
+  xy: 286, 152
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/body1
+  rotate: true
+  xy: 265, 381
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/body1p
+  rotate: false
+  xy: 201, 53
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/bodyinner
+  rotate: true
+  xy: 252, 358
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/bodyout
+  rotate: true
+  xy: 460, 268
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/earinner
+  rotate: true
+  xy: 333, 231
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/earout
+  rotate: true
+  xy: 393, 284
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/eyebrow
+  rotate: true
+  xy: 242, 362
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/eyehard
+  rotate: false
+  xy: 340, 24
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/eyehard1
+  rotate: false
+  xy: 340, 2
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/eyehard2
+  rotate: false
+  xy: 447, 423
+  size: 73, 17
+  orig: 73, 17
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/eyehard3
+  rotate: false
+  xy: 316, 274
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/eyesffuer
+  rotate: false
+  xy: 138, 22
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/eyeyun
+  rotate: false
+  xy: 352, 46
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/face
+  rotate: false
+  xy: 115, 223
+  size: 118, 133
+  orig: 118, 133
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hair1
+  rotate: false
+  xy: 235, 274
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hair2
+  rotate: true
+  xy: 272, 6
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hair3
+  rotate: true
+  xy: 81, 2
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hair4
+  rotate: true
+  xy: 700, 408
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hair5
+  rotate: false
+  xy: 402, 197
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hair6
+  rotate: true
+  xy: 440, 370
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hair7
+  rotate: true
+  xy: 522, 381
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hairinner1
+  rotate: false
+  xy: 115, 145
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hairinner2
+  rotate: false
+  xy: 2, 204
+  size: 111, 152
+  orig: 111, 152
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hairinner3
+  rotate: true
+  xy: 447, 442
+  size: 68, 158
+  orig: 68, 158
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hairinner4
+  rotate: true
+  xy: 893, 449
+  size: 61, 113
+  orig: 61, 113
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hairinner5
+  rotate: false
+  xy: 352, 78
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hairinner6
+  rotate: true
+  xy: 265, 438
+  size: 72, 180
+  orig: 72, 180
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/handinner
+  rotate: false
+  xy: 448, 242
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/handout
+  rotate: false
+  xy: 402, 168
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/handout1
+  rotate: false
+  xy: 484, 243
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/hudang
+  rotate: true
+  xy: 235, 223
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/mouth01
+  rotate: false
+  xy: 304, 145
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/mouth02
+  rotate: false
+  xy: 265, 223
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/mouth04
+  rotate: false
+  xy: 286, 145
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/toushi
+  rotate: false
+  xy: 460, 300
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/tx1
+  rotate: false
+  xy: 607, 444
+  size: 144, 32
+  orig: 144, 32
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/tx2
+  rotate: false
+  xy: 607, 478
+  size: 150, 32
+  orig: 150, 32
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/tx3
+  rotate: true
+  xy: 81, 50
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/tx4
+  rotate: false
+  xy: 759, 479
+  size: 132, 31
+  orig: 132, 31
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/weapon
+  rotate: false
+  xy: 2, 358
+  size: 238, 66
+  orig: 238, 66
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/wei
+  rotate: true
+  xy: 2, 29
+  size: 173, 77
+  orig: 173, 77
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/wei1
+  rotate: true
+  xy: 584, 394
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/wei2
+  rotate: true
+  xy: 379, 231
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/yaojaiinner
+  rotate: false
+  xy: 1008, 490
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/yaojaiinner1
+  rotate: true
+  xy: 511, 409
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/yaojiaout
+  rotate: true
+  xy: 563, 292
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/yaoshiinner
+  rotate: false
+  xy: 217, 145
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/yaoshiinner2
+  rotate: false
+  xy: 201, 8
+  size: 69, 43
+  orig: 69, 43
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/yaoshiinnerp
+  rotate: true
+  xy: 265, 231
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_3/yaoshiout
+  rotate: false
+  xy: 316, 283
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_4/p1
+  rotate: true
+  xy: 354, 365
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_4/p2
+  rotate: false
+  xy: 114, 54
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_4/toushi
+  rotate: false
+  xy: 272, 52
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_4/toushi1
+  rotate: false
+  xy: 523, 326
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_4/weapon
+  rotate: false
+  xy: 2, 426
+  size: 261, 84
+  orig: 261, 84
+  offset: 0, 0
+  index: -1
+Nymph/water/Nymph_water_4/yaoshiout2
+  rotate: true
+  xy: 344, 154
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

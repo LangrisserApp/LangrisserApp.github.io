@@ -1,0 +1,398 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/Shadow
+  rotate: true
+  xy: 289, 192
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/arminnerdown
+  rotate: true
+  xy: 404, 3
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/arminnerup
+  rotate: true
+  xy: 414, 218
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/armoutdown
+  rotate: false
+  xy: 413, 279
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/armoutup
+  rotate: true
+  xy: 297, 142
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/body
+  rotate: true
+  xy: 161, 9
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/eyebrow
+  rotate: true
+  xy: 314, 13
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/eyehard
+  rotate: true
+  xy: 249, 65
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/eyehard 1
+  rotate: false
+  xy: 438, 303
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/eyehard2
+  rotate: true
+  xy: 274, 65
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/eyehard3
+  rotate: true
+  xy: 316, 199
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/eyesffuer
+  rotate: true
+  xy: 300, 78
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/eyeyun
+  rotate: true
+  xy: 384, 204
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/face
+  rotate: false
+  xy: 319, 414
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/hair1
+  rotate: false
+  xy: 401, 311
+  size: 35, 101
+  orig: 35, 101
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/hair2
+  rotate: true
+  xy: 438, 329
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/hair3
+  rotate: true
+  xy: 319, 269
+  size: 25, 92
+  orig: 25, 92
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/hair4
+  rotate: true
+  xy: 170, 268
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/handinner
+  rotate: true
+  xy: 414, 256
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/handout
+  rotate: true
+  xy: 421, 171
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/hudang
+  rotate: false
+  xy: 330, 36
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/jianjiainner
+  rotate: true
+  xy: 228, 8
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/jianjiainner2
+  rotate: true
+  xy: 481, 264
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/jianjiaout
+  rotate: true
+  xy: 161, 60
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/jianjiaout2
+  rotate: false
+  xy: 332, 162
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/leginnerdown
+  rotate: false
+  xy: 394, 160
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/leginnerup
+  rotate: false
+  xy: 393, 114
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/legoutdown
+  rotate: true
+  xy: 379, 83
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/legoutup
+  rotate: true
+  xy: 329, 85
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/lianshi
+  rotate: false
+  xy: 427, 446
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/mouth01
+  rotate: true
+  xy: 327, 165
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/mouth02
+  rotate: false
+  xy: 444, 165
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/mouth04
+  rotate: true
+  xy: 327, 181
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/peishi
+  rotate: false
+  xy: 170, 134
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/qunzi2
+  rotate: false
+  xy: 443, 231
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/qunzi3
+  rotate: true
+  xy: 330, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/qunzi4
+  rotate: false
+  xy: 329, 116
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/shield
+  rotate: false
+  xy: 88, 17
+  size: 71, 114
+  orig: 71, 114
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/toushi
+  rotate: false
+  xy: 170, 187
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/toushi1
+  rotate: false
+  xy: 198, 62
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/toushi2
+  rotate: false
+  xy: 421, 196
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/toushi3
+  rotate: false
+  xy: 2, 275
+  size: 166, 142
+  orig: 166, 142
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_3/weapon
+  rotate: false
+  xy: 2, 419
+  size: 315, 32
+  orig: 315, 32
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/body
+  rotate: false
+  xy: 332, 201
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/jianjiainner
+  rotate: true
+  xy: 264, 134
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/jianjiaout
+  rotate: false
+  xy: 438, 409
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/qunzi1
+  rotate: false
+  xy: 376, 35
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/qunzi2
+  rotate: true
+  xy: 443, 203
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/toushi
+  rotate: true
+  xy: 319, 296
+  size: 116, 80
+  orig: 116, 80
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/toushi2
+  rotate: false
+  xy: 444, 181
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/toushi3
+  rotate: false
+  xy: 2, 133
+  size: 166, 140
+  orig: 166, 140
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/toushi4
+  rotate: false
+  xy: 260, 4
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/weapon1
+  rotate: false
+  xy: 2, 14
+  size: 84, 117
+  orig: 84, 117
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/weapon2
+  rotate: false
+  xy: 2, 453
+  size: 315, 57
+  orig: 315, 57
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/yaojia1
+  rotate: true
+  xy: 363, 6
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_RoyalGuardian/Elucia_RoyalGuardian_4/yaojia2
+  rotate: true
+  xy: 438, 263
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1

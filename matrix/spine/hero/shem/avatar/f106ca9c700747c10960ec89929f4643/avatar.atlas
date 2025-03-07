@@ -1,0 +1,566 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shem_Monster3/Shadow
+  rotate: false
+  xy: 200, 111
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shem_Monster3/body
+  rotate: false
+  xy: 142, 44
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Shem_Monster3/handinner
+  rotate: true
+  xy: 607, 329
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Shem_Monster3/handinner2
+  rotate: true
+  xy: 885, 329
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Shem_Monster3/handinner3
+  rotate: false
+  xy: 750, 291
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Shem_Monster3/handout
+  rotate: false
+  xy: 210, 205
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+Shem_Monster3/handout1
+  rotate: false
+  xy: 196, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Shem_Monster3/handout2
+  rotate: true
+  xy: 599, 277
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Shem_Monster3/handout3
+  rotate: true
+  xy: 277, 207
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Shem_Monster3/head
+  rotate: false
+  xy: 2, 62
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+Shem_Monster3/jianjiaout
+  rotate: false
+  xy: 141, 205
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+Shem_Monster3/jiao1
+  rotate: true
+  xy: 482, 190
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Shem_Monster3/jiao2
+  rotate: true
+  xy: 374, 319
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+Shem_Monster3/leginnerdown
+  rotate: false
+  xy: 474, 226
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Shem_Monster3/legoutdown
+  rotate: false
+  xy: 286, 78
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Shem_Monster3/pifeng1
+  rotate: false
+  xy: 219, 397
+  size: 171, 113
+  orig: 171, 113
+  offset: 0, 0
+  index: -1
+Shem_Monster3/pifeng2
+  rotate: true
+  xy: 670, 399
+  size: 111, 133
+  orig: 111, 133
+  offset: 0, 0
+  index: -1
+Shem_Monster3/weapon1
+  rotate: false
+  xy: 377, 193
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+Shem_Monster3/xianglian
+  rotate: false
+  xy: 427, 185
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+Shem_Monster3/yaodai1
+  rotate: true
+  xy: 568, 261
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+Shem_Monster3/yaodai2
+  rotate: false
+  xy: 348, 132
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+Shem_Monster3/yaodai3
+  rotate: true
+  xy: 996, 350
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Shem_Monster4/arminnerdown
+  rotate: false
+  xy: 318, 83
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Shem_Monster4/arminnerup
+  rotate: false
+  xy: 996, 301
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Shem_Monster4/armoutdown
+  rotate: true
+  xy: 852, 251
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Shem_Monster4/armoutdown1
+  rotate: true
+  xy: 266, 158
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Shem_Monster4/armoutup
+  rotate: false
+  xy: 309, 164
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Shem_Monster4/body
+  rotate: false
+  xy: 213, 298
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Shem_Monster4/eyebrow
+  rotate: false
+  xy: 670, 328
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+Shem_Monster4/eyehard
+  rotate: false
+  xy: 285, 269
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Shem_Monster4/eyehard1
+  rotate: false
+  xy: 533, 361
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Shem_Monster4/eyehard2
+  rotate: true
+  xy: 584, 287
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Shem_Monster4/eyehard3
+  rotate: false
+  xy: 800, 293
+  size: 72, 11
+  orig: 72, 11
+  offset: 0, 0
+  index: -1
+Shem_Monster4/eyesffuer
+  rotate: false
+  xy: 213, 271
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+Shem_Monster4/eyeyun
+  rotate: false
+  xy: 363, 290
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+Shem_Monster4/hair1
+  rotate: false
+  xy: 923, 407
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+Shem_Monster4/hair2
+  rotate: false
+  xy: 2, 203
+  size: 137, 177
+  orig: 137, 177
+  offset: 0, 0
+  index: -1
+Shem_Monster4/hair3
+  rotate: true
+  xy: 2, 5
+  size: 55, 115
+  orig: 55, 115
+  offset: 0, 0
+  index: -1
+Shem_Monster4/hair4
+  rotate: false
+  xy: 141, 276
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+Shem_Monster4/hair5
+  rotate: true
+  xy: 800, 306
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+Shem_Monster4/handinner
+  rotate: true
+  xy: 505, 249
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Shem_Monster4/handinner2
+  rotate: false
+  xy: 515, 300
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Shem_Monster4/handinner3
+  rotate: false
+  xy: 377, 239
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Shem_Monster4/handout
+  rotate: false
+  xy: 200, 138
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+Shem_Monster4/handout2
+  rotate: true
+  xy: 654, 276
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Shem_Monster4/handout3
+  rotate: true
+  xy: 217, 47
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+Shem_Monster4/head
+  rotate: true
+  xy: 392, 372
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+Shem_Monster4/jianjiainner
+  rotate: false
+  xy: 990, 416
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Shem_Monster4/jianjiaout
+  rotate: true
+  xy: 804, 330
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+Shem_Monster4/jiao1
+  rotate: true
+  xy: 297, 339
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+Shem_Monster4/jiao2
+  rotate: true
+  xy: 435, 266
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+Shem_Monster4/kua
+  rotate: true
+  xy: 346, 212
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+Shem_Monster4/leginnerdown
+  rotate: false
+  xy: 276, 118
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Shem_Monster4/leginnerup
+  rotate: true
+  xy: 238, 2
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Shem_Monster4/legoutdown
+  rotate: false
+  xy: 291, 9
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Shem_Monster4/legoutup
+  rotate: false
+  xy: 709, 272
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Shem_Monster4/mouth01
+  rotate: true
+  xy: 580, 283
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+Shem_Monster4/mouth02
+  rotate: false
+  xy: 868, 318
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Shem_Monster4/mouth03
+  rotate: false
+  xy: 119, 51
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Shem_Monster4/mouth04
+  rotate: true
+  xy: 363, 319
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Shem_Monster4/pifeng1
+  rotate: false
+  xy: 2, 382
+  size: 215, 128
+  orig: 215, 128
+  offset: 0, 0
+  index: -1
+Shem_Monster4/pifeng2
+  rotate: true
+  xy: 805, 398
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weapon1
+  rotate: true
+  xy: 142, 110
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weapon2
+  rotate: true
+  xy: 445, 317
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weapon3
+  rotate: false
+  xy: 503, 190
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weapon4
+  rotate: false
+  xy: 427, 218
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weapon5
+  rotate: false
+  xy: 533, 380
+  size: 135, 130
+  orig: 135, 130
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weapon6
+  rotate: false
+  xy: 803, 252
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weijin1
+  rotate: false
+  xy: 119, 2
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weijin2
+  rotate: false
+  xy: 750, 259
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weijin3
+  rotate: true
+  xy: 219, 364
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+Shem_Monster4/weijin4
+  rotate: false
+  xy: 670, 345
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+Shem_Monster4/xiabai1
+  rotate: false
+  xy: 286, 49
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Shem_Monster4/xiabai2
+  rotate: true
+  xy: 759, 342
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+Shem_Monster4/xiabai3
+  rotate: true
+  xy: 288, 288
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+Shem_Monster4/xianglian1
+  rotate: true
+  xy: 316, 123
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Shem_Monster4/xianglian2
+  rotate: true
+  xy: 990, 449
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Shem_Monster4/yaodai1
+  rotate: false
+  xy: 504, 216
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+Shem_Monster4/yaodai2
+  rotate: false
+  xy: 346, 169
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+Shem_Monster4/yaodai3
+  rotate: true
+  xy: 946, 328
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1

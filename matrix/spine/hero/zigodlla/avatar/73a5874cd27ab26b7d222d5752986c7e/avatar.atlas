@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 353, 261
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/backleginner
+  rotate: false
+  xy: 178, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/backleginner1
+  rotate: true
+  xy: 432, 455
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/backleginner2
+  rotate: false
+  xy: 310, 64
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/backlegout
+  rotate: false
+  xy: 161, 163
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/backlegout1
+  rotate: true
+  xy: 279, 86
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/backlegout2
+  rotate: false
+  xy: 302, 121
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/body
+  rotate: false
+  xy: 2, 261
+  size: 201, 96
+  orig: 201, 96
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/ear1inner
+  rotate: false
+  xy: 330, 121
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/ear1out
+  rotate: false
+  xy: 235, 108
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/ear2inner
+  rotate: true
+  xy: 229, 60
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/ear2out
+  rotate: false
+  xy: 446, 421
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/earinner
+  rotate: false
+  xy: 487, 272
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/earout
+  rotate: false
+  xy: 195, 56
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/eye
+  rotate: false
+  xy: 2, 4
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/eye1
+  rotate: true
+  xy: 161, 147
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/eye2
+  rotate: false
+  xy: 195, 45
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/foot
+  rotate: false
+  xy: 310, 87
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/foot1
+  rotate: false
+  xy: 279, 67
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/foot2
+  rotate: false
+  xy: 446, 178
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/foot3
+  rotate: true
+  xy: 420, 321
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/frontleginner
+  rotate: false
+  xy: 404, 193
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/frontleginner1
+  rotate: true
+  xy: 268, 120
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/frontlegout
+  rotate: false
+  xy: 446, 199
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/frontlegout1
+  rotate: false
+  xy: 353, 288
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/head
+  rotate: false
+  xy: 205, 261
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/head1
+  rotate: false
+  xy: 215, 370
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/head2
+  rotate: true
+  xy: 232, 165
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/mouth
+  rotate: false
+  xy: 352, 193
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/mouth1
+  rotate: false
+  xy: 429, 261
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/mouth2
+  rotate: false
+  xy: 446, 321
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/neck
+  rotate: true
+  xy: 282, 261
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/neck1
+  rotate: false
+  xy: 2, 17
+  size: 95, 128
+  orig: 95, 128
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/neck2
+  rotate: false
+  xy: 337, 355
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/shipin
+  rotate: false
+  xy: 250, 71
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/shipin1
+  rotate: false
+  xy: 301, 191
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/shipin2
+  rotate: true
+  xy: 195, 101
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/shipin3
+  rotate: true
+  xy: 99, 8
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/shipin3inner
+  rotate: true
+  xy: 446, 388
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/shipin4
+  rotate: true
+  xy: 301, 169
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/shipininner
+  rotate: true
+  xy: 310, 104
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/weiba
+  rotate: false
+  xy: 215, 449
+  size: 215, 61
+  orig: 215, 61
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/weiba1
+  rotate: true
+  xy: 208, 6
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/wing
+  rotate: false
+  xy: 2, 147
+  size: 157, 112
+  orig: 157, 112
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/wing1
+  rotate: false
+  xy: 2, 359
+  size: 211, 151
+  orig: 211, 151
+  offset: 0, 0
+  index: -1
+Zigodlla/Cerberus/winginner
+  rotate: true
+  xy: 99, 45
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1

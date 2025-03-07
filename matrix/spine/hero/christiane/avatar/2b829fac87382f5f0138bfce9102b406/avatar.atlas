@@ -1,0 +1,629 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Christiane/KnightMaster/Christiane_ KnightMaster_3/Pike
+  rotate: false
+  xy: 347, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_Knight/MysteryKnight_Knight_3/Pike
+  rotate: false
+  xy: 347, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/arminnerdown
+  rotate: true
+  xy: 732, 57
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/arminnerup
+  rotate: false
+  xy: 789, 124
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/armoutdown
+  rotate: false
+  xy: 107, 124
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/armoutup
+  rotate: false
+  xy: 945, 205
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/body
+  rotate: false
+  xy: 271, 2
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/eyebrow
+  rotate: true
+  xy: 303, 71
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/eyehard
+  rotate: false
+  xy: 730, 267
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/eyehard1
+  rotate: true
+  xy: 721, 82
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/eyehard2
+  rotate: false
+  xy: 633, 328
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/eyehard3
+  rotate: true
+  xy: 746, 88
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/eyesffuer
+  rotate: false
+  xy: 703, 235
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/eyeyun
+  rotate: false
+  xy: 827, 242
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/face
+  rotate: false
+  xy: 521, 327
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair1
+  rotate: true
+  xy: 200, 132
+  size: 48, 116
+  orig: 48, 116
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair2
+  rotate: false
+  xy: 465, 112
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair3
+  rotate: true
+  xy: 581, 13
+  size: 36, 75
+  orig: 36, 75
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair4
+  rotate: false
+  xy: 934, 353
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair5
+  rotate: false
+  xy: 318, 95
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair6
+  rotate: true
+  xy: 901, 237
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair7
+  rotate: true
+  xy: 537, 83
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hair8
+  rotate: true
+  xy: 724, 347
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/handinner
+  rotate: false
+  xy: 829, 147
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/handout
+  rotate: false
+  xy: 848, 147
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hat
+  rotate: false
+  xy: 200, 62
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hat1
+  rotate: true
+  xy: 629, 83
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/hat2
+  rotate: true
+  xy: 616, 51
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_backlegdown
+  rotate: true
+  xy: 658, 13
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_body
+  rotate: false
+  xy: 200, 182
+  size: 156, 103
+  orig: 156, 103
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_frontlegdown
+  rotate: true
+  xy: 717, 151
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_guajian1
+  rotate: false
+  xy: 827, 272
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_guajian2
+  rotate: false
+  xy: 537, 136
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_guajian3
+  rotate: true
+  xy: 827, 354
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_guajian4
+  rotate: true
+  xy: 961, 446
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_head
+  rotate: true
+  xy: 2, 6
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_jiangshen
+  rotate: false
+  xy: 725, 446
+  size: 116, 64
+  orig: 116, 64
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_jiangshen1
+  rotate: true
+  xy: 465, 203
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_maan
+  rotate: false
+  xy: 629, 138
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_neck
+  rotate: true
+  xy: 358, 126
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/horse_weiba
+  rotate: false
+  xy: 358, 202
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/jianjiainner3
+  rotate: false
+  xy: 829, 200
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/jianjiaout
+  rotate: false
+  xy: 717, 187
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/leginnerdown
+  rotate: true
+  xy: 901, 213
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/legoutup
+  rotate: false
+  xy: 799, 305
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/mouth01
+  rotate: true
+  xy: 350, 80
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/mouth02
+  rotate: false
+  xy: 766, 79
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/mouth04
+  rotate: true
+  xy: 530, 96
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/qunzi2
+  rotate: false
+  xy: 461, 56
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/weapon3
+  rotate: false
+  xy: 107, 150
+  size: 91, 360
+  orig: 91, 360
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/yaojia1
+  rotate: true
+  xy: 537, 2
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/yaojia3
+  rotate: true
+  xy: 829, 166
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_3/yaojia4
+  rotate: false
+  xy: 770, 178
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/arminnerdown
+  rotate: false
+  xy: 789, 99
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/arminnerup
+  rotate: false
+  xy: 701, 51
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/armoutdown
+  rotate: false
+  xy: 733, 32
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/armoutup
+  rotate: true
+  xy: 774, 235
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/body
+  rotate: false
+  xy: 974, 211
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/handinner
+  rotate: false
+  xy: 806, 243
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/handout
+  rotate: false
+  xy: 733, 12
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/hat
+  rotate: false
+  xy: 358, 56
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/hat1
+  rotate: true
+  xy: 321, 2
+  size: 52, 89
+  orig: 52, 89
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/hat2
+  rotate: true
+  xy: 530, 51
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_guajian1
+  rotate: false
+  xy: 919, 271
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_guajian2
+  rotate: false
+  xy: 523, 231
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_guajian3
+  rotate: false
+  xy: 633, 345
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_guajian4
+  rotate: false
+  xy: 206, 2
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_head
+  rotate: true
+  xy: 347, 315
+  size: 134, 172
+  orig: 134, 172
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_jiangshen
+  rotate: false
+  xy: 843, 445
+  size: 116, 65
+  orig: 116, 65
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_jiangshen1
+  rotate: false
+  xy: 613, 453
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/horse_maan
+  rotate: false
+  xy: 615, 232
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/jianjiainner1
+  rotate: true
+  xy: 317, 70
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/jianjiainner3
+  rotate: false
+  xy: 979, 353
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/jianjiainner5
+  rotate: false
+  xy: 770, 151
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/jianjiaout
+  rotate: false
+  xy: 484, 2
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/jianjiaout1
+  rotate: false
+  xy: 866, 207
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/jianjiaout3
+  rotate: true
+  xy: 794, 189
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/leginnerdown
+  rotate: false
+  xy: 709, 8
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/legoutup
+  rotate: false
+  xy: 799, 263
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/qunzi2
+  rotate: false
+  xy: 730, 291
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/qunzi4
+  rotate: false
+  xy: 133, 2
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/weapon2
+  rotate: false
+  xy: 200, 287
+  size: 145, 223
+  orig: 145, 223
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/weapon3
+  rotate: false
+  xy: 2, 124
+  size: 103, 386
+  orig: 103, 386
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/yaojia1
+  rotate: true
+  xy: 979, 396
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/yaojia3
+  rotate: true
+  xy: 794, 155
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Christiane/KnightMaster/Christiane_ KnightMaster_4/yaojia4
+  rotate: false
+  xy: 766, 95
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_Knight/MysteryKnight_Knight_3/horse_backlegup
+  rotate: false
+  xy: 133, 62
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_Knight/MysteryKnight_Knight_3/horse_frontlegup
+  rotate: true
+  xy: 412, 2
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 703, 269
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

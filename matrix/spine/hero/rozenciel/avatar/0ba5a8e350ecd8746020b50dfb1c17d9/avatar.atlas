@@ -1,0 +1,391 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rozenciel/Preacher/Rozenciel_Preacher_3/arminnerdown
+  rotate: true
+  xy: 502, 332
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/arminnerup
+  rotate: false
+  xy: 392, 96
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/armoutdown
+  rotate: false
+  xy: 863, 397
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/armoutup
+  rotate: false
+  xy: 769, 365
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/body
+  rotate: false
+  xy: 383, 159
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/eyebrow
+  rotate: false
+  xy: 895, 430
+  size: 59, 8
+  orig: 59, 8
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/eyehard
+  rotate: false
+  xy: 121, 110
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/eyehard1
+  rotate: false
+  xy: 627, 408
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/eyehard2
+  rotate: true
+  xy: 75, 22
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/eyehard3
+  rotate: false
+  xy: 819, 424
+  size: 74, 14
+  orig: 74, 14
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/eyesffuer
+  rotate: false
+  xy: 198, 107
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/eyeyun
+  rotate: false
+  xy: 316, 123
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/face
+  rotate: false
+  xy: 392, 367
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/hair1
+  rotate: false
+  xy: 314, 161
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/hair2
+  rotate: false
+  xy: 402, 237
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/hair3
+  rotate: true
+  xy: 392, 316
+  size: 49, 108
+  orig: 49, 108
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/hair4
+  rotate: true
+  xy: 627, 441
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/hair5
+  rotate: false
+  xy: 80, 124
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/hair6
+  rotate: false
+  xy: 470, 231
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/hair7
+  rotate: false
+  xy: 230, 315
+  size: 160, 192
+  orig: 160, 192
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/handinner
+  rotate: false
+  xy: 778, 407
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/handout
+  rotate: false
+  xy: 547, 345
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/handout1
+  rotate: true
+  xy: 80, 99
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/leginnerdown
+  rotate: true
+  xy: 806, 368
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/leginnerup
+  rotate: true
+  xy: 730, 407
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/legoutdown
+  rotate: true
+  xy: 816, 399
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/legoutup
+  rotate: true
+  xy: 379, 129
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/mouth01
+  rotate: false
+  xy: 230, 220
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/mouth02
+  rotate: false
+  xy: 75, 5
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/mouth04
+  rotate: false
+  xy: 230, 225
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/qunzi1
+  rotate: false
+  xy: 230, 232
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/qunzi2
+  rotate: false
+  xy: 121, 143
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/qunziinner
+  rotate: true
+  xy: 2, 2
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/shidai
+  rotate: true
+  xy: 981, 428
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/shidaiinner1
+  rotate: false
+  xy: 704, 408
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/shidaiinner2
+  rotate: false
+  xy: 267, 91
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/shidaiout1
+  rotate: false
+  xy: 933, 397
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/shidaiout2
+  rotate: false
+  xy: 188, 143
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/texiao
+  rotate: true
+  xy: 440, 162
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/toushi1
+  rotate: false
+  xy: 514, 369
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/toushi2
+  rotate: false
+  xy: 902, 440
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_3/weapon
+  rotate: false
+  xy: 116, 220
+  size: 112, 287
+  orig: 112, 287
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/arminnerup
+  rotate: false
+  xy: 729, 365
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/armoutup
+  rotate: false
+  xy: 691, 362
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/body
+  rotate: true
+  xy: 618, 351
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/qunzi1
+  rotate: false
+  xy: 514, 426
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/qunzi2
+  rotate: false
+  xy: 247, 155
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/shidaiinner1
+  rotate: false
+  xy: 521, 336
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/shidaiinner2
+  rotate: false
+  xy: 343, 231
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/shidaiout1
+  rotate: true
+  xy: 899, 398
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/shidaiout2
+  rotate: true
+  xy: 730, 435
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/toushi1
+  rotate: true
+  xy: 2, 99
+  size: 118, 76
+  orig: 118, 76
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/toushi2
+  rotate: false
+  xy: 819, 440
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+Rozenciel/Preacher/Rozenciel_Preacher_4/weapon
+  rotate: false
+  xy: 2, 219
+  size: 112, 288
+  orig: 112, 288
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 316, 96
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

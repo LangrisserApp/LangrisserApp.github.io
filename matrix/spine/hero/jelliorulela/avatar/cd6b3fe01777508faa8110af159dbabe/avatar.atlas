@@ -1,0 +1,783 @@
+
+Jellioru_Knight.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horse/Ornament/gray/horse_tunjia
+  rotate: false
+  xy: 314, 384
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Horse/Ornament/gray/horse_xiongjia
+  rotate: false
+  xy: 450, 557
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_guajian1
+  rotate: true
+  xy: 132, 34
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_guajian2
+  rotate: true
+  xy: 184, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_head
+  rotate: true
+  xy: 378, 674
+  size: 115, 128
+  orig: 115, 128
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_1/grayhorse_1/horse_neck
+  rotate: true
+  xy: 211, 351
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegdown
+  rotate: true
+  xy: 456, 382
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegup
+  rotate: true
+  xy: 511, 758
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_body
+  rotate: false
+  xy: 854, 929
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegdown
+  rotate: false
+  xy: 542, 442
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegup
+  rotate: false
+  xy: 569, 686
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_head
+  rotate: false
+  xy: 325, 548
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_neck
+  rotate: false
+  xy: 286, 192
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_weiba
+  rotate: false
+  xy: 325, 485
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/body
+  rotate: false
+  xy: 511, 819
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/face
+  rotate: false
+  xy: 176, 529
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handinner
+  rotate: true
+  xy: 456, 417
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handinner1
+  rotate: false
+  xy: 571, 560
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handout
+  rotate: false
+  xy: 508, 678
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/handout1
+  rotate: false
+  xy: 571, 620
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_guajian1
+  rotate: true
+  xy: 281, 678
+  size: 92, 95
+  orig: 92, 95
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_head
+  rotate: true
+  xy: 176, 423
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_mana
+  rotate: true
+  xy: 2, 3
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_mana1
+  rotate: false
+  xy: 265, 3
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/horse_neck
+  rotate: true
+  xy: 857, 838
+  size: 89, 123
+  orig: 89, 123
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/jianjiainner
+  rotate: false
+  xy: 387, 274
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/jianjiainner1
+  rotate: false
+  xy: 439, 485
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/jianjiaout1
+  rotate: true
+  xy: 109, 173
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/weapon
+  rotate: false
+  xy: 2, 911
+  size: 317, 111
+  orig: 317, 111
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/weapon1
+  rotate: true
+  xy: 63, 245
+  size: 140, 19
+  orig: 140, 19
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/weapon2
+  rotate: false
+  xy: 135, 678
+  size: 144, 231
+  orig: 144, 231
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_DarkKnight_3/yaojia
+  rotate: true
+  xy: 303, 271
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/body
+  rotate: true
+  xy: 213, 126
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/handout
+  rotate: false
+  xy: 587, 490
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/jianjiainner
+  rotate: false
+  xy: 576, 447
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/jianjiainner1
+  rotate: true
+  xy: 397, 134
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/jianjiaout1
+  rotate: true
+  xy: 488, 493
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_HighRider_2/yaojia
+  rotate: false
+  xy: 167, 121
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/body
+  rotate: true
+  xy: 289, 132
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/handinner
+  rotate: true
+  xy: 442, 301
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/handout
+  rotate: false
+  xy: 397, 155
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiainner
+  rotate: true
+  xy: 438, 346
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiainner1
+  rotate: true
+  xy: 297, 32
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiaout1
+  rotate: false
+  xy: 109, 121
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/jianjiaout2
+  rotate: true
+  xy: 507, 310
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/legdownout
+  rotate: true
+  xy: 982, 824
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/legupout
+  rotate: false
+  xy: 478, 346
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+JellioruLela/Jellioru_Knight_1/yaojia
+  rotate: false
+  xy: 391, 223
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/body
+  rotate: false
+  xy: 281, 772
+  size: 90, 137
+  orig: 90, 137
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/jianjiaout
+  rotate: false
+  xy: 218, 85
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/toushi
+  rotate: false
+  xy: 85, 376
+  size: 124, 45
+  orig: 124, 45
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/weapon
+  rotate: true
+  xy: 85, 423
+  size: 236, 89
+  orig: 236, 89
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/weibo
+  rotate: true
+  xy: 509, 340
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/weibo1
+  rotate: false
+  xy: 84, 270
+  size: 107, 104
+  orig: 107, 104
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Avatar_3/yaoshi
+  rotate: false
+  xy: 235, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/arminner1
+  rotate: false
+  xy: 470, 311
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/armout1
+  rotate: false
+  xy: 502, 441
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/body
+  rotate: true
+  xy: 597, 833
+  size: 90, 136
+  orig: 90, 136
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyebrow
+  rotate: false
+  xy: 666, 823
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard
+  rotate: true
+  xy: 365, 202
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard1
+  rotate: true
+  xy: 192, 52
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard2
+  rotate: false
+  xy: 192, 34
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyehard3
+  rotate: false
+  xy: 597, 820
+  size: 67, 11
+  orig: 67, 11
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyesffuer
+  rotate: true
+  xy: 541, 609
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/eyeyun
+  rotate: true
+  xy: 541, 540
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/face
+  rotate: true
+  xy: 735, 821
+  size: 102, 120
+  orig: 102, 120
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair1
+  rotate: true
+  xy: 193, 279
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair2
+  rotate: false
+  xy: 63, 129
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair3
+  rotate: false
+  xy: 426, 147
+  size: 15, 56
+  orig: 15, 56
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hair4
+  rotate: false
+  xy: 367, 142
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/hairback
+  rotate: false
+  xy: 2, 661
+  size: 131, 248
+  orig: 131, 248
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/handinner
+  rotate: false
+  xy: 132, 2
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/handout
+  rotate: false
+  xy: 618, 560
+  size: 22, 58
+  orig: 22, 58
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/mouth01
+  rotate: false
+  xy: 84, 121
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/yaodai
+  rotate: true
+  xy: 571, 540
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+JellioruLela/Lela_Herald_2/yaodaipeijian
+  rotate: false
+  xy: 289, 110
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+JellioruLela/dd
+  rotate: false
+  xy: 303, 345
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Leon/dd
+  rotate: false
+  xy: 303, 345
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/dd
+  rotate: false
+  xy: 303, 345
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+JellioruLela/eyebrow
+  rotate: false
+  xy: 450, 548
+  size: 31, 7
+  orig: 31, 7
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard
+  rotate: false
+  xy: 502, 423
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard1
+  rotate: false
+  xy: 261, 34
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard2
+  rotate: false
+  xy: 321, 913
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+JellioruLela/eyehard3
+  rotate: true
+  xy: 314, 495
+  size: 32, 9
+  orig: 32, 9
+  offset: 0, 0
+  index: -1
+JellioruLela/eyesffuer
+  rotate: false
+  xy: 292, 53
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+JellioruLela/eyeyun
+  rotate: false
+  xy: 218, 52
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+JellioruLela/face
+  rotate: false
+  xy: 373, 791
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+JellioruLela/hair1
+  rotate: false
+  xy: 390, 384
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+JellioruLela/mouth01
+  rotate: false
+  xy: 610, 547
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: true
+  xy: 391, 205
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: false
+  xy: 314, 345
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 194, 188
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: true
+  xy: 274, 87
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 442, 274
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/jianjiaout4
+  rotate: false
+  xy: 274, 110
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: true
+  xy: 2, 121
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/weapon1
+  rotate: true
+  xy: 2, 387
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/weapon2
+  rotate: false
+  xy: 857, 820
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/weapon1
+  rotate: false
+  xy: 321, 927
+  size: 277, 95
+  orig: 277, 95
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/weapon
+  rotate: false
+  xy: 600, 925
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 982, 853
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handinner1
+  rotate: true
+  xy: 256, 52
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/handout1
+  rotate: true
+  xy: 541, 493
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_1/legupout
+  rotate: false
+  xy: 437, 233
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_2/legdownout
+  rotate: false
+  xy: 503, 385
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/SkotKnight_3/legdownout
+  rotate: false
+  xy: 412, 345
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth02
+  rotate: false
+  xy: 135, 661
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Skot/Skot_horse/mouth04
+  rotate: false
+  xy: 63, 121
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth02
+  rotate: true
+  xy: 154, 661
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth03
+  rotate: true
+  xy: 194, 173
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth04
+  rotate: true
+  xy: 373, 773
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1

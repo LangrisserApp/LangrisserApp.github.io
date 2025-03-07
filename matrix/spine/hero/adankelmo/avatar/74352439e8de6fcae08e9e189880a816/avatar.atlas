@@ -1,0 +1,412 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Adankelmo/Magic/Magic_4/guang
+  rotate: false
+  xy: 118, 225
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/handinner2
+  rotate: false
+  xy: 412, 191
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/arminnerdown
+  rotate: false
+  xy: 200, 2
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/arminnerup
+  rotate: true
+  xy: 343, 120
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/armoutdown
+  rotate: true
+  xy: 267, 3
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/armoutup
+  rotate: false
+  xy: 343, 85
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/body
+  rotate: true
+  xy: 261, 297
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/eyebrow
+  rotate: false
+  xy: 118, 145
+  size: 73, 11
+  orig: 73, 11
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/eyehard
+  rotate: true
+  xy: 461, 233
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/eyehard03
+  rotate: true
+  xy: 500, 448
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/eyehard1
+  rotate: false
+  xy: 204, 143
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/eyehard2
+  rotate: false
+  xy: 282, 160
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/eyesffuer
+  rotate: true
+  xy: 230, 311
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/eyeyun
+  rotate: false
+  xy: 258, 91
+  size: 61, 29
+  orig: 61, 29
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/face
+  rotate: false
+  xy: 139, 375
+  size: 120, 135
+  orig: 120, 135
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair1
+  rotate: true
+  xy: 282, 179
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair2
+  rotate: false
+  xy: 238, 226
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair3
+  rotate: true
+  xy: 415, 236
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair4
+  rotate: true
+  xy: 261, 354
+  size: 60, 137
+  orig: 60, 137
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair5
+  rotate: true
+  xy: 261, 416
+  size: 94, 140
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair6
+  rotate: true
+  xy: 403, 393
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair7
+  rotate: false
+  xy: 2, 332
+  size: 135, 178
+  orig: 135, 178
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/hair8
+  rotate: false
+  xy: 117, 2
+  size: 81, 138
+  orig: 81, 138
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/handinner
+  rotate: true
+  xy: 321, 91
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/handinner1
+  rotate: false
+  xy: 488, 331
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/handout
+  rotate: false
+  xy: 415, 211
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/handout1
+  rotate: false
+  xy: 433, 191
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/jianjiainner
+  rotate: true
+  xy: 309, 47
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/leginnerdown
+  rotate: false
+  xy: 309, 5
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/leginnerup
+  rotate: false
+  xy: 348, 179
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/legoutdown
+  rotate: false
+  xy: 486, 282
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/legoutup
+  rotate: false
+  xy: 381, 182
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/mouth01
+  rotate: false
+  xy: 258, 135
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/mouth02
+  rotate: true
+  xy: 238, 297
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/mouth04
+  rotate: false
+  xy: 343, 297
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/pifenginner
+  rotate: false
+  xy: 195, 226
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/pifenginner1
+  rotate: false
+  xy: 334, 47
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/pifengout
+  rotate: true
+  xy: 118, 158
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/pifengout1
+  rotate: true
+  xy: 267, 32
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/pijian
+  rotate: false
+  xy: 400, 331
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/shouhuaninner
+  rotate: false
+  xy: 68, 123
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/shouhuanout
+  rotate: false
+  xy: 118, 310
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/weapon
+  rotate: false
+  xy: 68, 142
+  size: 48, 188
+  orig: 48, 188
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/wehuan
+  rotate: false
+  xy: 488, 357
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/xiongshi
+  rotate: false
+  xy: 275, 122
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_3/xiongshi1
+  rotate: false
+  xy: 343, 303
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/ja
+  rotate: true
+  xy: 204, 168
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/pifenginner
+  rotate: true
+  xy: 139, 304
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/pifenginner1
+  rotate: true
+  xy: 346, 9
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/pifengout
+  rotate: false
+  xy: 2, 2
+  size: 113, 119
+  orig: 113, 119
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/pifengout1
+  rotate: true
+  xy: 303, 225
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/qunziinner
+  rotate: false
+  xy: 238, 20
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/qunziinner1
+  rotate: false
+  xy: 200, 91
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/qunziout
+  rotate: false
+  xy: 367, 231
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/weapon
+  rotate: false
+  xy: 2, 123
+  size: 64, 207
+  orig: 64, 207
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/xiongshi
+  rotate: true
+  xy: 200, 22
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+Adankelmo/Monster/Monster_4/yaodai
+  rotate: true
+  xy: 486, 233
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+Adankelmo/Shadow
+  rotate: false
+  xy: 400, 304
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

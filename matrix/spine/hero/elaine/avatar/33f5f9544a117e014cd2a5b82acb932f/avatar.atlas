@@ -1,0 +1,622 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elaine/SwordMaiden/Elaine_3c/arminner
+  rotate: false
+  xy: 465, 26
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/armout
+  rotate: true
+  xy: 526, 622
+  size: 169, 102
+  orig: 169, 102
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/baobao
+  rotate: false
+  xy: 512, 77
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/beidai
+  rotate: true
+  xy: 518, 342
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/body
+  rotate: false
+  xy: 305, 31
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/eyebrow
+  rotate: false
+  xy: 518, 445
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/eyehard
+  rotate: true
+  xy: 1000, 851
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/face
+  rotate: true
+  xy: 602, 467
+  size: 129, 142
+  orig: 129, 142
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/faqia
+  rotate: false
+  xy: 518, 400
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair1
+  rotate: true
+  xy: 307, 293
+  size: 142, 79
+  orig: 142, 79
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair2
+  rotate: false
+  xy: 926, 931
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair3
+  rotate: false
+  xy: 926, 823
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair4
+  rotate: true
+  xy: 388, 281
+  size: 51, 106
+  orig: 51, 106
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair5
+  rotate: false
+  xy: 427, 38
+  size: 36, 93
+  orig: 36, 93
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair6
+  rotate: false
+  xy: 197, 11
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair8
+  rotate: false
+  xy: 630, 712
+  size: 154, 166
+  orig: 154, 166
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/hair9
+  rotate: false
+  xy: 494, 236
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/leginner
+  rotate: true
+  xy: 427, 2
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/legout
+  rotate: false
+  xy: 840, 484
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/mouth01
+  rotate: false
+  xy: 356, 621
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/qunzai
+  rotate: true
+  xy: 800, 620
+  size: 102, 56
+  orig: 102, 56
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/wing1
+  rotate: true
+  xy: 630, 598
+  size: 112, 168
+  orig: 112, 168
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_3c/wing2
+  rotate: true
+  xy: 327, 631
+  size: 160, 197
+  orig: 160, 197
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/armoutup
+  rotate: false
+  xy: 624, 429
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/baobao
+  rotate: true
+  xy: 513, 50
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/handout
+  rotate: true
+  xy: 509, 133
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/pifeng1
+  rotate: true
+  xy: 860, 705
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/pifeng2
+  rotate: true
+  xy: 305, 3
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/pifeng3
+  rotate: true
+  xy: 469, 133
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/weapon1
+  rotate: false
+  xy: 349, 793
+  size: 270, 75
+  orig: 270, 75
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/wing1
+  rotate: false
+  xy: 746, 490
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_03/wing2
+  rotate: true
+  xy: 197, 113
+  size: 173, 125
+  orig: 173, 125
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/1
+  rotate: true
+  xy: 296, 437
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/2
+  rotate: true
+  xy: 86, 46
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/3
+  rotate: false
+  xy: 349, 870
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/4
+  rotate: false
+  xy: 2, 612
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/5
+  rotate: false
+  xy: 2, 801
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/arminnerdown
+  rotate: true
+  xy: 998, 794
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/arminnerup
+  rotate: true
+  xy: 494, 201
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/armoutdown
+  rotate: true
+  xy: 602, 598
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/armoutup
+  rotate: false
+  xy: 655, 429
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/baobao
+  rotate: false
+  xy: 528, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/baobao2
+  rotate: true
+  xy: 327, 618
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/body
+  rotate: false
+  xy: 860, 752
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/body2
+  rotate: false
+  xy: 686, 444
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/body3
+  rotate: true
+  xy: 566, 400
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/eyebrow
+  rotate: false
+  xy: 2, 6
+  size: 76, 11
+  orig: 76, 11
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/eyehard
+  rotate: true
+  xy: 468, 201
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/eyehard1
+  rotate: false
+  xy: 746, 464
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/eyehard2
+  rotate: false
+  xy: 800, 598
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/eyehard3
+  rotate: false
+  xy: 528, 465
+  size: 72, 11
+  orig: 72, 11
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/eyesffuer
+  rotate: true
+  xy: 858, 629
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/eyeyun
+  rotate: false
+  xy: 924, 894
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/face
+  rotate: false
+  xy: 388, 334
+  size: 128, 141
+  orig: 128, 141
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/faqia
+  rotate: false
+  xy: 545, 355
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair1
+  rotate: true
+  xy: 519, 478
+  size: 142, 81
+  orig: 142, 81
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair10
+  rotate: true
+  xy: 840, 521
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair2
+  rotate: false
+  xy: 372, 188
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair3
+  rotate: true
+  xy: 852, 892
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair4
+  rotate: false
+  xy: 373, 25
+  size: 52, 106
+  orig: 52, 106
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair5
+  rotate: true
+  xy: 86, 9
+  size: 35, 93
+  orig: 35, 93
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair6
+  rotate: false
+  xy: 786, 724
+  size: 72, 154
+  orig: 72, 154
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair7
+  rotate: false
+  xy: 892, 636
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair8
+  rotate: true
+  xy: 99, 288
+  size: 137, 206
+  orig: 137, 206
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hair9
+  rotate: true
+  xy: 369, 2
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/hand2
+  rotate: false
+  xy: 591, 395
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/handinner
+  rotate: true
+  xy: 512, 104
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/handout
+  rotate: true
+  xy: 513, 27
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/leginnerdown
+  rotate: true
+  xy: 484, 2
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/leginnerup
+  rotate: false
+  xy: 496, 281
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/legoutdown
+  rotate: false
+  xy: 509, 156
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/legoutup
+  rotate: false
+  xy: 591, 420
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/mouth01
+  rotate: false
+  xy: 327, 793
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/mouth02
+  rotate: false
+  xy: 372, 283
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/mouth04
+  rotate: true
+  xy: 181, 24
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/pifeng1
+  rotate: false
+  xy: 465, 76
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/pifeng2
+  rotate: false
+  xy: 860, 822
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/pifeng3
+  rotate: false
+  xy: 372, 133
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/tx1
+  rotate: false
+  xy: 324, 107
+  size: 46, 184
+  orig: 46, 184
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/tx2
+  rotate: true
+  xy: 624, 880
+  size: 56, 226
+  orig: 56, 226
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/weapon1
+  rotate: false
+  xy: 624, 938
+  size: 300, 84
+  orig: 300, 84
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/weapon3_3
+  rotate: false
+  xy: 2, 19
+  size: 82, 278
+  orig: 82, 278
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/weapon3_4
+  rotate: false
+  xy: 2, 299
+  size: 95, 311
+  orig: 95, 311
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/wing1
+  rotate: false
+  xy: 373, 477
+  size: 144, 152
+  orig: 144, 152
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/wing2
+  rotate: false
+  xy: 99, 427
+  size: 195, 183
+  orig: 195, 183
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/wing3
+  rotate: false
+  xy: 998, 819
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Elaine/SwordMaiden/Elaine_SwordMaiden_04/wing4
+  rotate: false
+  xy: 373, 449
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 971, 818
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

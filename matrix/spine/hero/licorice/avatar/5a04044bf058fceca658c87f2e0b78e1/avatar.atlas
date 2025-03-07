@@ -1,0 +1,419 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Licorice/Licorice_Wizard/Licorice_Wizard_02/arminnerdown
+  rotate: false
+  xy: 231, 212
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/arminnerup
+  rotate: true
+  xy: 506, 293
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/armoutdown
+  rotate: true
+  xy: 642, 322
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/armoutup
+  rotate: false
+  xy: 474, 303
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/body
+  rotate: false
+  xy: 894, 409
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/eyehard
+  rotate: true
+  xy: 178, 5
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/eyehard01
+  rotate: false
+  xy: 506, 326
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/eyehard02
+  rotate: false
+  xy: 385, 295
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/eyehard03
+  rotate: false
+  xy: 645, 388
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/eyesffuer
+  rotate: false
+  xy: 580, 316
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/eyeyun
+  rotate: false
+  xy: 671, 348
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/face
+  rotate: true
+  xy: 506, 388
+  size: 120, 137
+  orig: 120, 137
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/fx
+  rotate: false
+  xy: 105, 5
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair1
+  rotate: false
+  xy: 385, 318
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair2
+  rotate: true
+  xy: 671, 318
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair3
+  rotate: true
+  xy: 506, 356
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair4
+  rotate: false
+  xy: 975, 405
+  size: 39, 103
+  orig: 39, 103
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair5
+  rotate: false
+  xy: 242, 264
+  size: 50, 109
+  orig: 50, 109
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair6
+  rotate: false
+  xy: 166, 79
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair7
+  rotate: true
+  xy: 733, 352
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair8
+  rotate: false
+  xy: 811, 404
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/hair9
+  rotate: false
+  xy: 731, 400
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/handinner
+  rotate: false
+  xy: 236, 95
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/handout
+  rotate: true
+  xy: 618, 278
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/handout2
+  rotate: false
+  xy: 264, 217
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/leginnerdown
+  rotate: false
+  xy: 895, 369
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/leginnerup
+  rotate: false
+  xy: 474, 340
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/legoutdown
+  rotate: false
+  xy: 859, 363
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/legoutup
+  rotate: false
+  xy: 788, 355
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/mouth01
+  rotate: false
+  xy: 459, 308
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/mouth02
+  rotate: true
+  xy: 1016, 496
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/mouth04
+  rotate: false
+  xy: 459, 312
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/toushi
+  rotate: false
+  xy: 294, 303
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_02/weapon
+  rotate: false
+  xy: 290, 383
+  size: 214, 125
+  orig: 214, 125
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/arminnerdown
+  rotate: false
+  xy: 231, 183
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/armoutdown
+  rotate: false
+  xy: 545, 296
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/leginnerdown
+  rotate: true
+  xy: 579, 278
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/leginnerup
+  rotate: true
+  xy: 628, 356
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/legoutdown
+  rotate: true
+  xy: 975, 369
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/legoutup
+  rotate: false
+  xy: 823, 359
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/piaodai1
+  rotate: true
+  xy: 294, 239
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/piaodai2
+  rotate: true
+  xy: 375, 259
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/toushi
+  rotate: false
+  xy: 2, 78
+  size: 162, 77
+  orig: 162, 77
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_03/weapon
+  rotate: false
+  xy: 2, 250
+  size: 238, 123
+  orig: 238, 123
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/body
+  rotate: false
+  xy: 645, 397
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/jianjiainner
+  rotate: true
+  xy: 231, 159
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/jianjiaout
+  rotate: true
+  xy: 692, 279
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/leginnerdown
+  rotate: false
+  xy: 654, 279
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/legoutdown
+  rotate: true
+  xy: 934, 372
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/maozi
+  rotate: false
+  xy: 375, 235
+  size: 66, 22
+  orig: 66, 22
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/piaodai1
+  rotate: false
+  xy: 186, 156
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/piaodai2
+  rotate: true
+  xy: 2, 11
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/shenzhi
+  rotate: false
+  xy: 545, 287
+  size: 32, 7
+  orig: 32, 7
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/toushi
+  rotate: false
+  xy: 2, 157
+  size: 182, 91
+  orig: 182, 91
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/weapon
+  rotate: false
+  xy: 2, 375
+  size: 286, 133
+  orig: 286, 133
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/yaojia1
+  rotate: true
+  xy: 242, 241
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Wizard/Licorice_Wizard_04/yaojia2
+  rotate: false
+  xy: 236, 121
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 209, 80
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

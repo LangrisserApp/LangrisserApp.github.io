@@ -1,0 +1,223 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 193, 69
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/arminnerdown
+  rotate: false
+  xy: 249, 8
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/arminnerup
+  rotate: true
+  xy: 139, 5
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/armoutdown
+  rotate: false
+  xy: 273, 136
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/armoutup
+  rotate: false
+  xy: 326, 74
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/body
+  rotate: false
+  xy: 170, 243
+  size: 94, 123
+  orig: 94, 123
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/body1
+  rotate: false
+  xy: 2, 244
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/ci
+  rotate: false
+  xy: 271, 352
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/ci1
+  rotate: false
+  xy: 355, 269
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/ci2
+  rotate: false
+  xy: 224, 142
+  size: 47, 99
+  orig: 47, 99
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/ci3
+  rotate: true
+  xy: 273, 191
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/ci4
+  rotate: false
+  xy: 266, 275
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/eye
+  rotate: true
+  xy: 499, 493
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/footinner
+  rotate: true
+  xy: 389, 73
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/footout
+  rotate: true
+  xy: 415, 303
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/handinner
+  rotate: true
+  xy: 401, 355
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/handout
+  rotate: false
+  xy: 249, 34
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/head
+  rotate: false
+  xy: 2, 12
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/leginnerdown
+  rotate: false
+  xy: 437, 368
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/leginnerup
+  rotate: true
+  xy: 262, 75
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/legout1
+  rotate: true
+  xy: 478, 364
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/legoutdown
+  rotate: false
+  xy: 220, 75
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/legoutup
+  rotate: false
+  xy: 345, 187
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/mouth
+  rotate: true
+  xy: 193, 9
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/neck
+  rotate: false
+  xy: 427, 408
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/weiba
+  rotate: false
+  xy: 162, 145
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/weiba1
+  rotate: false
+  xy: 2, 136
+  size: 158, 106
+  orig: 158, 106
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/weiba2
+  rotate: true
+  xy: 337, 132
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/winginner
+  rotate: false
+  xy: 271, 399
+  size: 154, 111
+  orig: 154, 111
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/wingout
+  rotate: true
+  xy: 139, 40
+  size: 94, 52
+  orig: 94, 52
+  offset: 0, 0
+  index: -1
+Zigodlla/Tiamat/wingout1
+  rotate: false
+  xy: 2, 368
+  size: 267, 142
+  orig: 267, 142
+  offset: 0, 0
+  index: -1

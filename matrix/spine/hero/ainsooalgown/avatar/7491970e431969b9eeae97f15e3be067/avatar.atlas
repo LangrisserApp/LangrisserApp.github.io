@@ -1,0 +1,251 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_2/pifeng2
+  rotate: false
+  xy: 241, 147
+  size: 82, 163
+  orig: 82, 163
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/Shadow
+  rotate: true
+  xy: 291, 26
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/armoutdown
+  rotate: true
+  xy: 614, 293
+  size: 59, 121
+  orig: 59, 121
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/body
+  rotate: false
+  xy: 325, 253
+  size: 94, 144
+  orig: 94, 144
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/body1
+  rotate: false
+  xy: 325, 140
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/daizi
+  rotate: false
+  xy: 78, 95
+  size: 38, 215
+  orig: 38, 215
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/daizi1
+  rotate: false
+  xy: 118, 95
+  size: 35, 215
+  orig: 35, 215
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/face
+  rotate: false
+  xy: 521, 280
+  size: 91, 117
+  orig: 91, 117
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/handout
+  rotate: false
+  xy: 583, 230
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/hat
+  rotate: false
+  xy: 147, 312
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/hat1
+  rotate: true
+  xy: 2, 13
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/jianjiainner3
+  rotate: true
+  xy: 203, 5
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/jianjiainner4
+  rotate: true
+  xy: 759, 347
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/jianjiaout1
+  rotate: false
+  xy: 78, 2
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/jianjiaout2
+  rotate: false
+  xy: 937, 410
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/mofazheng
+  rotate: false
+  xy: 421, 263
+  size: 98, 134
+  orig: 98, 134
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/pifeng
+  rotate: true
+  xy: 308, 399
+  size: 111, 160
+  orig: 111, 160
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/pifeng1
+  rotate: false
+  xy: 2, 312
+  size: 143, 198
+  orig: 143, 198
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/pifeng3
+  rotate: false
+  xy: 155, 145
+  size: 84, 165
+  orig: 84, 165
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/shoutao
+  rotate: false
+  xy: 267, 102
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao
+  rotate: false
+  xy: 324, 73
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao1a
+  rotate: true
+  xy: 393, 78
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao1b
+  rotate: false
+  xy: 281, 312
+  size: 30, 77
+  orig: 30, 77
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao1c
+  rotate: false
+  xy: 785, 404
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao2a
+  rotate: false
+  xy: 937, 349
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao2b
+  rotate: true
+  xy: 625, 354
+  size: 49, 132
+  orig: 49, 132
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao2c
+  rotate: false
+  xy: 147, 391
+  size: 159, 119
+  orig: 159, 119
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao3a
+  rotate: false
+  xy: 521, 231
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao3b
+  rotate: true
+  xy: 155, 100
+  size: 43, 110
+  orig: 43, 110
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao3c
+  rotate: false
+  xy: 470, 399
+  size: 153, 111
+  orig: 153, 111
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao4a
+  rotate: false
+  xy: 318, 11
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao4b
+  rotate: true
+  xy: 737, 308
+  size: 37, 93
+  orig: 37, 93
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/texiao4c
+  rotate: false
+  xy: 625, 405
+  size: 158, 105
+  orig: 158, 105
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/weapon
+  rotate: false
+  xy: 2, 84
+  size: 74, 226
+  orig: 74, 226
+  offset: 0, 0
+  index: -1
+AinsOoalGown/AinsOoalGown_Undead/AinsOoalGown_Undead_4/xiabai
+  rotate: false
+  xy: 849, 334
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1

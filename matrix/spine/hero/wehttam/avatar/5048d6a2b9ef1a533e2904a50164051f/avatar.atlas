@@ -1,0 +1,622 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/arminnerdown
+  rotate: false
+  xy: 526, 221
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/arminnerup
+  rotate: true
+  xy: 898, 382
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/armoutdown
+  rotate: false
+  xy: 403, 203
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/armoutup
+  rotate: false
+  xy: 239, 193
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/body
+  rotate: true
+  xy: 396, 294
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/handinner
+  rotate: false
+  xy: 575, 249
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/handout
+  rotate: false
+  xy: 573, 225
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/hudang
+  rotate: false
+  xy: 868, 346
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/jianjiainner
+  rotate: true
+  xy: 356, 235
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/jianjiaout
+  rotate: true
+  xy: 239, 232
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/leginnerdown
+  rotate: true
+  xy: 405, 142
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/leginnerup
+  rotate: false
+  xy: 272, 146
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/legoutdown
+  rotate: false
+  xy: 344, 152
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/legoutup
+  rotate: true
+  xy: 715, 360
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/pifeng
+  rotate: false
+  xy: 448, 431
+  size: 144, 79
+  orig: 144, 79
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/pifengout
+  rotate: true
+  xy: 244, 367
+  size: 49, 88
+  orig: 49, 88
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/weapon
+  rotate: false
+  xy: 244, 418
+  size: 202, 92
+  orig: 202, 92
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/weapon1
+  rotate: false
+  xy: 590, 343
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/yaojiainner
+  rotate: false
+  xy: 623, 301
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/yaojiainner1
+  rotate: true
+  xy: 2, 2
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_2/yaojiaout
+  rotate: false
+  xy: 301, 194
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/arminnerdown
+  rotate: false
+  xy: 545, 269
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/arminnerup
+  rotate: false
+  xy: 378, 152
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/armoutdown
+  rotate: false
+  xy: 405, 168
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/armoutup
+  rotate: false
+  xy: 270, 193
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/body
+  rotate: false
+  xy: 420, 347
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/handinner
+  rotate: false
+  xy: 549, 225
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/handout
+  rotate: false
+  xy: 518, 193
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/hudang
+  rotate: true
+  xy: 469, 335
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/hudang1
+  rotate: false
+  xy: 307, 152
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/jianjiainner
+  rotate: false
+  xy: 459, 285
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/jianjiaout
+  rotate: false
+  xy: 235, 301
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/leginnerdown
+  rotate: false
+  xy: 524, 250
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/leginnerup
+  rotate: false
+  xy: 509, 287
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/legourdown
+  rotate: true
+  xy: 897, 351
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/legoutup
+  rotate: true
+  xy: 821, 352
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/pifeng
+  rotate: false
+  xy: 2, 208
+  size: 164, 89
+  orig: 164, 89
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/pifengout
+  rotate: false
+  xy: 168, 193
+  size: 69, 104
+  orig: 69, 104
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/weapon
+  rotate: false
+  xy: 2, 299
+  size: 231, 101
+  orig: 231, 101
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/weapon1
+  rotate: false
+  xy: 594, 371
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/yaojiainner
+  rotate: false
+  xy: 590, 302
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_3/yaojiaout
+  rotate: true
+  xy: 447, 247
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/Shadow
+  rotate: true
+  xy: 300, 291
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/arminnerdown
+  rotate: false
+  xy: 499, 247
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/arminnerup
+  rotate: false
+  xy: 438, 184
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/armoutdown
+  rotate: true
+  xy: 490, 186
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/armoutup
+  rotate: true
+  xy: 985, 387
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/body
+  rotate: false
+  xy: 400, 237
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/erduo
+  rotate: false
+  xy: 568, 272
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/eyebrow
+  rotate: false
+  xy: 488, 224
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/eyehard
+  rotate: false
+  xy: 545, 250
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/eyehard1
+  rotate: false
+  xy: 617, 282
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/eyehard2
+  rotate: false
+  xy: 124, 193
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/eyehard3
+  rotate: false
+  xy: 272, 91
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/eyesffuer
+  rotate: true
+  xy: 568, 301
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/eyeyun
+  rotate: true
+  xy: 382, 192
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/face
+  rotate: false
+  xy: 932, 418
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hair
+  rotate: true
+  xy: 126, 13
+  size: 66, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hair2
+  rotate: false
+  xy: 832, 412
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hair3
+  rotate: true
+  xy: 124, 81
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hair4
+  rotate: false
+  xy: 2, 17
+  size: 122, 62
+  orig: 122, 62
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hair5
+  rotate: false
+  xy: 2, 81
+  size: 120, 125
+  orig: 120, 125
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hair6
+  rotate: true
+  xy: 524, 390
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/handinner
+  rotate: false
+  xy: 441, 143
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/handinner1
+  rotate: true
+  xy: 598, 251
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/handout
+  rotate: false
+  xy: 590, 274
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hudang1
+  rotate: false
+  xy: 344, 194
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/hudang2
+  rotate: true
+  xy: 327, 287
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/jianjiainner
+  rotate: true
+  xy: 524, 344
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/jianjiainner1
+  rotate: false
+  xy: 465, 185
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/jianjiaout
+  rotate: true
+  xy: 334, 348
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/leginnerdown
+  rotate: true
+  xy: 447, 224
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/leginnerup
+  rotate: true
+  xy: 938, 388
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/legoutdown
+  rotate: false
+  xy: 272, 101
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/legoutup
+  rotate: false
+  xy: 537, 298
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/mouth
+  rotate: true
+  xy: 327, 350
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/mouth02
+  rotate: false
+  xy: 438, 168
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/mouth04
+  rotate: false
+  xy: 448, 423
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/pifeng1
+  rotate: true
+  xy: 300, 238
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/pifeng2
+  rotate: true
+  xy: 594, 402
+  size: 108, 121
+  orig: 108, 121
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/pifeng3
+  rotate: true
+  xy: 205, 87
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/pifeng4
+  rotate: false
+  xy: 717, 398
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/pifengout
+  rotate: false
+  xy: 227, 14
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/toushi
+  rotate: false
+  xy: 469, 367
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/weapon
+  rotate: false
+  xy: 2, 402
+  size: 240, 108
+  orig: 240, 108
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/weapon1
+  rotate: false
+  xy: 832, 383
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/yaodai
+  rotate: true
+  xy: 768, 353
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Wehttam/Wehttam_Sword/Wehttam_Sword_4/yaojiaout
+  rotate: true
+  xy: 658, 361
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,405 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 807, 485
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/arminnerdown
+  rotate: false
+  xy: 304, 20
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/armoutdown
+  rotate: true
+  xy: 278, 78
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/body
+  rotate: true
+  xy: 549, 372
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/daizi
+  rotate: false
+  xy: 883, 484
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/daizi1
+  rotate: false
+  xy: 651, 485
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/eyebrow
+  rotate: false
+  xy: 2, 80
+  size: 74, 7
+  orig: 74, 7
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/eyehard
+  rotate: false
+  xy: 330, 145
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/eyehard1
+  rotate: false
+  xy: 330, 169
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/eyehard2
+  rotate: true
+  xy: 258, 6
+  size: 69, 14
+  orig: 69, 14
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/eyehard3
+  rotate: false
+  xy: 204, 77
+  size: 63, 8
+  orig: 63, 8
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/eyesffuer
+  rotate: true
+  xy: 227, 8
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/eyeyun
+  rotate: true
+  xy: 455, 244
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/face
+  rotate: false
+  xy: 369, 313
+  size: 115, 133
+  orig: 115, 133
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/hair1
+  rotate: false
+  xy: 204, 127
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/hair2
+  rotate: true
+  xy: 335, 193
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/hair3
+  rotate: true
+  xy: 82, 77
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/hair4
+  rotate: false
+  xy: 111, 10
+  size: 114, 65
+  orig: 114, 65
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/hair5
+  rotate: true
+  xy: 2, 2
+  size: 73, 107
+  orig: 73, 107
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/hair6
+  rotate: false
+  xy: 451, 190
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/hair7
+  rotate: true
+  xy: 477, 448
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/handinner
+  rotate: true
+  xy: 197, 335
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/handout
+  rotate: false
+  xy: 631, 465
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/jianjiainner
+  rotate: false
+  xy: 311, 77
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/jianjiaout
+  rotate: true
+  xy: 451, 145
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/mouth01
+  rotate: true
+  xy: 278, 115
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/mouth02
+  rotate: false
+  xy: 616, 373
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/mouth03
+  rotate: false
+  xy: 197, 324
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/mouth04
+  rotate: true
+  xy: 197, 189
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/weapon
+  rotate: true
+  xy: 213, 448
+  size: 62, 262
+  orig: 62, 262
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/wing
+  rotate: true
+  xy: 82, 168
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/wing1
+  rotate: false
+  xy: 197, 206
+  size: 136, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/xiabai
+  rotate: false
+  xy: 553, 315
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_3/xiabai1
+  rotate: false
+  xy: 616, 385
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/arminnerdown
+  rotate: false
+  xy: 340, 87
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/arminnerup
+  rotate: true
+  xy: 274, 12
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/armoutdown
+  rotate: false
+  xy: 274, 45
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/armoutup
+  rotate: false
+  xy: 287, 109
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/body
+  rotate: true
+  xy: 486, 315
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/daizi
+  rotate: false
+  xy: 954, 484
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/daizi1
+  rotate: false
+  xy: 729, 485
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/daizi3
+  rotate: false
+  xy: 335, 249
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/dang
+  rotate: false
+  xy: 367, 114
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/jianjiainner
+  rotate: true
+  xy: 330, 112
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/jianjiaout
+  rotate: false
+  xy: 204, 87
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/leginnerdown
+  rotate: false
+  xy: 305, 45
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/leginnerup
+  rotate: true
+  xy: 404, 167
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/legoutdown
+  rotate: true
+  xy: 401, 118
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/legoutup
+  rotate: true
+  xy: 403, 143
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/toushi
+  rotate: false
+  xy: 486, 370
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/weapon
+  rotate: false
+  xy: 2, 89
+  size: 78, 262
+  orig: 78, 262
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/weapon1
+  rotate: false
+  xy: 477, 488
+  size: 172, 22
+  orig: 172, 22
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/wing
+  rotate: false
+  xy: 2, 353
+  size: 209, 157
+  orig: 209, 157
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/wing1
+  rotate: false
+  xy: 213, 317
+  size: 154, 129
+  orig: 154, 129
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/xiabai
+  rotate: true
+  xy: 551, 427
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/xiabai1
+  rotate: false
+  xy: 600, 311
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+Sirink/Sirink_WingsOfDoom/Sirink_WingsOfDoom_4/xiabai2
+  rotate: true
+  xy: 287, 143
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1

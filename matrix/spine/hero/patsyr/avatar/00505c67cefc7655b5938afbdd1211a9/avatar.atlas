@@ -1,0 +1,559 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Patsyr/Blood/Patsyr_Blood_3/arminnerdown
+  rotate: true
+  xy: 713, 330
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/arminnerup
+  rotate: false
+  xy: 973, 352
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/armoutdown
+  rotate: false
+  xy: 574, 248
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/armoutup
+  rotate: true
+  xy: 927, 386
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/body
+  rotate: false
+  xy: 738, 356
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/dang
+  rotate: false
+  xy: 531, 281
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/dang
+  rotate: false
+  xy: 531, 281
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/earinner
+  rotate: false
+  xy: 966, 386
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/earout
+  rotate: false
+  xy: 444, 219
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/eyebrow
+  rotate: false
+  xy: 139, 2
+  size: 72, 9
+  orig: 72, 9
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/eyehard
+  rotate: false
+  xy: 850, 360
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/eyehard1
+  rotate: true
+  xy: 391, 228
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/eyehard2
+  rotate: false
+  xy: 507, 324
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/eyehard3
+  rotate: true
+  xy: 474, 256
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/eyesffuer
+  rotate: false
+  xy: 213, 2
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/eyeyun
+  rotate: true
+  xy: 444, 256
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/face
+  rotate: false
+  xy: 2, 9
+  size: 135, 147
+  orig: 135, 147
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/hair1
+  rotate: false
+  xy: 139, 13
+  size: 72, 119
+  orig: 72, 119
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/hair2
+  rotate: true
+  xy: 160, 134
+  size: 68, 148
+  orig: 68, 148
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/hair3
+  rotate: true
+  xy: 850, 386
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/hair3
+  rotate: true
+  xy: 850, 386
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/hair4
+  rotate: false
+  xy: 2, 158
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/hair5
+  rotate: false
+  xy: 488, 273
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/handinner
+  rotate: false
+  xy: 391, 203
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/handout
+  rotate: false
+  xy: 490, 206
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/leginnerdown
+  rotate: false
+  xy: 574, 279
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/leginnerup
+  rotate: false
+  xy: 300, 42
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/legoutdown
+  rotate: false
+  xy: 490, 227
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/legoutup
+  rotate: true
+  xy: 928, 358
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/mouth01
+  rotate: false
+  xy: 139, 147
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/mouth02
+  rotate: true
+  xy: 781, 340
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/mouth03
+  rotate: false
+  xy: 2, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/shoushi
+  rotate: false
+  xy: 519, 173
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/shoushi1
+  rotate: true
+  xy: 551, 248
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/shoushi2
+  rotate: false
+  xy: 424, 195
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/shoushi3
+  rotate: true
+  xy: 300, 33
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/toushi
+  rotate: false
+  xy: 313, 205
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/toushi1
+  rotate: false
+  xy: 949, 422
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/weapon2
+  rotate: false
+  xy: 589, 350
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/weapon3
+  rotate: false
+  xy: 669, 358
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/winginner
+  rotate: false
+  xy: 160, 204
+  size: 151, 98
+  orig: 151, 98
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/winginner1
+  rotate: false
+  xy: 790, 419
+  size: 157, 91
+  orig: 157, 91
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/wingout
+  rotate: false
+  xy: 397, 415
+  size: 195, 95
+  orig: 195, 95
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/wingout1
+  rotate: false
+  xy: 207, 405
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/xiabai
+  rotate: false
+  xy: 738, 331
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/xiabai1
+  rotate: false
+  xy: 620, 287
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/yaojia
+  rotate: true
+  xy: 525, 198
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_3/yaojia1
+  rotate: false
+  xy: 657, 327
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/arminnerdown
+  rotate: false
+  xy: 390, 154
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/arminnerup
+  rotate: false
+  xy: 621, 315
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/armoutdown
+  rotate: false
+  xy: 339, 173
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/armoutup
+  rotate: true
+  xy: 444, 186
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/body
+  rotate: false
+  xy: 794, 360
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/hair6
+  rotate: false
+  xy: 2, 317
+  size: 203, 193
+  orig: 203, 193
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/handinner
+  rotate: false
+  xy: 388, 178
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/handout
+  rotate: false
+  xy: 484, 185
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/leginnerdown
+  rotate: false
+  xy: 300, 87
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/leginnerup
+  rotate: true
+  xy: 669, 330
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/legoutdown
+  rotate: true
+  xy: 282, 2
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/legoutup
+  rotate: false
+  xy: 522, 228
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/shoushi
+  rotate: true
+  xy: 589, 324
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/shoushi1
+  rotate: false
+  xy: 310, 165
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/shoushi2
+  rotate: false
+  xy: 325, 107
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/shoushi3
+  rotate: false
+  xy: 368, 172
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/texiao1
+  rotate: true
+  xy: 213, 33
+  size: 99, 85
+  orig: 99, 85
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/texiao2
+  rotate: false
+  xy: 507, 344
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/texiao3
+  rotate: true
+  xy: 551, 193
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/texiao4
+  rotate: true
+  xy: 310, 134
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/texiao5
+  rotate: false
+  xy: 368, 142
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/texiao6
+  rotate: false
+  xy: 598, 289
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/toushi
+  rotate: false
+  xy: 361, 306
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/toushi1
+  rotate: false
+  xy: 439, 325
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/winginner
+  rotate: false
+  xy: 207, 304
+  size: 152, 99
+  orig: 152, 99
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/wingout
+  rotate: false
+  xy: 594, 415
+  size: 194, 95
+  orig: 194, 95
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/xiabai
+  rotate: false
+  xy: 551, 223
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/xiabai1
+  rotate: false
+  xy: 551, 165
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/yaojia
+  rotate: true
+  xy: 342, 143
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Patsyr/Blood/Patsyr_Blood_4/yaojia1
+  rotate: true
+  xy: 160, 305
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 417, 230
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

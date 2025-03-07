@@ -1,0 +1,244 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shalltear/Shadow
+  rotate: true
+  xy: 315, 7
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/arminnerdown
+  rotate: false
+  xy: 837, 135
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/arminnerup
+  rotate: false
+  xy: 534, 2
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/armoutdown
+  rotate: true
+  xy: 873, 116
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/armoutup
+  rotate: false
+  xy: 613, 304
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/body
+  rotate: false
+  xy: 959, 223
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/eyehard
+  rotate: true
+  xy: 593, 201
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/eyehard1
+  rotate: true
+  xy: 593, 165
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/eyehard2
+  rotate: true
+  xy: 598, 53
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/face
+  rotate: true
+  xy: 613, 170
+  size: 131, 147
+  orig: 131, 147
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/hair1
+  rotate: true
+  xy: 183, 15
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/hair2
+  rotate: false
+  xy: 886, 298
+  size: 129, 212
+  orig: 129, 212
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/hair3
+  rotate: true
+  xy: 344, 20
+  size: 109, 188
+  orig: 109, 188
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/handinner
+  rotate: true
+  xy: 593, 131
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/handinner2
+  rotate: false
+  xy: 679, 147
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/handinner3
+  rotate: false
+  xy: 620, 148
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/handout
+  rotate: false
+  xy: 837, 110
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/handout2
+  rotate: false
+  xy: 653, 145
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/hat
+  rotate: false
+  xy: 344, 131
+  size: 247, 104
+  orig: 247, 104
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/leginnerdown
+  rotate: false
+  xy: 598, 88
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/legoutdown
+  rotate: false
+  xy: 924, 115
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/mianju
+  rotate: false
+  xy: 762, 185
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/qunzi
+  rotate: true
+  xy: 534, 40
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/qunzi1
+  rotate: false
+  xy: 956, 131
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/qunzi2
+  rotate: true
+  xy: 876, 158
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/qunzi3
+  rotate: true
+  xy: 762, 119
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/texiao2
+  rotate: false
+  xy: 650, 303
+  size: 234, 207
+  orig: 234, 207
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/xiongshi
+  rotate: false
+  xy: 565, 5
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_3/yumao
+  rotate: false
+  xy: 876, 205
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_4/fx1
+  rotate: false
+  xy: 2, 3
+  size: 179, 78
+  orig: 179, 78
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_4/fx2
+  rotate: false
+  xy: 362, 237
+  size: 249, 114
+  orig: 249, 114
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_4/fx3
+  rotate: false
+  xy: 362, 353
+  size: 286, 157
+  orig: 286, 157
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_4/fx4
+  rotate: false
+  xy: 2, 83
+  size: 340, 195
+  orig: 340, 195
+  offset: 0, 0
+  index: -1
+Shalltear/Shalltear_TureVampire_4/fx5
+  rotate: false
+  xy: 2, 280
+  size: 358, 230
+  orig: 358, 230
+  offset: 0, 0
+  index: -1

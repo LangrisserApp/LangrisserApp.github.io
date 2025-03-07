@@ -1,0 +1,293 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freya/Guardian/Freya_Guardian_2/weapon
+  rotate: false
+  xy: 2, 428
+  size: 308, 82
+  orig: 308, 82
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/arminnerdown
+  rotate: true
+  xy: 474, 401
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/arminnerup
+  rotate: true
+  xy: 318, 207
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/armoutdown
+  rotate: true
+  xy: 185, 25
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/armoutup
+  rotate: true
+  xy: 384, 392
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/body
+  rotate: true
+  xy: 312, 431
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/eyebrow
+  rotate: false
+  xy: 2, 7
+  size: 65, 6
+  orig: 65, 6
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/eyehard
+  rotate: true
+  xy: 246, 206
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/eyehard1
+  rotate: false
+  xy: 109, 44
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/eyehard2
+  rotate: true
+  xy: 459, 397
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/eyehard3
+  rotate: false
+  xy: 260, 289
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/eyesuffer
+  rotate: true
+  xy: 321, 362
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/eyeyun
+  rotate: false
+  xy: 260, 309
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/face
+  rotate: false
+  xy: 129, 282
+  size: 129, 144
+  orig: 129, 144
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hair2
+  rotate: false
+  xy: 474, 442
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hair3
+  rotate: true
+  xy: 312, 473
+  size: 37, 160
+  orig: 37, 160
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hair4
+  rotate: true
+  xy: 2, 15
+  size: 37, 94
+  orig: 37, 94
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hair5
+  rotate: false
+  xy: 197, 113
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hair6
+  rotate: false
+  xy: 307, 241
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hair7
+  rotate: true
+  xy: 353, 361
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hair8
+  rotate: false
+  xy: 109, 91
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/hairback
+  rotate: false
+  xy: 2, 203
+  size: 125, 223
+  orig: 125, 223
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/jianjiainner
+  rotate: false
+  xy: 197, 83
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/jianjiaout
+  rotate: false
+  xy: 389, 434
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/leginnerdown
+  rotate: false
+  xy: 326, 309
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/leginnerup
+  rotate: false
+  xy: 352, 315
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/legoutdown
+  rotate: true
+  xy: 266, 211
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/legoutup
+  rotate: false
+  xy: 150, 5
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/mouth01
+  rotate: false
+  xy: 333, 289
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/mouth02
+  rotate: false
+  xy: 333, 297
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/mouth03
+  rotate: true
+  xy: 233, 67
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/mouth04
+  rotate: false
+  xy: 246, 200
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/pifeng
+  rotate: false
+  xy: 260, 342
+  size: 59, 84
+  orig: 59, 84
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/pifeng1
+  rotate: true
+  xy: 2, 54
+  size: 147, 105
+  orig: 147, 105
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/shield
+  rotate: true
+  xy: 129, 200
+  size: 80, 115
+  orig: 80, 115
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/yaojiainner
+  rotate: false
+  xy: 125, 2
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/yaojiainner1
+  rotate: false
+  xy: 98, 2
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/yaojiaout
+  rotate: false
+  xy: 266, 241
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Guardian/Leticia_Guardian_2/yaojiaout1
+  rotate: true
+  xy: 185, 51
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Leticia/dd
+  rotate: false
+  xy: 260, 283
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 109, 64
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

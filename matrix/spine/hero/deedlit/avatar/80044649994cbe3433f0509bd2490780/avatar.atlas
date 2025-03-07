@@ -1,0 +1,356 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/arminnerdown
+  rotate: false
+  xy: 708, 224
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/arminnerup
+  rotate: true
+  xy: 642, 223
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/armoutdown
+  rotate: false
+  xy: 741, 222
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/armoutup
+  rotate: true
+  xy: 607, 225
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/body
+  rotate: false
+  xy: 929, 341
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/daizi
+  rotate: false
+  xy: 929, 318
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/daizi1
+  rotate: false
+  xy: 265, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/earinner
+  rotate: true
+  xy: 342, 13
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/earout
+  rotate: false
+  xy: 422, 97
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/eyebrow
+  rotate: false
+  xy: 342, 2
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/eyehard
+  rotate: true
+  xy: 998, 433
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/eyehard1
+  rotate: true
+  xy: 499, 147
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/eyehard2
+  rotate: false
+  xy: 187, 3
+  size: 76, 17
+  orig: 76, 17
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/eyehard3
+  rotate: false
+  xy: 531, 227
+  size: 68, 7
+  orig: 68, 7
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/eyesffuer
+  rotate: true
+  xy: 795, 254
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/eyeyun
+  rotate: true
+  xy: 827, 255
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/face
+  rotate: false
+  xy: 531, 263
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/hair1
+  rotate: true
+  xy: 708, 251
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/hair2
+  rotate: false
+  xy: 858, 324
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/hair3
+  rotate: false
+  xy: 512, 105
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/hair4
+  rotate: false
+  xy: 327, 249
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/handinner
+  rotate: false
+  xy: 770, 224
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/handinner1
+  rotate: false
+  xy: 676, 228
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/handout
+  rotate: false
+  xy: 327, 226
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/handout2
+  rotate: false
+  xy: 998, 408
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/headinner
+  rotate: false
+  xy: 866, 399
+  size: 130, 111
+  orig: 130, 111
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/headinner1
+  rotate: false
+  xy: 349, 226
+  size: 180, 130
+  orig: 180, 130
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/jianjiainner
+  rotate: false
+  xy: 371, 61
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/jianjiaout
+  rotate: false
+  xy: 310, 60
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/jianjiaout1
+  rotate: true
+  xy: 385, 17
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/leginnerdown
+  rotate: false
+  xy: 484, 99
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/leginnerup
+  rotate: true
+  xy: 422, 67
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/legoutdown
+  rotate: false
+  xy: 984, 350
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/legoutup
+  rotate: false
+  xy: 310, 2
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/mouth01
+  rotate: false
+  xy: 998, 399
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/mouth02
+  rotate: true
+  xy: 410, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/mouth03
+  rotate: false
+  xy: 294, 11
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/mouth04
+  rotate: true
+  xy: 618, 341
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/pifeng
+  rotate: false
+  xy: 187, 22
+  size: 121, 76
+  orig: 121, 76
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/pifeng1
+  rotate: true
+  xy: 618, 255
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/pifeng2
+  rotate: false
+  xy: 2, 7
+  size: 183, 91
+  orig: 183, 91
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/qunzi
+  rotate: false
+  xy: 327, 98
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/weapon
+  rotate: false
+  xy: 327, 145
+  size: 170, 79
+  orig: 170, 79
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_3/weapon1
+  rotate: false
+  xy: 799, 321
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_4/1
+  rotate: false
+  xy: 624, 324
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_4/2
+  rotate: false
+  xy: 624, 401
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Deedlit/Deedlit_Runeblade/Deedlit_Runeblade_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 531, 236
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

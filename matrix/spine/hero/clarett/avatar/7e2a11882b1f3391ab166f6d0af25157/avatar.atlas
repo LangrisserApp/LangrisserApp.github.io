@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clarett/Knight/Clarett_HighRider_3/arminnerup
+  rotate: true
+  xy: 413, 39
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/armoutup
+  rotate: false
+  xy: 432, 116
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/body
+  rotate: false
+  xy: 375, 223
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/eyebrow
+  rotate: false
+  xy: 375, 211
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/eyehard
+  rotate: true
+  xy: 373, 146
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/eyehard1
+  rotate: true
+  xy: 398, 147
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/eyehard2
+  rotate: true
+  xy: 423, 147
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/eyehard3
+  rotate: true
+  xy: 441, 150
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/eyesffuer
+  rotate: false
+  xy: 306, 7
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/eyeyun
+  rotate: true
+  xy: 478, 316
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/face
+  rotate: false
+  xy: 150, 237
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/hair1
+  rotate: true
+  xy: 438, 384
+  size: 126, 66
+  orig: 126, 66
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/hair2
+  rotate: false
+  xy: 2, 5
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/hair3
+  rotate: false
+  xy: 366, 300
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/hair6
+  rotate: true
+  xy: 268, 378
+  size: 37, 128
+  orig: 37, 128
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/hair7
+  rotate: false
+  xy: 230, 110
+  size: 40, 125
+  orig: 40, 125
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/hairback
+  rotate: false
+  xy: 2, 245
+  size: 146, 120
+  orig: 146, 120
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/handinner
+  rotate: false
+  xy: 398, 387
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/handout
+  rotate: false
+  xy: 390, 56
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/horse_head
+  rotate: false
+  xy: 2, 118
+  size: 135, 125
+  orig: 135, 125
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/horse_neck
+  rotate: true
+  xy: 275, 210
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/horse_tunjia
+  rotate: false
+  xy: 230, 9
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/horse_xiongjia
+  rotate: false
+  xy: 139, 120
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/jianjiainner
+  rotate: false
+  xy: 426, 223
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/jianjiaout
+  rotate: true
+  xy: 333, 43
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/legoutdown
+  rotate: false
+  xy: 373, 104
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/legoutup
+  rotate: false
+  xy: 478, 216
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/mouth01
+  rotate: false
+  xy: 445, 212
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/mouth02
+  rotate: false
+  xy: 272, 110
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/mouth03
+  rotate: false
+  xy: 287, 111
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/mouth04
+  rotate: true
+  xy: 506, 495
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/weapon
+  rotate: false
+  xy: 2, 428
+  size: 276, 82
+  orig: 276, 82
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/weapon1
+  rotate: true
+  xy: 100, 2
+  size: 106, 65
+  orig: 106, 65
+  offset: 0, 0
+  index: -1
+Clarett/Knight/Clarett_HighRider_3/yaojiaout
+  rotate: true
+  xy: 426, 255
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_backlegdown
+  rotate: false
+  xy: 398, 99
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_backlegup
+  rotate: false
+  xy: 272, 122
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_body
+  rotate: false
+  xy: 280, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_frontlegdown
+  rotate: false
+  xy: 478, 265
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_frontlegup
+  rotate: false
+  xy: 424, 312
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_guajian1
+  rotate: false
+  xy: 372, 55
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_guajian2
+  rotate: true
+  xy: 334, 112
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_mana
+  rotate: false
+  xy: 275, 287
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_weiba
+  rotate: true
+  xy: 167, 6
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: true
+  xy: 413, 64
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 367
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 306, 46
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

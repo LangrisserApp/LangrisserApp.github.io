@@ -1,0 +1,377 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Renata/Renata_Orge/Renata_Orge_3/arminnerdown
+  rotate: false
+  xy: 459, 141
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/arminnerup
+  rotate: false
+  xy: 878, 320
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/armoutdown
+  rotate: true
+  xy: 684, 323
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/armoutup
+  rotate: true
+  xy: 845, 323
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/body
+  rotate: true
+  xy: 339, 224
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/dang
+  rotate: false
+  xy: 597, 322
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/erduo
+  rotate: false
+  xy: 498, 305
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/erduo1
+  rotate: false
+  xy: 410, 224
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/eyebrow
+  rotate: false
+  xy: 2, 16
+  size: 64, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/eyehard
+  rotate: false
+  xy: 498, 280
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/eyehard1
+  rotate: true
+  xy: 572, 296
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/eyehard2
+  rotate: true
+  xy: 1007, 438
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/eyehard3
+  rotate: true
+  xy: 339, 282
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/eyesffuer
+  rotate: true
+  xy: 463, 219
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/eyeyun
+  rotate: true
+  xy: 425, 123
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/face
+  rotate: false
+  xy: 496, 370
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/hair1
+  rotate: true
+  xy: 611, 430
+  size: 80, 167
+  orig: 80, 167
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/hair2
+  rotate: true
+  xy: 222, 2
+  size: 40, 120
+  orig: 40, 120
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/hair3
+  rotate: true
+  xy: 611, 361
+  size: 67, 161
+  orig: 67, 161
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/hair4
+  rotate: true
+  xy: 2, 24
+  size: 192, 218
+  orig: 192, 218
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/hair5
+  rotate: false
+  xy: 222, 44
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/hair6
+  rotate: false
+  xy: 310, 90
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/handinner
+  rotate: false
+  xy: 764, 295
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/handout
+  rotate: true
+  xy: 462, 178
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/handout1
+  rotate: true
+  xy: 797, 294
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/haojiao
+  rotate: true
+  xy: 811, 325
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/haojiao1
+  rotate: false
+  xy: 425, 106
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/jianjia
+  rotate: true
+  xy: 380, 32
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/jianjia1
+  rotate: false
+  xy: 769, 325
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/leginnerdown
+  rotate: true
+  xy: 597, 296
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/leginnerup
+  rotate: true
+  xy: 641, 295
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/legoutdown
+  rotate: true
+  xy: 724, 331
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/legoutup
+  rotate: true
+  xy: 684, 295
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/mouth01
+  rotate: false
+  xy: 1007, 430
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/mouth02
+  rotate: true
+  xy: 398, 90
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/mouth03
+  rotate: false
+  xy: 829, 314
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/mouth04
+  rotate: false
+  xy: 937, 424
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/pifeng
+  rotate: false
+  xy: 937, 430
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/pifeng1
+  rotate: true
+  xy: 310, 48
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/pifeng2
+  rotate: false
+  xy: 774, 352
+  size: 127, 70
+  orig: 127, 70
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/toushi
+  rotate: false
+  xy: 349, 364
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_3/weapon
+  rotate: false
+  xy: 2, 218
+  size: 335, 129
+  orig: 335, 129
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/arminnerdown
+  rotate: true
+  xy: 727, 298
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/armoutdown
+  rotate: true
+  xy: 644, 322
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/jianjia
+  rotate: false
+  xy: 398, 181
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/jianjia1
+  rotate: true
+  xy: 344, 6
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/pifeng
+  rotate: true
+  xy: 349, 278
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/pifeng1
+  rotate: false
+  xy: 448, 278
+  size: 48, 84
+  orig: 48, 84
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/pifeng2
+  rotate: false
+  xy: 780, 424
+  size: 155, 86
+  orig: 155, 86
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/toushi
+  rotate: false
+  xy: 903, 338
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/weapon
+  rotate: false
+  xy: 2, 349
+  size: 345, 161
+  orig: 345, 161
+  offset: 0, 0
+  index: -1
+Renata/Renata_Orge/Renata_Orge_4/yaodai
+  rotate: false
+  xy: 380, 2
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 398, 105
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

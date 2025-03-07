@@ -1,0 +1,377 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sherry/Sherry_SP/Shadow
+  rotate: false
+  xy: 64, 5
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/arminnerdown
+  rotate: true
+  xy: 797, 299
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/arminnerup
+  rotate: true
+  xy: 214, 2
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/armoutdown
+  rotate: false
+  xy: 934, 418
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/armoutdown2
+  rotate: false
+  xy: 859, 410
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/armoutup
+  rotate: false
+  xy: 158, 2
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/body
+  rotate: false
+  xy: 165, 213
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/body2
+  rotate: false
+  xy: 165, 125
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/eyebrow
+  rotate: false
+  xy: 788, 433
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/eyehard
+  rotate: true
+  xy: 366, 220
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/eyehard1
+  rotate: true
+  xy: 769, 360
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/eyehard2
+  rotate: true
+  xy: 798, 360
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/eyehard3
+  rotate: true
+  xy: 826, 364
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/eyesffuer
+  rotate: false
+  xy: 165, 86
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/eyeyun
+  rotate: false
+  xy: 158, 51
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/face
+  rotate: false
+  xy: 396, 369
+  size: 171, 141
+  orig: 171, 141
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/hair1
+  rotate: true
+  xy: 396, 316
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/hair2
+  rotate: true
+  xy: 288, 221
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/hair3
+  rotate: true
+  xy: 182, 303
+  size: 45, 111
+  orig: 45, 111
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/hair4
+  rotate: true
+  xy: 552, 331
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/hand2
+  rotate: true
+  xy: 814, 335
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/handinner
+  rotate: false
+  xy: 438, 267
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/handout
+  rotate: false
+  xy: 395, 227
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/huangguan
+  rotate: false
+  xy: 908, 443
+  size: 113, 67
+  orig: 113, 67
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/leginnerdown
+  rotate: true
+  xy: 552, 303
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/leginnerup
+  rotate: true
+  xy: 229, 51
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/legoutdown
+  rotate: true
+  xy: 618, 324
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/legoutup
+  rotate: true
+  xy: 668, 314
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/mouth01
+  rotate: false
+  xy: 552, 359
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/mouth02
+  rotate: true
+  xy: 604, 315
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/mouth04
+  rotate: false
+  xy: 229, 217
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/paidiai1
+  rotate: true
+  xy: 715, 307
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/paidiai2
+  rotate: false
+  xy: 395, 259
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/paidiai3
+  rotate: false
+  xy: 788, 446
+  size: 118, 64
+  orig: 118, 64
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/paidiai5
+  rotate: false
+  xy: 569, 433
+  size: 217, 77
+  orig: 217, 77
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/qungzi2
+  rotate: false
+  xy: 2, 32
+  size: 154, 59
+  orig: 154, 59
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/qungziinner
+  rotate: false
+  xy: 295, 293
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/qungziout
+  rotate: true
+  xy: 229, 225
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/shiping1
+  rotate: false
+  xy: 852, 380
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/shiping2
+  rotate: true
+  xy: 569, 357
+  size: 74, 103
+  orig: 74, 103
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/shiziguang_1
+  rotate: true
+  xy: 2, 93
+  size: 212, 161
+  orig: 212, 161
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_1
+  rotate: false
+  xy: 182, 350
+  size: 212, 160
+  orig: 212, 160
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_11
+  rotate: true
+  xy: 394, 298
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_12
+  rotate: true
+  xy: 474, 302
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_14
+  rotate: false
+  xy: 769, 335
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_2
+  rotate: false
+  xy: 758, 300
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_6
+  rotate: false
+  xy: 442, 295
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_7
+  rotate: true
+  xy: 674, 347
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/texiao_8
+  rotate: true
+  xy: 969, 420
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/tx1
+  rotate: false
+  xy: 438, 238
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/weapon
+  rotate: false
+  xy: 2, 307
+  size: 178, 203
+  orig: 178, 203
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/yaojiainner
+  rotate: false
+  xy: 897, 415
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_SP/yaojiaout
+  rotate: false
+  xy: 2, 2
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1

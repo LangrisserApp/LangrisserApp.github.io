@@ -1,0 +1,496 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ashumere_Magic_2/body
+  rotate: false
+  xy: 592, 330
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_2/qunzai
+  rotate: true
+  xy: 548, 242
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_2/qunzai3
+  rotate: true
+  xy: 963, 407
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_2/toushi
+  rotate: false
+  xy: 361, 315
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_2/toushi1
+  rotate: false
+  xy: 326, 181
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_2/weapon
+  rotate: true
+  xy: 369, 472
+  size: 38, 205
+  orig: 38, 205
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_3/body
+  rotate: true
+  xy: 654, 336
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_3/pifenginner
+  rotate: true
+  xy: 750, 442
+  size: 68, 127
+  orig: 68, 127
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_3/pifengiout
+  rotate: false
+  xy: 68, 236
+  size: 93, 133
+  orig: 93, 133
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_3/toushi
+  rotate: false
+  xy: 369, 387
+  size: 156, 83
+  orig: 156, 83
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_3/weapon
+  rotate: false
+  xy: 2, 3
+  size: 50, 227
+  orig: 50, 227
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/Shadow
+  rotate: false
+  xy: 724, 330
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/arminnerdown
+  rotate: false
+  xy: 290, 98
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/arminnerup
+  rotate: true
+  xy: 203, 25
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/armoutdown
+  rotate: true
+  xy: 241, 66
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/armoutup
+  rotate: true
+  xy: 361, 211
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/body
+  rotate: true
+  xy: 816, 380
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/erhaninner
+  rotate: false
+  xy: 734, 452
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/erhanout
+  rotate: false
+  xy: 1008, 482
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/eyebrow
+  rotate: false
+  xy: 258, 236
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/eyehard
+  rotate: false
+  xy: 886, 380
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/eyehard01
+  rotate: true
+  xy: 241, 154
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/eyehard02
+  rotate: true
+  xy: 268, 156
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/eyehard03
+  rotate: false
+  xy: 54, 4
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/eyesffuer
+  rotate: false
+  xy: 724, 357
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/eyeyun
+  rotate: false
+  xy: 886, 407
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/face
+  rotate: false
+  xy: 68, 371
+  size: 130, 139
+  orig: 130, 139
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair1
+  rotate: true
+  xy: 527, 387
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair10
+  rotate: false
+  xy: 54, 15
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair11
+  rotate: false
+  xy: 95, 126
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair12
+  rotate: false
+  xy: 170, 123
+  size: 69, 111
+  orig: 69, 111
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair2
+  rotate: true
+  xy: 209, 69
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair3
+  rotate: true
+  xy: 274, 67
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair4
+  rotate: false
+  xy: 433, 220
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair5
+  rotate: false
+  xy: 133, 17
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair6
+  rotate: false
+  xy: 288, 174
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair7
+  rotate: false
+  xy: 672, 398
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair8
+  rotate: true
+  xy: 480, 324
+  size: 61, 110
+  orig: 61, 110
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hair9
+  rotate: true
+  xy: 361, 245
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hand1
+  rotate: false
+  xy: 331, 215
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hand2
+  rotate: false
+  xy: 170, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/hand3
+  rotate: false
+  xy: 397, 216
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/handinner
+  rotate: false
+  xy: 349, 388
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/handout
+  rotate: true
+  xy: 195, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/leginnerdwon
+  rotate: false
+  xy: 290, 133
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/leginnerup
+  rotate: false
+  xy: 236, 21
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/legoutdown
+  rotate: false
+  xy: 241, 106
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/legoutup
+  rotate: false
+  xy: 170, 28
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/liantiaoinner
+  rotate: true
+  xy: 200, 379
+  size: 39, 147
+  orig: 39, 147
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/liantiaoinner1
+  rotate: false
+  xy: 54, 110
+  size: 39, 120
+  orig: 39, 120
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/liantiaoout
+  rotate: false
+  xy: 330, 250
+  size: 29, 127
+  orig: 29, 127
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/liantiaoout1
+  rotate: true
+  xy: 576, 482
+  size: 28, 172
+  orig: 28, 172
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/mao
+  rotate: false
+  xy: 312, 68
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/mao1
+  rotate: true
+  xy: 269, 112
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/maozi
+  rotate: true
+  xy: 258, 247
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/mouth01
+  rotate: true
+  xy: 326, 217
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/mouth02
+  rotate: false
+  xy: 343, 198
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/mouth03
+  rotate: false
+  xy: 200, 374
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/mouth04
+  rotate: true
+  xy: 95, 110
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/pifenginner
+  rotate: true
+  xy: 879, 442
+  size: 68, 127
+  orig: 68, 127
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/pifengiout
+  rotate: false
+  xy: 163, 236
+  size: 93, 133
+  orig: 93, 133
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/qunzai
+  rotate: false
+  xy: 734, 391
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/qunzai1
+  rotate: false
+  xy: 578, 400
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/qunzai2
+  rotate: false
+  xy: 481, 252
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/qunzai3
+  rotate: false
+  xy: 133, 65
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/toushi
+  rotate: false
+  xy: 200, 420
+  size: 167, 90
+  orig: 167, 90
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/toushi1
+  rotate: false
+  xy: 599, 243
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/weapon
+  rotate: false
+  xy: 2, 232
+  size: 64, 278
+  orig: 64, 278
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/xiuziinner
+  rotate: false
+  xy: 168, 74
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Ashumere_Magic_4/xiuziout
+  rotate: false
+  xy: 968, 354
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1

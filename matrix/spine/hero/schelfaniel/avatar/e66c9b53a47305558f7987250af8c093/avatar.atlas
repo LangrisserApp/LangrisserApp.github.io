@@ -1,0 +1,237 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riana/Riana_Bishop/Riana_HighBishop_2/arminner1
+  rotate: false
+  xy: 100, 26
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/armout1
+  rotate: false
+  xy: 71, 17
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handinner
+  rotate: false
+  xy: 143, 195
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handout
+  rotate: true
+  xy: 335, 394
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijianiinner
+  rotate: false
+  xy: 272, 348
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/weapon
+  rotate: false
+  xy: 2, 413
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodai
+  rotate: true
+  xy: 149, 74
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodaipeijian
+  rotate: false
+  xy: 192, 228
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Bishop/Schelfaniel_Bishop_2/body
+  rotate: true
+  xy: 256, 420
+  size: 90, 142
+  orig: 90, 142
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Bishop/Schelfaniel_Bishop_2/fushi
+  rotate: false
+  xy: 143, 227
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Bishop/Schelfaniel_Bishop_2/pijian
+  rotate: false
+  xy: 400, 406
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyebrow
+  rotate: true
+  xy: 240, 248
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard
+  rotate: true
+  xy: 149, 126
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard1
+  rotate: true
+  xy: 174, 126
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard2
+  rotate: false
+  xy: 82, 57
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard3
+  rotate: false
+  xy: 394, 395
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyesffuer
+  rotate: true
+  xy: 38, 3
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyeyun
+  rotate: false
+  xy: 272, 388
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/face
+  rotate: false
+  xy: 2, 193
+  size: 139, 109
+  orig: 139, 109
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair
+  rotate: false
+  xy: 192, 247
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair1
+  rotate: false
+  xy: 2, 2
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair2
+  rotate: false
+  xy: 82, 74
+  size: 65, 117
+  orig: 65, 117
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair3
+  rotate: false
+  xy: 2, 66
+  size: 78, 125
+  orig: 78, 125
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hat
+  rotate: false
+  xy: 2, 304
+  size: 153, 107
+  orig: 153, 107
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hat1
+  rotate: true
+  xy: 400, 458
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hat2
+  rotate: false
+  xy: 157, 314
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth01
+  rotate: true
+  xy: 503, 496
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth02
+  rotate: false
+  xy: 245, 321
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth04
+  rotate: true
+  xy: 491, 440
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/toushi
+  rotate: true
+  xy: 150, 47
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/toushi1
+  rotate: false
+  xy: 323, 354
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 245, 337
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth03
+  rotate: true
+  xy: 503, 481
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1

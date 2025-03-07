@@ -1,0 +1,419 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/Shadow
+  rotate: true
+  xy: 277, 186
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/arminnerdown
+  rotate: false
+  xy: 277, 142
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/arminnerdown1
+  rotate: false
+  xy: 375, 260
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/arminnerup
+  rotate: false
+  xy: 476, 305
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/armoutdown
+  rotate: false
+  xy: 269, 27
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/armoutdown1
+  rotate: true
+  xy: 446, 278
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/armoutup
+  rotate: true
+  xy: 392, 336
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/body
+  rotate: false
+  xy: 162, 43
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/eyebrow
+  rotate: false
+  xy: 49, 8
+  size: 83, 18
+  orig: 83, 18
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/eyehard
+  rotate: false
+  xy: 729, 395
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/eyehard1
+  rotate: true
+  xy: 304, 190
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/eyehard2
+  rotate: false
+  xy: 338, 373
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/eyehard3
+  rotate: false
+  xy: 162, 33
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/eyesffuer
+  rotate: false
+  xy: 338, 394
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/eyeyun
+  rotate: false
+  xy: 228, 262
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/face
+  rotate: true
+  xy: 439, 390
+  size: 120, 138
+  orig: 120, 138
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hair
+  rotate: true
+  xy: 729, 460
+  size: 50, 111
+  orig: 50, 111
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hair1
+  rotate: true
+  xy: 842, 462
+  size: 48, 111
+  orig: 48, 111
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hair2
+  rotate: false
+  xy: 469, 345
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hair3
+  rotate: false
+  xy: 226, 66
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hairh
+  rotate: false
+  xy: 579, 435
+  size: 148, 75
+  orig: 148, 75
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/handinner
+  rotate: false
+  xy: 287, 117
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/handinner1
+  rotate: false
+  xy: 205, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/handout
+  rotate: false
+  xy: 801, 394
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hat
+  rotate: false
+  xy: 2, 28
+  size: 158, 125
+  orig: 158, 125
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hat1
+  rotate: false
+  xy: 360, 263
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/hat2
+  rotate: false
+  xy: 271, 66
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/jzinner
+  rotate: false
+  xy: 516, 319
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/jzout
+  rotate: false
+  xy: 694, 393
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/kua
+  rotate: true
+  xy: 446, 296
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/leginnerdown
+  rotate: true
+  xy: 226, 44
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/leginnerup
+  rotate: true
+  xy: 228, 113
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/legoutdown
+  rotate: true
+  xy: 315, 262
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/legoutup
+  rotate: false
+  xy: 376, 283
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/lingziinner
+  rotate: true
+  xy: 162, 2
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/lingziinner1
+  rotate: false
+  xy: 231, 290
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/lingziout
+  rotate: false
+  xy: 228, 142
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/mouth01
+  rotate: true
+  xy: 231, 390
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/mouth02
+  rotate: true
+  xy: 329, 373
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/mouth04
+  rotate: false
+  xy: 49, 2
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/pifeng1
+  rotate: true
+  xy: 238, 386
+  size: 35, 98
+  orig: 35, 98
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/pifeng2
+  rotate: false
+  xy: 2, 300
+  size: 227, 101
+  orig: 227, 101
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/pifeng3
+  rotate: false
+  xy: 579, 392
+  size: 113, 41
+  orig: 113, 41
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/pifeng4
+  rotate: false
+  xy: 514, 353
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/pifeng5
+  rotate: false
+  xy: 2, 2
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/weapon
+  rotate: true
+  xy: 162, 116
+  size: 182, 64
+  orig: 182, 64
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/xiabaiinner1
+  rotate: true
+  xy: 955, 438
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/xiabaiout
+  rotate: true
+  xy: 329, 336
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/xiabaiout1
+  rotate: true
+  xy: 134, 11
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_3/xianbai
+  rotate: true
+  xy: 231, 338
+  size: 46, 96
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/hat
+  rotate: false
+  xy: 2, 155
+  size: 158, 143
+  orig: 158, 143
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/jxinner
+  rotate: false
+  xy: 327, 203
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/jxout
+  rotate: false
+  xy: 228, 198
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/pifeng1
+  rotate: true
+  xy: 729, 418
+  size: 40, 104
+  orig: 40, 104
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/pifeng2
+  rotate: false
+  xy: 2, 403
+  size: 234, 107
+  orig: 234, 107
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/pifeng4
+  rotate: false
+  xy: 321, 290
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/pjinner
+  rotate: false
+  xy: 413, 279
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/pjout
+  rotate: false
+  xy: 426, 341
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Chancellor/ArkMarshal/Chancellor_ArkMarshal_4/weapon
+  rotate: false
+  xy: 238, 423
+  size: 199, 87
+  orig: 199, 87
+  offset: 0, 0
+  index: -1

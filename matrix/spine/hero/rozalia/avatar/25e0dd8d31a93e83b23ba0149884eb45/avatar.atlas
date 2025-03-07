@@ -1,0 +1,538 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/Pike
+  rotate: false
+  xy: 517, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/arminnerdown
+  rotate: true
+  xy: 234, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/arminnerup
+  rotate: false
+  xy: 750, 118
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/armoutdown
+  rotate: true
+  xy: 603, 134
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/armoutup
+  rotate: true
+  xy: 192, 2
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/body
+  rotate: true
+  xy: 891, 251
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/eyebrow
+  rotate: false
+  xy: 828, 146
+  size: 59, 10
+  orig: 59, 10
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/eyehard
+  rotate: true
+  xy: 490, 7
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/eyehard01
+  rotate: true
+  xy: 517, 11
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/eyehard02
+  rotate: true
+  xy: 1004, 325
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/eyehard3
+  rotate: true
+  xy: 544, 13
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/eyeyun
+  rotate: false
+  xy: 65, 2
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/face
+  rotate: false
+  xy: 678, 322
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hair1
+  rotate: false
+  xy: 498, 265
+  size: 109, 78
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hair2
+  rotate: false
+  xy: 389, 3
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hair3
+  rotate: false
+  xy: 993, 105
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hair4
+  rotate: true
+  xy: 357, 2
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hair5
+  rotate: true
+  xy: 386, 283
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hair6
+  rotate: true
+  xy: 793, 322
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hair7
+  rotate: false
+  xy: 458, 5
+  size: 30, 71
+  orig: 30, 71
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/handinner
+  rotate: false
+  xy: 649, 136
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_backlegdown
+  rotate: false
+  xy: 606, 83
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_backlegup
+  rotate: false
+  xy: 609, 159
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_body
+  rotate: false
+  xy: 517, 345
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_frontlegdown
+  rotate: true
+  xy: 139, 2
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_frontlegup
+  rotate: true
+  xy: 496, 82
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_guajian2
+  rotate: true
+  xy: 609, 248
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_guajian3
+  rotate: true
+  xy: 501, 161
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_head
+  rotate: false
+  xy: 793, 380
+  size: 116, 130
+  orig: 116, 130
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_mana
+  rotate: false
+  xy: 677, 151
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_mana1
+  rotate: true
+  xy: 606, 50
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_neck
+  rotate: true
+  xy: 678, 244
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/horse_weiba
+  rotate: false
+  xy: 911, 396
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/hudang
+  rotate: false
+  xy: 892, 133
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/jianjiainner
+  rotate: false
+  xy: 786, 118
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/jianjiaout
+  rotate: true
+  xy: 561, 87
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/legoutdown
+  rotate: true
+  xy: 556, 134
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/legoutup
+  rotate: true
+  xy: 951, 105
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/mouth01
+  rotate: true
+  xy: 783, 493
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/mouth02
+  rotate: false
+  xy: 978, 251
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/mouth04
+  rotate: true
+  xy: 999, 251
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/weapon1
+  rotate: false
+  xy: 262, 348
+  size: 253, 162
+  orig: 253, 162
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/weapon2
+  rotate: false
+  xy: 352, 83
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght02/yaojiaout
+  rotate: true
+  xy: 672, 118
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/arminnerup
+  rotate: true
+  xy: 638, 15
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/armoutdown
+  rotate: true
+  xy: 501, 132
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/armoutup
+  rotate: false
+  xy: 558, 20
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/body
+  rotate: false
+  xy: 828, 158
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/horse_guajian2
+  rotate: false
+  xy: 262, 2
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/horse_guajian3
+  rotate: false
+  xy: 770, 155
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/horse_guajian6
+  rotate: false
+  xy: 436, 133
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/horse_head
+  rotate: false
+  xy: 139, 38
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/horse_neck
+  rotate: false
+  xy: 262, 77
+  size: 88, 106
+  orig: 88, 106
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/hudang
+  rotate: false
+  xy: 951, 141
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/jianjiainner
+  rotate: false
+  xy: 824, 108
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/jianjiaout
+  rotate: true
+  xy: 978, 268
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/legoutdown
+  rotate: true
+  xy: 561, 62
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/legoutup
+  rotate: true
+  xy: 595, 15
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/weapon1
+  rotate: false
+  xy: 2, 170
+  size: 255, 165
+  orig: 255, 165
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/weapon2
+  rotate: true
+  xy: 951, 169
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght03/yaojiaout
+  rotate: true
+  xy: 711, 118
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/horse_guajian2
+  rotate: false
+  xy: 462, 191
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/horse_guajian3
+  rotate: false
+  xy: 259, 185
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/horse_guajian6
+  rotate: false
+  xy: 431, 78
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/horse_guajian8
+  rotate: true
+  xy: 911, 316
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/horse_head
+  rotate: false
+  xy: 2, 37
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/horse_neck
+  rotate: true
+  xy: 354, 197
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/pifeng
+  rotate: true
+  xy: 558, 206
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/pifeng2
+  rotate: true
+  xy: 262, 294
+  size: 52, 122
+  orig: 52, 122
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/pifeng3
+  rotate: true
+  xy: 785, 245
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/shiping
+  rotate: false
+  xy: 558, 160
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/toushi
+  rotate: true
+  xy: 354, 136
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/weapon1
+  rotate: false
+  xy: 2, 337
+  size: 258, 173
+  orig: 258, 173
+  offset: 0, 0
+  index: -1
+Rozalia/RoyalKinght/Rozalia_RoyalKinght04/weapon2
+  rotate: true
+  xy: 892, 162
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 431, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

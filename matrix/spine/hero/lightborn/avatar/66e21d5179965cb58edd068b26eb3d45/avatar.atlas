@@ -1,0 +1,552 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/arminnerdown
+  rotate: false
+  xy: 296, 42
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/arminnerup
+  rotate: false
+  xy: 283, 128
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/armoutdown
+  rotate: true
+  xy: 454, 165
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/armoutup
+  rotate: true
+  xy: 360, 168
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/body
+  rotate: true
+  xy: 147, 70
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/eyeborw
+  rotate: true
+  xy: 503, 287
+  size: 59, 7
+  orig: 59, 7
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/eyehard
+  rotate: false
+  xy: 126, 42
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/eyehard1
+  rotate: false
+  xy: 126, 14
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/eyehard2
+  rotate: false
+  xy: 432, 236
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/eyehard3
+  rotate: false
+  xy: 91, 3
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/eyesffuer
+  rotate: false
+  xy: 309, 261
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/eyeyun
+  rotate: false
+  xy: 212, 128
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/face
+  rotate: false
+  xy: 2, 151
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hair1
+  rotate: false
+  xy: 266, 332
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hair2
+  rotate: false
+  xy: 458, 419
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hair3
+  rotate: false
+  xy: 162, 346
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hair4
+  rotate: true
+  xy: 221, 167
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hair5
+  rotate: false
+  xy: 91, 66
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hair6
+  rotate: false
+  xy: 2, 285
+  size: 148, 225
+  orig: 148, 225
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hand1
+  rotate: false
+  xy: 480, 120
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/hand4
+  rotate: false
+  xy: 379, 58
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/handinner
+  rotate: false
+  xy: 406, 78
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/handout
+  rotate: true
+  xy: 486, 141
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/leginnerdown
+  rotate: true
+  xy: 406, 99
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/leginnerup
+  rotate: true
+  xy: 436, 141
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/legoutdown
+  rotate: false
+  xy: 306, 208
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/legoutup
+  rotate: false
+  xy: 349, 81
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/mao
+  rotate: false
+  xy: 147, 197
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/mouth01
+  rotate: true
+  xy: 439, 348
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/mouth02
+  rotate: true
+  xy: 147, 266
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/mouth04
+  rotate: false
+  xy: 221, 256
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/qunziinner
+  rotate: false
+  xy: 147, 126
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/qunziout
+  rotate: false
+  xy: 378, 365
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/weapon1
+  rotate: false
+  xy: 152, 285
+  size: 8, 225
+  orig: 8, 225
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/weapon2
+  rotate: false
+  xy: 376, 248
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_2/weapon3
+  rotate: false
+  xy: 307, 430
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/arminnerdown
+  rotate: true
+  xy: 337, 131
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/arminnerup
+  rotate: false
+  xy: 299, 167
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/armoutdown
+  rotate: false
+  xy: 91, 14
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/armoutup
+  rotate: true
+  xy: 409, 165
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/body
+  rotate: false
+  xy: 253, 256
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/jinglian2
+  rotate: false
+  xy: 369, 201
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/jinglian3
+  rotate: false
+  xy: 375, 83
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/jinglian4
+  rotate: true
+  xy: 361, 52
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/jinglian5
+  rotate: true
+  xy: 316, 130
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/leginnerdown
+  rotate: false
+  xy: 271, 2
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/leginnerup
+  rotate: false
+  xy: 381, 119
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/legoutdown
+  rotate: false
+  xy: 323, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/legoutup
+  rotate: true
+  xy: 220, 18
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/mao
+  rotate: false
+  xy: 162, 263
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/qunziinner
+  rotate: false
+  xy: 448, 348
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/qunziout
+  rotate: false
+  xy: 308, 364
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/shiping2
+  rotate: false
+  xy: 253, 332
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/weapon1
+  rotate: false
+  xy: 136, 70
+  size: 9, 213
+  orig: 9, 213
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/weapon2
+  rotate: false
+  xy: 432, 258
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/weapon3
+  rotate: false
+  xy: 162, 420
+  size: 143, 90
+  orig: 143, 90
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_3/weapon4
+  rotate: true
+  xy: 203, 11
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/arminnerdown
+  rotate: true
+  xy: 468, 199
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/arminnerup
+  rotate: false
+  xy: 291, 2
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/armoutdown
+  rotate: false
+  xy: 334, 210
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/armoutup
+  rotate: false
+  xy: 406, 119
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/body
+  rotate: true
+  xy: 220, 72
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/jianjiainner
+  rotate: false
+  xy: 331, 42
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/jianjiainner2
+  rotate: false
+  xy: 450, 94
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/jianjiaout
+  rotate: false
+  xy: 419, 200
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/jinglian1
+  rotate: false
+  xy: 439, 291
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/leginnerdown
+  rotate: true
+  xy: 436, 119
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/leginnerup
+  rotate: false
+  xy: 323, 79
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/legoutdown
+  rotate: false
+  xy: 331, 167
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/legoutup
+  rotate: false
+  xy: 295, 76
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/qunziinner
+  rotate: false
+  xy: 378, 294
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/qunziout
+  rotate: false
+  xy: 309, 299
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/shiping2
+  rotate: true
+  xy: 203, 40
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/weapon1
+  rotate: false
+  xy: 122, 70
+  size: 12, 213
+  orig: 12, 213
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/weapon2
+  rotate: false
+  xy: 221, 208
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/weapon3
+  rotate: true
+  xy: 2, 2
+  size: 147, 87
+  orig: 147, 87
+  offset: 0, 0
+  index: -1
+Lightborn/LightOfJudgement/Lightborn_LightOfJudgement_4/weapon4
+  rotate: false
+  xy: 403, 60
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 220, 45
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,363 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ricky/Knight/Knight_3/Pike
+  rotate: false
+  xy: 2, 416
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/arminnerdown
+  rotate: false
+  xy: 452, 244
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/arminnerup
+  rotate: true
+  xy: 416, 273
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/armoutdown
+  rotate: false
+  xy: 365, 210
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/armoutup
+  rotate: true
+  xy: 389, 215
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/body
+  rotate: true
+  xy: 114, 179
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/eyebrow
+  rotate: true
+  xy: 282, 207
+  size: 65, 13
+  orig: 65, 13
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/eyehard
+  rotate: true
+  xy: 188, 67
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/eyehard1
+  rotate: true
+  xy: 204, 2
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/eyehard2
+  rotate: true
+  xy: 225, 2
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/eyehard3
+  rotate: true
+  xy: 244, 3
+  size: 56, 10
+  orig: 56, 10
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/eyesffuer
+  rotate: false
+  xy: 198, 161
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/eyeyun
+  rotate: true
+  xy: 388, 274
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/face
+  rotate: false
+  xy: 2, 158
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/hair1
+  rotate: true
+  xy: 222, 274
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/hair2
+  rotate: true
+  xy: 198, 132
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/hair3
+  rotate: true
+  xy: 138, 5
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/hair4
+  rotate: true
+  xy: 297, 212
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/hair5
+  rotate: true
+  xy: 205, 217
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/hairinner1
+  rotate: true
+  xy: 297, 191
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/hairinner2
+  rotate: true
+  xy: 410, 256
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/handinner
+  rotate: false
+  xy: 388, 252
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/handout
+  rotate: false
+  xy: 452, 222
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_backlegdown
+  rotate: true
+  xy: 209, 61
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_backlegup
+  rotate: true
+  xy: 117, 238
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_body
+  rotate: true
+  xy: 409, 356
+  size: 154, 101
+  orig: 154, 101
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_frontlegdown
+  rotate: false
+  xy: 450, 304
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_frontlegup
+  rotate: false
+  xy: 88, 2
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_head
+  rotate: false
+  xy: 2, 287
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_mana
+  rotate: false
+  xy: 297, 251
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_neck
+  rotate: false
+  xy: 222, 311
+  size: 73, 103
+  orig: 73, 103
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_tuishi
+  rotate: true
+  xy: 2, 3
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_weiba
+  rotate: false
+  xy: 117, 304
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_xiongshi
+  rotate: false
+  xy: 110, 66
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/horse_xiongshi1
+  rotate: false
+  xy: 2, 76
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/jianjiainner
+  rotate: true
+  xy: 423, 222
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/jianjiaout
+  rotate: false
+  xy: 209, 97
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/leginnerdown
+  rotate: false
+  xy: 485, 304
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/leginnerup
+  rotate: false
+  xy: 416, 302
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/legoutdown
+  rotate: false
+  xy: 323, 147
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/legoutup
+  rotate: true
+  xy: 454, 270
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/mouth01
+  rotate: true
+  xy: 110, 142
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/toushi
+  rotate: false
+  xy: 268, 424
+  size: 137, 51
+  orig: 137, 51
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/weapon
+  rotate: false
+  xy: 2, 477
+  size: 405, 33
+  orig: 405, 33
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/weijin
+  rotate: false
+  xy: 297, 341
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/wejin
+  rotate: false
+  xy: 114, 126
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/yaodai
+  rotate: true
+  xy: 265, 143
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/yaojia
+  rotate: false
+  xy: 283, 146
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Ricky/Shadow
+  rotate: false
+  xy: 197, 190
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/mouth02
+  rotate: true
+  xy: 205, 284
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/mouth04
+  rotate: true
+  xy: 197, 217
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1

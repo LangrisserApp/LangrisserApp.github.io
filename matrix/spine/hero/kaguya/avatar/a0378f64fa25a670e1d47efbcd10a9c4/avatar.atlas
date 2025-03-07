@@ -1,0 +1,699 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/arminnerdown
+  rotate: false
+  xy: 943, 227
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/arminnerup
+  rotate: true
+  xy: 610, 259
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/armoutdown
+  rotate: true
+  xy: 510, 138
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/armoutup
+  rotate: true
+  xy: 888, 286
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/body
+  rotate: false
+  xy: 552, 240
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/body1
+  rotate: true
+  xy: 615, 184
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/pijianinner
+  rotate: true
+  xy: 141, 2
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/pijianinnerup
+  rotate: false
+  xy: 846, 194
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/pijianout
+  rotate: false
+  xy: 365, 2
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/pijianoutup
+  rotate: false
+  xy: 561, 157
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiabaiinner
+  rotate: false
+  xy: 793, 281
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiabaiinner3
+  rotate: true
+  xy: 652, 131
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiabaiinner4
+  rotate: false
+  xy: 847, 343
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiabaiout
+  rotate: false
+  xy: 317, 311
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiabaiout2
+  rotate: false
+  xy: 903, 235
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiuxiinner
+  rotate: true
+  xy: 711, 192
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiuxiinner1
+  rotate: true
+  xy: 317, 199
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiuziout
+  rotate: false
+  xy: 943, 279
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiuziout1
+  rotate: false
+  xy: 532, 309
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/xiuziout2
+  rotate: true
+  xy: 652, 181
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_3/yaodai
+  rotate: false
+  xy: 824, 220
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/arminnerdown
+  rotate: false
+  xy: 808, 163
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/arminnerup
+  rotate: false
+  xy: 449, 58
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/armoutdown
+  rotate: true
+  xy: 770, 197
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/armoutup
+  rotate: true
+  xy: 971, 384
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/body
+  rotate: false
+  xy: 827, 286
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/eyebrow
+  rotate: false
+  xy: 443, 308
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/eyehard
+  rotate: true
+  xy: 482, 143
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/eyehard1
+  rotate: true
+  xy: 510, 161
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/eyehard2
+  rotate: false
+  xy: 743, 350
+  size: 77, 21
+  orig: 77, 21
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/eyehard3
+  rotate: false
+  xy: 274, 13
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/eyesffuer
+  rotate: false
+  xy: 716, 254
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/eyeyun
+  rotate: false
+  xy: 443, 98
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/face
+  rotate: false
+  xy: 141, 59
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hair
+  rotate: true
+  xy: 642, 309
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hair1
+  rotate: true
+  xy: 743, 373
+  size: 46, 102
+  orig: 46, 102
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hair2
+  rotate: false
+  xy: 365, 98
+  size: 76, 117
+  orig: 76, 117
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hair3
+  rotate: true
+  xy: 652, 263
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hair4
+  rotate: false
+  xy: 975, 287
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hair5
+  rotate: false
+  xy: 179, 199
+  size: 136, 192
+  orig: 136, 192
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/handinner
+  rotate: true
+  xy: 630, 150
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/handinner1
+  rotate: false
+  xy: 809, 195
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/handout
+  rotate: true
+  xy: 489, 59
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/handout1
+  rotate: true
+  xy: 750, 149
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/handout2
+  rotate: false
+  xy: 511, 323
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/handout3
+  rotate: false
+  xy: 874, 234
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hat
+  rotate: false
+  xy: 555, 428
+  size: 193, 82
+  orig: 193, 82
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hatd1
+  rotate: true
+  xy: 443, 436
+  size: 22, 110
+  orig: 22, 110
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hatd2
+  rotate: false
+  xy: 443, 126
+  size: 25, 93
+  orig: 25, 93
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hatinner
+  rotate: false
+  xy: 2, 204
+  size: 175, 187
+  orig: 175, 187
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hatinner1
+  rotate: true
+  xy: 750, 421
+  size: 89, 155
+  orig: 89, 155
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hatout
+  rotate: false
+  xy: 2, 9
+  size: 137, 193
+  orig: 137, 193
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hatout1
+  rotate: false
+  xy: 274, 44
+  size: 89, 153
+  orig: 89, 153
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hdinner
+  rotate: false
+  xy: 483, 239
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/hdout
+  rotate: false
+  xy: 555, 341
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/leginnerdown
+  rotate: true
+  xy: 776, 255
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/leginnerup
+  rotate: true
+  xy: 701, 143
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/legoutdown
+  rotate: true
+  xy: 701, 122
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/legoutup
+  rotate: true
+  xy: 776, 230
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/lingziinner
+  rotate: true
+  xy: 561, 184
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/lingziinner1
+  rotate: false
+  xy: 355, 205
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/lingziinner2
+  rotate: false
+  xy: 308, 417
+  size: 133, 41
+  orig: 133, 41
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/mouth01
+  rotate: true
+  xy: 355, 21
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/mouth02
+  rotate: true
+  xy: 1013, 344
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/mouth04
+  rotate: true
+  xy: 308, 393
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/pijianout
+  rotate: true
+  xy: 722, 286
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/pijianout1
+  rotate: false
+  xy: 449, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/texiao1
+  rotate: false
+  xy: 2, 393
+  size: 304, 117
+  orig: 304, 117
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/texiao2
+  rotate: true
+  xy: 234, 7
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/toushi
+  rotate: false
+  xy: 308, 460
+  size: 245, 50
+  orig: 245, 50
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/toushi1
+  rotate: true
+  xy: 652, 293
+  size: 14, 64
+  orig: 14, 64
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/toushi2
+  rotate: false
+  xy: 707, 220
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/toushi3
+  rotate: false
+  xy: 771, 162
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/ts
+  rotate: true
+  xy: 317, 217
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/tsinner
+  rotate: true
+  xy: 613, 310
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/tsout
+  rotate: false
+  xy: 449, 17
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/tsout1
+  rotate: false
+  xy: 483, 221
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/weapon
+  rotate: true
+  xy: 409, 308
+  size: 107, 32
+  orig: 107, 32
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/weapon1
+  rotate: false
+  xy: 538, 166
+  size: 21, 71
+  orig: 21, 71
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiinne1
+  rotate: false
+  xy: 613, 291
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiinner
+  rotate: false
+  xy: 532, 239
+  size: 18, 68
+  orig: 18, 68
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiinner2
+  rotate: false
+  xy: 771, 146
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiinner3
+  rotate: true
+  xy: 610, 245
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiinner4
+  rotate: false
+  xy: 909, 346
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiout
+  rotate: true
+  xy: 642, 360
+  size: 66, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiout1
+  rotate: false
+  xy: 711, 167
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiabaiout2
+  rotate: false
+  xy: 976, 210
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiuxziinner
+  rotate: false
+  xy: 443, 318
+  size: 66, 116
+  orig: 66, 116
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiuxziinner2
+  rotate: false
+  xy: 511, 346
+  size: 42, 88
+  orig: 42, 88
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiuziout
+  rotate: true
+  xy: 907, 422
+  size: 88, 108
+  orig: 88, 108
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xiuziout1
+  rotate: false
+  xy: 405, 221
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xzinner
+  rotate: false
+  xy: 971, 356
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xzinner1
+  rotate: false
+  xy: 824, 239
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xzout
+  rotate: false
+  xy: 552, 290
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/xzout1
+  rotate: false
+  xy: 652, 218
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/yaoshi
+  rotate: false
+  xy: 976, 240
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/yaoshi1
+  rotate: false
+  xy: 652, 155
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Kaguya/Kaguya_Saint/Kaguya_Saint_4/yaoshi2
+  rotate: false
+  xy: 470, 134
+  size: 10, 85
+  orig: 10, 85
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 827, 259
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

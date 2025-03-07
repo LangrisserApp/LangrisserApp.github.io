@@ -1,0 +1,454 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zelgadiss_Sword/Zelgadiss_Sword_03/weapon2
+  rotate: false
+  xy: 826, 357
+  size: 110, 51
+  orig: 110, 51
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/1
+  rotate: false
+  xy: 2, 23
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/2
+  rotate: false
+  xy: 349, 247
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/MHJ
+  rotate: true
+  xy: 969, 403
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/MHJtx
+  rotate: false
+  xy: 450, 179
+  size: 121, 66
+  orig: 121, 66
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/MHJtx1
+  rotate: false
+  xy: 479, 25
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/MHJtx2
+  rotate: false
+  xy: 114, 8
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/MHJtx3
+  rotate: true
+  xy: 431, 134
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/Shadow
+  rotate: false
+  xy: 591, 236
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/araminnerdown
+  rotate: false
+  xy: 177, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/arminnerup
+  rotate: false
+  xy: 772, 216
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/armoutdown
+  rotate: false
+  xy: 809, 217
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/armoutup
+  rotate: true
+  xy: 887, 265
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/body
+  rotate: false
+  xy: 829, 291
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/eyehard
+  rotate: true
+  xy: 413, 21
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/eyehard1
+  rotate: false
+  xy: 667, 234
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/eyehard2
+  rotate: false
+  xy: 213, 5
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/eyehard3
+  rotate: false
+  xy: 2, 2
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/eyesffuer
+  rotate: true
+  xy: 508, 26
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/eyeyun
+  rotate: true
+  xy: 535, 32
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/hair1
+  rotate: true
+  xy: 327, 87
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/hair2
+  rotate: false
+  xy: 591, 263
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/hair3
+  rotate: false
+  xy: 624, 352
+  size: 200, 158
+  orig: 200, 158
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/handinner
+  rotate: true
+  xy: 559, 140
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/handout
+  rotate: false
+  xy: 278, 3
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/handout1
+  rotate: true
+  xy: 438, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/head
+  rotate: false
+  xy: 327, 162
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/hudiejie
+  rotate: false
+  xy: 840, 232
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/leginnerdown
+  rotate: true
+  xy: 733, 224
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/leginnerup
+  rotate: false
+  xy: 938, 357
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/legoutdown
+  rotate: true
+  xy: 974, 304
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/legoutup
+  rotate: true
+  xy: 838, 264
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/lingzi
+  rotate: false
+  xy: 780, 252
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/mouth
+  rotate: false
+  xy: 974, 296
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/mouth02
+  rotate: false
+  xy: 463, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/mouth03
+  rotate: false
+  xy: 431, 127
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/mouth04
+  rotate: true
+  xy: 305, 8
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/pifeng1
+  rotate: false
+  xy: 974, 331
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/pifeng2
+  rotate: false
+  xy: 969, 367
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/pifeng3
+  rotate: true
+  xy: 672, 287
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/pifeng4
+  rotate: true
+  xy: 672, 259
+  size: 26, 106
+  orig: 26, 106
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/pifeng5
+  rotate: false
+  xy: 826, 410
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/pifeng6
+  rotate: true
+  xy: 573, 192
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/pifeng7
+  rotate: false
+  xy: 629, 207
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/qunzi
+  rotate: false
+  xy: 493, 89
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/tx2
+  rotate: false
+  xy: 177, 28
+  size: 131, 70
+  orig: 131, 70
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/tx3
+  rotate: false
+  xy: 327, 267
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/weapon
+  rotate: false
+  xy: 310, 19
+  size: 101, 66
+  orig: 101, 66
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/weapon1
+  rotate: true
+  xy: 886, 293
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/weapon2
+  rotate: false
+  xy: 450, 127
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+Zelgadiss_Sword/Zelgadiss_Sword_04/xiongzhen
+  rotate: false
+  xy: 327, 252
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/body
+  rotate: false
+  xy: 773, 289
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/hudiejie
+  rotate: true
+  xy: 659, 206
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/leginnerdown
+  rotate: true
+  xy: 67, 2
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/legoutdown
+  rotate: true
+  xy: 535, 2
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/lingzi
+  rotate: true
+  xy: 932, 294
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/pifeng1
+  rotate: false
+  xy: 431, 87
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/pifeng2
+  rotate: false
+  xy: 601, 204
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/pifenginner3
+  rotate: false
+  xy: 573, 224
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/qunzi
+  rotate: true
+  xy: 438, 26
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard/Zelgadiss_Wizard_04/xiongzhen
+  rotate: false
+  xy: 463, 11
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

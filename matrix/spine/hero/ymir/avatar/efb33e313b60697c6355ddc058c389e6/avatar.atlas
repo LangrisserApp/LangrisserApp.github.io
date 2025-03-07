@@ -1,0 +1,405 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Paladin_3/jianjia
+  rotate: false
+  xy: 343, 176
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+Paladin_3/txw
+  rotate: false
+  xy: 505, 253
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+Paladin_3/weapon
+  rotate: false
+  xy: 2, 222
+  size: 339, 140
+  orig: 339, 140
+  offset: 0, 0
+  index: -1
+Paladin_4/Shadow
+  rotate: true
+  xy: 642, 185
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Paladin_4/arminnerdown
+  rotate: false
+  xy: 515, 144
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Paladin_4/arminnerup
+  rotate: false
+  xy: 336, 127
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Paladin_4/armoutdown
+  rotate: false
+  xy: 977, 372
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+Paladin_4/armoutup
+  rotate: false
+  xy: 639, 327
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Paladin_4/body
+  rotate: true
+  xy: 811, 428
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+Paladin_4/dang
+  rotate: true
+  xy: 553, 193
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+Paladin_4/eyebrow
+  rotate: false
+  xy: 811, 405
+  size: 81, 21
+  orig: 81, 21
+  offset: 0, 0
+  index: -1
+Paladin_4/eyehard
+  rotate: true
+  xy: 669, 191
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Paladin_4/eyehard1
+  rotate: true
+  xy: 674, 118
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Paladin_4/eyehard2
+  rotate: true
+  xy: 396, 45
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1
+Paladin_4/eyehard3
+  rotate: true
+  xy: 476, 36
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+Paladin_4/eyesffuer
+  rotate: false
+  xy: 290, 2
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Paladin_4/eyeyun
+  rotate: false
+  xy: 426, 157
+  size: 87, 29
+  orig: 87, 29
+  offset: 0, 0
+  index: -1
+Paladin_4/face
+  rotate: false
+  xy: 2, 78
+  size: 139, 142
+  orig: 139, 142
+  offset: 0, 0
+  index: -1
+Paladin_4/hair1
+  rotate: false
+  xy: 534, 329
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+Paladin_4/hair2
+  rotate: true
+  xy: 494, 188
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+Paladin_4/hair3
+  rotate: false
+  xy: 343, 247
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+Paladin_4/hair4
+  rotate: false
+  xy: 143, 2
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+Paladin_4/hair5
+  rotate: true
+  xy: 636, 128
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+Paladin_4/hair6
+  rotate: false
+  xy: 992, 461
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Paladin_4/hair7
+  rotate: false
+  xy: 290, 31
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+Paladin_4/hairinner
+  rotate: false
+  xy: 426, 188
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+Paladin_4/handinner
+  rotate: true
+  xy: 452, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Paladin_4/handinner1(1)
+  rotate: false
+  xy: 554, 137
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+Paladin_4/handinnero
+  rotate: false
+  xy: 550, 102
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Paladin_4/handout
+  rotate: true
+  xy: 474, 102
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Paladin_4/handout1
+  rotate: false
+  xy: 511, 107
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Paladin_4/jianjia
+  rotate: true
+  xy: 264, 127
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+Paladin_4/leginnerdown
+  rotate: false
+  xy: 601, 261
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+Paladin_4/leginnerup
+  rotate: false
+  xy: 418, 99
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Paladin_4/legoutdown
+  rotate: false
+  xy: 643, 264
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+Paladin_4/legoutup
+  rotate: false
+  xy: 547, 262
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Paladin_4/lianzi1
+  rotate: false
+  xy: 2, 2
+  size: 128, 74
+  orig: 128, 74
+  offset: 0, 0
+  index: -1
+Paladin_4/lianzi2
+  rotate: true
+  xy: 349, 335
+  size: 47, 94
+  orig: 47, 94
+  offset: 0, 0
+  index: -1
+Paladin_4/mao
+  rotate: false
+  xy: 349, 384
+  size: 217, 126
+  orig: 217, 126
+  offset: 0, 0
+  index: -1
+Paladin_4/mianzhao
+  rotate: true
+  xy: 354, 45
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+Paladin_4/piao
+  rotate: false
+  xy: 568, 379
+  size: 106, 43
+  orig: 106, 43
+  offset: 0, 0
+  index: -1
+Paladin_4/toushiinner
+  rotate: true
+  xy: 445, 328
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+Paladin_4/toushiout
+  rotate: false
+  xy: 599, 190
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+Paladin_4/tx1
+  rotate: false
+  xy: 132, 38
+  size: 7, 38
+  orig: 7, 38
+  offset: 0, 0
+  index: -1
+Paladin_4/tx2
+  rotate: true
+  xy: 418, 259
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+Paladin_4/tx3
+  rotate: false
+  xy: 710, 423
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Paladin_4/tx4
+  rotate: false
+  xy: 143, 119
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+Paladin_4/tx5
+  rotate: false
+  xy: 904, 424
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+Paladin_4/tx6
+  rotate: false
+  xy: 597, 133
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Paladin_4/txw
+  rotate: true
+  xy: 894, 388
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+Paladin_4/weapon
+  rotate: false
+  xy: 2, 364
+  size: 345, 146
+  orig: 345, 146
+  offset: 0, 0
+  index: -1
+Paladin_4/xiabaiinner
+  rotate: false
+  xy: 418, 45
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+Paladin_4/xiabaiout
+  rotate: true
+  xy: 230, 20
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+Paladin_4/xiabaiout11
+  rotate: false
+  xy: 568, 424
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+Paladin_4/xiongshi
+  rotate: false
+  xy: 379, 2
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+Paladin_4/yaodai
+  rotate: false
+  xy: 567, 327
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+Paladin_4/yaojiainner
+  rotate: false
+  xy: 992, 435
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

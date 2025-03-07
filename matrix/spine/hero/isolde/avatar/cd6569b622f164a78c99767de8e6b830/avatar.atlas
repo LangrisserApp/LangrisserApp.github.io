@@ -1,0 +1,426 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Isolde_Sword03/hair3
+  rotate: true
+  xy: 79, 13
+  size: 49, 110
+  orig: 49, 110
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/jianjia
+  rotate: false
+  xy: 350, 312
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/rock1
+  rotate: true
+  xy: 79, 2
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/rock2
+  rotate: false
+  xy: 191, 2
+  size: 16, 57
+  orig: 16, 57
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/rock3
+  rotate: true
+  xy: 403, 311
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/rock4
+  rotate: true
+  xy: 398, 261
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/rock5
+  rotate: true
+  xy: 111, 2
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/rock6
+  rotate: false
+  xy: 364, 377
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/rock7
+  rotate: false
+  xy: 209, 2
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/weapon1
+  rotate: false
+  xy: 274, 446
+  size: 191, 64
+  orig: 191, 64
+  offset: 0, 0
+  index: -1
+Isolde_Sword03/weapon2
+  rotate: true
+  xy: 334, 159
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/Shadow
+  rotate: true
+  xy: 324, 83
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/arminnerdown
+  rotate: false
+  xy: 338, 226
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/arminnerup1
+  rotate: false
+  xy: 256, 23
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/arminnerup2
+  rotate: false
+  xy: 141, 4
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/armoutdown
+  rotate: false
+  xy: 402, 90
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/armoutdown1
+  rotate: true
+  xy: 417, 271
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/armoutup
+  rotate: false
+  xy: 403, 326
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/bodyup1
+  rotate: false
+  xy: 200, 141
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/eyebrow
+  rotate: true
+  xy: 375, 87
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/eyehard
+  rotate: true
+  xy: 260, 61
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/eyehard1
+  rotate: true
+  xy: 258, 143
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/eyehard2
+  rotate: false
+  xy: 267, 261
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/eyehard3
+  rotate: true
+  xy: 390, 93
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/eyesuffer
+  rotate: false
+  xy: 263, 226
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/eyeyun
+  rotate: true
+  xy: 289, 84
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/face
+  rotate: false
+  xy: 2, 226
+  size: 228, 158
+  orig: 228, 158
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/hair1
+  rotate: false
+  xy: 466, 362
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/hair2
+  rotate: false
+  xy: 349, 261
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/hair3
+  rotate: true
+  xy: 274, 395
+  size: 49, 110
+  orig: 49, 110
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/hair4
+  rotate: false
+  xy: 232, 274
+  size: 33, 110
+  orig: 33, 110
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/hair5
+  rotate: true
+  xy: 274, 372
+  size: 21, 88
+  orig: 21, 88
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/hair6
+  rotate: false
+  xy: 2, 64
+  size: 196, 160
+  orig: 196, 160
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/handinner
+  rotate: true
+  xy: 385, 226
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/handinner2
+  rotate: false
+  xy: 325, 13
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/handout
+  rotate: true
+  xy: 356, 13
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/handout4
+  rotate: true
+  xy: 294, 2
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/jianjia
+  rotate: false
+  xy: 200, 65
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/jianjia1
+  rotate: true
+  xy: 417, 251
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/leginnerdown1
+  rotate: false
+  xy: 402, 122
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/leginnerup1
+  rotate: true
+  xy: 466, 333
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/legoutdown1
+  rotate: false
+  xy: 402, 172
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/legoutup1
+  rotate: false
+  xy: 294, 36
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/mouth1
+  rotate: true
+  xy: 413, 245
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/mouth2
+  rotate: true
+  xy: 267, 373
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/mouth4
+  rotate: true
+  xy: 289, 70
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/qunzi1
+  rotate: true
+  xy: 351, 73
+  size: 84, 22
+  orig: 84, 22
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/qunzi10
+  rotate: false
+  xy: 232, 226
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/qunzi2
+  rotate: false
+  xy: 287, 159
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/qunzi6
+  rotate: false
+  xy: 386, 376
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/qunzi7
+  rotate: true
+  xy: 267, 280
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/qunzi8
+  rotate: false
+  xy: 209, 26
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/qunzi9
+  rotate: false
+  xy: 2, 2
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/rock1
+  rotate: false
+  xy: 467, 439
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/rock2
+  rotate: false
+  xy: 267, 317
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/weapon1
+  rotate: false
+  xy: 2, 386
+  size: 270, 124
+  orig: 270, 124
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/weapon2
+  rotate: true
+  xy: 365, 161
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/yaodai4
+  rotate: true
+  xy: 444, 340
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/yaodai5
+  rotate: false
+  xy: 337, 44
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Isolde_Sword04/yaodai6
+  rotate: false
+  xy: 324, 47
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1

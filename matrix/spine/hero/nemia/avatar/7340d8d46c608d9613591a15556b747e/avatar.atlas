@@ -1,0 +1,510 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nemia_Newbow_3/arminnerup
+  rotate: true
+  xy: 471, 293
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_3/armoutup 2
+  rotate: false
+  xy: 417, 344
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_3/qunzi6 2
+  rotate: false
+  xy: 325, 35
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_3/qunzi7 2
+  rotate: false
+  xy: 291, 332
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_3/toushi
+  rotate: false
+  xy: 276, 286
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_3/weapon
+  rotate: false
+  xy: 2, 110
+  size: 165, 98
+  orig: 165, 98
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_3/yaojia 2
+  rotate: false
+  xy: 311, 142
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_3/yaojia 4
+  rotate: true
+  xy: 353, 286
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/Shadow
+  rotate: true
+  xy: 378, 156
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/arminnerdown
+  rotate: false
+  xy: 405, 153
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/arminnerdown 2
+  rotate: false
+  xy: 440, 152
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/arminnerup
+  rotate: true
+  xy: 325, 2
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/arminnerup 2
+  rotate: false
+  xy: 471, 175
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/armoutdown
+  rotate: true
+  xy: 440, 286
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/armoutdown 2
+  rotate: true
+  xy: 482, 215
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/armoutup
+  rotate: true
+  xy: 290, 3
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/armoutup 2
+  rotate: false
+  xy: 425, 236
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/body
+  rotate: true
+  xy: 263, 226
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/body 2
+  rotate: false
+  xy: 190, 34
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/eyebrow
+  rotate: false
+  xy: 80, 9
+  size: 79, 15
+  orig: 79, 15
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/eyehard
+  rotate: false
+  xy: 169, 111
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/eyehard1
+  rotate: false
+  xy: 250, 200
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/eyehard2
+  rotate: false
+  xy: 170, 210
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/eyehard3
+  rotate: true
+  xy: 383, 84
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/eyesffuer
+  rotate: true
+  xy: 345, 156
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/eyeyun
+  rotate: false
+  xy: 250, 40
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/face
+  rotate: false
+  xy: 2, 210
+  size: 166, 141
+  orig: 166, 141
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair
+  rotate: false
+  xy: 2, 2
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair1
+  rotate: false
+  xy: 340, 232
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair2
+  rotate: true
+  xy: 196, 339
+  size: 50, 93
+  orig: 50, 93
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair3
+  rotate: false
+  xy: 458, 414
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair4
+  rotate: false
+  xy: 2, 353
+  size: 192, 157
+  orig: 192, 157
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair5
+  rotate: true
+  xy: 366, 383
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair6
+  rotate: true
+  xy: 80, 26
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair7
+  rotate: false
+  xy: 181, 286
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/hair8
+  rotate: false
+  xy: 366, 409
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/handinner 2
+  rotate: false
+  xy: 471, 153
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/handinner 3
+  rotate: true
+  xy: 161, 2
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/handout
+  rotate: true
+  xy: 375, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/handout 2
+  rotate: false
+  xy: 482, 127
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/jianjia
+  rotate: false
+  xy: 395, 121
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/jianjia 2
+  rotate: true
+  xy: 395, 85
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/jianjia1
+  rotate: false
+  xy: 434, 68
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/jianjia1 2
+  rotate: true
+  xy: 329, 216
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/jianjia2
+  rotate: true
+  xy: 402, 43
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/leginnerdown
+  rotate: false
+  xy: 407, 286
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/leginnerdown 2
+  rotate: false
+  xy: 375, 38
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/leginnerup
+  rotate: false
+  xy: 405, 182
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/leginnerup 2
+  rotate: true
+  xy: 242, 2
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/legoutdown
+  rotate: true
+  xy: 434, 94
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/legoutdown 2
+  rotate: true
+  xy: 439, 121
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/legoutup
+  rotate: false
+  xy: 390, 233
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/legoutup 2
+  rotate: true
+  xy: 190, 2
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/mouth01
+  rotate: false
+  xy: 465, 60
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/mouth02
+  rotate: false
+  xy: 417, 332
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/mouth04
+  rotate: true
+  xy: 444, 388
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/qunzi1
+  rotate: true
+  xy: 438, 186
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/qunzi1 2
+  rotate: true
+  xy: 475, 243
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/qunzi6 2
+  rotate: false
+  xy: 250, 76
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/qunzi7 2
+  rotate: false
+  xy: 169, 140
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/runhand
+  rotate: false
+  xy: 473, 68
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/toushi
+  rotate: true
+  xy: 349, 87
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/toushi1
+  rotate: false
+  xy: 355, 332
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/weapon
+  rotate: false
+  xy: 196, 408
+  size: 168, 102
+  orig: 168, 102
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/weapon1
+  rotate: false
+  xy: 196, 391
+  size: 155, 15
+  orig: 155, 15
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/weapon2
+  rotate: false
+  xy: 170, 237
+  size: 9, 114
+  orig: 9, 114
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/yaodai 2
+  rotate: true
+  xy: 314, 85
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/yaojia
+  rotate: true
+  xy: 475, 321
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/yaojia 2
+  rotate: true
+  xy: 431, 35
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/yaojia1
+  rotate: true
+  xy: 181, 235
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/yaojia1 2
+  rotate: true
+  xy: 458, 357
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Nemia_Newbow_4/yaojia2
+  rotate: true
+  xy: 244, 140
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1

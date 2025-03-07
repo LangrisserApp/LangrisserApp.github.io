@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/arminner
+  rotate: true
+  xy: 308, 82
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/armout
+  rotate: true
+  xy: 477, 170
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/body
+  rotate: false
+  xy: 268, 255
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/dd
+  rotate: false
+  xy: 302, 125
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/eyebrow
+  rotate: false
+  xy: 126, 226
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/eyehard
+  rotate: false
+  xy: 442, 218
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/eyehard1
+  rotate: true
+  xy: 302, 193
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/eyehard2
+  rotate: false
+  xy: 437, 203
+  size: 60, 13
+  orig: 60, 13
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/eyehard3
+  rotate: true
+  xy: 302, 131
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/eyesffuer
+  rotate: false
+  xy: 322, 239
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/eyeyun
+  rotate: false
+  xy: 442, 236
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/face
+  rotate: false
+  xy: 97, 90
+  size: 112, 131
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/hair1
+  rotate: true
+  xy: 276, 437
+  size: 73, 174
+  orig: 73, 174
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/hair2
+  rotate: true
+  xy: 211, 82
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/hair3
+  rotate: false
+  xy: 268, 323
+  size: 41, 104
+  orig: 41, 104
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/hairinner
+  rotate: false
+  xy: 2, 223
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/handinner
+  rotate: false
+  xy: 319, 138
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/handout
+  rotate: true
+  xy: 455, 263
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/horse_tunjia
+  rotate: true
+  xy: 178, 6
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/horse_xiongjia
+  rotate: false
+  xy: 211, 125
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/jianjiainner
+  rotate: false
+  xy: 389, 225
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/jianjiainner1
+  rotate: true
+  xy: 452, 463
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/jianjiaout
+  rotate: true
+  xy: 455, 293
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/jianjiaout1
+  rotate: false
+  xy: 441, 358
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/legoutdown
+  rotate: true
+  xy: 319, 111
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/legoutup
+  rotate: true
+  xy: 320, 177
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/mouth01
+  rotate: true
+  xy: 97, 68
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/mouth02
+  rotate: false
+  xy: 193, 230
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/weapon1
+  rotate: false
+  xy: 2, 429
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/yaojia
+  rotate: false
+  xy: 437, 166
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_backlegdown
+  rotate: true
+  xy: 389, 191
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_backlegup
+  rotate: false
+  xy: 116, 2
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_body
+  rotate: true
+  xy: 2, 65
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_frontlegdown
+  rotate: true
+  xy: 320, 205
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_frontlegup
+  rotate: false
+  xy: 401, 267
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_guajian1
+  rotate: false
+  xy: 371, 190
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_guajian2
+  rotate: true
+  xy: 402, 339
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_head
+  rotate: false
+  xy: 126, 242
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_mana
+  rotate: false
+  xy: 311, 346
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_neck
+  rotate: false
+  xy: 322, 267
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/blackhorse/blackhorse_2/blackhorse_2/horse_neck1
+  rotate: true
+  xy: 452, 440
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 477, 143
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_weiba
+  rotate: false
+  xy: 2, 2
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/weapon2
+  rotate: true
+  xy: 250, 258
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 368
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 279, 6
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

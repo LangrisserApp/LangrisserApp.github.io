@@ -1,0 +1,293 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alice/Alice_Hana/Alice_Hana_3/arminnerdown
+  rotate: true
+  xy: 151, 127
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_3/handinner
+  rotate: false
+  xy: 291, 259
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_3/xiong
+  rotate: false
+  xy: 267, 309
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_3/xiong1
+  rotate: false
+  xy: 209, 273
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/Shadow
+  rotate: true
+  xy: 79, 43
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/arminnerdown
+  rotate: false
+  xy: 457, 403
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/arminnerup
+  rotate: false
+  xy: 318, 318
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/armoutdown
+  rotate: true
+  xy: 150, 96
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/armoutup
+  rotate: false
+  xy: 151, 220
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/body
+  rotate: true
+  xy: 106, 2
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/eyebrow
+  rotate: true
+  xy: 139, 54
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/eyehard
+  rotate: false
+  xy: 283, 356
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/eyehard1
+  rotate: false
+  xy: 357, 369
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/eyehard2
+  rotate: false
+  xy: 212, 362
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/eyehard3
+  rotate: false
+  xy: 353, 359
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/eyesffuer
+  rotate: false
+  xy: 2, 9
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/eyeyun
+  rotate: true
+  xy: 106, 54
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/face
+  rotate: true
+  xy: 212, 386
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/hair1
+  rotate: false
+  xy: 2, 119
+  size: 91, 137
+  orig: 91, 137
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/hair2
+  rotate: false
+  xy: 95, 127
+  size: 54, 129
+  orig: 54, 129
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/hair3
+  rotate: true
+  xy: 357, 399
+  size: 28, 98
+  orig: 28, 98
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/hair4
+  rotate: false
+  xy: 156, 279
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/hair5
+  rotate: false
+  xy: 470, 435
+  size: 33, 75
+  orig: 33, 75
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/hair6
+  rotate: false
+  xy: 2, 258
+  size: 152, 119
+  orig: 152, 119
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/handinner
+  rotate: false
+  xy: 428, 371
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/handinner2
+  rotate: false
+  xy: 483, 409
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/handout
+  rotate: false
+  xy: 151, 185
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/handout1
+  rotate: false
+  xy: 265, 256
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/leginnerdown
+  rotate: false
+  xy: 323, 285
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/leginnerup
+  rotate: false
+  xy: 151, 148
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/legoutdown
+  rotate: false
+  xy: 79, 5
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/legoutup
+  rotate: true
+  xy: 156, 253
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/mouth01
+  rotate: false
+  xy: 195, 270
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/mouth02
+  rotate: true
+  xy: 150, 54
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/mouth04
+  rotate: false
+  xy: 267, 357
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/qunzi
+  rotate: false
+  xy: 357, 429
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/toushi
+  rotate: false
+  xy: 2, 379
+  size: 208, 131
+  orig: 208, 131
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/xiong
+  rotate: false
+  xy: 2, 42
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/yaoshi
+  rotate: true
+  xy: 150, 68
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/yaoshi1
+  rotate: false
+  xy: 265, 282
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_4/yaoshi2
+  rotate: false
+  xy: 209, 318
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1

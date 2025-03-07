@@ -1,0 +1,314 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Noemi/Noemi_Summoner/Noemi_Summoner_3/Shadow
+  rotate: false
+  xy: 419, 171
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/arminnerdown
+  rotate: true
+  xy: 263, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/arminnerup
+  rotate: false
+  xy: 295, 34
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/armoutdown
+  rotate: false
+  xy: 470, 139
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/armoutup
+  rotate: false
+  xy: 409, 7
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/body
+  rotate: true
+  xy: 419, 198
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/eyebrow
+  rotate: true
+  xy: 393, 85
+  size: 69, 7
+  orig: 69, 7
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/eyehard
+  rotate: false
+  xy: 232, 150
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/eyehard1
+  rotate: true
+  xy: 295, 77
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/eyehard2
+  rotate: false
+  xy: 329, 156
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/eyehard3
+  rotate: true
+  xy: 499, 190
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/eyesffuer
+  rotate: false
+  xy: 325, 74
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/eyeyun
+  rotate: false
+  xy: 402, 134
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/face
+  rotate: false
+  xy: 2, 120
+  size: 120, 134
+  orig: 120, 134
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/g
+  rotate: false
+  xy: 232, 87
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/hair1
+  rotate: false
+  xy: 132, 53
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/hair2
+  rotate: false
+  xy: 192, 41
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/hair3
+  rotate: false
+  xy: 457, 82
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/hair4
+  rotate: false
+  xy: 82, 21
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/hair5
+  rotate: false
+  xy: 2, 2
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/hair6
+  rotate: true
+  xy: 232, 180
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/handinner
+  rotate: true
+  xy: 233, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/handinner2
+  rotate: false
+  xy: 376, 3
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/handout
+  rotate: true
+  xy: 442, 7
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/handout1
+  rotate: false
+  xy: 469, 27
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/handout3
+  rotate: true
+  xy: 469, 53
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/jianjiaout
+  rotate: false
+  xy: 335, 5
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/leginnerdown
+  rotate: true
+  xy: 290, 8
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/leginnerup
+  rotate: false
+  xy: 409, 44
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/legoutdown
+  rotate: true
+  xy: 188, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/legoutup
+  rotate: false
+  xy: 376, 29
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/mouth01
+  rotate: false
+  xy: 166, 11
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/mouth02
+  rotate: true
+  xy: 82, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/mouth04
+  rotate: false
+  xy: 290, 2
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/pifenginner
+  rotate: false
+  xy: 329, 183
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/pifengout
+  rotate: false
+  xy: 325, 112
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/toushi
+  rotate: true
+  xy: 124, 124
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/toushi1
+  rotate: true
+  xy: 323, 34
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/toushi2
+  rotate: true
+  xy: 132, 22
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/toushi3
+  rotate: false
+  xy: 440, 44
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/toushi4
+  rotate: true
+  xy: 132, 2
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/weapon
+  rotate: true
+  xy: 402, 84
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/xiabaiinner
+  rotate: false
+  xy: 232, 34
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_Summoner/Noemi_Summoner_3/xiabaiout
+  rotate: false
+  xy: 124, 176
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1

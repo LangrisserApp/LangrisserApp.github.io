@@ -1,0 +1,321 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/arminnerdown
+  rotate: true
+  xy: 324, 150
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/arminnerup
+  rotate: true
+  xy: 324, 194
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/armoutdown
+  rotate: false
+  xy: 297, 147
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/armoutup
+  rotate: false
+  xy: 367, 191
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/body
+  rotate: false
+  xy: 134, 64
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/jianjiainner
+  rotate: false
+  xy: 84, 8
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/jianjiaout
+  rotate: true
+  xy: 612, 267
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/legoutdown
+  rotate: false
+  xy: 570, 226
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/legoutup
+  rotate: false
+  xy: 463, 419
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Keith/Keith_HawkKnight/Keith_HawkKnight_1/yaojia
+  rotate: false
+  xy: 2, 2
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Keith/Pike
+  rotate: false
+  xy: 2, 406
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Keith/dd
+  rotate: false
+  xy: 104, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Keith/eyebrow
+  rotate: true
+  xy: 994, 334
+  size: 63, 13
+  orig: 63, 13
+  offset: 0, 0
+  index: -1
+Keith/eyehard
+  rotate: false
+  xy: 746, 284
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Keith/eyehard1
+  rotate: false
+  xy: 807, 290
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Keith/eyehard2
+  rotate: true
+  xy: 656, 272
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+Keith/eyehard3
+  rotate: true
+  xy: 268, 407
+  size: 58, 6
+  orig: 58, 6
+  offset: 0, 0
+  index: -1
+Keith/eyesffuer
+  rotate: false
+  xy: 925, 292
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Keith/eyeyun
+  rotate: false
+  xy: 258, 195
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Keith/face
+  rotate: true
+  xy: 670, 301
+  size: 114, 131
+  orig: 114, 131
+  offset: 0, 0
+  index: -1
+Keith/hair1
+  rotate: false
+  xy: 803, 399
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+Keith/hair2
+  rotate: false
+  xy: 51, 2
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Keith/hair3
+  rotate: false
+  xy: 258, 142
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Keith/mouth01
+  rotate: true
+  xy: 134, 208
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Keith/mouth02
+  rotate: false
+  xy: 429, 346
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Keith/mouth03
+  rotate: true
+  xy: 1009, 379
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Keith/mouth04
+  rotate: false
+  xy: 84, 2
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Keith/weapon
+  rotate: false
+  xy: 2, 467
+  size: 492, 43
+  orig: 492, 43
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_body
+  rotate: false
+  xy: 276, 362
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_head
+  rotate: false
+  xy: 803, 307
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_leginner1
+  rotate: true
+  xy: 190, 71
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout1
+  rotate: true
+  xy: 605, 333
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout2
+  rotate: false
+  xy: 925, 331
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_neck
+  rotate: true
+  xy: 146, 140
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_weiba
+  rotate: false
+  xy: 463, 330
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner3
+  rotate: true
+  xy: 876, 399
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner4
+  rotate: true
+  xy: 429, 226
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout1
+  rotate: false
+  xy: 2, 52
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout3
+  rotate: false
+  xy: 276, 233
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout4
+  rotate: true
+  xy: 146, 245
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: true
+  xy: 570, 262
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingdown
+  rotate: true
+  xy: 688, 417
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/eagle/winginnerup
+  rotate: true
+  xy: 496, 418
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingout2
+  rotate: false
+  xy: 2, 230
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 670, 274
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,706 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: true
+  xy: 2, 2
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/arm_inner
+  rotate: false
+  xy: 872, 263
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/arm_inner1
+  rotate: false
+  xy: 579, 289
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/arm_out
+  rotate: false
+  xy: 383, 85
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/arm_out1
+  rotate: false
+  xy: 413, 85
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/body
+  rotate: true
+  xy: 776, 348
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/body1
+  rotate: true
+  xy: 606, 363
+  size: 60, 94
+  orig: 60, 94
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/erhuan
+  rotate: true
+  xy: 193, 2
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/hand_inner
+  rotate: false
+  xy: 999, 329
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/hand_out
+  rotate: false
+  xy: 424, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/handinner1
+  rotate: true
+  xy: 448, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/jianjiainner
+  rotate: true
+  xy: 512, 249
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/jianjiainner1
+  rotate: false
+  xy: 899, 272
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/jianjiainnerinner1
+  rotate: false
+  xy: 508, 199
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/jianjiaout
+  rotate: false
+  xy: 577, 250
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/jianjiaout1
+  rotate: false
+  xy: 538, 293
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/jianjiaoutinner
+  rotate: true
+  xy: 682, 333
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/leginnerdown
+  rotate: true
+  xy: 745, 276
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/leginnerup
+  rotate: false
+  xy: 420, 285
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/legoutdown
+  rotate: false
+  xy: 443, 194
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/legoutup
+  rotate: false
+  xy: 400, 143
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/lingzi
+  rotate: true
+  xy: 421, 239
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/weapon
+  rotate: false
+  xy: 787, 416
+  size: 216, 94
+  orig: 216, 94
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/yaojiainner
+  rotate: true
+  xy: 420, 25
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_01/yaojiaout
+  rotate: false
+  xy: 476, 197
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/arm_inner
+  rotate: false
+  xy: 999, 380
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/arm_inner1
+  rotate: false
+  xy: 377, 190
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/arm_out
+  rotate: false
+  xy: 390, 22
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/arm_out1
+  rotate: false
+  xy: 610, 291
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/body
+  rotate: true
+  xy: 251, 277
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/body1
+  rotate: true
+  xy: 315, 277
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/jianjiainner
+  rotate: false
+  xy: 379, 282
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/jianjiaout1
+  rotate: true
+  xy: 302, 2
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/leginnerdown
+  rotate: true
+  xy: 830, 271
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/legoutdown
+  rotate: true
+  xy: 982, 295
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/lingzi
+  rotate: false
+  xy: 899, 243
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/lingziinner
+  rotate: true
+  xy: 970, 268
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/lingziinnerinner
+  rotate: false
+  xy: 390, 2
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/lingziout1
+  rotate: false
+  xy: 933, 274
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/weapon
+  rotate: false
+  xy: 269, 425
+  size: 259, 85
+  orig: 259, 85
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/weapon1
+  rotate: false
+  xy: 2, 390
+  size: 265, 120
+  orig: 265, 120
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/weapon2
+  rotate: false
+  xy: 2, 268
+  size: 247, 120
+  orig: 247, 120
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/weijininner
+  rotate: false
+  xy: 269, 329
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/yaojiaout
+  rotate: false
+  xy: 366, 136
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/yibaiinnner
+  rotate: false
+  xy: 345, 68
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_02/yibaiout
+  rotate: false
+  xy: 246, 178
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/arm_inner
+  rotate: true
+  xy: 400, 117
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/arm_inner1
+  rotate: false
+  xy: 454, 236
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/arm_out
+  rotate: false
+  xy: 390, 53
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/arm_out1
+  rotate: true
+  xy: 702, 278
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/body
+  rotate: false
+  xy: 702, 352
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/body1
+  rotate: true
+  xy: 863, 347
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/jianjiainner
+  rotate: false
+  xy: 544, 253
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/jianjiainner1
+  rotate: true
+  xy: 295, 184
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/jianjiainnerinner1
+  rotate: false
+  xy: 982, 271
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/jianjiaout
+  rotate: false
+  xy: 323, 238
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/jianjiaout1
+  rotate: false
+  xy: 846, 301
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/leginnerdown
+  rotate: false
+  xy: 675, 291
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/legoutdown
+  rotate: false
+  xy: 641, 294
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/toushi
+  rotate: true
+  xy: 308, 53
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_03/yaojiaout
+  rotate: true
+  xy: 889, 306
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/arm_inner
+  rotate: false
+  xy: 420, 51
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/arm_inner1
+  rotate: false
+  xy: 410, 192
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/arm_out
+  rotate: true
+  xy: 512, 219
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/arm_out1
+  rotate: true
+  xy: 256, 2
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/body
+  rotate: true
+  xy: 496, 334
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/body1
+  rotate: true
+  xy: 384, 330
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/guashi
+  rotate: false
+  xy: 787, 274
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/guashi1
+  rotate: false
+  xy: 999, 352
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/hudang
+  rotate: false
+  xy: 326, 122
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/jianjiainner
+  rotate: false
+  xy: 461, 283
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/jianjiainner1
+  rotate: false
+  xy: 323, 186
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/jianjiainnerinner1
+  rotate: false
+  xy: 934, 241
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/jianjiaout
+  rotate: false
+  xy: 933, 354
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/jianjiaout1
+  rotate: true
+  xy: 702, 306
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/jianjiaoutinner
+  rotate: false
+  xy: 799, 301
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/leginnerdown
+  rotate: false
+  xy: 486, 241
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/leginnerup
+  rotate: false
+  xy: 497, 289
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/legoutdown
+  rotate: false
+  xy: 385, 239
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/legoutup
+  rotate: true
+  xy: 751, 306
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/pifeng
+  rotate: false
+  xy: 63, 4
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/toushi
+  rotate: true
+  xy: 246, 109
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/weapon
+  rotate: false
+  xy: 530, 425
+  size: 255, 85
+  orig: 255, 85
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/yaojiainner
+  rotate: true
+  xy: 933, 303
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/Mathew_04/yaojiaout
+  rotate: false
+  xy: 348, 15
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/dd
+  rotate: false
+  xy: 295, 178
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/eyebrow
+  rotate: true
+  xy: 1005, 445
+  size: 65, 15
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/eyehard
+  rotate: true
+  xy: 284, 112
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/eyehard1
+  rotate: true
+  xy: 305, 118
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/eyehard2
+  rotate: true
+  xy: 291, 46
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/eyehard3
+  rotate: false
+  xy: 933, 342
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/eyesffuer
+  rotate: false
+  xy: 251, 241
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/eyeyun
+  rotate: true
+  xy: 256, 37
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/face
+  rotate: false
+  xy: 63, 102
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/hair
+  rotate: false
+  xy: 193, 12
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/mouth01
+  rotate: false
+  xy: 223, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/mouth02
+  rotate: false
+  xy: 1005, 429
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/mouth03
+  rotate: true
+  xy: 251, 370
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_zs/mouth04
+  rotate: false
+  xy: 366, 128
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 606, 336
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

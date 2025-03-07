@@ -1,0 +1,293 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kurama/Kurama_Rose/Kurama_Rose_2/arminnerdown
+  rotate: true
+  xy: 357, 30
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/arminnerup
+  rotate: true
+  xy: 395, 136
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/armoutdown
+  rotate: false
+  xy: 359, 55
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/armoutup
+  rotate: false
+  xy: 211, 32
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/body
+  rotate: false
+  xy: 311, 167
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/body1
+  rotate: false
+  xy: 374, 167
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/eyebrow
+  rotate: false
+  xy: 131, 103
+  size: 80, 14
+  orig: 80, 14
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/eyehard
+  rotate: false
+  xy: 311, 113
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/eyehard1
+  rotate: false
+  xy: 311, 91
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/eyehard2
+  rotate: false
+  xy: 243, 32
+  size: 75, 13
+  orig: 75, 13
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 74, 11
+  orig: 74, 11
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/eyesffuer
+  rotate: false
+  xy: 129, 73
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/eyeyun
+  rotate: false
+  xy: 129, 43
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/face
+  rotate: false
+  xy: 2, 105
+  size: 127, 149
+  orig: 127, 149
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hair1
+  rotate: false
+  xy: 2, 16
+  size: 125, 87
+  orig: 125, 87
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hair2
+  rotate: false
+  xy: 241, 124
+  size: 68, 130
+  orig: 68, 130
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hair3
+  rotate: true
+  xy: 129, 2
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hair4
+  rotate: true
+  xy: 311, 135
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hair5
+  rotate: true
+  xy: 241, 95
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hairback
+  rotate: false
+  xy: 131, 119
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hand1
+  rotate: true
+  xy: 320, 28
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hand2
+  rotate: true
+  xy: 177, 2
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hand3
+  rotate: true
+  xy: 307, 2
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/hand4
+  rotate: true
+  xy: 213, 83
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/handinner
+  rotate: false
+  xy: 483, 108
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/handout
+  rotate: true
+  xy: 342, 4
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/leginnerdown
+  rotate: true
+  xy: 206, 2
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/leginnerup
+  rotate: false
+  xy: 279, 47
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/legoutdown
+  rotate: true
+  xy: 437, 110
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/legoutup
+  rotate: true
+  xy: 437, 143
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/legoutup1
+  rotate: false
+  xy: 243, 47
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/mouth01
+  rotate: false
+  xy: 98, 5
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/mouth02
+  rotate: false
+  xy: 364, 15
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/mouth03
+  rotate: false
+  xy: 78, 3
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_2/mouth04
+  rotate: true
+  xy: 388, 111
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_3/arminnerdown
+  rotate: false
+  xy: 252, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_3/handout
+  rotate: true
+  xy: 280, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_3/weapon
+  rotate: true
+  xy: 437, 179
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_4/legoutdown
+  rotate: false
+  xy: 485, 133
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Kurama/Kurama_Rose/Kurama_Rose_4/legoutup
+  rotate: true
+  xy: 310, 60
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 485, 180
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

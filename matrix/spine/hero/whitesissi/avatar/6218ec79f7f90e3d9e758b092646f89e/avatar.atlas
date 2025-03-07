@@ -1,0 +1,608 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 948, 357
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/arminnerdown
+  rotate: false
+  xy: 583, 283
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/arminnerup
+  rotate: false
+  xy: 532, 278
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/armoutdown
+  rotate: true
+  xy: 291, 125
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/armoutup
+  rotate: false
+  xy: 610, 309
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/body
+  rotate: true
+  xy: 642, 363
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/eyebrow
+  rotate: false
+  xy: 84, 5
+  size: 43, 7
+  orig: 43, 7
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/eyehard
+  rotate: false
+  xy: 569, 338
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/eyehard 2
+  rotate: false
+  xy: 263, 289
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/eyehard1
+  rotate: false
+  xy: 182, 266
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/eyehard3
+  rotate: true
+  xy: 1010, 441
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/eyesffuer
+  rotate: false
+  xy: 494, 315
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/eyeyun
+  rotate: true
+  xy: 170, 151
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/face
+  rotate: false
+  xy: 2, 252
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair1
+  rotate: true
+  xy: 374, 369
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair2
+  rotate: false
+  xy: 767, 307
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair3
+  rotate: true
+  xy: 90, 100
+  size: 49, 94
+  orig: 49, 94
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair4
+  rotate: false
+  xy: 146, 13
+  size: 40, 85
+  orig: 40, 85
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair5
+  rotate: true
+  xy: 348, 289
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair6
+  rotate: true
+  xy: 433, 428
+  size: 78, 134
+  orig: 78, 134
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair7
+  rotate: true
+  xy: 263, 309
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair8
+  rotate: false
+  xy: 2, 2
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hair9
+  rotate: false
+  xy: 121, 276
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/handinner
+  rotate: true
+  xy: 386, 294
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/handinner1
+  rotate: false
+  xy: 263, 373
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/handout
+  rotate: false
+  xy: 320, 127
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/handout1
+  rotate: false
+  xy: 669, 291
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/handout2
+  rotate: false
+  xy: 721, 293
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/handout3
+  rotate: false
+  xy: 695, 293
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hat
+  rotate: false
+  xy: 569, 414
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/hat1
+  rotate: false
+  xy: 90, 151
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/leginnerdown
+  rotate: true
+  xy: 121, 256
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/leginnerup
+  rotate: true
+  xy: 899, 349
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/legoutdown
+  rotate: false
+  xy: 293, 161
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/legoutup
+  rotate: false
+  xy: 354, 248
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/mouth01
+  rotate: false
+  xy: 165, 267
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/mouth02
+  rotate: false
+  xy: 200, 151
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/mouth04
+  rotate: true
+  xy: 255, 272
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/pijian
+  rotate: true
+  xy: 188, 58
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/pijian1
+  rotate: true
+  xy: 404, 281
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/pijian2
+  rotate: true
+  xy: 948, 384
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/texiao
+  rotate: false
+  xy: 440, 361
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/weapon
+  rotate: false
+  xy: 831, 411
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/weapon1
+  rotate: false
+  xy: 742, 298
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/weapon2
+  rotate: false
+  xy: 386, 276
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/weapon3
+  rotate: false
+  xy: 494, 351
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/xiabai
+  rotate: false
+  xy: 444, 277
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/xiabai2
+  rotate: true
+  xy: 153, 382
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/xiabai3
+  rotate: true
+  xy: 610, 281
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/xiabai4
+  rotate: true
+  xy: 317, 242
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_2/xiabai5
+  rotate: true
+  xy: 316, 210
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/arminnerdown
+  rotate: false
+  xy: 554, 280
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/armoutdown
+  rotate: true
+  xy: 188, 13
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/body
+  rotate: true
+  xy: 710, 361
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/hat
+  rotate: false
+  xy: 700, 414
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/hat1
+  rotate: false
+  xy: 182, 293
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/pifeng
+  rotate: true
+  xy: 706, 316
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/pifeng1
+  rotate: false
+  xy: 287, 424
+  size: 144, 82
+  orig: 144, 82
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/pijian
+  rotate: false
+  xy: 440, 307
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/pijian1
+  rotate: true
+  xy: 899, 371
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/pijian2
+  rotate: true
+  xy: 778, 358
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/weapon
+  rotate: false
+  xy: 153, 395
+  size: 132, 111
+  orig: 132, 111
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/xiabai
+  rotate: false
+  xy: 494, 287
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/xiabai1
+  rotate: false
+  xy: 509, 380
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/xiabai2
+  rotate: false
+  xy: 220, 118
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/xiabai3
+  rotate: false
+  xy: 186, 104
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/xiabai4
+  rotate: false
+  xy: 200, 164
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_3/xiabai5
+  rotate: false
+  xy: 223, 211
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/arminnerdown
+  rotate: false
+  xy: 640, 286
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/armoutdown
+  rotate: false
+  xy: 247, 125
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/body
+  rotate: true
+  xy: 831, 359
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/hat2
+  rotate: false
+  xy: 247, 163
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/hat3
+  rotate: false
+  xy: 84, 14
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/pifeng
+  rotate: true
+  xy: 287, 370
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/pifeng1
+  rotate: false
+  xy: 404, 307
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/pifeng2
+  rotate: true
+  xy: 2, 105
+  size: 145, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/pijian
+  rotate: false
+  xy: 170, 212
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/pijian1
+  rotate: false
+  xy: 318, 163
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/pijian2
+  rotate: false
+  xy: 348, 316
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/weapon
+  rotate: false
+  xy: 2, 382
+  size: 149, 124
+  orig: 149, 124
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/xiabai
+  rotate: false
+  xy: 556, 310
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/xiabai1
+  rotate: false
+  xy: 569, 365
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/xiabai2
+  rotate: true
+  xy: 265, 209
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/xiabai3
+  rotate: true
+  xy: 509, 346
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/xiabai4
+  rotate: false
+  xy: 642, 316
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+WhiteSissi/Counsellor/WhiteSissi_Counsellor_4/xiabai5
+  rotate: false
+  xy: 265, 242
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1

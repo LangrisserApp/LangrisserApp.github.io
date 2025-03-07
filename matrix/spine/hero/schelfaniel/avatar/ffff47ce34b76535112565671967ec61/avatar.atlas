@@ -1,0 +1,293 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chris/Chris_Bishop/Chris_Avatar_3/body
+  rotate: false
+  xy: 384, 373
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handinner
+  rotate: true
+  xy: 224, 312
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handinner1
+  rotate: true
+  xy: 359, 323
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handout
+  rotate: false
+  xy: 201, 168
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handout1
+  rotate: false
+  xy: 492, 365
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiainner
+  rotate: false
+  xy: 384, 338
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiainner1
+  rotate: true
+  xy: 160, 30
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiaout
+  rotate: true
+  xy: 197, 235
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiaout1
+  rotate: false
+  xy: 297, 379
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/leginnerdown
+  rotate: false
+  xy: 223, 168
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/leginnerup
+  rotate: false
+  xy: 201, 130
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/legoutdown
+  rotate: false
+  xy: 223, 130
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/legoutup
+  rotate: true
+  xy: 197, 208
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/pifeng
+  rotate: false
+  xy: 240, 422
+  size: 142, 88
+  orig: 142, 88
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/qunziinner
+  rotate: true
+  xy: 129, 83
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/qunziout
+  rotate: false
+  xy: 129, 118
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/weapon
+  rotate: false
+  xy: 2, 421
+  size: 236, 89
+  orig: 236, 89
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/yaojia
+  rotate: false
+  xy: 297, 336
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/dd
+  rotate: false
+  xy: 143, 306
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyebrow
+  rotate: false
+  xy: 429, 351
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard
+  rotate: true
+  xy: 224, 352
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard1
+  rotate: true
+  xy: 359, 353
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard2
+  rotate: true
+  xy: 184, 131
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyehard3
+  rotate: false
+  xy: 429, 340
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyesffuer
+  rotate: false
+  xy: 429, 363
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/eyeyun
+  rotate: true
+  xy: 128, 20
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/face
+  rotate: false
+  xy: 2, 201
+  size: 139, 109
+  orig: 139, 109
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair
+  rotate: false
+  xy: 249, 355
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair1
+  rotate: true
+  xy: 429, 396
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair2
+  rotate: false
+  xy: 157, 302
+  size: 65, 117
+  orig: 65, 117
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/hair3
+  rotate: true
+  xy: 384, 432
+  size: 78, 125
+  orig: 78, 125
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth01
+  rotate: false
+  xy: 101, 12
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth02
+  rotate: false
+  xy: 493, 416
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/mouth04
+  rotate: false
+  xy: 224, 307
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/toushi
+  rotate: true
+  xy: 160, 3
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Magician_1/toushi1
+  rotate: true
+  xy: 381, 312
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Magic/Schelfaniel_Wizard_3/toushi2
+  rotate: false
+  xy: 2, 97
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Pilgrim/Schelfaniel_Princess_3/hat
+  rotate: false
+  xy: 2, 312
+  size: 153, 107
+  orig: 153, 107
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Pilgrim/Schelfaniel_Princess_3/hat1
+  rotate: false
+  xy: 143, 199
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+Schelfaniel/Schelfaniel_Pilgrim/Schelfaniel_Princess_3/hat2
+  rotate: true
+  xy: 2, 9
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 101, 21
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

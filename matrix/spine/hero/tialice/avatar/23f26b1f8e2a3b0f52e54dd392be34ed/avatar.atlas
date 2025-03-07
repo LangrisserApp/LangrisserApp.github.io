@@ -1,0 +1,265 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riana/Riana_Bishop/Riana_HighBishop_2/arminner1
+  rotate: false
+  xy: 106, 99
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/armout1
+  rotate: false
+  xy: 483, 398
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/body
+  rotate: true
+  xy: 256, 416
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/fushi
+  rotate: true
+  xy: 117, 263
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handinner
+  rotate: false
+  xy: 253, 335
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handout
+  rotate: true
+  xy: 106, 130
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijian
+  rotate: false
+  xy: 390, 395
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijianiinner
+  rotate: false
+  xy: 253, 367
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/weapon
+  rotate: false
+  xy: 2, 411
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodai
+  rotate: true
+  xy: 263, 283
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodaipeijian
+  rotate: true
+  xy: 304, 363
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 55, 87
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/toushi
+  rotate: false
+  xy: 194, 262
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+Tialice/eyebrow
+  rotate: false
+  xy: 256, 407
+  size: 68, 7
+  orig: 68, 7
+  offset: 0, 0
+  index: -1
+Tialice/eyehard
+  rotate: false
+  xy: 326, 392
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+Tialice/eyehard1
+  rotate: true
+  xy: 82, 100
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+Tialice/eyehard2
+  rotate: false
+  xy: 165, 138
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Tialice/eyehard3
+  rotate: false
+  xy: 165, 128
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+Tialice/eyesffuer
+  rotate: true
+  xy: 190, 196
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Tialice/eyeyun
+  rotate: true
+  xy: 229, 196
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+Tialice/face
+  rotate: false
+  xy: 2, 268
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+Tialice/hair1
+  rotate: true
+  xy: 2, 7
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Tialice/hair2
+  rotate: false
+  xy: 185, 331
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+Tialice/hair3
+  rotate: true
+  xy: 390, 446
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+Tialice/hair4
+  rotate: false
+  xy: 114, 200
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+Tialice/hair7
+  rotate: true
+  xy: 114, 156
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Tialice/hairinner1
+  rotate: false
+  xy: 117, 313
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+Tialice/hairinner2
+  rotate: false
+  xy: 85, 164
+  size: 27, 102
+  orig: 27, 102
+  offset: 0, 0
+  index: -1
+Tialice/hairinner3
+  rotate: false
+  xy: 2, 62
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+Tialice/hairinner4
+  rotate: false
+  xy: 2, 163
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+Tialice/mouth01
+  rotate: true
+  xy: 185, 314
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Tialice/mouth02
+  rotate: false
+  xy: 55, 75
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Tialice/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Tialice/toushi1
+  rotate: true
+  xy: 185, 156
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+Tialice/toushi2
+  rotate: true
+  xy: 185, 174
+  size: 20, 73
+  orig: 20, 73
+  offset: 0, 0
+  index: -1
+Tialice/toushi3
+  rotate: false
+  xy: 243, 262
+  size: 18, 67
+  orig: 18, 67
+  offset: 0, 0
+  index: -1
+Tialice/toushi4
+  rotate: false
+  xy: 486, 438
+  size: 24, 70
+  orig: 24, 70
+  offset: 0, 0
+  index: -1

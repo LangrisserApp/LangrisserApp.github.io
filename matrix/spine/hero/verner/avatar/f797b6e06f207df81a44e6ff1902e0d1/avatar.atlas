@@ -1,0 +1,412 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/WTX
+  rotate: true
+  xy: 319, 362
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/arminnerdown
+  rotate: true
+  xy: 158, 25
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/armoutdown
+  rotate: false
+  xy: 474, 476
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/jianjiainner
+  rotate: true
+  xy: 274, 134
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/jianjiaout
+  rotate: true
+  xy: 227, 72
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/leginnerdown
+  rotate: false
+  xy: 189, 17
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/legoutdown
+  rotate: false
+  xy: 235, 144
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/qunbai2
+  rotate: false
+  xy: 184, 246
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/qunbaiinner
+  rotate: false
+  xy: 328, 250
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/qunbaiout
+  rotate: true
+  xy: 178, 144
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/shipaing1
+  rotate: false
+  xy: 367, 297
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/shipaing2
+  rotate: true
+  xy: 442, 364
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/weapon1
+  rotate: false
+  xy: 341, 460
+  size: 131, 50
+  orig: 131, 50
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/weijing
+  rotate: false
+  xy: 184, 196
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/weijing2
+  rotate: true
+  xy: 54, 9
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_03/weijing3
+  rotate: false
+  xy: 2, 107
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/Shadow
+  rotate: true
+  xy: 292, 293
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/WTX
+  rotate: true
+  xy: 2, 2
+  size: 103, 50
+  orig: 103, 50
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/arminnerdown
+  rotate: true
+  xy: 401, 325
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/arminnerup
+  rotate: false
+  xy: 303, 93
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/armoutdown
+  rotate: true
+  xy: 292, 255
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/armoutup
+  rotate: false
+  xy: 265, 46
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/body
+  rotate: false
+  xy: 366, 388
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/eyebrow
+  rotate: false
+  xy: 178, 126
+  size: 77, 16
+  orig: 77, 16
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/eyehard
+  rotate: false
+  xy: 112, 2
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/eyehard1
+  rotate: true
+  xy: 274, 179
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/eyehard2
+  rotate: true
+  xy: 158, 64
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/eyehard3
+  rotate: true
+  xy: 297, 181
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/eyesffuer
+  rotate: true
+  xy: 146, 140
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/eyeyun
+  rotate: true
+  xy: 482, 395
+  size: 79, 28
+  orig: 79, 28
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/face
+  rotate: false
+  xy: 2, 329
+  size: 190, 181
+  orig: 190, 181
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/hair1
+  rotate: true
+  xy: 194, 369
+  size: 77, 123
+  orig: 77, 123
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/hair2
+  rotate: false
+  xy: 111, 112
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/handinner
+  rotate: false
+  xy: 398, 364
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/handout
+  rotate: false
+  xy: 366, 362
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/jianjiainner
+  rotate: false
+  xy: 356, 163
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/jianjiaout
+  rotate: true
+  xy: 225, 17
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/kua
+  rotate: true
+  xy: 265, 2
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/leginnerdown
+  rotate: false
+  xy: 367, 316
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/leginnerup
+  rotate: false
+  xy: 178, 74
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/legoutdown
+  rotate: false
+  xy: 302, 136
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/legoutup
+  rotate: false
+  xy: 316, 196
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/mouth01
+  rotate: true
+  xy: 178, 204
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/mouth02
+  rotate: true
+  xy: 385, 297
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/mouth04
+  rotate: true
+  xy: 184, 308
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/qunbai2
+  rotate: false
+  xy: 194, 304
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/qunbaiinner
+  rotate: false
+  xy: 356, 203
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/qunbaiout
+  rotate: false
+  xy: 319, 294
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/shipaing1
+  rotate: false
+  xy: 434, 346
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/shipaing2
+  rotate: true
+  xy: 421, 364
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/weapon1
+  rotate: false
+  xy: 194, 448
+  size: 145, 62
+  orig: 145, 62
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/weijing
+  rotate: true
+  xy: 112, 25
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/weijing2
+  rotate: true
+  xy: 428, 381
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/weijing3
+  rotate: true
+  xy: 126, 221
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/weijing4
+  rotate: false
+  xy: 2, 206
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/yaodai
+  rotate: true
+  xy: 271, 255
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/yaojiainner
+  rotate: false
+  xy: 292, 4
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Verner/Verner_RaiderGeneral/Verner_RaiderGeneral_04/yaojiaout
+  rotate: false
+  xy: 263, 89
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1

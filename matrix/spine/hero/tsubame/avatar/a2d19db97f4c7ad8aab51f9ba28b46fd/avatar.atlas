@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 129, 11
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/arminnerdown
+  rotate: false
+  xy: 488, 378
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/arminnerdown1
+  rotate: false
+  xy: 12, 157
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/arminnerup
+  rotate: true
+  xy: 249, 237
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/armoutdown
+  rotate: false
+  xy: 188, 123
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/armoutup
+  rotate: false
+  xy: 197, 192
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/body
+  rotate: false
+  xy: 12, 79
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/eyebrow
+  rotate: true
+  xy: 238, 237
+  size: 47, 9
+  orig: 47, 9
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/eyehard
+  rotate: false
+  xy: 314, 389
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/eyehard1
+  rotate: false
+  xy: 314, 358
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/eyehard2
+  rotate: true
+  xy: 126, 87
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/eyehard3
+  rotate: false
+  xy: 129, 2
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/eyesffuer
+  rotate: false
+  xy: 125, 219
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/eyeyun
+  rotate: true
+  xy: 160, 154
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/face
+  rotate: false
+  xy: 2, 220
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/hair1
+  rotate: true
+  xy: 334, 420
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/hair2
+  rotate: false
+  xy: 186, 286
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/hair3
+  rotate: false
+  xy: 125, 261
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/hair4
+  rotate: true
+  xy: 416, 412
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/hair5
+  rotate: false
+  xy: 153, 95
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/hairinner
+  rotate: false
+  xy: 12, 10
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/handinner
+  rotate: false
+  xy: 488, 405
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/handout
+  rotate: false
+  xy: 488, 352
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/hudiejie
+  rotate: true
+  xy: 156, 22
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/leginnerdown
+  rotate: false
+  xy: 478, 465
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/leginnerup
+  rotate: false
+  xy: 249, 312
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/legoutdown
+  rotate: true
+  xy: 197, 155
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/legoutup
+  rotate: false
+  xy: 249, 269
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/mouth01
+  rotate: true
+  xy: 2, 6
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/mouth02
+  rotate: false
+  xy: 188, 107
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/mouth04
+  rotate: true
+  xy: 190, 220
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/weapon
+  rotate: false
+  xy: 2, 367
+  size: 310, 65
+  orig: 310, 65
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/weapon1
+  rotate: true
+  xy: 2, 23
+  size: 195, 8
+  orig: 195, 8
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/weapon2
+  rotate: false
+  xy: 2, 359
+  size: 257, 6
+  orig: 257, 6
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/weijin
+  rotate: true
+  xy: 156, 40
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/weijininner
+  rotate: false
+  xy: 334, 464
+  size: 142, 46
+  orig: 142, 46
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/xiabaiinner
+  rotate: true
+  xy: 395, 361
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/xiabaiinner1
+  rotate: false
+  xy: 190, 237
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/xiabaiout
+  rotate: true
+  xy: 482, 425
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_03/yaodai
+  rotate: true
+  xy: 456, 357
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_04/body1
+  rotate: false
+  xy: 69, 79
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_04/jianjia3
+  rotate: false
+  xy: 242, 196
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_04/jianjiaout
+  rotate: false
+  xy: 101, 168
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_04/jianjiaout1
+  rotate: false
+  xy: 242, 157
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_04/toushi
+  rotate: false
+  xy: 73, 3
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Ranger/Tsubame_Ranger_04/weapon
+  rotate: false
+  xy: 2, 434
+  size: 330, 76
+  orig: 330, 76
+  offset: 0, 0
+  index: -1

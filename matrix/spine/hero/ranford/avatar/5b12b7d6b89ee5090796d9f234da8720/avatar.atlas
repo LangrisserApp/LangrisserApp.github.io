@@ -1,0 +1,433 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 289, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/arm_inner
+  rotate: true
+  xy: 379, 312
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/arm_inner1
+  rotate: true
+  xy: 123, 4
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/arm_inner2
+  rotate: true
+  xy: 417, 315
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/arm_out
+  rotate: false
+  xy: 805, 378
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/arm_out1
+  rotate: true
+  xy: 2, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/arm_out2
+  rotate: true
+  xy: 317, 144
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/body
+  rotate: false
+  xy: 251, 298
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/hand_inner
+  rotate: true
+  xy: 382, 248
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/hand_out
+  rotate: true
+  xy: 845, 383
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/handinner1
+  rotate: false
+  xy: 771, 348
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/hudang
+  rotate: false
+  xy: 317, 215
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/jianjiainner
+  rotate: true
+  xy: 709, 362
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/jianjiaout
+  rotate: false
+  xy: 377, 375
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/leginnerdown
+  rotate: false
+  xy: 161, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/leginnerup
+  rotate: true
+  xy: 776, 410
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/legoutdown
+  rotate: true
+  xy: 413, 344
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/legoutup
+  rotate: false
+  xy: 305, 317
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/pifeng
+  rotate: false
+  xy: 806, 449
+  size: 115, 61
+  orig: 115, 61
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/pifenginner
+  rotate: false
+  xy: 2, 32
+  size: 146, 100
+  orig: 146, 100
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/toushi
+  rotate: false
+  xy: 289, 406
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/weapon
+  rotate: false
+  xy: 2, 403
+  size: 285, 107
+  orig: 285, 107
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/yaojiainner
+  rotate: false
+  xy: 379, 337
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_Kensei_3/yaojiaout
+  rotate: true
+  xy: 226, 75
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/arm_inner
+  rotate: true
+  xy: 947, 419
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/arm_inner1
+  rotate: false
+  xy: 188, 4
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/arm_inner2
+  rotate: true
+  xy: 982, 421
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/arm_out
+  rotate: false
+  xy: 251, 370
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/arm_out1
+  rotate: false
+  xy: 317, 260
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/arm_out2
+  rotate: true
+  xy: 874, 424
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/body
+  rotate: true
+  xy: 633, 361
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/eyebrow
+  rotate: true
+  xy: 538, 370
+  size: 79, 15
+  orig: 79, 15
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/eyehard
+  rotate: false
+  xy: 305, 385
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/eyehard1
+  rotate: false
+  xy: 305, 365
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/eyehard2
+  rotate: false
+  xy: 305, 303
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/eyehard3
+  rotate: false
+  xy: 806, 438
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/eyesffuer
+  rotate: false
+  xy: 183, 126
+  size: 79, 19
+  orig: 79, 19
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/eyeyun
+  rotate: false
+  xy: 695, 416
+  size: 79, 20
+  orig: 79, 20
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/face
+  rotate: false
+  xy: 183, 147
+  size: 132, 149
+  orig: 132, 149
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hair1
+  rotate: false
+  xy: 150, 43
+  size: 21, 89
+  orig: 21, 89
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hair2
+  rotate: true
+  xy: 695, 438
+  size: 72, 109
+  orig: 72, 109
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hair3
+  rotate: true
+  xy: 555, 416
+  size: 94, 138
+  orig: 94, 138
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hair4
+  rotate: true
+  xy: 458, 382
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hair5
+  rotate: true
+  xy: 923, 446
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hair6
+  rotate: true
+  xy: 911, 424
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hairback
+  rotate: false
+  xy: 2, 134
+  size: 179, 162
+  orig: 179, 162
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/handinner1
+  rotate: true
+  xy: 282, 378
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/hudang
+  rotate: false
+  xy: 317, 170
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/jianjiainner
+  rotate: false
+  xy: 173, 74
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/jianjiaout
+  rotate: false
+  xy: 555, 355
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/leginnerdown
+  rotate: true
+  xy: 817, 410
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/leginnerup
+  rotate: false
+  xy: 354, 262
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/legoutdown
+  rotate: false
+  xy: 382, 273
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/legoutup
+  rotate: false
+  xy: 342, 317
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/mouth01
+  rotate: true
+  xy: 264, 126
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/mouth02
+  rotate: true
+  xy: 1012, 495
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/mouth04
+  rotate: true
+  xy: 275, 126
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/weapon
+  rotate: false
+  xy: 2, 298
+  size: 247, 103
+  orig: 247, 103
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/yaojiainner
+  rotate: false
+  xy: 771, 371
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Ranford/Ranford_Sword/Ranford_SwardMan_2/yaojiaout
+  rotate: true
+  xy: 173, 42
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 47, 5
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

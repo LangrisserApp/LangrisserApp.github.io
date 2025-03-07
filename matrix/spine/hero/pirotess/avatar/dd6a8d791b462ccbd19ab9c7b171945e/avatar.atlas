@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/arminnerdown
+  rotate: true
+  xy: 198, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/arminnerup
+  rotate: false
+  xy: 429, 136
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/armoutdown
+  rotate: true
+  xy: 462, 90
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/armoutup
+  rotate: true
+  xy: 470, 174
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/body
+  rotate: true
+  xy: 2, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/daizi
+  rotate: false
+  xy: 378, 42
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/earinner
+  rotate: true
+  xy: 470, 209
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/eyebrow
+  rotate: false
+  xy: 293, 33
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/eyehard
+  rotate: false
+  xy: 223, 57
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/eyehard1
+  rotate: false
+  xy: 135, 36
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/eyehard2
+  rotate: false
+  xy: 214, 38
+  size: 77, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/eyehard3
+  rotate: false
+  xy: 293, 45
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/eyesffuer
+  rotate: false
+  xy: 223, 81
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/eyeyun
+  rotate: false
+  xy: 130, 2
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/face
+  rotate: false
+  xy: 135, 117
+  size: 151, 137
+  orig: 151, 137
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/hair1
+  rotate: true
+  xy: 224, 11
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/hair2
+  rotate: true
+  xy: 135, 60
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/hair3
+  rotate: false
+  xy: 61, 12
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/hair4
+  rotate: true
+  xy: 291, 83
+  size: 23, 82
+  orig: 23, 82
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/hair5
+  rotate: true
+  xy: 291, 108
+  size: 24, 82
+  orig: 24, 82
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/handinner
+  rotate: false
+  xy: 338, 9
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/handout
+  rotate: true
+  xy: 493, 151
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/handout1
+  rotate: false
+  xy: 427, 40
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/headinner1
+  rotate: false
+  xy: 2, 58
+  size: 131, 196
+  orig: 131, 196
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/jianjiainner
+  rotate: false
+  xy: 463, 66
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/jianjiaout
+  rotate: true
+  xy: 429, 64
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/jianjiaout1
+  rotate: false
+  xy: 493, 121
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/leginnerup
+  rotate: false
+  xy: 432, 86
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/legnnerdown
+  rotate: true
+  xy: 378, 66
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/legoutoown
+  rotate: true
+  xy: 282, 9
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/legoutup
+  rotate: false
+  xy: 467, 122
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/mouth01
+  rotate: false
+  xy: 61, 5
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/mouth02
+  rotate: false
+  xy: 491, 107
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/mouth03
+  rotate: true
+  xy: 366, 40
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/mouth04
+  rotate: false
+  xy: 224, 2
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/qunzi
+  rotate: false
+  xy: 375, 98
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/weapon
+  rotate: false
+  xy: 288, 134
+  size: 139, 120
+  orig: 139, 120
+  offset: 0, 0
+  index: -1
+Pirotess/Pirotess_Darkelf/Pirotess_Darkelf_2/weapon1
+  rotate: false
+  xy: 429, 175
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 302, 56
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

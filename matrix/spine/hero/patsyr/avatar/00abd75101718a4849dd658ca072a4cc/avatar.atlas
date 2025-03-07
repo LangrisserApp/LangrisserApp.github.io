@@ -1,0 +1,510 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Patsyr/Patsyr_Blood/Patsyr_Blood_4/handinner
+  rotate: true
+  xy: 373, 102
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Envoy/Patsyr_Envoy_3/leginnerdown
+  rotate: false
+  xy: 286, 57
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Envoy/Patsyr_Envoy_3/leginnerup
+  rotate: true
+  xy: 141, 2
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/arminnerup
+  rotate: false
+  xy: 267, 7
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/armoutdown
+  rotate: false
+  xy: 341, 37
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/armoutdown
+  rotate: false
+  xy: 341, 37
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/armoutup
+  rotate: false
+  xy: 538, 185
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/body
+  rotate: false
+  xy: 525, 249
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/dang1
+  rotate: false
+  xy: 664, 280
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/dang
+  rotate: false
+  xy: 664, 280
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/leginnerdown
+  rotate: false
+  xy: 185, 2
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/leginnerup
+  rotate: true
+  xy: 661, 249
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/legoutdown
+  rotate: true
+  xy: 349, 135
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/legoutup
+  rotate: false
+  xy: 314, 57
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/toushi
+  rotate: false
+  xy: 352, 313
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/toushi1
+  rotate: false
+  xy: 351, 230
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_2/weapon
+  rotate: false
+  xy: 424, 308
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/arminnerdown
+  rotate: false
+  xy: 367, 78
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/arminnerup
+  rotate: false
+  xy: 212, 3
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/armoutup
+  rotate: false
+  xy: 233, 10
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/body
+  rotate: false
+  xy: 413, 249
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/earinner
+  rotate: false
+  xy: 705, 282
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/earout
+  rotate: false
+  xy: 617, 282
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/eyebrow
+  rotate: true
+  xy: 1008, 438
+  size: 72, 9
+  orig: 72, 9
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/eyehard
+  rotate: false
+  xy: 413, 223
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/eyehard1
+  rotate: false
+  xy: 491, 223
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/eyehard2
+  rotate: true
+  xy: 141, 79
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/eyehard3
+  rotate: true
+  xy: 753, 341
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/eyesffuer
+  rotate: false
+  xy: 160, 167
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/eyeyun
+  rotate: false
+  xy: 469, 193
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/face
+  rotate: false
+  xy: 2, 8
+  size: 137, 148
+  orig: 137, 148
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/hair1
+  rotate: false
+  xy: 160, 198
+  size: 71, 117
+  orig: 71, 117
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/hair2
+  rotate: true
+  xy: 207, 336
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/hair3
+  rotate: false
+  xy: 161, 91
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/hair4
+  rotate: false
+  xy: 2, 158
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/hair5
+  rotate: true
+  xy: 223, 96
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/handinner
+  rotate: true
+  xy: 397, 137
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/handout
+  rotate: true
+  xy: 341, 72
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/leginnerdown
+  rotate: true
+  xy: 617, 249
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/leginnerup
+  rotate: false
+  xy: 168, 46
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/legoutdown
+  rotate: false
+  xy: 141, 31
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/legoutup
+  rotate: false
+  xy: 259, 49
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/mouth01
+  rotate: true
+  xy: 753, 322
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/mouth02
+  rotate: true
+  xy: 286, 2
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/mouth03
+  rotate: true
+  xy: 746, 299
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/toushi
+  rotate: false
+  xy: 535, 306
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/toushi1
+  rotate: false
+  xy: 613, 318
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/weapon
+  rotate: false
+  xy: 233, 139
+  size: 114, 95
+  orig: 114, 95
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/weapon1
+  rotate: false
+  xy: 581, 248
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/weapon2
+  rotate: true
+  xy: 349, 160
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/weapon3
+  rotate: false
+  xy: 412, 169
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/winginner
+  rotate: false
+  xy: 771, 412
+  size: 156, 98
+  orig: 156, 98
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/wingout
+  rotate: false
+  xy: 410, 405
+  size: 201, 105
+  orig: 201, 105
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/yaojia
+  rotate: false
+  xy: 341, 3
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_3/yaojia1
+  rotate: false
+  xy: 1008, 413
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/arminnerup
+  rotate: false
+  xy: 320, 14
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/armoutup
+  rotate: false
+  xy: 286, 18
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/body
+  rotate: false
+  xy: 469, 249
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/hair6
+  rotate: false
+  xy: 2, 317
+  size: 203, 193
+  orig: 203, 193
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/leginnerdown
+  rotate: true
+  xy: 705, 249
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/leginnerup
+  rotate: false
+  xy: 200, 46
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/legoutdown
+  rotate: true
+  xy: 469, 167
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/legoutup
+  rotate: false
+  xy: 231, 49
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/toushi
+  rotate: false
+  xy: 929, 410
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/toushi1
+  rotate: false
+  xy: 683, 318
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/weapon
+  rotate: false
+  xy: 233, 236
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/weapon1
+  rotate: true
+  xy: 275, 103
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/winginner
+  rotate: false
+  xy: 613, 410
+  size: 156, 100
+  orig: 156, 100
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/wingout
+  rotate: false
+  xy: 207, 404
+  size: 201, 106
+  orig: 201, 106
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/yaojia
+  rotate: true
+  xy: 333, 109
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+Patsyr/Patsyr_Following/Patsyr_Following_4/yaojia1
+  rotate: true
+  xy: 207, 317
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 196, 91
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,783 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sagny/Sagny_Wizard/Sagny_Wizard_2/arminnerdown
+  rotate: false
+  xy: 961, 139
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/arminnerup
+  rotate: true
+  xy: 904, 85
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/arminnerup
+  rotate: true
+  xy: 904, 85
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/armoutdown1
+  rotate: true
+  xy: 940, 99
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/armoutup
+  rotate: true
+  xy: 669, 75
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/armoutup
+  rotate: true
+  xy: 669, 75
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/body
+  rotate: false
+  xy: 290, 31
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/body
+  rotate: false
+  xy: 290, 31
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/body1
+  rotate: false
+  xy: 529, 68
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/doumao
+  rotate: false
+  xy: 644, 396
+  size: 175, 114
+  orig: 175, 114
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/doumao1
+  rotate: false
+  xy: 339, 198
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/leginnerdown
+  rotate: true
+  xy: 397, 2
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/leginnerup
+  rotate: false
+  xy: 507, 4
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/legoutdown
+  rotate: true
+  xy: 717, 101
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/legoutup
+  rotate: true
+  xy: 720, 178
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/pifeng
+  rotate: true
+  xy: 341, 279
+  size: 146, 88
+  orig: 146, 88
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/pifeng1
+  rotate: false
+  xy: 708, 20
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/pifeng2
+  rotate: false
+  xy: 942, 296
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/pifeng3
+  rotate: true
+  xy: 443, 62
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/pifeng4
+  rotate: false
+  xy: 547, 3
+  size: 20, 63
+  orig: 20, 63
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/weapon1
+  rotate: false
+  xy: 751, 11
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/weapon2
+  rotate: false
+  xy: 894, 44
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_2/weapon3
+  rotate: false
+  xy: 2, 20
+  size: 137, 221
+  orig: 137, 221
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/arminnerdown
+  rotate: false
+  xy: 940, 68
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/armoutdown1
+  rotate: true
+  xy: 973, 75
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/body1
+  rotate: true
+  xy: 771, 130
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/doumao
+  rotate: false
+  xy: 156, 311
+  size: 183, 114
+  orig: 183, 114
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/doumao1
+  rotate: false
+  xy: 621, 208
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/jiao1
+  rotate: false
+  xy: 263, 5
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/jiao2
+  rotate: false
+  xy: 668, 149
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/leginnerdown
+  rotate: true
+  xy: 668, 114
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/leginnerup
+  rotate: true
+  xy: 717, 61
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/legoutdown
+  rotate: true
+  xy: 769, 93
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/legoutup
+  rotate: true
+  xy: 774, 176
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/pifeng
+  rotate: false
+  xy: 156, 209
+  size: 181, 100
+  orig: 181, 100
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/pifeng1
+  rotate: true
+  xy: 569, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/pifeng2
+  rotate: true
+  xy: 290, 115
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/pifeng3
+  rotate: false
+  xy: 141, 2
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/pifeng4
+  rotate: true
+  xy: 846, 170
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/pifeng5
+  rotate: true
+  xy: 720, 218
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/pifeng6
+  rotate: false
+  xy: 521, 289
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/weapon1
+  rotate: false
+  xy: 438, 119
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/weapon2
+  rotate: true
+  xy: 446, 2
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_3/weapon3
+  rotate: false
+  xy: 2, 243
+  size: 152, 267
+  orig: 152, 267
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/arminnerdown
+  rotate: false
+  xy: 973, 45
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/arminnerup
+  rotate: true
+  xy: 907, 4
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/armoutdown1
+  rotate: false
+  xy: 943, 12
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/armoutdown2
+  rotate: false
+  xy: 873, 87
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/armoutup
+  rotate: true
+  xy: 819, 47
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/body1
+  rotate: true
+  xy: 823, 124
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/body2
+  rotate: true
+  xy: 932, 171
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/daizi1
+  rotate: true
+  xy: 697, 317
+  size: 77, 109
+  orig: 77, 109
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/daizi2
+  rotate: false
+  xy: 431, 282
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/doumao
+  rotate: false
+  xy: 460, 396
+  size: 182, 114
+  orig: 182, 114
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/doumao1
+  rotate: false
+  xy: 339, 117
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/eyebrow
+  rotate: false
+  xy: 2, 5
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/eyehard
+  rotate: true
+  xy: 419, 38
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/eyehard1
+  rotate: false
+  xy: 586, 123
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/eyehard2
+  rotate: false
+  xy: 586, 102
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/eyehard3
+  rotate: true
+  xy: 1005, 442
+  size: 68, 12
+  orig: 68, 12
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/eyesffuer
+  rotate: false
+  xy: 511, 120
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/eyeyun
+  rotate: false
+  xy: 575, 71
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/face
+  rotate: false
+  xy: 141, 65
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/guang1
+  rotate: false
+  xy: 947, 344
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/hair1
+  rotate: false
+  xy: 931, 227
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/hair2
+  rotate: false
+  xy: 521, 208
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/hair3
+  rotate: true
+  xy: 846, 226
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/hair4
+  rotate: false
+  xy: 785, 216
+  size: 59, 99
+  orig: 59, 99
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/handinner
+  rotate: false
+  xy: 794, 26
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/handinner1
+  rotate: false
+  xy: 977, 13
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/handout1
+  rotate: true
+  xy: 972, 109
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/handout2
+  rotate: false
+  xy: 431, 399
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/jiao1
+  rotate: false
+  xy: 808, 317
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/jiao2
+  rotate: false
+  xy: 438, 199
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/leginnerdown
+  rotate: true
+  xy: 347, 2
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/leginnerup
+  rotate: true
+  xy: 768, 52
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/legoutdown
+  rotate: true
+  xy: 821, 87
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/legoutup
+  rotate: true
+  xy: 717, 138
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/mouth01
+  rotate: true
+  xy: 1020, 120
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/mouth02
+  rotate: false
+  xy: 751, 52
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/mouth04
+  rotate: true
+  xy: 1019, 490
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_body
+  rotate: false
+  xy: 826, 5
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_body1
+  rotate: true
+  xy: 669, 2
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_chibang
+  rotate: false
+  xy: 867, 41
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_chibanginner5
+  rotate: true
+  xy: 290, 2
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_chibanginner6
+  rotate: false
+  xy: 996, 136
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_chibangout3
+  rotate: false
+  xy: 875, 125
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_chibangout4
+  rotate: true
+  xy: 927, 133
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_eyehard
+  rotate: false
+  xy: 943, 2
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_eyehard1
+  rotate: true
+  xy: 511, 155
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_eyesffuer
+  rotate: true
+  xy: 511, 176
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_eyeyun
+  rotate: false
+  xy: 697, 306
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_leginner
+  rotate: false
+  xy: 708, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_leginner1
+  rotate: true
+  xy: 828, 176
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_legout
+  rotate: false
+  xy: 935, 48
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_legout1
+  rotate: false
+  xy: 828, 193
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_tou
+  rotate: false
+  xy: 867, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/niao_weiba
+  rotate: true
+  xy: 141, 223
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/pifeng
+  rotate: false
+  xy: 821, 410
+  size: 182, 100
+  orig: 182, 100
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/pifeng1
+  rotate: true
+  xy: 619, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/pifeng2
+  rotate: false
+  xy: 848, 296
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/pifeng3
+  rotate: false
+  xy: 202, 2
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/pifeng4
+  rotate: true
+  xy: 521, 152
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/pifeng5
+  rotate: false
+  xy: 848, 345
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/pifeng6
+  rotate: false
+  xy: 609, 289
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/tuihuan1
+  rotate: false
+  xy: 995, 112
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/tuihuan2
+  rotate: false
+  xy: 794, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/weapon1
+  rotate: false
+  xy: 347, 37
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/weapon2
+  rotate: false
+  xy: 607, 147
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Sagny/Sagny_Wizard/Sagny_Wizard_4/weapon3
+  rotate: true
+  xy: 156, 427
+  size: 83, 302
+  orig: 83, 302
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 575, 44
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

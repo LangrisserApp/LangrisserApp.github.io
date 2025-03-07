@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Isara/Gun_234/1
+  rotate: true
+  xy: 2, 107
+  size: 156, 89
+  orig: 156, 89
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/2
+  rotate: false
+  xy: 193, 418
+  size: 167, 92
+  orig: 167, 92
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/3
+  rotate: false
+  xy: 2, 402
+  size: 189, 108
+  orig: 189, 108
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/arminnerdown
+  rotate: true
+  xy: 305, 303
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/arminnerup
+  rotate: true
+  xy: 178, 125
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/armoutdown
+  rotate: false
+  xy: 266, 337
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/armoutup
+  rotate: true
+  xy: 266, 308
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/bao
+  rotate: false
+  xy: 180, 197
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/baodai
+  rotate: false
+  xy: 190, 317
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/baoshi1
+  rotate: false
+  xy: 224, 281
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/baoshi2
+  rotate: true
+  xy: 266, 291
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/baoshi3
+  rotate: false
+  xy: 215, 124
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/bodydown
+  rotate: false
+  xy: 2, 5
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/bodyup
+  rotate: false
+  xy: 93, 115
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/eyebrow
+  rotate: true
+  xy: 179, 328
+  size: 72, 9
+  orig: 72, 9
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/eyehard
+  rotate: false
+  xy: 193, 390
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/eyehard2
+  rotate: false
+  xy: 270, 390
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/eyehard3
+  rotate: false
+  xy: 436, 402
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/eyehard4
+  rotate: false
+  xy: 256, 380
+  size: 71, 8
+  orig: 71, 8
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/eyesffuer
+  rotate: false
+  xy: 362, 413
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/eyeyun
+  rotate: true
+  xy: 143, 199
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/face
+  rotate: false
+  xy: 2, 265
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/hair1
+  rotate: true
+  xy: 362, 451
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/hair2
+  rotate: false
+  xy: 93, 178
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/hair3
+  rotate: false
+  xy: 133, 273
+  size: 44, 127
+  orig: 44, 127
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/hair4
+  rotate: false
+  xy: 143, 126
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/handinner
+  rotate: false
+  xy: 213, 253
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/handinner2
+  rotate: true
+  xy: 209, 158
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/handout
+  rotate: true
+  xy: 213, 233
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/leginnerdown
+  rotate: false
+  xy: 305, 327
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/leginnerup
+  rotate: false
+  xy: 75, 2
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/legoutdown
+  rotate: false
+  xy: 236, 321
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/legoutup
+  rotate: false
+  xy: 178, 153
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/meimao
+  rotate: false
+  xy: 256, 367
+  size: 65, 11
+  orig: 65, 11
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/mou
+  rotate: true
+  xy: 347, 399
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/mouth
+  rotate: false
+  xy: 329, 385
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/mouth1
+  rotate: false
+  xy: 244, 292
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/mouth2
+  rotate: false
+  xy: 496, 503
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/neck
+  rotate: true
+  xy: 180, 233
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/pijian1
+  rotate: false
+  xy: 206, 99
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/pijian2
+  rotate: false
+  xy: 143, 102
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/pijian3
+  rotate: false
+  xy: 2, 45
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/pijian4
+  rotate: true
+  xy: 178, 99
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/pijian5
+  rotate: true
+  xy: 244, 296
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/xiongshi
+  rotate: true
+  xy: 179, 280
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Isara/Gun_234/yaoshi
+  rotate: false
+  xy: 190, 363
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 436, 424
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,412 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_an
+  rotate: false
+  xy: 784, 389
+  size: 113, 121
+  orig: 113, 121
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_armoutdown
+  rotate: false
+  xy: 757, 234
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_armoutup
+  rotate: false
+  xy: 972, 293
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_body
+  rotate: true
+  xy: 109, 235
+  size: 181, 101
+  orig: 181, 101
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_footout
+  rotate: false
+  xy: 440, 226
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_handout
+  rotate: false
+  xy: 285, 169
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_head
+  rotate: false
+  xy: 653, 381
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_legoutdown
+  rotate: false
+  xy: 964, 249
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_legoutup
+  rotate: false
+  xy: 518, 216
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_neck
+  rotate: false
+  xy: 599, 270
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_shengzi
+  rotate: true
+  xy: 687, 267
+  size: 112, 68
+  orig: 112, 68
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_toushi1
+  rotate: true
+  xy: 964, 230
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_tuijia
+  rotate: false
+  xy: 212, 212
+  size: 118, 57
+  orig: 118, 57
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_tuishi
+  rotate: true
+  xy: 477, 192
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/Dragon_weiba2
+  rotate: false
+  xy: 2, 418
+  size: 206, 92
+  orig: 206, 92
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/arminnerdown
+  rotate: false
+  xy: 230, 140
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/arminnerup
+  rotate: true
+  xy: 437, 190
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/armoutdown
+  rotate: false
+  xy: 514, 188
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/armoutup
+  rotate: false
+  xy: 396, 196
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/body
+  rotate: true
+  xy: 885, 295
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/eyebrow
+  rotate: false
+  xy: 109, 217
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/eyehard
+  rotate: true
+  xy: 155, 153
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/eyehard1
+  rotate: false
+  xy: 78, 2
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/eyehard2
+  rotate: false
+  xy: 332, 213
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/eyehard3
+  rotate: false
+  xy: 816, 223
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/eyesffuer
+  rotate: false
+  xy: 682, 227
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/eyeyun
+  rotate: false
+  xy: 678, 187
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/face
+  rotate: false
+  xy: 212, 271
+  size: 132, 152
+  orig: 132, 152
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/hair1
+  rotate: true
+  xy: 596, 194
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/hair2
+  rotate: true
+  xy: 346, 234
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/hair3
+  rotate: true
+  xy: 596, 232
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/hair4
+  rotate: true
+  xy: 899, 419
+  size: 91, 123
+  orig: 91, 123
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/hair5
+  rotate: true
+  xy: 757, 276
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/handinner
+  rotate: true
+  xy: 490, 379
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/handout
+  rotate: false
+  xy: 261, 141
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/handout1
+  rotate: false
+  xy: 286, 142
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/jianjiainner
+  rotate: false
+  xy: 230, 168
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/jianjiaout
+  rotate: true
+  xy: 102, 83
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/legoutdown
+  rotate: true
+  xy: 143, 2
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/legoutup
+  rotate: false
+  xy: 184, 158
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/mouth01
+  rotate: true
+  xy: 885, 365
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/mouth02
+  rotate: false
+  xy: 179, 218
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/mouth04
+  rotate: true
+  xy: 878, 221
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/pifeng
+  rotate: false
+  xy: 210, 425
+  size: 135, 85
+  orig: 135, 85
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/weapon
+  rotate: false
+  xy: 2, 34
+  size: 98, 189
+  orig: 98, 189
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_3/yaojia
+  rotate: false
+  xy: 885, 234
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/Dragon_an
+  rotate: true
+  xy: 346, 282
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/Dragon_head
+  rotate: true
+  xy: 518, 379
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/Dragon_neck
+  rotate: true
+  xy: 490, 290
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/Dragon_tuijia
+  rotate: false
+  xy: 899, 363
+  size: 118, 54
+  orig: 118, 54
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/Dragon_tuishi
+  rotate: true
+  xy: 551, 182
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/body
+  rotate: false
+  xy: 816, 302
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/jianjiainner
+  rotate: false
+  xy: 102, 30
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/jianjiaout
+  rotate: false
+  xy: 816, 239
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/pifeng
+  rotate: false
+  xy: 347, 406
+  size: 169, 104
+  orig: 169, 104
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/toushi
+  rotate: false
+  xy: 102, 149
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+Olivo/Olivo_RaiderMaster/Olivo_RaiderMaster_4/weapon
+  rotate: false
+  xy: 2, 225
+  size: 105, 191
+  orig: 105, 191
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 7
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

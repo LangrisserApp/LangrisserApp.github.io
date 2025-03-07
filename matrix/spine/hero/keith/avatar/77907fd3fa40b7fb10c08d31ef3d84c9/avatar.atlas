@@ -1,0 +1,300 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horse/Ornament/Taupe/horse_tunjia
+  rotate: true
+  xy: 409, 436
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Horse/Ornament/Taupe/horse_xiongjia
+  rotate: true
+  xy: 2, 9
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegdown
+  rotate: false
+  xy: 189, 120
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegup
+  rotate: true
+  xy: 268, 387
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_body
+  rotate: true
+  xy: 2, 100
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegdown
+  rotate: true
+  xy: 137, 86
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegup
+  rotate: true
+  xy: 337, 328
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_weiba
+  rotate: false
+  xy: 295, 449
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_head
+  rotate: false
+  xy: 2, 258
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_neck
+  rotate: false
+  xy: 258, 308
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/arminnerdown
+  rotate: false
+  xy: 182, 17
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/arminnerup
+  rotate: false
+  xy: 188, 77
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/armoutdown
+  rotate: false
+  xy: 486, 385
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/armoutup
+  rotate: false
+  xy: 133, 44
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/body
+  rotate: true
+  xy: 409, 379
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/jianjiainner
+  rotate: false
+  xy: 137, 120
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/jianjiaout
+  rotate: false
+  xy: 409, 322
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/legoutdown
+  rotate: false
+  xy: 324, 267
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/legoutup
+  rotate: true
+  xy: 133, 17
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/weapon
+  rotate: false
+  xy: 2, 451
+  size: 291, 59
+  orig: 291, 59
+  offset: 0, 0
+  index: -1
+Keith/Keith_HighRider_2/yaojiaout
+  rotate: false
+  xy: 356, 382
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Keith/eyebrow
+  rotate: false
+  xy: 136, 168
+  size: 63, 13
+  orig: 63, 13
+  offset: 0, 0
+  index: -1
+Keith/eyehard
+  rotate: false
+  xy: 337, 311
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Keith/eyehard1
+  rotate: true
+  xy: 120, 99
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Keith/eyehard2
+  rotate: true
+  xy: 119, 38
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+Keith/eyehard3
+  rotate: true
+  xy: 480, 319
+  size: 58, 6
+  orig: 58, 6
+  offset: 0, 0
+  index: -1
+Keith/eyesffuer
+  rotate: false
+  xy: 258, 269
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Keith/eyeyun
+  rotate: false
+  xy: 255, 231
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Keith/face
+  rotate: true
+  xy: 125, 274
+  size: 114, 131
+  orig: 114, 131
+  offset: 0, 0
+  index: -1
+Keith/hair1
+  rotate: false
+  xy: 351, 293
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+Keith/hair2
+  rotate: true
+  xy: 175, 44
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Keith/hair3
+  rotate: true
+  xy: 255, 192
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Keith/mouth01
+  rotate: true
+  xy: 308, 209
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+Keith/mouth02
+  rotate: false
+  xy: 228, 182
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Keith/mouth04
+  rotate: true
+  xy: 506, 365
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian1
+  rotate: false
+  xy: 488, 336
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_guajian2
+  rotate: true
+  xy: 97, 160
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_mana
+  rotate: false
+  xy: 136, 183
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_neck1
+  rotate: false
+  xy: 97, 100
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: false
+  xy: 351, 266
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 390
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 228, 198
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

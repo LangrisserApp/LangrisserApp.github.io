@@ -1,0 +1,363 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Selvaria/Sword/Shadow
+  rotate: false
+  xy: 351, 427
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/arminnerdown
+  rotate: false
+  xy: 246, 211
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/arminnerdown2
+  rotate: false
+  xy: 213, 179
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/arminnerup
+  rotate: false
+  xy: 284, 210
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/arminnerup2
+  rotate: false
+  xy: 178, 155
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/armoutdown
+  rotate: false
+  xy: 124, 60
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/armoutup
+  rotate: true
+  xy: 73, 190
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/body
+  rotate: false
+  xy: 181, 274
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyebrow
+  rotate: false
+  xy: 181, 248
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyebrow 2
+  rotate: false
+  xy: 109, 235
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyehard
+  rotate: false
+  xy: 338, 367
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyehard 2
+  rotate: false
+  xy: 338, 345
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyehard 3
+  rotate: false
+  xy: 246, 246
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyehard3
+  rotate: false
+  xy: 181, 264
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/eyeyun
+  rotate: false
+  xy: 66, 2
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/face
+  rotate: false
+  xy: 2, 368
+  size: 124, 142
+  orig: 124, 142
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair1
+  rotate: false
+  xy: 67, 104
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair10
+  rotate: false
+  xy: 478, 378
+  size: 32, 132
+  orig: 32, 132
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair11
+  rotate: true
+  xy: 351, 454
+  size: 56, 125
+  orig: 56, 125
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair2
+  rotate: true
+  xy: 347, 389
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair3
+  rotate: true
+  xy: 247, 262
+  size: 35, 85
+  orig: 35, 85
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair4
+  rotate: false
+  xy: 2, 35
+  size: 63, 152
+  orig: 63, 152
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair5
+  rotate: false
+  xy: 156, 263
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair6
+  rotate: false
+  xy: 128, 370
+  size: 78, 140
+  orig: 78, 140
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair7
+  rotate: true
+  xy: 208, 395
+  size: 56, 137
+  orig: 56, 137
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair8
+  rotate: false
+  xy: 73, 231
+  size: 34, 135
+  orig: 34, 135
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/hair9
+  rotate: true
+  xy: 208, 357
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/handinner
+  rotate: false
+  xy: 392, 319
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/handinner2
+  rotate: false
+  xy: 120, 104
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/handout
+  rotate: false
+  xy: 246, 181
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/handout2
+  rotate: true
+  xy: 177, 190
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/jianzhanginner
+  rotate: false
+  xy: 177, 215
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/jianzhangout
+  rotate: true
+  xy: 113, 189
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/leginnerdown
+  rotate: true
+  xy: 427, 427
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/leginnerup
+  rotate: false
+  xy: 148, 189
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/legoutdown
+  rotate: false
+  xy: 120, 136
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/legoutup
+  rotate: false
+  xy: 150, 137
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/lingziinner
+  rotate: true
+  xy: 212, 154
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/lingziout
+  rotate: true
+  xy: 218, 214
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/mouth01
+  rotate: false
+  xy: 156, 256
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/mouth02
+  rotate: true
+  xy: 172, 248
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/mouth04
+  rotate: true
+  xy: 347, 435
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/pifeng3
+  rotate: false
+  xy: 208, 453
+  size: 141, 57
+  orig: 141, 57
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/pifenginner
+  rotate: true
+  xy: 67, 46
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/pifengout
+  rotate: false
+  xy: 247, 299
+  size: 88, 56
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/qunz
+  rotate: false
+  xy: 337, 308
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/qunzi2
+  rotate: false
+  xy: 420, 391
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/shiping
+  rotate: false
+  xy: 67, 37
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/weapon3
+  rotate: true
+  xy: 109, 253
+  size: 113, 45
+  orig: 113, 45
+  offset: 0, 0
+  index: -1
+Selvaria/Sword/weapon4
+  rotate: true
+  xy: 2, 189
+  size: 177, 69
+  orig: 177, 69
+  offset: 0, 0
+  index: -1

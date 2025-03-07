@@ -1,0 +1,587 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/body
+  rotate: true
+  xy: 97, 2
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/handinner
+  rotate: true
+  xy: 683, 750
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/handout
+  rotate: false
+  xy: 285, 12
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/horse_body
+  rotate: true
+  xy: 2, 370
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/jianjiainner
+  rotate: false
+  xy: 345, 91
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/jianjiaout
+  rotate: false
+  xy: 555, 674
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/jianjiaoutinner
+  rotate: true
+  xy: 394, 511
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/legoutdown
+  rotate: false
+  xy: 756, 794
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusKnight_1/yaojia
+  rotate: true
+  xy: 380, 456
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusLord_2/body
+  rotate: false
+  xy: 198, 386
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusLord_2/handout
+  rotate: false
+  xy: 601, 604
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusLord_2/jianjiainner
+  rotate: true
+  xy: 701, 781
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusLord_2/jianjiaout
+  rotate: true
+  xy: 991, 956
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusLord_2/toushi
+  rotate: false
+  xy: 207, 285
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusLord_2/yaojia
+  rotate: false
+  xy: 395, 418
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/body
+  rotate: true
+  xy: 171, 2
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/handinner
+  rotate: false
+  xy: 393, 558
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/handout
+  rotate: false
+  xy: 341, 165
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/jianjiainner
+  rotate: true
+  xy: 490, 587
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/jianjiaout
+  rotate: true
+  xy: 336, 368
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/legoutdown
+  rotate: false
+  xy: 345, 116
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/toushi
+  rotate: false
+  xy: 289, 285
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/Luna_PegasusMaster_3/yaojia
+  rotate: false
+  xy: 245, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/arminnerup
+  rotate: true
+  xy: 991, 933
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/armoutup
+  rotate: false
+  xy: 395, 390
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/eyebrow
+  rotate: false
+  xy: 134, 549
+  size: 56, 8
+  orig: 56, 8
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/eyehard
+  rotate: true
+  xy: 323, 96
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/eyehard1
+  rotate: false
+  xy: 555, 707
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/eyehard2
+  rotate: false
+  xy: 620, 731
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/eyehard3
+  rotate: true
+  xy: 380, 491
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/eyesffuer
+  rotate: false
+  xy: 555, 646
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/eyeyun
+  rotate: true
+  xy: 573, 588
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/face
+  rotate: false
+  xy: 446, 814
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/hair
+  rotate: false
+  xy: 275, 558
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/hair1
+  rotate: false
+  xy: 111, 246
+  size: 94, 136
+  orig: 94, 136
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/hair2
+  rotate: false
+  xy: 913, 837
+  size: 108, 91
+  orig: 108, 91
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/hairinner
+  rotate: false
+  xy: 2, 725
+  size: 137, 225
+  orig: 137, 225
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/hairinner1
+  rotate: false
+  xy: 723, 843
+  size: 63, 118
+  orig: 63, 118
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/legoutup
+  rotate: false
+  xy: 525, 660
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/mouth01
+  rotate: false
+  xy: 533, 955
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/mouth02
+  rotate: true
+  xy: 207, 270
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Luna/Luna_PegasusKnight/mouth04
+  rotate: true
+  xy: 207, 368
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_winginner3
+  rotate: true
+  xy: 141, 663
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_winginner4
+  rotate: true
+  xy: 134, 559
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_wingout1
+  rotate: false
+  xy: 2, 547
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_wingout3
+  rotate: false
+  xy: 566, 834
+  size: 155, 127
+  orig: 155, 127
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Eagle_wingout4
+  rotate: false
+  xy: 285, 822
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusKnight_1/horse head
+  rotate: true
+  xy: 439, 710
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusKnight_1/horse_xiongjia
+  rotate: false
+  xy: 300, 209
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusMaster_3/horse_an
+  rotate: true
+  xy: 111, 162
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusMaster_3/horse_pigua
+  rotate: true
+  xy: 788, 845
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusMaster_3/horse_toushi
+  rotate: false
+  xy: 219, 205
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusMaster_3/horse_toushi1
+  rotate: false
+  xy: 393, 591
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/Luna_PegasusMaster_3/horse_toushiinner
+  rotate: true
+  xy: 622, 709
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse head
+  rotate: true
+  xy: 264, 454
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_an
+  rotate: false
+  xy: 286, 656
+  size: 88, 164
+  orig: 88, 164
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_body
+  rotate: true
+  xy: 2, 193
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear inner
+  rotate: true
+  xy: 265, 54
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_ear out
+  rotate: false
+  xy: 729, 788
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner down
+  rotate: true
+  xy: 287, 163
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg inner up
+  rotate: false
+  xy: 636, 784
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out down
+  rotate: true
+  xy: 620, 750
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_foreleg out up
+  rotate: false
+  xy: 427, 595
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair1
+  rotate: false
+  xy: 247, 368
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair2
+  rotate: false
+  xy: 198, 460
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hair3
+  rotate: true
+  xy: 437, 654
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg inner up
+  rotate: true
+  xy: 376, 665
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out down
+  rotate: true
+  xy: 265, 75
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leg out up
+  rotate: false
+  xy: 555, 729
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_hind leginnerdown
+  rotate: false
+  xy: 538, 587
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_huijia1
+  rotate: false
+  xy: 566, 784
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_neck
+  rotate: false
+  xy: 97, 50
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_pigua
+  rotate: false
+  xy: 376, 714
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_weiba
+  rotate: true
+  xy: 111, 384
+  size: 161, 85
+  orig: 161, 85
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/horse_xiongjia
+  rotate: false
+  xy: 183, 54
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/wingdown
+  rotate: false
+  xy: 2, 5
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/winginnerup
+  rotate: true
+  xy: 799, 930
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/Pegasus/wingout2
+  rotate: false
+  xy: 141, 776
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: false
+  xy: 219, 163
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 371, 292
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 533, 963
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/dd
+  rotate: false
+  xy: 247, 454
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sherry/SherryPegasus/SherryPegasus02/weapon
+  rotate: false
+  xy: 2, 952
+  size: 529, 70
+  orig: 529, 70
+  offset: 0, 0
+  index: -1

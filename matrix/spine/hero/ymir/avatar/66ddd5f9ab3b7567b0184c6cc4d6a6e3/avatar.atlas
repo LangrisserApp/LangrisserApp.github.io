@@ -1,0 +1,447 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ymir_Shield_2/weapon
+  rotate: true
+  xy: 352, 353
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+ymir_Shield_3/txw
+  rotate: true
+  xy: 582, 448
+  size: 63, 148
+  orig: 63, 148
+  offset: 0, 0
+  index: -1
+ymir_Shield_3/weapon
+  rotate: true
+  xy: 731, 429
+  size: 82, 124
+  orig: 82, 124
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/Shadow
+  rotate: true
+  xy: 442, 278
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/arminnerdown
+  rotate: false
+  xy: 278, 89
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/arminnerdowno
+  rotate: false
+  xy: 280, 7
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/arminnerup
+  rotate: false
+  xy: 809, 315
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/arminnerupo
+  rotate: true
+  xy: 973, 381
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/armoutdown
+  rotate: false
+  xy: 557, 297
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/armoutdowno
+  rotate: false
+  xy: 934, 377
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/armoutup
+  rotate: false
+  xy: 289, 132
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/armoutupo
+  rotate: false
+  xy: 973, 461
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/body
+  rotate: false
+  xy: 203, 273
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/bodyo
+  rotate: true
+  xy: 468, 339
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/dang
+  rotate: false
+  xy: 217, 140
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/eyebrow
+  rotate: true
+  xy: 560, 338
+  size: 81, 21
+  orig: 81, 21
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/eyehard
+  rotate: true
+  xy: 634, 349
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/eyehard1
+  rotate: false
+  xy: 854, 360
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/eyehard2
+  rotate: false
+  xy: 346, 270
+  size: 71, 19
+  orig: 71, 19
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/eyehard3
+  rotate: true
+  xy: 391, 151
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/eyesffuer
+  rotate: false
+  xy: 582, 421
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/eyeyun
+  rotate: true
+  xy: 182, 60
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/face
+  rotate: false
+  xy: 1, 2
+  size: 139, 141
+  orig: 139, 141
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/gfx
+  rotate: false
+  xy: 231, 420
+  size: 220, 91
+  orig: 220, 91
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hair1
+  rotate: false
+  xy: 776, 317
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hair2
+  rotate: false
+  xy: 468, 281
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hair3
+  rotate: false
+  xy: 203, 186
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hair4
+  rotate: true
+  xy: 856, 425
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hair5
+  rotate: false
+  xy: 200, 8
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hair6
+  rotate: false
+  xy: 281, 39
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hair7
+  rotate: true
+  xy: 346, 290
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/hairinner
+  rotate: true
+  xy: 669, 383
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/handinner
+  rotate: false
+  xy: 973, 423
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/handinnero
+  rotate: false
+  xy: 338, 119
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/handout
+  rotate: false
+  xy: 337, 88
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/jianjia
+  rotate: false
+  xy: 141, 1
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/jianjiao
+  rotate: false
+  xy: 532, 294
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/jianshi
+  rotate: true
+  xy: 905, 319
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/jianshi2
+  rotate: true
+  xy: 320, 98
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/jianshio
+  rotate: true
+  xy: 400, 221
+  size: 48, 9
+  orig: 48, 9
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/leginnerdown
+  rotate: false
+  xy: 811, 363
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/leginnerup
+  rotate: true
+  xy: 719, 317
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/legoutdown
+  rotate: true
+  xy: 658, 329
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/legoutup
+  rotate: false
+  xy: 338, 153
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/lianziinner
+  rotate: false
+  xy: 582, 352
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/lianziout
+  rotate: false
+  xy: 231, 361
+  size: 120, 58
+  orig: 120, 58
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/mao1
+  rotate: false
+  xy: 1, 368
+  size: 229, 143
+  orig: 229, 143
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/mianzhao
+  rotate: false
+  xy: 854, 384
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/toushiinner
+  rotate: false
+  xy: 290, 273
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/toushiout
+  rotate: true
+  xy: 211, 45
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/tx
+  rotate: false
+  xy: 731, 371
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/weapon
+  rotate: true
+  xy: 452, 420
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/weijin
+  rotate: true
+  xy: 113, 186
+  size: 181, 89
+  orig: 181, 89
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/wtx
+  rotate: false
+  xy: 1, 144
+  size: 111, 223
+  orig: 111, 223
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/xiabaiinner
+  rotate: false
+  xy: 336, 216
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/xiabaiout
+  rotate: true
+  xy: 277, 188
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/xiongjia
+  rotate: false
+  xy: 211, 87
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/xiongjiao
+  rotate: false
+  xy: 851, 313
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/xiongjiao1
+  rotate: false
+  xy: 256, 12
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/yaodai
+  rotate: false
+  xy: 113, 147
+  size: 103, 38
+  orig: 103, 38
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/yaodai1
+  rotate: true
+  xy: 372, 120
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/yaodai2
+  rotate: false
+  xy: 418, 278
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+ymir_Shield_4/yaodaio
+  rotate: true
+  xy: 141, 49
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1

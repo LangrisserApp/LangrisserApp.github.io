@@ -1,0 +1,496 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_body
+  rotate: true
+  xy: 465, 477
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_footout
+  rotate: false
+  xy: 663, 240
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_guajian
+  rotate: false
+  xy: 851, 290
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_guajian1
+  rotate: true
+  xy: 658, 145
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_head
+  rotate: false
+  xy: 736, 413
+  size: 149, 125
+  orig: 149, 125
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_legoutdown
+  rotate: true
+  xy: 798, 256
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_legoutup
+  rotate: true
+  xy: 730, 153
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_neck
+  rotate: false
+  xy: 538, 42
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_weiba1
+  rotate: true
+  xy: 302, 302
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_weiba2
+  rotate: false
+  xy: 268, 21
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_winginner2_1
+  rotate: true
+  xy: 908, 522
+  size: 141, 99
+  orig: 141, 99
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_winginner2_2
+  rotate: true
+  xy: 556, 250
+  size: 82, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_winginner2_3
+  rotate: false
+  xy: 410, 98
+  size: 126, 202
+  orig: 126, 202
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_winginner2_4
+  rotate: true
+  xy: 753, 665
+  size: 168, 207
+  orig: 168, 207
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_winginner_1
+  rotate: false
+  xy: 302, 468
+  size: 161, 203
+  orig: 161, 203
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_winginner_2
+  rotate: true
+  xy: 277, 673
+  size: 124, 206
+  orig: 124, 206
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_winginner_3
+  rotate: true
+  xy: 208, 2
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout2_1
+  rotate: false
+  xy: 443, 318
+  size: 111, 148
+  orig: 111, 148
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout2_2
+  rotate: false
+  xy: 731, 306
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout2_3
+  rotate: false
+  xy: 2, 564
+  size: 272, 228
+  orig: 272, 228
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout2_4
+  rotate: false
+  xy: 222, 79
+  size: 186, 217
+  orig: 186, 217
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout_1
+  rotate: false
+  xy: 556, 334
+  size: 112, 141
+  orig: 112, 141
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout_2
+  rotate: false
+  xy: 538, 144
+  size: 118, 104
+  orig: 118, 104
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout_3
+  rotate: false
+  xy: 2, 794
+  size: 273, 228
+  orig: 273, 228
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/Dragon_wingout_4
+  rotate: true
+  xy: 753, 835
+  size: 187, 220
+  orig: 187, 220
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/arminnerdown
+  rotate: true
+  xy: 975, 264
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/arminnerup
+  rotate: false
+  xy: 566, 3
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/armoutdown
+  rotate: false
+  xy: 533, 3
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/armoutup
+  rotate: true
+  xy: 485, 673
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/body
+  rotate: true
+  xy: 127, 2
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/eyebrow
+  rotate: true
+  xy: 737, 754
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/eyehard
+  rotate: false
+  xy: 851, 265
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/eyehard1
+  rotate: true
+  xy: 819, 177
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/eyehard2
+  rotate: false
+  xy: 428, 19
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/eyehard3
+  rotate: true
+  xy: 276, 601
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/eyesffuer
+  rotate: true
+  xy: 975, 907
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/eyeyun
+  rotate: true
+  xy: 975, 308
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/face
+  rotate: false
+  xy: 887, 383
+  size: 122, 137
+  orig: 122, 137
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/hair1
+  rotate: false
+  xy: 485, 708
+  size: 35, 89
+  orig: 35, 89
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/hair2
+  rotate: true
+  xy: 410, 44
+  size: 52, 114
+  orig: 52, 114
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/hair3
+  rotate: true
+  xy: 605, 509
+  size: 172, 129
+  orig: 172, 129
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/handout
+  rotate: false
+  xy: 819, 151
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/handout1
+  rotate: true
+  xy: 643, 117
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/jianguang
+  rotate: true
+  xy: 736, 540
+  size: 123, 170
+  orig: 123, 170
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/jianjiainner1
+  rotate: false
+  xy: 276, 571
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/jianjiainner2
+  rotate: false
+  xy: 975, 979
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/jianjiaout
+  rotate: false
+  xy: 670, 444
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/jianjiaout1
+  rotate: false
+  xy: 381, 43
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/jianjiaout3
+  rotate: false
+  xy: 596, 17
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/legoutdown
+  rotate: true
+  xy: 930, 264
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/legoutup
+  rotate: true
+  xy: 605, 478
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/mouth01
+  rotate: true
+  xy: 887, 522
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/mouth02
+  rotate: false
+  xy: 443, 302
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/mouth03
+  rotate: false
+  xy: 222, 300
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/mouth04
+  rotate: false
+  xy: 798, 248
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/pifeng
+  rotate: false
+  xy: 728, 248
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/pifeng1
+  rotate: false
+  xy: 2, 2
+  size: 123, 60
+  orig: 123, 60
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/pifeng2
+  rotate: false
+  xy: 851, 383
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/pifeng3
+  rotate: true
+  xy: 670, 311
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/texiao1
+  rotate: true
+  xy: 527, 829
+  size: 193, 224
+  orig: 193, 224
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/texiao2
+  rotate: true
+  xy: 277, 799
+  size: 223, 248
+  orig: 223, 248
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/texiao3
+  rotate: false
+  xy: 2, 313
+  size: 237, 249
+  orig: 237, 249
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/texiao4
+  rotate: true
+  xy: 2, 64
+  size: 247, 218
+  orig: 247, 218
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/weapon
+  rotate: true
+  xy: 527, 683
+  size: 144, 208
+  orig: 144, 208
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/xiongshi
+  rotate: true
+  xy: 507, 2
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/yaodai
+  rotate: true
+  xy: 1009, 255
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+Ashram/Ashram_DragonKnight/Ashram_DragonMaster_4/yaojiaout
+  rotate: false
+  xy: 381, 2
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+Leticia/dd
+  rotate: false
+  xy: 465, 471
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 975, 831
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: true
+  xy: 241, 298
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

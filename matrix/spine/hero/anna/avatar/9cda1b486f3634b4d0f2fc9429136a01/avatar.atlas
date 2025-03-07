@@ -1,0 +1,244 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anna/Monk/Anna_Sister_1/body
+  rotate: true
+  xy: 449, 460
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/body1
+  rotate: false
+  xy: 104, 104
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/dd
+  rotate: false
+  xy: 160, 253
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/dressinner
+  rotate: true
+  xy: 2, 2
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/dressinner2
+  rotate: true
+  xy: 2, 35
+  size: 71, 40
+  orig: 71, 40
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/dressout
+  rotate: false
+  xy: 313, 412
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/eyebrow
+  rotate: false
+  xy: 187, 329
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/eyehard
+  rotate: false
+  xy: 365, 406
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/eyehard1
+  rotate: true
+  xy: 160, 327
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/eyehard2
+  rotate: true
+  xy: 160, 259
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/eyehard3
+  rotate: true
+  xy: 44, 42
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/eyesffuer
+  rotate: false
+  xy: 187, 339
+  size: 62, 28
+  orig: 62, 28
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/eyeyun
+  rotate: false
+  xy: 187, 369
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/face
+  rotate: false
+  xy: 2, 251
+  size: 131, 142
+  orig: 131, 142
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/hair1
+  rotate: true
+  xy: 313, 463
+  size: 47, 134
+  orig: 47, 134
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/hair2
+  rotate: false
+  xy: 2, 108
+  size: 55, 141
+  orig: 55, 141
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/hair3
+  rotate: false
+  xy: 59, 143
+  size: 43, 106
+  orig: 43, 106
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/hair4
+  rotate: false
+  xy: 2, 395
+  size: 174, 115
+  orig: 174, 115
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/handinner
+  rotate: true
+  xy: 300, 320
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/handinner1
+  rotate: false
+  xy: 303, 354
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/handout
+  rotate: false
+  xy: 59, 109
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/handout1
+  rotate: true
+  xy: 104, 126
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/handout2
+  rotate: false
+  xy: 313, 387
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/leginnerdown
+  rotate: false
+  xy: 401, 370
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/leginnerup
+  rotate: true
+  xy: 251, 326
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/legoutdown
+  rotate: true
+  xy: 362, 373
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/legoutup
+  rotate: true
+  xy: 252, 360
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/mouth01
+  rotate: false
+  xy: 347, 367
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/mouth02
+  rotate: false
+  xy: 347, 375
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/mouth04
+  rotate: false
+  xy: 431, 458
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/toushi
+  rotate: false
+  xy: 365, 433
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/weapon
+  rotate: true
+  xy: 135, 253
+  size: 140, 23
+  orig: 140, 23
+  offset: 0, 0
+  index: -1
+Anna/Monk/Anna_Sister_1/weapon1
+  rotate: false
+  xy: 178, 399
+  size: 133, 111
+  orig: 133, 111
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 104, 175
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

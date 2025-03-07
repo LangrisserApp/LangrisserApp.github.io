@@ -1,0 +1,454 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/an1a
+  rotate: false
+  xy: 389, 276
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/an1b
+  rotate: true
+  xy: 455, 123
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/ana
+  rotate: false
+  xy: 681, 325
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/anb
+  rotate: false
+  xy: 463, 266
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/arminnerdown
+  rotate: true
+  xy: 896, 307
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/arminnerup
+  rotate: true
+  xy: 510, 119
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/armoutdown
+  rotate: true
+  xy: 467, 10
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/armoutup
+  rotate: true
+  xy: 495, 78
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/body
+  rotate: true
+  xy: 463, 213
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/chibang1
+  rotate: false
+  xy: 334, 126
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/chibang2
+  rotate: false
+  xy: 389, 60
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/chibang3
+  rotate: false
+  xy: 332, 48
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/chibang4
+  rotate: true
+  xy: 208, 134
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/chibang5
+  rotate: false
+  xy: 441, 82
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/chibang6
+  rotate: false
+  xy: 441, 42
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 69, 8
+  orig: 69, 8
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/eyehard
+  rotate: false
+  xy: 597, 330
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/eyehard1
+  rotate: false
+  xy: 597, 303
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/eyehard2
+  rotate: false
+  xy: 455, 161
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/eyehard3
+  rotate: true
+  xy: 1003, 364
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/eyesffuer
+  rotate: false
+  xy: 389, 189
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/eyeyun
+  rotate: false
+  xy: 460, 183
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/face
+  rotate: true
+  xy: 2, 12
+  size: 120, 138
+  orig: 120, 138
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/hair1
+  rotate: true
+  xy: 376, 355
+  size: 61, 161
+  orig: 61, 161
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/hair2
+  rotate: false
+  xy: 205, 196
+  size: 65, 129
+  orig: 65, 129
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/hair3
+  rotate: false
+  xy: 149, 182
+  size: 54, 136
+  orig: 54, 136
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/hair4
+  rotate: false
+  xy: 276, 2
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/hair5
+  rotate: false
+  xy: 2, 320
+  size: 153, 190
+  orig: 153, 190
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/handinner
+  rotate: true
+  xy: 204, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/handout
+  rotate: false
+  xy: 493, 9
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/handout1
+  rotate: false
+  xy: 493, 50
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/handout2
+  rotate: false
+  xy: 493, 31
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_backlegdown
+  rotate: true
+  xy: 149, 134
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_backlegup
+  rotate: true
+  xy: 915, 432
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_body
+  rotate: false
+  xy: 582, 413
+  size: 191, 97
+  orig: 191, 97
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_eyehard
+  rotate: true
+  xy: 181, 2
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_frontlegdown
+  rotate: false
+  xy: 548, 294
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_frontlegup
+  rotate: true
+  xy: 389, 220
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_guajian
+  rotate: false
+  xy: 775, 424
+  size: 138, 86
+  orig: 138, 86
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_head
+  rotate: true
+  xy: 2, 134
+  size: 184, 145
+  orig: 184, 145
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_neck
+  rotate: true
+  xy: 795, 332
+  size: 90, 123
+  orig: 90, 123
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_weiba
+  rotate: false
+  xy: 920, 314
+  size: 81, 116
+  orig: 81, 116
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_xiongjia
+  rotate: false
+  xy: 272, 233
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_xiongjia1a
+  rotate: false
+  xy: 272, 144
+  size: 60, 87
+  orig: 60, 87
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/horse_xiongjia1b
+  rotate: false
+  xy: 276, 49
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/jiao
+  rotate: true
+  xy: 229, 38
+  size: 94, 45
+  orig: 94, 45
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/jiao1
+  rotate: true
+  xy: 425, 8
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/mouth01
+  rotate: false
+  xy: 73, 2
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/mouth02
+  rotate: false
+  xy: 548, 279
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/mouth04
+  rotate: false
+  xy: 157, 320
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/qunzi
+  rotate: true
+  xy: 336, 190
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/qunzi1
+  rotate: true
+  xy: 384, 2
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/qunzi2
+  rotate: false
+  xy: 329, 2
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/texiao
+  rotate: false
+  xy: 389, 123
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_3/xiabai
+  rotate: false
+  xy: 181, 31
+  size: 46, 101
+  orig: 46, 101
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/1
+  rotate: true
+  xy: 142, 22
+  size: 110, 37
+  orig: 110, 37
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/2
+  rotate: false
+  xy: 539, 357
+  size: 140, 54
+  orig: 140, 54
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/3
+  rotate: false
+  xy: 157, 327
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/4
+  rotate: false
+  xy: 376, 418
+  size: 204, 92
+  orig: 204, 92
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/5
+  rotate: false
+  xy: 157, 404
+  size: 217, 106
+  orig: 217, 106
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/texiao1
+  rotate: false
+  xy: 332, 341
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/texiao2
+  rotate: false
+  xy: 336, 250
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_Evilknight/Albedo_Evilknight_4/texiao3
+  rotate: true
+  xy: 795, 306
+  size: 24, 99
+  orig: 24, 99
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 521, 279
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

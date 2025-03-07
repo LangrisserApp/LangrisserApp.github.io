@@ -1,0 +1,433 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 2, 265
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/jianjiainner
+  rotate: false
+  xy: 600, 325
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/handinner
+  rotate: true
+  xy: 389, 261
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/handout
+  rotate: true
+  xy: 607, 347
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/leginnerdown
+  rotate: true
+  xy: 133, 2
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/legoutdown
+  rotate: true
+  xy: 570, 347
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yibaiinnerinner
+  rotate: false
+  xy: 608, 369
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yibaioutinner
+  rotate: false
+  xy: 272, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/dd
+  rotate: false
+  xy: 294, 47
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Norm/dd
+  rotate: false
+  xy: 294, 47
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth01
+  rotate: true
+  xy: 1009, 493
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth03
+  rotate: true
+  xy: 330, 413
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth04
+  rotate: true
+  xy: 172, 7
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/arminnerdown
+  rotate: false
+  xy: 312, 47
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/arminnerup
+  rotate: true
+  xy: 317, 15
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/armoutdown
+  rotate: true
+  xy: 332, 152
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/armoutup
+  rotate: true
+  xy: 563, 315
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/body
+  rotate: false
+  xy: 237, 47
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/jianjiaout
+  rotate: false
+  xy: 343, 256
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/leginnerup
+  rotate: false
+  xy: 666, 369
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/legoutup
+  rotate: false
+  xy: 703, 372
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/toushi
+  rotate: false
+  xy: 683, 420
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/toushi1
+  rotate: false
+  xy: 133, 106
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/weapon
+  rotate: false
+  xy: 330, 430
+  size: 279, 80
+  orig: 279, 80
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/weapon1
+  rotate: false
+  xy: 818, 485
+  size: 189, 25
+  orig: 189, 25
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/yaojia
+  rotate: true
+  xy: 782, 378
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/yibaiinner
+  rotate: true
+  xy: 318, 182
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/yibaiout
+  rotate: false
+  xy: 268, 256
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/body
+  rotate: false
+  xy: 260, 182
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/jianjiaout
+  rotate: true
+  xy: 133, 28
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/leginnerdown
+  rotate: true
+  xy: 738, 379
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/legoutdown
+  rotate: true
+  xy: 525, 347
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/pifeng
+  rotate: false
+  xy: 2, 159
+  size: 173, 104
+  orig: 173, 104
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/toushi1
+  rotate: true
+  xy: 818, 434
+  size: 49, 103
+  orig: 49, 103
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/weapon
+  rotate: false
+  xy: 2, 413
+  size: 326, 97
+  orig: 326, 97
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/weapon1
+  rotate: false
+  xy: 611, 454
+  size: 205, 56
+  orig: 205, 56
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Ranger_3/yaojia1
+  rotate: true
+  xy: 226, 2
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/body
+  rotate: false
+  xy: 179, 47
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/jianjiaout
+  rotate: false
+  xy: 748, 413
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/leginnerdown
+  rotate: false
+  xy: 312, 78
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/legoutdown
+  rotate: true
+  xy: 310, 122
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/pifeng
+  rotate: true
+  xy: 177, 148
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/toushi1
+  rotate: true
+  xy: 525, 376
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/toushi2
+  rotate: true
+  xy: 260, 121
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/weapon
+  rotate: false
+  xy: 2, 326
+  size: 278, 85
+  orig: 278, 85
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/yaojia
+  rotate: false
+  xy: 179, 2
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Norm/eyebrow
+  rotate: false
+  xy: 344, 308
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Norm/eyehard
+  rotate: false
+  xy: 343, 287
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Norm/eyehard1
+  rotate: true
+  xy: 367, 188
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Norm/eyehard2
+  rotate: true
+  xy: 294, 53
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+Norm/eyehard3
+  rotate: false
+  xy: 437, 308
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+Norm/eyesffuer
+  rotate: false
+  xy: 260, 152
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Norm/eyeyun
+  rotate: false
+  xy: 611, 427
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+Norm/face
+  rotate: false
+  xy: 2, 10
+  size: 129, 147
+  orig: 129, 147
+  offset: 0, 0
+  index: -1
+Norm/hair1
+  rotate: true
+  xy: 923, 406
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Norm/hair2
+  rotate: true
+  xy: 442, 361
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Norm/hair3
+  rotate: false
+  xy: 282, 308
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+Norm/hair4
+  rotate: false
+  xy: 344, 365
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+Norm/hair5
+  rotate: true
+  xy: 344, 320
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+Norm/hair7
+  rotate: true
+  xy: 520, 318
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 177, 121
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

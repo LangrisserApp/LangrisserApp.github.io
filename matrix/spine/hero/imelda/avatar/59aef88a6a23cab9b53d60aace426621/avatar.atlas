@@ -1,0 +1,538 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Imelda/Imelda_Magic/Imelda_ArcMage_2/arminnerdown
+  rotate: true
+  xy: 531, 361
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/arminnerdown
+  rotate: true
+  xy: 531, 361
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/arminnerdown
+  rotate: true
+  xy: 531, 361
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/arminnerup
+  rotate: false
+  xy: 594, 335
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/arminnerup
+  rotate: false
+  xy: 594, 335
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/arminnerup
+  rotate: false
+  xy: 594, 335
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/armoutdown
+  rotate: false
+  xy: 290, 38
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/armoutdown
+  rotate: false
+  xy: 290, 38
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/armoutdown
+  rotate: false
+  xy: 290, 38
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/armoutup
+  rotate: false
+  xy: 253, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/armoutup
+  rotate: false
+  xy: 253, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/armoutup
+  rotate: false
+  xy: 253, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/jianjiainner
+  rotate: true
+  xy: 123, 2
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/jianjiaout
+  rotate: true
+  xy: 423, 318
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/leginnerdown
+  rotate: true
+  xy: 362, 295
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/leginnerup
+  rotate: false
+  xy: 686, 392
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/legoutdown
+  rotate: true
+  xy: 267, 260
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/legoutup
+  rotate: true
+  xy: 601, 361
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/pifeng
+  rotate: false
+  xy: 144, 154
+  size: 120, 104
+  orig: 120, 104
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/toushi
+  rotate: false
+  xy: 359, 261
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_ArcMage_2/weapon
+  rotate: false
+  xy: 2, 366
+  size: 296, 60
+  orig: 296, 60
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/body
+  rotate: false
+  xy: 314, 297
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/jianjiainner
+  rotate: false
+  xy: 300, 391
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/jianjiaout
+  rotate: false
+  xy: 471, 348
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/leginnerdown
+  rotate: true
+  xy: 557, 361
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/leginnerup
+  rotate: false
+  xy: 994, 472
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/legoutdown
+  rotate: false
+  xy: 266, 164
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/legoutup
+  rotate: false
+  xy: 539, 323
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/pifeng
+  rotate: false
+  xy: 144, 260
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/weapon
+  rotate: false
+  xy: 641, 459
+  size: 274, 51
+  orig: 274, 51
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/yaojiainner
+  rotate: false
+  xy: 635, 390
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/yaojiainnerinner
+  rotate: true
+  xy: 960, 422
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/yaojiaout
+  rotate: false
+  xy: 266, 212
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_Magician_1/yaojiaoutinner
+  rotate: true
+  xy: 887, 424
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/body
+  rotate: false
+  xy: 267, 296
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/jianjiainner
+  rotate: false
+  xy: 471, 394
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/jianjiaout
+  rotate: false
+  xy: 917, 449
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/leginnerdown
+  rotate: true
+  xy: 916, 422
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/leginnerup
+  rotate: true
+  xy: 315, 262
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/legoutdown
+  rotate: true
+  xy: 838, 423
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/legoutup
+  rotate: true
+  xy: 639, 358
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/pifeng
+  rotate: true
+  xy: 2, 5
+  size: 149, 119
+  orig: 149, 119
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/toushi
+  rotate: false
+  xy: 362, 322
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/weapon
+  rotate: false
+  xy: 2, 428
+  size: 349, 82
+  orig: 349, 82
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/yaojiainner
+  rotate: true
+  xy: 785, 423
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/yaojiainnerinner
+  rotate: false
+  xy: 566, 326
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/yaojiaout
+  rotate: true
+  xy: 160, 10
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/Imelda_queen_3/yaojiaoutinner
+  rotate: true
+  xy: 994, 438
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/dd
+  rotate: false
+  xy: 635, 444
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/dd
+  rotate: false
+  xy: 635, 444
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/erhuaninner
+  rotate: false
+  xy: 406, 298
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/erhuanout
+  rotate: true
+  xy: 160, 2
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/eyebrow
+  rotate: false
+  xy: 717, 418
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/eyehard
+  rotate: false
+  xy: 717, 399
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/eyehard1
+  rotate: true
+  xy: 274, 101
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/eyehard2
+  rotate: true
+  xy: 274, 38
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/eyehard3
+  rotate: true
+  xy: 293, 101
+  size: 61, 8
+  orig: 61, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/eyesffuer
+  rotate: false
+  xy: 471, 315
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/eyeyun
+  rotate: false
+  xy: 717, 428
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/face
+  rotate: false
+  xy: 123, 56
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/hair
+  rotate: true
+  xy: 216, 2
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/hair1
+  rotate: false
+  xy: 219, 45
+  size: 53, 107
+  orig: 53, 107
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/hair2
+  rotate: true
+  xy: 353, 386
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/hair3
+  rotate: true
+  xy: 557, 388
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/hairinner
+  rotate: false
+  xy: 2, 156
+  size: 140, 208
+  orig: 140, 208
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/handinner
+  rotate: true
+  xy: 285, 2
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/handout
+  rotate: true
+  xy: 677, 362
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/mouth01
+  rotate: false
+  xy: 620, 351
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/mouth02
+  rotate: false
+  xy: 620, 338
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/mouth03
+  rotate: true
+  xy: 348, 373
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Magic/mouth04
+  rotate: true
+  xy: 353, 371
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/Lana_ArcMage_2/jianjiainnerinner
+  rotate: false
+  xy: 300, 366
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/Lana_Darkprincess_3/daizi
+  rotate: true
+  xy: 290, 61
+  size: 38, 13
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/Lana_Darkprincess_3/handinner1
+  rotate: false
+  xy: 993, 413
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/Lana_Magician_1/weapon
+  rotate: false
+  xy: 353, 450
+  size: 286, 60
+  orig: 286, 60
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 641, 432
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

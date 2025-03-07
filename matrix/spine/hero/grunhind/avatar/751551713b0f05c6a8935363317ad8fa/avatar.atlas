@@ -1,0 +1,440 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grunhind_Fly_3/body
+  rotate: true
+  xy: 943, 359
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/chibang1
+  rotate: false
+  xy: 2, 72
+  size: 164, 90
+  orig: 164, 90
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/chibang4
+  rotate: false
+  xy: 195, 250
+  size: 155, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/chibang6
+  rotate: false
+  xy: 186, 154
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/jianjiainner
+  rotate: false
+  xy: 250, 22
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/jianjiaout
+  rotate: false
+  xy: 303, 80
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/qunzi
+  rotate: false
+  xy: 444, 82
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/toushi1
+  rotate: false
+  xy: 415, 172
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/toushi2
+  rotate: false
+  xy: 600, 154
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/weapon
+  rotate: false
+  xy: 2, 344
+  size: 539, 71
+  orig: 539, 71
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/yaojiainner
+  rotate: true
+  xy: 186, 2
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_3/yaojiaout
+  rotate: false
+  xy: 679, 194
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/Shadow
+  rotate: false
+  xy: 775, 359
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/arminnerdown
+  rotate: false
+  xy: 571, 145
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/arminnerup
+  rotate: true
+  xy: 303, 50
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/armoutdown
+  rotate: true
+  xy: 679, 158
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/armoutup
+  rotate: true
+  xy: 555, 96
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/body
+  rotate: false
+  xy: 108, 6
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/chibang1
+  rotate: false
+  xy: 2, 164
+  size: 182, 90
+  orig: 182, 90
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/chibang2
+  rotate: true
+  xy: 359, 72
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/chibang3
+  rotate: false
+  xy: 851, 413
+  size: 164, 97
+  orig: 164, 97
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/chibang4
+  rotate: false
+  xy: 2, 256
+  size: 191, 86
+  orig: 191, 86
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/chibang5
+  rotate: false
+  xy: 519, 96
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/chibang6
+  rotate: false
+  xy: 352, 236
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/chibang7
+  rotate: false
+  xy: 560, 295
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/eyebrow
+  rotate: false
+  xy: 696, 372
+  size: 77, 12
+  orig: 77, 12
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/eyehard
+  rotate: true
+  xy: 664, 289
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/eyehard1
+  rotate: false
+  xy: 303, 131
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/eyehard2
+  rotate: true
+  xy: 280, 71
+  size: 81, 21
+  orig: 81, 21
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/eyehard3
+  rotate: false
+  xy: 2, 2
+  size: 77, 8
+  orig: 77, 8
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/eyesffuer
+  rotate: true
+  xy: 303, 162
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/eyeyun
+  rotate: false
+  xy: 162, 28
+  size: 86, 33
+  orig: 86, 33
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/face
+  rotate: false
+  xy: 543, 371
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hair1
+  rotate: true
+  xy: 168, 63
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hair2
+  rotate: true
+  xy: 2, 12
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hair3
+  rotate: false
+  xy: 486, 233
+  size: 72, 109
+  orig: 72, 109
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hair4
+  rotate: false
+  xy: 679, 239
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hair5
+  rotate: false
+  xy: 162, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hairinner
+  rotate: false
+  xy: 696, 386
+  size: 153, 124
+  orig: 153, 124
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hairinner1
+  rotate: false
+  xy: 399, 79
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/hairinner2
+  rotate: true
+  xy: 426, 131
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/handinner
+  rotate: false
+  xy: 227, 5
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/handout
+  rotate: false
+  xy: 630, 157
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/jianjiainner
+  rotate: false
+  xy: 585, 181
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/jianjiaout
+  rotate: false
+  xy: 480, 182
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/leginnerdown
+  rotate: true
+  xy: 490, 88
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/leginnerup
+  rotate: true
+  xy: 480, 155
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/legoutdown
+  rotate: true
+  xy: 385, 131
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/legoutup
+  rotate: true
+  xy: 527, 138
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/mouth01
+  rotate: false
+  xy: 168, 155
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/mouth02
+  rotate: false
+  xy: 543, 355
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/mouth03
+  rotate: true
+  xy: 518, 140
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/mouth04
+  rotate: true
+  xy: 298, 53
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/qunzi
+  rotate: true
+  xy: 536, 176
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/qunzi1
+  rotate: true
+  xy: 340, 162
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/qunzi2
+  rotate: false
+  xy: 646, 216
+  size: 31, 71
+  orig: 31, 71
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/qunzi3
+  rotate: false
+  xy: 851, 358
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/toushi1
+  rotate: false
+  xy: 560, 222
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/toushi2
+  rotate: false
+  xy: 298, 16
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/weapon
+  rotate: false
+  xy: 2, 417
+  size: 539, 93
+  orig: 539, 93
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/yaojiainner
+  rotate: true
+  xy: 479, 133
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Grunhind_Fly_4/yaojiaout
+  rotate: false
+  xy: 633, 179
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1

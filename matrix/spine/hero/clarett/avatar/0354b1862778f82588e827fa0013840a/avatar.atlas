@@ -1,0 +1,335 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/arminnerup
+  rotate: true
+  xy: 639, 184
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/armoutup
+  rotate: true
+  xy: 608, 186
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/body
+  rotate: true
+  xy: 203, 66
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/eyebrow
+  rotate: false
+  xy: 277, 127
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/eyehard
+  rotate: false
+  xy: 346, 165
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/eyehard1
+  rotate: false
+  xy: 346, 140
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/eyehard2
+  rotate: false
+  xy: 134, 45
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/eyehard3
+  rotate: false
+  xy: 132, 30
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/eyesffuer
+  rotate: false
+  xy: 349, 190
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/eyeyun
+  rotate: false
+  xy: 417, 192
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/face
+  rotate: false
+  xy: 574, 209
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/hair1
+  rotate: true
+  xy: 803, 282
+  size: 126, 66
+  orig: 126, 66
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/hair2
+  rotate: true
+  xy: 699, 171
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/hair3
+  rotate: false
+  xy: 219, 118
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/hair6
+  rotate: true
+  xy: 2, 6
+  size: 37, 128
+  orig: 37, 128
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/hair7
+  rotate: true
+  xy: 146, 196
+  size: 40, 125
+  orig: 40, 125
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/hairback
+  rotate: false
+  xy: 876, 383
+  size: 146, 120
+  orig: 146, 120
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/handinner
+  rotate: true
+  xy: 541, 192
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/handout
+  rotate: true
+  xy: 572, 186
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/jianjiainner
+  rotate: false
+  xy: 132, 2
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/jianjiaout
+  rotate: false
+  xy: 485, 191
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/legoutdown
+  rotate: false
+  xy: 676, 368
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/legoutup
+  rotate: false
+  xy: 463, 413
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/mouth01
+  rotate: true
+  xy: 1013, 367
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/mouth02
+  rotate: true
+  xy: 134, 208
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Clarett/Clarett_DragonMaster/Clarett_DragonMaster_2/mouth04
+  rotate: true
+  xy: 268, 443
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_body
+  rotate: false
+  xy: 276, 355
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_head
+  rotate: true
+  xy: 812, 160
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_leginner1
+  rotate: false
+  xy: 277, 139
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout1
+  rotate: false
+  xy: 134, 131
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout2
+  rotate: false
+  xy: 134, 63
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_neck
+  rotate: true
+  xy: 904, 128
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_weiba
+  rotate: false
+  xy: 871, 295
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner3
+  rotate: true
+  xy: 429, 226
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner4
+  rotate: false
+  xy: 699, 269
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout1
+  rotate: false
+  xy: 2, 45
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout3
+  rotate: false
+  xy: 276, 226
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout4
+  rotate: true
+  xy: 146, 238
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: true
+  xy: 634, 343
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingdown
+  rotate: true
+  xy: 688, 410
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/eagle/winginnerup
+  rotate: true
+  xy: 496, 411
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingout2
+  rotate: false
+  xy: 2, 223
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 273, 199
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: false
+  xy: 2, 399
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/weapon
+  rotate: false
+  xy: 2, 460
+  size: 492, 43
+  orig: 492, 43
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/weapon_Ribbon1
+  rotate: false
+  xy: 904, 233
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+Sherry/Sherry_1/weapon_Ribbon2
+  rotate: false
+  xy: 463, 339
+  size: 169, 70
+  orig: 169, 70
+  offset: 0, 0
+  index: -1

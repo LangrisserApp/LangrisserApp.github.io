@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elucia/Elucia_SerpentLord/SerpentLord_2/Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/Shadow
+  rotate: true
+  xy: 117, 84
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/arminnerdown
+  rotate: false
+  xy: 248, 205
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/arminnerup
+  rotate: false
+  xy: 305, 310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/armoutdown
+  rotate: false
+  xy: 221, 201
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/armoutup
+  rotate: false
+  xy: 329, 355
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/body
+  rotate: false
+  xy: 62, 14
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/eyebrow
+  rotate: false
+  xy: 437, 472
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/eyehard
+  rotate: false
+  xy: 261, 417
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/eyehard1
+  rotate: false
+  xy: 366, 443
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/eyehard2
+  rotate: false
+  xy: 261, 392
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/eyehard3
+  rotate: true
+  xy: 144, 91
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/eyesffuer
+  rotate: false
+  xy: 437, 482
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/eyeyun
+  rotate: true
+  xy: 242, 240
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/face
+  rotate: true
+  xy: 170, 343
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/hair1
+  rotate: true
+  xy: 170, 306
+  size: 35, 103
+  orig: 35, 103
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/hair2
+  rotate: true
+  xy: 2, 2
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/hair3
+  rotate: true
+  xy: 268, 442
+  size: 25, 96
+  orig: 25, 96
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/hair4
+  rotate: false
+  xy: 2, 160
+  size: 152, 148
+  orig: 152, 148
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/handinner
+  rotate: true
+  xy: 306, 359
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/handout
+  rotate: false
+  xy: 306, 338
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/jianjiainner
+  rotate: true
+  xy: 272, 254
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/jianjiaout
+  rotate: false
+  xy: 156, 162
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/leginnerdown
+  rotate: false
+  xy: 192, 116
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/leginnerup
+  rotate: false
+  xy: 275, 299
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/legoutdown
+  rotate: false
+  xy: 330, 389
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/legoutup
+  rotate: false
+  xy: 160, 112
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/lianshi
+  rotate: false
+  xy: 156, 239
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/mouth01
+  rotate: false
+  xy: 272, 246
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/mouth02
+  rotate: false
+  xy: 62, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/mouth03
+  rotate: true
+  xy: 503, 498
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/mouth04
+  rotate: true
+  xy: 328, 338
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/qunzi1
+  rotate: false
+  xy: 261, 344
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/qunzi2
+  rotate: true
+  xy: 160, 85
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/qunzi3
+  rotate: false
+  xy: 192, 83
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/qunzi4
+  rotate: false
+  xy: 156, 194
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/toushi
+  rotate: false
+  xy: 2, 82
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/toushi3
+  rotate: false
+  xy: 2, 310
+  size: 166, 139
+  orig: 166, 139
+  offset: 0, 0
+  index: -1
+Elucia/Elucia_SerpentLord/SerpentLord_2/weapon
+  rotate: false
+  xy: 268, 469
+  size: 167, 41
+  orig: 167, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,594 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Randele_Monster_3/Randele_Monster_3/arminnerdown
+  rotate: false
+  xy: 900, 270
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/jianjainner2
+  rotate: true
+  xy: 207, 161
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/jianjiaout
+  rotate: true
+  xy: 347, 106
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/leginnerdown
+  rotate: true
+  xy: 810, 288
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/legoutdown
+  rotate: true
+  xy: 763, 288
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/piaodaiinner2
+  rotate: true
+  xy: 763, 315
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/piaodaiout1
+  rotate: false
+  xy: 543, 340
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/piaodaiout2
+  rotate: false
+  xy: 471, 299
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/toushi1
+  rotate: false
+  xy: 313, 283
+  size: 94, 126
+  orig: 94, 126
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/toushi2
+  rotate: false
+  xy: 2, 55
+  size: 133, 143
+  orig: 133, 143
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/toushi3
+  rotate: true
+  xy: 935, 294
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/weapon1
+  rotate: true
+  xy: 621, 420
+  size: 90, 147
+  orig: 90, 147
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/weapon2
+  rotate: false
+  xy: 981, 298
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/weapon3
+  rotate: false
+  xy: 663, 241
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/weapon4
+  rotate: false
+  xy: 977, 370
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/weapon5
+  rotate: false
+  xy: 643, 304
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/weapon6
+  rotate: true
+  xy: 763, 358
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/yaojiainner
+  rotate: false
+  xy: 489, 219
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+Randele_Monster_3/Randele_Monster_3/yaojiaout
+  rotate: false
+  xy: 603, 225
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/FX1
+  rotate: false
+  xy: 420, 210
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/FX2
+  rotate: true
+  xy: 235, 161
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/FX3
+  rotate: true
+  xy: 644, 342
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/FX4
+  rotate: false
+  xy: 493, 156
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/Shadow
+  rotate: true
+  xy: 393, 157
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/arminnerdown
+  rotate: false
+  xy: 728, 299
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/arminnerup
+  rotate: true
+  xy: 186, 55
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/armoutdown
+  rotate: false
+  xy: 752, 259
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/armoutup
+  rotate: false
+  xy: 722, 259
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/body
+  rotate: false
+  xy: 137, 96
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/erhuaninner
+  rotate: false
+  xy: 276, 78
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/erhuanout
+  rotate: true
+  xy: 663, 226
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/eyebrow
+  rotate: false
+  xy: 900, 413
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/eyehard
+  rotate: false
+  xy: 552, 198
+  size: 83, 25
+  orig: 83, 25
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/eyehard03
+  rotate: false
+  xy: 644, 328
+  size: 80, 12
+  orig: 80, 12
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/eyehard1
+  rotate: false
+  xy: 552, 171
+  size: 83, 25
+  orig: 83, 25
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/eyehard2
+  rotate: false
+  xy: 552, 148
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/eyesffuer
+  rotate: true
+  xy: 637, 149
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/eyeyun
+  rotate: true
+  xy: 290, 85
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/face
+  rotate: false
+  xy: 2, 365
+  size: 159, 145
+  orig: 159, 145
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/glass1
+  rotate: false
+  xy: 347, 83
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/glass2
+  rotate: false
+  xy: 265, 23
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/glass3
+  rotate: true
+  xy: 692, 304
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/glass4
+  rotate: false
+  xy: 543, 304
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/hair1
+  rotate: true
+  xy: 313, 411
+  size: 99, 156
+  orig: 99, 156
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/hair2
+  rotate: false
+  xy: 2, 200
+  size: 138, 163
+  orig: 138, 163
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/hair3
+  rotate: false
+  xy: 409, 283
+  size: 60, 126
+  orig: 60, 126
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/hair4
+  rotate: false
+  xy: 728, 334
+  size: 33, 84
+  orig: 33, 84
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/hair5
+  rotate: true
+  xy: 2, 2
+  size: 51, 121
+  orig: 51, 121
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/handinner
+  rotate: true
+  xy: 981, 332
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/handinner1
+  rotate: true
+  xy: 787, 257
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/handinner2
+  rotate: true
+  xy: 137, 55
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/handout
+  rotate: false
+  xy: 822, 257
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/handout1
+  rotate: false
+  xy: 852, 248
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/jiandaiinner1
+  rotate: false
+  xy: 883, 253
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/jiandaiout1
+  rotate: false
+  xy: 235, 2
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/jiandaiout2
+  rotate: false
+  xy: 855, 278
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/jianjainner2
+  rotate: false
+  xy: 386, 120
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/jianjiaout
+  rotate: false
+  xy: 125, 2
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/leginnerdown
+  rotate: true
+  xy: 935, 268
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/leginnerup
+  rotate: false
+  xy: 235, 19
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/legoutdown
+  rotate: false
+  xy: 695, 257
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/legoutup
+  rotate: true
+  xy: 230, 65
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/mouth01
+  rotate: false
+  xy: 752, 290
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/mouth02
+  rotate: true
+  xy: 471, 283
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/mouth03
+  rotate: false
+  xy: 474, 135
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/mouth04
+  rotate: false
+  xy: 493, 150
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/piaodaiinner2
+  rotate: true
+  xy: 313, 233
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/piaodaiinnner1
+  rotate: false
+  xy: 315, 164
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/piaodaiout1
+  rotate: false
+  xy: 770, 413
+  size: 128, 97
+  orig: 128, 97
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/piaodaiout2
+  rotate: true
+  xy: 900, 431
+  size: 79, 119
+  orig: 79, 119
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/qunbai
+  rotate: false
+  xy: 207, 97
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/toushi1
+  rotate: false
+  xy: 142, 234
+  size: 105, 127
+  orig: 105, 127
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/toushi2
+  rotate: false
+  xy: 163, 363
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/toushi3
+  rotate: false
+  xy: 142, 182
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon1
+  rotate: true
+  xy: 471, 420
+  size: 90, 148
+  orig: 90, 148
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon2
+  rotate: true
+  xy: 932, 359
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon3
+  rotate: true
+  xy: 420, 126
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon4
+  rotate: true
+  xy: 853, 358
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon5
+  rotate: true
+  xy: 420, 147
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon6
+  rotate: false
+  xy: 249, 232
+  size: 62, 129
+  orig: 62, 129
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon7
+  rotate: true
+  xy: 212, 6
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/weapon8
+  rotate: false
+  xy: 321, 88
+  size: 24, 74
+  orig: 24, 74
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/yaojiainner
+  rotate: true
+  xy: 855, 304
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+Randele_Monster_4/Randele_Monster_4/yaojiaout
+  rotate: false
+  xy: 543, 225
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1

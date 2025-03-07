@@ -1,0 +1,923 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 217, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/armoutdown
+  rotate: true
+  xy: 775, 364
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/gonA
+  rotate: true
+  xy: 226, 126
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/gonB
+  rotate: true
+  xy: 389, 238
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/hualun
+  rotate: true
+  xy: 388, 216
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/jianjiainner
+  rotate: true
+  xy: 487, 57
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/jianjiaout
+  rotate: false
+  xy: 839, 297
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/leginnerdown
+  rotate: false
+  xy: 746, 326
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/legoutdown
+  rotate: true
+  xy: 472, 144
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/qunjiainnerA
+  rotate: true
+  xy: 689, 192
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/qunjiainnerB
+  rotate: true
+  xy: 775, 326
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/qunjiaout
+  rotate: false
+  xy: 377, 57
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/weapon
+  rotate: false
+  xy: 491, 404
+  size: 109, 36
+  orig: 109, 36
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/xian
+  rotate: false
+  xy: 328, 242
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_3/zunxing
+  rotate: true
+  xy: 639, 188
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_arminnerdown
+  rotate: false
+  xy: 900, 317
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_arminnerup
+  rotate: false
+  xy: 521, 144
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_armoutdown
+  rotate: true
+  xy: 565, 323
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_armoutup
+  rotate: false
+  xy: 566, 358
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_bianzi
+  rotate: false
+  xy: 333, 391
+  size: 76, 119
+  orig: 76, 119
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_body
+  rotate: false
+  xy: 166, 133
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_eyebrow
+  rotate: false
+  xy: 445, 85
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_eyehard
+  rotate: false
+  xy: 701, 376
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_eyehard1
+  rotate: false
+  xy: 491, 337
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_eyehard2
+  rotate: false
+  xy: 602, 341
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_eyehard3
+  rotate: true
+  xy: 929, 374
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_eyesffuer
+  rotate: false
+  xy: 662, 273
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_eyeyun
+  rotate: true
+  xy: 377, 90
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_face
+  rotate: false
+  xy: 175, 369
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hair1
+  rotate: true
+  xy: 945, 354
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hair2
+  rotate: true
+  xy: 380, 289
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hair3
+  rotate: true
+  xy: 602, 405
+  size: 39, 105
+  orig: 39, 105
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hair4
+  rotate: true
+  xy: 709, 399
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hand1
+  rotate: false
+  xy: 735, 301
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hand1tx
+  rotate: false
+  xy: 547, 279
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hand2
+  rotate: false
+  xy: 658, 191
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_hand2tx
+  rotate: true
+  xy: 603, 230
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_handinner
+  rotate: false
+  xy: 506, 51
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_handout
+  rotate: false
+  xy: 581, 162
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_jianjiainner
+  rotate: true
+  xy: 724, 277
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_kua
+  rotate: true
+  xy: 516, 183
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_leginnerdown
+  rotate: true
+  xy: 444, 59
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_leginnerup
+  rotate: true
+  xy: 419, 144
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_legoutdown
+  rotate: true
+  xy: 328, 60
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_legoutup
+  rotate: false
+  xy: 489, 100
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_mouth
+  rotate: false
+  xy: 309, 256
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_mouth02
+  rotate: false
+  xy: 676, 376
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_mouth04
+  rotate: true
+  xy: 411, 391
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_tx1
+  rotate: false
+  xy: 153, 98
+  size: 11, 112
+  orig: 11, 112
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_tx2
+  rotate: true
+  xy: 175, 355
+  size: 12, 149
+  orig: 12, 149
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_tx3
+  rotate: true
+  xy: 707, 452
+  size: 11, 135
+  orig: 11, 135
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_tx4
+  rotate: true
+  xy: 175, 342
+  size: 11, 146
+  orig: 11, 146
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_txm1
+  rotate: true
+  xy: 954, 451
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_txm2
+  rotate: false
+  xy: 155, 16
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_txm3
+  rotate: false
+  xy: 166, 78
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_txm4
+  rotate: false
+  xy: 268, 75
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_yanjin
+  rotate: true
+  xy: 309, 264
+  size: 76, 17
+  orig: 76, 17
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/Yoa_yanwei
+  rotate: false
+  xy: 256, 139
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/arminnerdown
+  rotate: false
+  xy: 770, 299
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/arminnerdownTX
+  rotate: false
+  xy: 469, 183
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/arminnerup
+  rotate: true
+  xy: 804, 306
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/arminnerupTX
+  rotate: true
+  xy: 660, 228
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/armoutdown
+  rotate: true
+  xy: 548, 141
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/armoutdownTX
+  rotate: false
+  xy: 419, 181
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/armoutup
+  rotate: true
+  xy: 412, 57
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/armoutupTX
+  rotate: false
+  xy: 425, 292
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/bianziTX
+  rotate: false
+  xy: 2, 73
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/body
+  rotate: false
+  xy: 102, 15
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/bodyTX
+  rotate: false
+  xy: 411, 412
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/eyebrow
+  rotate: true
+  xy: 375, 152
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/eyehard
+  rotate: false
+  xy: 602, 359
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/eyehard1
+  rotate: false
+  xy: 314, 216
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/eyehard2
+  rotate: true
+  xy: 244, 4
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 59, 9
+  orig: 59, 9
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/eyesuffer
+  rotate: false
+  xy: 601, 279
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/eyeyun
+  rotate: false
+  xy: 669, 304
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/face
+  rotate: false
+  xy: 2, 212
+  size: 161, 137
+  orig: 161, 137
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/gonA
+  rotate: false
+  xy: 844, 437
+  size: 99, 32
+  orig: 99, 32
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/gonB
+  rotate: false
+  xy: 425, 355
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/haie3
+  rotate: false
+  xy: 801, 365
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair1
+  rotate: true
+  xy: 407, 17
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair10
+  rotate: true
+  xy: 676, 338
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair2
+  rotate: true
+  xy: 945, 396
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair3TX
+  rotate: false
+  xy: 99, 90
+  size: 52, 120
+  orig: 52, 120
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair4
+  rotate: true
+  xy: 601, 446
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair4TX
+  rotate: true
+  xy: 491, 442
+  size: 68, 108
+  orig: 68, 108
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair5
+  rotate: true
+  xy: 249, 213
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hair6
+  rotate: false
+  xy: 249, 253
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hand1
+  rotate: false
+  xy: 578, 114
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hand2
+  rotate: false
+  xy: 581, 138
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/handinner
+  rotate: true
+  xy: 506, 77
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/handinnerTX
+  rotate: false
+  xy: 445, 100
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/handout
+  rotate: false
+  xy: 606, 174
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/handoutTX
+  rotate: false
+  xy: 546, 188
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/hualun
+  rotate: false
+  xy: 578, 93
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/jian
+  rotate: false
+  xy: 707, 465
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/jian2
+  rotate: false
+  xy: 602, 386
+  size: 97, 17
+  orig: 97, 17
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/jianjiainner
+  rotate: false
+  xy: 895, 298
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/jianjiainnerTX
+  rotate: false
+  xy: 226, 78
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/jianjiaout
+  rotate: false
+  xy: 867, 298
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/kuaTX
+  rotate: false
+  xy: 480, 287
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/leginner
+  rotate: false
+  xy: 408, 92
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/leginnerdown
+  rotate: false
+  xy: 548, 91
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/leginnerdownTX
+  rotate: true
+  xy: 540, 233
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/leginnerupTX
+  rotate: false
+  xy: 328, 288
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/legoutdown
+  rotate: true
+  xy: 590, 192
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/legoutdownTX
+  rotate: false
+  xy: 328, 89
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/legoutup
+  rotate: false
+  xy: 376, 12
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/legoutupTX
+  rotate: false
+  xy: 321, 152
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/lingzi
+  rotate: false
+  xy: 602, 309
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/mouth
+  rotate: true
+  xy: 945, 458
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/mouth02
+  rotate: false
+  xy: 830, 465
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/mouth04
+  rotate: true
+  xy: 480, 339
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/qunjiainnerA
+  rotate: true
+  xy: 803, 329
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/qunjiainnerB
+  rotate: true
+  xy: 426, 237
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/qunjiaout
+  rotate: true
+  xy: 268, 9
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/qunzi1
+  rotate: true
+  xy: 491, 360
+  size: 42, 73
+  orig: 42, 73
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/qunzi2
+  rotate: false
+  xy: 385, 154
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/qunzi3
+  rotate: false
+  xy: 844, 382
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/toushi
+  rotate: true
+  xy: 2, 14
+  size: 57, 98
+  orig: 57, 98
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/tx
+  rotate: false
+  xy: 333, 357
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/tx1
+  rotate: false
+  xy: 523, 87
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/tx2
+  rotate: true
+  xy: 843, 321
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/tx3
+  rotate: true
+  xy: 844, 347
+  size: 33, 82
+  orig: 33, 82
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/tx4
+  rotate: true
+  xy: 165, 213
+  size: 34, 82
+  orig: 34, 82
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/weapon
+  rotate: false
+  xy: 830, 471
+  size: 122, 39
+  orig: 122, 39
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/wgTX
+  rotate: false
+  xy: 2, 351
+  size: 171, 159
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/xian
+  rotate: true
+  xy: 478, 232
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/yanweiTX
+  rotate: false
+  xy: 165, 249
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/yibai
+  rotate: false
+  xy: 326, 8
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Yoa&Constanta/Ranger/Constanta_Ranger_4/zunxing
+  rotate: true
+  xy: 353, 12
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1

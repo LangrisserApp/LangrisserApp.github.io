@@ -1,0 +1,440 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/arminnerdown
+  rotate: false
+  xy: 996, 304
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/arminnerup
+  rotate: false
+  xy: 835, 252
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/armoutdown
+  rotate: true
+  xy: 583, 45
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/body
+  rotate: true
+  xy: 268, 82
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/handout
+  rotate: true
+  xy: 967, 271
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/horse hair up
+  rotate: true
+  xy: 340, 12
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/horse_neck
+  rotate: true
+  xy: 112, 6
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/jianjia
+  rotate: false
+  xy: 486, 4
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/jianjia1
+  rotate: true
+  xy: 589, 5
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/majia1
+  rotate: false
+  xy: 679, 226
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/majia2
+  rotate: true
+  xy: 433, 156
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_02/weapon
+  rotate: false
+  xy: 2, 142
+  size: 337, 177
+  orig: 337, 177
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_03/horse toujia
+  rotate: false
+  xy: 341, 157
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_03/maan
+  rotate: true
+  xy: 274, 14
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_03/majia2
+  rotate: true
+  xy: 216, 7
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/arminnerdown
+  rotate: false
+  xy: 996, 326
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/arminnerup
+  rotate: false
+  xy: 613, 79
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/armoutdown
+  rotate: false
+  xy: 581, 72
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/armoutup
+  rotate: true
+  xy: 614, 119
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/body
+  rotate: false
+  xy: 340, 54
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/eyebrow
+  rotate: true
+  xy: 341, 252
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/eyehard
+  rotate: false
+  xy: 892, 272
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/eyehard1
+  rotate: false
+  xy: 508, 45
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/eyehard2
+  rotate: true
+  xy: 755, 300
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/eyehard3
+  rotate: false
+  xy: 679, 201
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/eyesffuer
+  rotate: false
+  xy: 498, 121
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/eyeyun
+  rotate: true
+  xy: 754, 210
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/face
+  rotate: false
+  xy: 588, 371
+  size: 176, 136
+  orig: 176, 136
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/hair1
+  rotate: true
+  xy: 341, 126
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/hair2
+  rotate: true
+  xy: 2, 2
+  size: 77, 108
+  orig: 77, 108
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/hair3
+  rotate: true
+  xy: 422, 119
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/hair4
+  rotate: true
+  xy: 413, 3
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/handinner
+  rotate: false
+  xy: 787, 204
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/handout
+  rotate: false
+  xy: 622, 52
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse ear
+  rotate: false
+  xy: 603, 223
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse head
+  rotate: true
+  xy: 892, 297
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse jingjia
+  rotate: false
+  xy: 545, 237
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse toujia
+  rotate: true
+  xy: 766, 292
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse xiongjia
+  rotate: false
+  xy: 520, 154
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse_backlegdown
+  rotate: true
+  xy: 508, 68
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse_backlegup
+  rotate: false
+  xy: 689, 284
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse_body
+  rotate: false
+  xy: 766, 408
+  size: 153, 99
+  orig: 153, 99
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse_frontlegdown
+  rotate: false
+  xy: 474, 61
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse_frontlegup
+  rotate: false
+  xy: 787, 229
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse_neck
+  rotate: false
+  xy: 471, 242
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/horse_weiba
+  rotate: true
+  xy: 360, 242
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/jianjia
+  rotate: false
+  xy: 672, 160
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/jianjia1
+  rotate: true
+  xy: 554, 4
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/jianjia3
+  rotate: false
+  xy: 812, 210
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/legdown
+  rotate: true
+  xy: 835, 220
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/legup
+  rotate: true
+  xy: 572, 121
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/maan
+  rotate: false
+  xy: 603, 157
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/majia1
+  rotate: false
+  xy: 921, 425
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/majia2
+  rotate: false
+  xy: 400, 61
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/majia3
+  rotate: false
+  xy: 603, 284
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/mouth01
+  rotate: true
+  xy: 486, 45
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/mouth02
+  rotate: true
+  xy: 351, 305
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/mouth04
+  rotate: false
+  xy: 400, 119
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/weapon
+  rotate: false
+  xy: 2, 321
+  size: 356, 186
+  orig: 356, 186
+  offset: 0, 0
+  index: -1
+Carolian/RoyalKnight/Carolian_RoyalKnight_04/weapon2
+  rotate: true
+  xy: 360, 346
+  size: 161, 226
+  orig: 161, 226
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 996, 349
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Werner/RoyalKnight/Pike
+  rotate: false
+  xy: 2, 81
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

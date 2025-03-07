@@ -1,0 +1,559 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/dd
+  rotate: false
+  xy: 327, 201
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Knight/Alutemurat_HighRider_2/mouth02
+  rotate: true
+  xy: 1012, 434
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Horse/Ornament/Taupe/horse_tunjia
+  rotate: true
+  xy: 390, 282
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Horse/Ornament/Taupe/horse_xiongjia
+  rotate: true
+  xy: 281, 358
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegdown
+  rotate: false
+  xy: 590, 229
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_backlegup
+  rotate: false
+  xy: 327, 207
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_body
+  rotate: false
+  xy: 547, 415
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegdown
+  rotate: false
+  xy: 221, 138
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_frontlegup
+  rotate: true
+  xy: 628, 361
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_guajian1
+  rotate: false
+  xy: 542, 356
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_guajian2
+  rotate: true
+  xy: 973, 381
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_head
+  rotate: false
+  xy: 125, 9
+  size: 115, 127
+  orig: 115, 127
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_mana
+  rotate: false
+  xy: 398, 358
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_neck
+  rotate: false
+  xy: 255, 192
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse1/horse_weiba
+  rotate: false
+  xy: 276, 295
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_guajian1
+  rotate: true
+  xy: 507, 131
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_guajian2
+  rotate: true
+  xy: 973, 412
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_head
+  rotate: false
+  xy: 2, 3
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_neck
+  rotate: false
+  xy: 532, 277
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse2/horse_neck1
+  rotate: false
+  xy: 447, 72
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Horse/brownhorse/brownhorse3/horse_head
+  rotate: false
+  xy: 705, 369
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+Leon/Leon_3/horse_tunjia1
+  rotate: true
+  xy: 825, 334
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 281, 449
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/arminner
+  rotate: false
+  xy: 505, 74
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/armout
+  rotate: true
+  xy: 469, 132
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/body
+  rotate: true
+  xy: 255, 139
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/eyebrow
+  rotate: true
+  xy: 1012, 452
+  size: 56, 5
+  orig: 56, 5
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/eyehard
+  rotate: false
+  xy: 381, 79
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/eyehard1
+  rotate: true
+  xy: 484, 216
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/eyehard2
+  rotate: true
+  xy: 694, 295
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/eyehard3
+  rotate: false
+  xy: 501, 217
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/eyesuffer
+  rotate: true
+  xy: 242, 2
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/eyeyun
+  rotate: false
+  xy: 967, 352
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/face
+  rotate: false
+  xy: 857, 381
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hair2
+  rotate: true
+  xy: 768, 296
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hair3
+  rotate: false
+  xy: 221, 189
+  size: 32, 139
+  orig: 32, 139
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hair4
+  rotate: true
+  xy: 386, 132
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hair5
+  rotate: false
+  xy: 611, 280
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hair6
+  rotate: true
+  xy: 507, 149
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hair7
+  rotate: true
+  xy: 306, 78
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hair8
+  rotate: true
+  xy: 389, 206
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/hairback
+  rotate: false
+  xy: 2, 135
+  size: 108, 193
+  orig: 108, 193
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/handinner
+  rotate: false
+  xy: 504, 195
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/handout
+  rotate: false
+  xy: 624, 226
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/jianjiainner
+  rotate: true
+  xy: 270, 11
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/jianjiainner1
+  rotate: false
+  xy: 707, 329
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/jianjiaout
+  rotate: true
+  xy: 491, 290
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/jianjiaout1
+  rotate: true
+  xy: 269, 72
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/legoutdown
+  rotate: true
+  xy: 470, 68
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/legoutdown
+  rotate: true
+  xy: 470, 68
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/legoutup
+  rotate: true
+  xy: 852, 337
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/legoutup
+  rotate: true
+  xy: 852, 337
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/mouth01
+  rotate: true
+  xy: 532, 356
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/weapon1
+  rotate: false
+  xy: 2, 330
+  size: 272, 81
+  orig: 272, 81
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/weapon2
+  rotate: false
+  xy: 857, 363
+  size: 108, 16
+  orig: 108, 16
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_HighRdier_2/yaojiaout
+  rotate: false
+  xy: 683, 245
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/arminner
+  rotate: false
+  xy: 829, 301
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/armout
+  rotate: false
+  xy: 470, 94
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/body
+  rotate: false
+  xy: 489, 370
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/handinner
+  rotate: false
+  xy: 504, 173
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/handout
+  rotate: false
+  xy: 501, 235
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/jianjiainner
+  rotate: false
+  xy: 707, 295
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/jianjiainner1
+  rotate: false
+  xy: 766, 329
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/jianjiaout
+  rotate: false
+  xy: 386, 166
+  size: 78, 38
+  orig: 78, 38
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/jianjiaout1
+  rotate: false
+  xy: 381, 96
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/toushi
+  rotate: false
+  xy: 653, 244
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/weapon2
+  rotate: false
+  xy: 112, 138
+  size: 107, 190
+  orig: 107, 190
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_KnightMaster_3/yaojiaout
+  rotate: false
+  xy: 333, 82
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/arminner
+  rotate: false
+  xy: 466, 166
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/armout
+  rotate: false
+  xy: 776, 255
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/body
+  rotate: false
+  xy: 333, 134
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/handinner
+  rotate: false
+  xy: 505, 107
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/handout
+  rotate: true
+  xy: 898, 337
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/jianjiainner
+  rotate: false
+  xy: 530, 235
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/jianjiaout
+  rotate: true
+  xy: 652, 297
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/mouth01
+  rotate: false
+  xy: 255, 323
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/weapon1
+  rotate: false
+  xy: 2, 413
+  size: 277, 95
+  orig: 277, 95
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_Knight/Leticia_Knight_1/yaojiaout
+  rotate: false
+  xy: 729, 248
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 242, 62
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

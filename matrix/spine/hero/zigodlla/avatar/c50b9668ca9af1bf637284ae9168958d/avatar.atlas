@@ -1,0 +1,237 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/arminner
+  rotate: false
+  xy: 568, 274
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/armoutdown
+  rotate: false
+  xy: 439, 60
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/armoutup
+  rotate: true
+  xy: 710, 267
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/body
+  rotate: false
+  xy: 2, 231
+  size: 163, 178
+  orig: 163, 178
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/body1
+  rotate: false
+  xy: 446, 408
+  size: 170, 93
+  orig: 170, 93
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/body2
+  rotate: false
+  xy: 167, 211
+  size: 119, 198
+  orig: 119, 198
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/body3
+  rotate: false
+  xy: 288, 276
+  size: 127, 161
+  orig: 127, 161
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/body4
+  rotate: true
+  xy: 132, 20
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/body5
+  rotate: false
+  xy: 266, 63
+  size: 73, 146
+  orig: 73, 146
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/body6
+  rotate: false
+  xy: 936, 370
+  size: 86, 131
+  orig: 86, 131
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/eye
+  rotate: true
+  xy: 153, 211
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/eye1
+  rotate: false
+  xy: 132, 211
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/eye2
+  rotate: false
+  xy: 417, 427
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/eye3
+  rotate: false
+  xy: 568, 397
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/hand1
+  rotate: false
+  xy: 670, 231
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/hand2
+  rotate: false
+  xy: 609, 242
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/hand3
+  rotate: false
+  xy: 710, 232
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/handout
+  rotate: false
+  xy: 266, 4
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/head
+  rotate: true
+  xy: 2, 29
+  size: 200, 128
+  orig: 200, 128
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/head1
+  rotate: false
+  xy: 417, 276
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/head2
+  rotate: false
+  xy: 288, 214
+  size: 160, 60
+  orig: 160, 60
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/head3
+  rotate: false
+  xy: 282, 439
+  size: 162, 62
+  orig: 162, 62
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/mouth
+  rotate: false
+  xy: 551, 215
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/mouth1
+  rotate: false
+  xy: 439, 124
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/mouth2
+  rotate: false
+  xy: 341, 77
+  size: 96, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/mouth3
+  rotate: false
+  xy: 450, 211
+  size: 99, 63
+  orig: 99, 63
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/neck
+  rotate: true
+  xy: 906, 274
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/texiao
+  rotate: false
+  xy: 341, 118
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/water
+  rotate: false
+  xy: 2, 411
+  size: 278, 90
+  orig: 278, 90
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/weiba
+  rotate: true
+  xy: 779, 388
+  size: 113, 155
+  orig: 113, 155
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/weiba1
+  rotate: false
+  xy: 806, 275
+  size: 98, 111
+  orig: 98, 111
+  offset: 0, 0
+  index: -1
+Zigodlla/Hydra/weiba2
+  rotate: false
+  xy: 618, 384
+  size: 159, 117
+  orig: 159, 117
+  offset: 0, 0
+  index: -1

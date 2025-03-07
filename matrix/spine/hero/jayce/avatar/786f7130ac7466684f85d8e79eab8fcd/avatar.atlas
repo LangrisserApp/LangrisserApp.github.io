@@ -1,0 +1,517 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jayce_Sanit03/pifeng1
+  rotate: false
+  xy: 181, 153
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+Jayce_Sanit03/pifeng2
+  rotate: false
+  xy: 635, 406
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+Jayce_Sanit03/pifeng3
+  rotate: false
+  xy: 356, 380
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+Jayce_Sanit03/weapon1
+  rotate: true
+  xy: 178, 404
+  size: 106, 176
+  orig: 106, 176
+  offset: 0, 0
+  index: -1
+Jayce_Sanit03/weapon2
+  rotate: true
+  xy: 272, 152
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+Jayce_Sanit03/xiongdai2
+  rotate: false
+  xy: 496, 209
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+Jayce_Sanit03/xiongdai3
+  rotate: false
+  xy: 454, 187
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/Shadow
+  rotate: false
+  xy: 2, 6
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/arminnerdown
+  rotate: false
+  xy: 253, 11
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/arminnerdown1
+  rotate: true
+  xy: 170, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/arminnerdown2
+  rotate: true
+  xy: 457, 150
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/arminnerup
+  rotate: false
+  xy: 957, 349
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/armoutdown
+  rotate: true
+  xy: 253, 47
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/armoutup
+  rotate: false
+  xy: 496, 166
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/beibao1
+  rotate: false
+  xy: 262, 87
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/beibao2
+  rotate: false
+  xy: 544, 221
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/body
+  rotate: false
+  xy: 344, 157
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/eyebrow
+  rotate: false
+  xy: 609, 297
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/eyehard
+  rotate: false
+  xy: 910, 394
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/eyehard1
+  rotate: false
+  xy: 406, 246
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/eyehard2
+  rotate: true
+  xy: 1004, 439
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/eyehard3
+  rotate: false
+  xy: 817, 343
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/eyesffuer
+  rotate: true
+  xy: 609, 312
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/eyeyun
+  rotate: false
+  xy: 505, 266
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/hair1
+  rotate: false
+  xy: 424, 271
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/hair2
+  rotate: false
+  xy: 328, 273
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/hair3
+  rotate: false
+  xy: 181, 84
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/hair4
+  rotate: true
+  xy: 889, 320
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/hair5
+  rotate: true
+  xy: 817, 357
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/handinner1
+  rotate: true
+  xy: 198, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/handinner2
+  rotate: false
+  xy: 328, 390
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/handinner3
+  rotate: false
+  xy: 278, 53
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/handinner4
+  rotate: true
+  xy: 496, 130
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/handout1
+  rotate: false
+  xy: 312, 53
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/handout3
+  rotate: false
+  xy: 949, 316
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/head
+  rotate: false
+  xy: 2, 208
+  size: 130, 161
+  orig: 130, 161
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/jianjiainner1
+  rotate: true
+  xy: 314, 23
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/jianjiainner2
+  rotate: true
+  xy: 996, 347
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/jianjiainner3
+  rotate: true
+  xy: 146, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/jianjiaout1
+  rotate: false
+  xy: 279, 24
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/jianjiaout2
+  rotate: true
+  xy: 986, 314
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/kua
+  rotate: false
+  xy: 544, 186
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/leginner1
+  rotate: false
+  xy: 644, 312
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/leginnerdown
+  rotate: true
+  xy: 750, 347
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/leginnerup
+  rotate: false
+  xy: 408, 185
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/legout1
+  rotate: false
+  xy: 408, 151
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/legoutdown
+  rotate: false
+  xy: 700, 338
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/legoutup
+  rotate: false
+  xy: 644, 342
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/maozi1
+  rotate: false
+  xy: 175, 23
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/maozi2
+  rotate: false
+  xy: 885, 358
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/maozi3
+  rotate: true
+  xy: 110, 89
+  size: 117, 69
+  orig: 117, 69
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/maozi4
+  rotate: false
+  xy: 78, 2
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/mouth
+  rotate: false
+  xy: 480, 266
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/mouth02
+  rotate: false
+  xy: 585, 287
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/mouth04
+  rotate: false
+  xy: 134, 212
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/pifeng1
+  rotate: false
+  xy: 911, 419
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/pifeng2
+  rotate: false
+  xy: 499, 390
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/pifeng3
+  rotate: false
+  xy: 2, 371
+  size: 174, 139
+  orig: 174, 139
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/texiao1
+  rotate: true
+  xy: 134, 219
+  size: 150, 45
+  orig: 150, 45
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/texiao2
+  rotate: false
+  xy: 762, 452
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/texiao3
+  rotate: false
+  xy: 181, 230
+  size: 145, 51
+  orig: 145, 51
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/texiao4
+  rotate: false
+  xy: 181, 342
+  size: 145, 60
+  orig: 145, 60
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/texiao5
+  rotate: false
+  xy: 181, 283
+  size: 145, 57
+  orig: 145, 57
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/texiao6
+  rotate: false
+  xy: 762, 396
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/weapon1
+  rotate: false
+  xy: 2, 33
+  size: 106, 173
+  orig: 106, 173
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/weapon2
+  rotate: false
+  xy: 505, 301
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/weapon3
+  rotate: true
+  xy: 910, 358
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/weapon4
+  rotate: false
+  xy: 996, 380
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/weapon6
+  rotate: true
+  xy: 226, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/weapon7
+  rotate: true
+  xy: 693, 303
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/xiongdai1
+  rotate: true
+  xy: 934, 315
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/xiongdai2
+  rotate: false
+  xy: 110, 25
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+Jayce_Sanit04/xiongdai3
+  rotate: true
+  xy: 328, 231
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1

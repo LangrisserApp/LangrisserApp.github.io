@@ -1,0 +1,489 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: true
+  xy: 2, 2
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/arminnerdown
+  rotate: true
+  xy: 678, 234
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/arminnerup
+  rotate: false
+  xy: 367, 47
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/armoutdown
+  rotate: false
+  xy: 836, 285
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/armoutup
+  rotate: true
+  xy: 211, 21
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/body
+  rotate: false
+  xy: 465, 218
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/handinner1
+  rotate: true
+  xy: 683, 144
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/handout
+  rotate: true
+  xy: 343, 2
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/handout1
+  rotate: true
+  xy: 683, 171
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/haninner
+  rotate: false
+  xy: 683, 202
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/jianjiainner
+  rotate: false
+  xy: 953, 340
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/jianjiainner1
+  rotate: true
+  xy: 801, 282
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/jianjiaout
+  rotate: false
+  xy: 318, 34
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/jianjiaout1
+  rotate: false
+  xy: 253, 2
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/jianqiao
+  rotate: false
+  xy: 63, 2
+  size: 133, 21
+  orig: 133, 21
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/leginnerdown
+  rotate: true
+  xy: 801, 251
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/leginnerup
+  rotate: true
+  xy: 465, 149
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/legoutdown
+  rotate: true
+  xy: 916, 331
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/legoutup
+  rotate: false
+  xy: 270, 161
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/shengjie
+  rotate: false
+  xy: 838, 251
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/weapon
+  rotate: false
+  xy: 63, 93
+  size: 191, 64
+  orig: 191, 64
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/weapon1
+  rotate: false
+  xy: 63, 52
+  size: 188, 39
+  orig: 188, 39
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Fighter_1/weapon_1
+  rotate: false
+  xy: 2, 390
+  size: 269, 120
+  orig: 269, 120
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/arminnerdown
+  rotate: false
+  xy: 377, 5
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/armoutdown
+  rotate: false
+  xy: 301, 2
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/guashi
+  rotate: false
+  xy: 358, 88
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiainner
+  rotate: false
+  xy: 712, 326
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiainner1
+  rotate: true
+  xy: 785, 329
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiainner2
+  rotate: false
+  xy: 768, 397
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiainner3
+  rotate: false
+  xy: 910, 364
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiaout
+  rotate: false
+  xy: 542, 318
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiaout1
+  rotate: true
+  xy: 550, 145
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiaout2
+  rotate: true
+  xy: 544, 228
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianjiaout3
+  rotate: false
+  xy: 345, 113
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/jianqiao
+  rotate: false
+  xy: 63, 25
+  size: 146, 25
+  orig: 146, 25
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/leginnerup
+  rotate: false
+  xy: 611, 233
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/legoutup
+  rotate: false
+  xy: 347, 161
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/toushi
+  rotate: true
+  xy: 953, 393
+  size: 117, 52
+  orig: 117, 52
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/toushi1
+  rotate: true
+  xy: 823, 402
+  size: 108, 128
+  orig: 108, 128
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/weapon
+  rotate: false
+  xy: 273, 390
+  size: 205, 120
+  orig: 205, 120
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/weapon1
+  rotate: false
+  xy: 63, 159
+  size: 205, 107
+  orig: 205, 107
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_Kensei_4/weapon2
+  rotate: true
+  xy: 256, 86
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/arminnerdown
+  rotate: false
+  xy: 919, 302
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/armoutdown
+  rotate: false
+  xy: 877, 286
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/jianjiainner
+  rotate: false
+  xy: 711, 256
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/jianjiainner1
+  rotate: false
+  xy: 253, 42
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/jianjiaout
+  rotate: false
+  xy: 847, 341
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/jianjiaout1
+  rotate: false
+  xy: 282, 113
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/jianqiao
+  rotate: false
+  xy: 273, 253
+  size: 135, 24
+  orig: 135, 24
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/leginnerup
+  rotate: false
+  xy: 616, 149
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/legoutup
+  rotate: false
+  xy: 465, 298
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/toushi
+  rotate: true
+  xy: 424, 157
+  size: 120, 39
+  orig: 120, 39
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/weapon
+  rotate: false
+  xy: 273, 279
+  size: 190, 109
+  orig: 190, 109
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/weapon1
+  rotate: false
+  xy: 629, 465
+  size: 192, 45
+  orig: 192, 45
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Sword/Kirikaze_SwardMan_2/weapon_1
+  rotate: false
+  xy: 2, 268
+  size: 269, 120
+  orig: 269, 120
+  offset: 0, 0
+  index: -1
+Kirikaze/eyebrow
+  rotate: false
+  xy: 629, 369
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard
+  rotate: false
+  xy: 847, 321
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard1
+  rotate: true
+  xy: 781, 257
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard2
+  rotate: true
+  xy: 1007, 443
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard3
+  rotate: true
+  xy: 1007, 375
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+Kirikaze/eyesffuer
+  rotate: true
+  xy: 678, 258
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+Kirikaze/eyeyun
+  rotate: false
+  xy: 625, 333
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Kirikaze/face
+  rotate: true
+  xy: 480, 392
+  size: 118, 147
+  orig: 118, 147
+  offset: 0, 0
+  index: -1
+Kirikaze/hair
+  rotate: true
+  xy: 629, 395
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth01
+  rotate: false
+  xy: 625, 322
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth02
+  rotate: false
+  xy: 367, 34
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth03
+  rotate: true
+  xy: 1007, 346
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth04
+  rotate: true
+  xy: 706, 344
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 282, 86
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

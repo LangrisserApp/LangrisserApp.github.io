@@ -1,0 +1,657 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragonslayer_Monster_2/arminnerdown
+  rotate: true
+  xy: 252, 73
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/armoutdown
+  rotate: true
+  xy: 302, 2
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/armoutup
+  rotate: false
+  xy: 597, 239
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/arninnerup
+  rotate: false
+  xy: 597, 183
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/body
+  rotate: true
+  xy: 899, 421
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/face
+  rotate: false
+  xy: 2, 239
+  size: 118, 134
+  orig: 118, 134
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/hand1
+  rotate: false
+  xy: 407, 297
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/handinner
+  rotate: true
+  xy: 760, 379
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/handout
+  rotate: true
+  xy: 93, 2
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/handout1
+  rotate: false
+  xy: 340, 358
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/hujia
+  rotate: false
+  xy: 497, 141
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/jianjia
+  rotate: true
+  xy: 213, 282
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/leginnerdown
+  rotate: false
+  xy: 374, 212
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/leginnerup
+  rotate: false
+  xy: 683, 295
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/legoutdown
+  rotate: true
+  xy: 166, 2
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/legoutup
+  rotate: false
+  xy: 534, 148
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/yaojiainner
+  rotate: false
+  xy: 767, 307
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_2/yaojiaout
+  rotate: true
+  xy: 996, 462
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/armoutdown
+  rotate: false
+  xy: 237, 2
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/armoutup
+  rotate: false
+  xy: 301, 212
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/arninnerup
+  rotate: false
+  xy: 332, 74
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/body
+  rotate: false
+  xy: 122, 277
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/face
+  rotate: false
+  xy: 122, 375
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/ftx1
+  rotate: false
+  xy: 738, 187
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/ftx2
+  rotate: true
+  xy: 480, 355
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/ftx3
+  rotate: true
+  xy: 976, 380
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/ftx5
+  rotate: true
+  xy: 254, 124
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/ftx6
+  rotate: true
+  xy: 652, 184
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/handout
+  rotate: true
+  xy: 524, 353
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/handout2
+  rotate: true
+  xy: 466, 293
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/hujia
+  rotate: false
+  xy: 649, 293
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/leginnerdown
+  rotate: true
+  xy: 532, 203
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/legoutdown
+  rotate: true
+  xy: 523, 293
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/yaojiainer
+  rotate: false
+  xy: 738, 218
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_3/yaojiaout
+  rotate: false
+  xy: 466, 239
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/1
+  rotate: false
+  xy: 241, 415
+  size: 140, 95
+  orig: 140, 95
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/2
+  rotate: false
+  xy: 524, 415
+  size: 136, 95
+  orig: 136, 95
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/3
+  rotate: false
+  xy: 383, 416
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/4
+  rotate: false
+  xy: 662, 418
+  size: 137, 92
+  orig: 137, 92
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx1
+  rotate: true
+  xy: 779, 261
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx10
+  rotate: false
+  xy: 438, 145
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx11
+  rotate: true
+  xy: 97, 62
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx14
+  rotate: false
+  xy: 593, 353
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx15
+  rotate: true
+  xy: 652, 234
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx2
+  rotate: false
+  xy: 532, 240
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx3
+  rotate: false
+  xy: 861, 374
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx4
+  rotate: true
+  xy: 996, 429
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx5
+  rotate: true
+  xy: 806, 387
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx6
+  rotate: true
+  xy: 309, 124
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx7
+  rotate: false
+  xy: 741, 364
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx8
+  rotate: true
+  xy: 97, 212
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Ftx9
+  rotate: true
+  xy: 996, 389
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/Shadow
+  rotate: true
+  xy: 380, 282
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/arminnerdown
+  rotate: true
+  xy: 779, 220
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/armoutdown
+  rotate: false
+  xy: 174, 135
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/armoutup
+  rotate: false
+  xy: 299, 282
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/arninnerup
+  rotate: true
+  xy: 587, 137
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/body
+  rotate: true
+  xy: 801, 421
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/bodytx
+  rotate: false
+  xy: 241, 357
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/eyebrow
+  rotate: true
+  xy: 446, 214
+  size: 81, 18
+  orig: 81, 18
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/eyehard
+  rotate: true
+  xy: 418, 147
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/eyehard1
+  rotate: true
+  xy: 370, 3
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/eyehard2
+  rotate: false
+  xy: 861, 405
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/eyehard3
+  rotate: true
+  xy: 356, 2
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/eyesffuer
+  rotate: false
+  xy: 660, 354
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/eyeyun
+  rotate: true
+  xy: 417, 218
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/face
+  rotate: false
+  xy: 2, 375
+  size: 118, 135
+  orig: 118, 135
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/ftx12
+  rotate: false
+  xy: 402, 362
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/ftx13
+  rotate: false
+  xy: 784, 187
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/fuyou1
+  rotate: false
+  xy: 122, 212
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/fuyou2
+  rotate: true
+  xy: 2, 91
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/fuyou3
+  rotate: false
+  xy: 662, 386
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/fxball
+  rotate: false
+  xy: 806, 345
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/hand4
+  rotate: false
+  xy: 848, 338
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/handinner2
+  rotate: false
+  xy: 726, 307
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/handinnertx
+  rotate: false
+  xy: 767, 336
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/handout
+  rotate: false
+  xy: 97, 129
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/handout1
+  rotate: true
+  xy: 215, 212
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/handout1tx
+  rotate: true
+  xy: 175, 73
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/handout3
+  rotate: true
+  xy: 309, 131
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/hujia
+  rotate: false
+  xy: 384, 135
+  size: 32, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/hujia1
+  rotate: false
+  xy: 306, 73
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/huzi
+  rotate: false
+  xy: 690, 181
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/leginnerdown
+  rotate: true
+  xy: 466, 202
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/leginnerup
+  rotate: false
+  xy: 733, 260
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/legoutdown
+  rotate: true
+  xy: 586, 293
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/legoutup
+  rotate: false
+  xy: 687, 243
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/mouth01
+  rotate: false
+  xy: 741, 354
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/mouth03
+  rotate: true
+  xy: 909, 374
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/mouth04
+  rotate: false
+  xy: 213, 366
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/qunjiaout1
+  rotate: false
+  xy: 928, 383
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/yaojiainer
+  rotate: true
+  xy: 690, 193
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Dragonslayer_Monster_4/yaojiaout
+  rotate: false
+  xy: 2, 13
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1

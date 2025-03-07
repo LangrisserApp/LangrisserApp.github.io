@@ -1,0 +1,398 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Emilia/Emilia_Templer/Emilia_Templer_3/arminnerdown
+  rotate: true
+  xy: 518, 48
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/arminnerup
+  rotate: false
+  xy: 867, 309
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/armoutdown
+  rotate: true
+  xy: 763, 290
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/armoutup
+  rotate: true
+  xy: 303, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/body
+  rotate: true
+  xy: 475, 238
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/eyebrow
+  rotate: false
+  xy: 963, 338
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/eyehard
+  rotate: true
+  xy: 555, 78
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/eyehard1
+  rotate: false
+  xy: 896, 323
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/eyehard2
+  rotate: false
+  xy: 451, 48
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/eyehard3
+  rotate: false
+  xy: 2, 5
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/eyesffuer
+  rotate: false
+  xy: 800, 305
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/eyeyun
+  rotate: false
+  xy: 693, 300
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/face
+  rotate: false
+  xy: 497, 364
+  size: 133, 146
+  orig: 133, 146
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/hair1
+  rotate: true
+  xy: 475, 282
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/hair2
+  rotate: false
+  xy: 639, 298
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/hair3
+  rotate: false
+  xy: 535, 283
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/hair4
+  rotate: false
+  xy: 804, 337
+  size: 90, 142
+  orig: 90, 142
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/hairback
+  rotate: false
+  xy: 2, 14
+  size: 253, 175
+  orig: 253, 175
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/handinner
+  rotate: true
+  xy: 604, 224
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/handinner1
+  rotate: false
+  xy: 712, 281
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/handout
+  rotate: false
+  xy: 677, 250
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/jianjiainner
+  rotate: true
+  xy: 766, 311
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/jianjiaout
+  rotate: false
+  xy: 693, 330
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/jianjiaout1
+  rotate: true
+  xy: 538, 3
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/leginnerdown
+  rotate: true
+  xy: 257, 2
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/leginnerup
+  rotate: false
+  xy: 604, 245
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/legoutdown
+  rotate: true
+  xy: 639, 274
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/legoutup
+  rotate: false
+  xy: 430, 2
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/mouth01
+  rotate: true
+  xy: 430, 48
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/mouth02
+  rotate: true
+  xy: 323, 206
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/mouth03
+  rotate: true
+  xy: 884, 496
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/mouth04
+  rotate: false
+  xy: 483, 2
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/pifeng
+  rotate: true
+  xy: 896, 353
+  size: 157, 114
+  orig: 157, 114
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/qun
+  rotate: false
+  xy: 896, 291
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/toushi
+  rotate: true
+  xy: 451, 70
+  size: 149, 102
+  orig: 149, 102
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/weapon
+  rotate: false
+  xy: 323, 221
+  size: 150, 140
+  orig: 150, 140
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_3/weapon1
+  rotate: true
+  xy: 632, 481
+  size: 29, 250
+  orig: 29, 250
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/arminnerdown
+  rotate: true
+  xy: 796, 284
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/armoutdown
+  rotate: true
+  xy: 829, 284
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/body
+  rotate: false
+  xy: 537, 221
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/fx_ground
+  rotate: true
+  xy: 257, 27
+  size: 162, 76
+  orig: 162, 76
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/fx_trail
+  rotate: false
+  xy: 2, 191
+  size: 319, 319
+  orig: 319, 319
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/hair5
+  rotate: true
+  xy: 483, 8
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/hair6
+  rotate: false
+  xy: 963, 273
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/handinner
+  rotate: true
+  xy: 997, 268
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/handout
+  rotate: false
+  xy: 688, 274
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/jianjiainner
+  rotate: true
+  xy: 588, 290
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/jianjiaout
+  rotate: false
+  xy: 335, 2
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/leginnerdown
+  rotate: false
+  xy: 458, 2
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/leginnerup
+  rotate: true
+  xy: 632, 246
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/legoutdown
+  rotate: false
+  xy: 580, 234
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/legoutup
+  rotate: false
+  xy: 997, 291
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/pifeng
+  rotate: true
+  xy: 335, 61
+  size: 158, 114
+  orig: 158, 114
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/toushi
+  rotate: false
+  xy: 632, 371
+  size: 170, 108
+  orig: 170, 108
+  offset: 0, 0
+  index: -1
+Emilia/Emilia_Templer/Emilia_Templer_4/weapon
+  rotate: false
+  xy: 323, 363
+  size: 172, 147
+  orig: 172, 147
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 555, 145
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

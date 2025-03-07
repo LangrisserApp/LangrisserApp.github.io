@@ -1,0 +1,727 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tyrantel_Sword/Tyrantel_Sword_2/arminnerdown
+  rotate: true
+  xy: 304, 315
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/arminnerup
+  rotate: false
+  xy: 521, 532
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/armoutdown
+  rotate: true
+  xy: 422, 425
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/armoutup
+  rotate: false
+  xy: 676, 715
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/body
+  rotate: true
+  xy: 126, 115
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/dang
+  rotate: false
+  xy: 767, 769
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/handinner1
+  rotate: true
+  xy: 828, 737
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/handinner2
+  rotate: false
+  xy: 818, 674
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/handout
+  rotate: false
+  xy: 248, 477
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/handout1
+  rotate: false
+  xy: 622, 603
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/hudang
+  rotate: false
+  xy: 767, 637
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/jianjiainner1
+  rotate: true
+  xy: 772, 811
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/jianjiainner2
+  rotate: false
+  xy: 389, 581
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/jianjiaout1
+  rotate: false
+  xy: 562, 734
+  size: 99, 71
+  orig: 99, 71
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/jianjiaout2
+  rotate: false
+  xy: 248, 428
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/leginnerdown
+  rotate: true
+  xy: 767, 738
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/leginnerup
+  rotate: true
+  xy: 519, 450
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/legoutdown
+  rotate: true
+  xy: 365, 429
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/legoutup
+  rotate: true
+  xy: 474, 652
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/pifeng1
+  rotate: true
+  xy: 920, 814
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/pifeng2
+  rotate: true
+  xy: 419, 839
+  size: 49, 141
+  orig: 49, 141
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/weapon
+  rotate: false
+  xy: 2, 715
+  size: 383, 137
+  orig: 383, 137
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/yaojiainner
+  rotate: true
+  xy: 240, 316
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/yaojiaout
+  rotate: false
+  xy: 476, 575
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_2/yiling
+  rotate: false
+  xy: 991, 791
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/arminnerdown
+  rotate: true
+  xy: 638, 689
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/arminnerup
+  rotate: false
+  xy: 572, 448
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/armoutdown
+  rotate: false
+  xy: 676, 638
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/armoutup
+  rotate: false
+  xy: 676, 681
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/body
+  rotate: true
+  xy: 475, 766
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/dang
+  rotate: false
+  xy: 461, 494
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/handinner1
+  rotate: false
+  xy: 823, 705
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/handinner2
+  rotate: false
+  xy: 859, 751
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/handout
+  rotate: false
+  xy: 240, 362
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/handout1
+  rotate: true
+  xy: 571, 531
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/hudang
+  rotate: true
+  xy: 731, 679
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/jianjiainner1
+  rotate: false
+  xy: 389, 652
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/jianjiainner2
+  rotate: true
+  xy: 2, 8
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/jianjiaout1
+  rotate: true
+  xy: 126, 190
+  size: 123, 83
+  orig: 123, 83
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/jianjiaout2
+  rotate: true
+  xy: 968, 939
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/leginnerdown
+  rotate: false
+  xy: 311, 479
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/leginnerup
+  rotate: true
+  xy: 462, 536
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/legoutdown
+  rotate: false
+  xy: 343, 499
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/legoutup
+  rotate: false
+  xy: 79, 53
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/pifeng1
+  rotate: false
+  xy: 562, 807
+  size: 108, 81
+  orig: 108, 81
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/pifeng2
+  rotate: true
+  xy: 110, 429
+  size: 117, 136
+  orig: 117, 136
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/pifeng3
+  rotate: false
+  xy: 53, 125
+  size: 71, 169
+  orig: 71, 169
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/pifeng4
+  rotate: true
+  xy: 826, 771
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/weapon
+  rotate: false
+  xy: 419, 890
+  size: 384, 132
+  orig: 384, 132
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/yaojiainner
+  rotate: true
+  xy: 626, 651
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_3/yaojiaout
+  rotate: false
+  xy: 548, 592
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/Shadow
+  rotate: false
+  xy: 386, 554
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/arminnerdown
+  rotate: true
+  xy: 322, 428
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/arminnerup
+  rotate: false
+  xy: 571, 489
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/armoutdown
+  rotate: true
+  xy: 303, 364
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/armoutup
+  rotate: false
+  xy: 968, 905
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/body
+  rotate: false
+  xy: 845, 815
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/dang
+  rotate: false
+  xy: 461, 453
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/eyebrow
+  rotate: false
+  xy: 259, 543
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/eyehard
+  rotate: false
+  xy: 548, 576
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/eyehard1
+  rotate: true
+  xy: 346, 356
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/eyehard2
+  rotate: true
+  xy: 663, 735
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/eyehard3
+  rotate: true
+  xy: 450, 490
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/eyesffuer
+  rotate: false
+  xy: 557, 699
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/eyeyun
+  rotate: false
+  xy: 545, 662
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/face
+  rotate: false
+  xy: 110, 548
+  size: 147, 165
+  orig: 147, 165
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair1
+  rotate: true
+  xy: 343, 479
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair10
+  rotate: false
+  xy: 212, 321
+  size: 26, 106
+  orig: 26, 106
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair2
+  rotate: true
+  xy: 461, 422
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair3
+  rotate: false
+  xy: 829, 641
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair4
+  rotate: false
+  xy: 851, 796
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair5
+  rotate: true
+  xy: 475, 699
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair6
+  rotate: true
+  xy: 767, 707
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair7
+  rotate: true
+  xy: 851, 781
+  size: 13, 49
+  orig: 13, 49
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair8
+  rotate: true
+  xy: 382, 472
+  size: 17, 60
+  orig: 17, 60
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hair9
+  rotate: false
+  xy: 571, 409
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/handinner
+  rotate: false
+  xy: 724, 639
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/handinner1
+  rotate: false
+  xy: 799, 636
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/handinner3
+  rotate: true
+  xy: 386, 491
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/handout
+  rotate: false
+  xy: 161, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/handout1
+  rotate: true
+  xy: 519, 488
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/hudang
+  rotate: false
+  xy: 731, 714
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/jianjiainner1
+  rotate: false
+  xy: 672, 812
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/jianjiainner2
+  rotate: false
+  xy: 101, 315
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/jianjiaout
+  rotate: false
+  xy: 126, 66
+  size: 87, 47
+  orig: 87, 47
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/jianjiaout1
+  rotate: true
+  xy: 2, 296
+  size: 157, 97
+  orig: 157, 97
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/leginnerdown
+  rotate: false
+  xy: 991, 844
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/leginnerup
+  rotate: true
+  xy: 519, 412
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/legoutdown
+  rotate: false
+  xy: 723, 752
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/legoutup
+  rotate: false
+  xy: 676, 749
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/mouth02
+  rotate: false
+  xy: 666, 612
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/mouth03
+  rotate: true
+  xy: 755, 635
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/mouth04
+  rotate: false
+  xy: 126, 58
+  size: 33, 6
+  orig: 33, 6
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/mouth1
+  rotate: false
+  xy: 805, 895
+  size: 35, 6
+  orig: 35, 6
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/pifeng1
+  rotate: false
+  xy: 259, 584
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/pifeng2
+  rotate: true
+  xy: 2, 100
+  size: 194, 49
+  orig: 194, 49
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/pifeng3
+  rotate: false
+  xy: 2, 455
+  size: 106, 258
+  orig: 106, 258
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/pifeng4
+  rotate: false
+  xy: 767, 673
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/weapon3
+  rotate: false
+  xy: 2, 854
+  size: 415, 168
+  orig: 415, 168
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/yajiaout
+  rotate: false
+  xy: 387, 745
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/yaojiainner
+  rotate: true
+  xy: 79, 2
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/yiling1
+  rotate: false
+  xy: 805, 903
+  size: 161, 119
+  orig: 161, 119
+  offset: 0, 0
+  index: -1
+Tyrantel_Sword/Tyrantel_Sword_4/yiling2
+  rotate: false
+  xy: 259, 563
+  size: 125, 19
+  orig: 125, 19
+  offset: 0, 0
+  index: -1

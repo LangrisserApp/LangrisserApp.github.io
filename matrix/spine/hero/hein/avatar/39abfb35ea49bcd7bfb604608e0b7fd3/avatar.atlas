@@ -1,0 +1,426 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hein/Hein01/body
+  rotate: false
+  xy: 284, 321
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+Hein/Hein01/dd
+  rotate: false
+  xy: 412, 337
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Hein/Hein03/dd
+  rotate: false
+  xy: 412, 337
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Hein/Hein01/jianjiainner
+  rotate: false
+  xy: 223, 30
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Hein/Hein01/jianjiaout
+  rotate: false
+  xy: 70, 8
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+Hein/Hein01/leginnerdown
+  rotate: true
+  xy: 349, 154
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Hein/Hein01/weapon
+  rotate: false
+  xy: 2, 349
+  size: 280, 56
+  orig: 280, 56
+  offset: 0, 0
+  index: -1
+Hein/Hein01/xiongshi
+  rotate: true
+  xy: 261, 34
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+Hein/Hein02/arminner1
+  rotate: false
+  xy: 299, 2
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/arminner2
+  rotate: false
+  xy: 284, 34
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Hein/Hein02/armout1
+  rotate: false
+  xy: 306, 80
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Hein/Hein02/armout2
+  rotate: false
+  xy: 386, 151
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/body
+  rotate: true
+  xy: 150, 156
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyebrow
+  rotate: false
+  xy: 412, 282
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard
+  rotate: false
+  xy: 283, 289
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard1
+  rotate: true
+  xy: 240, 156
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard2
+  rotate: true
+  xy: 272, 157
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard3
+  rotate: false
+  xy: 412, 297
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyesffuer
+  rotate: true
+  xy: 307, 226
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyeyun
+  rotate: true
+  xy: 267, 223
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein02/face
+  rotate: false
+  xy: 134, 70
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Hein/Hein02/g
+  rotate: false
+  xy: 349, 280
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair
+  rotate: false
+  xy: 150, 223
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair1
+  rotate: false
+  xy: 461, 438
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair2
+  rotate: true
+  xy: 348, 423
+  size: 87, 111
+  orig: 87, 111
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair3
+  rotate: false
+  xy: 349, 343
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair4
+  rotate: false
+  xy: 280, 110
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Hein/Hein02/handinner1
+  rotate: false
+  xy: 261, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/handinner2
+  rotate: true
+  xy: 223, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Hein/Hein02/handout
+  rotate: true
+  xy: 482, 304
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Hein/Hein02/jianjiainner
+  rotate: false
+  xy: 307, 192
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Hein/Hein02/jianjiaout
+  rotate: false
+  xy: 304, 157
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Hein/Hein02/jianjiaout1
+  rotate: true
+  xy: 491, 399
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Hein/Hein02/leginnerdown
+  rotate: true
+  xy: 166, 2
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Hein/Hein02/leginnerup
+  rotate: false
+  xy: 343, 117
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Hein/Hein02/legoutdown
+  rotate: true
+  xy: 381, 96
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/legoutup
+  rotate: false
+  xy: 181, 26
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Hein/Hein02/lingzi
+  rotate: true
+  xy: 280, 80
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth01
+  rotate: false
+  xy: 202, 16
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth02
+  rotate: true
+  xy: 491, 373
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth03
+  rotate: true
+  xy: 253, 7
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Hein/Hein02/pifeng
+  rotate: false
+  xy: 2, 58
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+Hein/Hein02/toushi
+  rotate: false
+  xy: 461, 425
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+Hein/Hein02/weapon
+  rotate: false
+  xy: 2, 290
+  size: 279, 57
+  orig: 279, 57
+  offset: 0, 0
+  index: -1
+Hein/Hein02/yaojiainner
+  rotate: true
+  xy: 127, 2
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Hein/Hein02/yaojiaout
+  rotate: false
+  xy: 349, 179
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Hein/Hein03/body
+  rotate: false
+  xy: 424, 337
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Hein/Hein03/jianjiainner
+  rotate: false
+  xy: 134, 28
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Hein/Hein03/jianjiainner2
+  rotate: true
+  xy: 386, 183
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Hein/Hein03/jianjiaout
+  rotate: false
+  xy: 2, 4
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+Hein/Hein03/jianjiaout1
+  rotate: false
+  xy: 349, 244
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+Hein/Hein03/leginnerdown
+  rotate: true
+  xy: 381, 125
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Hein/Hein03/legoutdown
+  rotate: false
+  xy: 482, 272
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein03/pifeng
+  rotate: false
+  xy: 2, 170
+  size: 146, 118
+  orig: 146, 118
+  offset: 0, 0
+  index: -1
+Hein/Hein03/toushi
+  rotate: true
+  xy: 223, 76
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+Hein/Hein03/weapon
+  rotate: false
+  xy: 2, 407
+  size: 344, 103
+  orig: 344, 103
+  offset: 0, 0
+  index: -1
+Hein/Hein03/xiongshi
+  rotate: false
+  xy: 349, 222
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+Hein/Hein03/yaojiainner
+  rotate: false
+  xy: 320, 40
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein03/yaojiaout
+  rotate: false
+  xy: 306, 114
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 253, 80
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

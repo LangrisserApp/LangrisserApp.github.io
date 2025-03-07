@@ -1,0 +1,405 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 333, 137
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/arminnerdown
+  rotate: false
+  xy: 474, 153
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/arminnerup
+  rotate: true
+  xy: 466, 97
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/armoutdown
+  rotate: true
+  xy: 400, 56
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/armoutup
+  rotate: true
+  xy: 360, 90
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/body
+  rotate: true
+  xy: 419, 309
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/eyebrow
+  rotate: true
+  xy: 360, 131
+  size: 79, 12
+  orig: 79, 12
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/eyehard
+  rotate: true
+  xy: 374, 147
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/eyehard1
+  rotate: false
+  xy: 420, 185
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/eyehard2
+  rotate: false
+  xy: 101, 3
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/eyehard3
+  rotate: true
+  xy: 401, 155
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/eyesffuer
+  rotate: false
+  xy: 275, 56
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/eyeyun
+  rotate: false
+  xy: 211, 2
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/face
+  rotate: false
+  xy: 2, 71
+  size: 116, 135
+  orig: 116, 135
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/hair
+  rotate: true
+  xy: 275, 89
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/hair1
+  rotate: true
+  xy: 414, 367
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/hair2
+  rotate: true
+  xy: 257, 213
+  size: 37, 99
+  orig: 37, 99
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/hair3
+  rotate: false
+  xy: 379, 225
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/hair4
+  rotate: true
+  xy: 420, 212
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/hair5
+  rotate: true
+  xy: 420, 153
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/hairinner
+  rotate: false
+  xy: 2, 2
+  size: 97, 66
+  orig: 97, 66
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/handinner
+  rotate: true
+  xy: 211, 43
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/handnout
+  rotate: false
+  xy: 405, 131
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/leginnerdown
+  rotate: false
+  xy: 386, 6
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/leginnerup
+  rotate: true
+  xy: 466, 125
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/legoutdown
+  rotate: false
+  xy: 434, 106
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/legoutup
+  rotate: true
+  xy: 355, 56
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/mouth01
+  rotate: true
+  xy: 414, 351
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/mouth02
+  rotate: true
+  xy: 430, 56
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/mouth04
+  rotate: true
+  xy: 507, 233
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/weapon
+  rotate: false
+  xy: 236, 433
+  size: 183, 77
+  orig: 183, 77
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/weapon1
+  rotate: true
+  xy: 209, 257
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/weapon2
+  rotate: true
+  xy: 237, 103
+  size: 97, 36
+  orig: 97, 36
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/weapon3
+  rotate: true
+  xy: 415, 7
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_2/yaodai
+  rotate: true
+  xy: 487, 253
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/arminnerdown
+  rotate: false
+  xy: 434, 73
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/arminnerup
+  rotate: true
+  xy: 465, 68
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/body
+  rotate: false
+  xy: 275, 137
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/hat
+  rotate: false
+  xy: 2, 208
+  size: 134, 127
+  orig: 134, 127
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/hatinner
+  rotate: true
+  xy: 138, 195
+  size: 140, 69
+  orig: 140, 69
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/hatinner1
+  rotate: false
+  xy: 390, 90
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/jianjiaout
+  rotate: true
+  xy: 350, 2
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/pifenginner
+  rotate: false
+  xy: 120, 70
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/pifengout
+  rotate: false
+  xy: 486, 212
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/pifengout1
+  rotate: false
+  xy: 421, 417
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/weapon
+  rotate: false
+  xy: 2, 337
+  size: 205, 83
+  orig: 205, 83
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/weapon2
+  rotate: false
+  xy: 101, 25
+  size: 108, 43
+  orig: 108, 43
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_3/weapon3
+  rotate: false
+  xy: 291, 2
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/piaodai (2)
+  rotate: false
+  xy: 257, 304
+  size: 160, 45
+  orig: 160, 45
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/piaodai1 (2)
+  rotate: false
+  xy: 257, 351
+  size: 155, 80
+  orig: 155, 80
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/toushi
+  rotate: false
+  xy: 420, 260
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/toushi1
+  rotate: false
+  xy: 495, 334
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/toushi2
+  rotate: true
+  xy: 374, 131
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/weapon
+  rotate: false
+  xy: 2, 422
+  size: 232, 88
+  orig: 232, 88
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/weapon2
+  rotate: false
+  xy: 257, 252
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/weapon3
+  rotate: false
+  xy: 209, 202
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Suzette/GunnerGeneral/Suzette_GunnerGeneral_4/yaodai
+  rotate: true
+  xy: 237, 33
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1

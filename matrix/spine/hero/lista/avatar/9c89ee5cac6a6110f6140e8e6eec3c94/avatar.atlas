@@ -1,0 +1,321 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lista/Lista_CrocodileKnight_1/arminnerdown
+  rotate: false
+  xy: 639, 639
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/arminnerup
+  rotate: true
+  xy: 895, 823
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/armoutdown
+  rotate: false
+  xy: 690, 681
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/armoutup
+  rotate: true
+  xy: 269, 21
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/body
+  rotate: false
+  xy: 321, 287
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/handout
+  rotate: false
+  xy: 471, 239
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/handout1
+  rotate: true
+  xy: 357, 232
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/legoutdown
+  rotate: true
+  xy: 321, 232
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/legoutup
+  rotate: false
+  xy: 938, 831
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/pijian
+  rotate: false
+  xy: 390, 317
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+Lista/Lista_CrocodileKnight_1/pijian1
+  rotate: false
+  xy: 741, 837
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+Lista/dd
+  rotate: false
+  xy: 741, 831
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lance/dd
+  rotate: false
+  xy: 741, 831
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lista/eyeborw
+  rotate: false
+  xy: 2, 2
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Lista/eyehard
+  rotate: true
+  xy: 693, 726
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Lista/eyehard1
+  rotate: true
+  xy: 1002, 901
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Lista/eyehard2
+  rotate: true
+  xy: 489, 422
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Lista/eyehard3
+  rotate: false
+  xy: 321, 266
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+Lista/eyesffuer
+  rotate: false
+  xy: 117, 24
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+Lista/eyeyun
+  rotate: false
+  xy: 197, 23
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Lista/face
+  rotate: false
+  xy: 515, 654
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+Lista/hair
+  rotate: false
+  xy: 976, 831
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Lista/hair1
+  rotate: false
+  xy: 646, 826
+  size: 93, 139
+  orig: 93, 139
+  offset: 0, 0
+  index: -1
+Lista/hairinner
+  rotate: false
+  xy: 826, 822
+  size: 67, 143
+  orig: 67, 143
+  offset: 0, 0
+  index: -1
+Lista/mouth1
+  rotate: false
+  xy: 117, 3
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+Lista/mouth2
+  rotate: false
+  xy: 320, 208
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Lista/mouth3
+  rotate: true
+  xy: 471, 276
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Lista/mouth4
+  rotate: false
+  xy: 75, 2
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_arm
+  rotate: true
+  xy: 938, 884
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_body
+  rotate: true
+  xy: 382, 494
+  size: 153, 121
+  orig: 153, 121
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_footout
+  rotate: false
+  xy: 639, 732
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_head
+  rotate: false
+  xy: 515, 799
+  size: 129, 166
+  orig: 129, 166
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_legoutdown
+  rotate: false
+  xy: 639, 680
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_legoutup
+  rotate: true
+  xy: 938, 973
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_neck
+  rotate: false
+  xy: 382, 406
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba1
+  rotate: false
+  xy: 390, 251
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba2
+  rotate: true
+  xy: 895, 875
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba3
+  rotate: false
+  xy: 2, 22
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_winginner
+  rotate: true
+  xy: 2, 58
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_winginner2
+  rotate: false
+  xy: 321, 649
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_wingout
+  rotate: false
+  xy: 2, 638
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_wingout2
+  rotate: false
+  xy: 2, 252
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 646, 799
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: true
+  xy: 321, 383
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/SherryDragon/SherryDragon02/weapon
+  rotate: false
+  xy: 321, 967
+  size: 615, 55
+  orig: 615, 55
+  offset: 0, 0
+  index: -1

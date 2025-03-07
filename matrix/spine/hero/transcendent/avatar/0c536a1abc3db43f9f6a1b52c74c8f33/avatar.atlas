@@ -1,0 +1,475 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Transcendent/Doom/Transcendent_Doom_3/armoutdown
+  rotate: false
+  xy: 819, 335
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/armoutup
+  rotate: false
+  xy: 478, 209
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/jianjiainner
+  rotate: false
+  xy: 476, 99
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/jianjiaou
+  rotate: false
+  xy: 611, 281
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/pifenginner1
+  rotate: true
+  xy: 158, 36
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/pifenginner2
+  rotate: false
+  xy: 221, 68
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/pifengout
+  rotate: false
+  xy: 424, 101
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/qunbaiinner1
+  rotate: false
+  xy: 412, 324
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/qunbaiout
+  rotate: false
+  xy: 184, 268
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/toushi
+  rotate: false
+  xy: 393, 257
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/weapon
+  rotate: false
+  xy: 2, 33
+  size: 154, 229
+  orig: 154, 229
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/yaodai
+  rotate: false
+  xy: 474, 60
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/yaodai1
+  rotate: false
+  xy: 227, 2
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/yaodai2
+  rotate: true
+  xy: 571, 266
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/yaodai3
+  rotate: true
+  xy: 742, 343
+  size: 26, 75
+  orig: 26, 75
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/yaodai4
+  rotate: true
+  xy: 158, 2
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_3/yaodai5
+  rotate: true
+  xy: 611, 258
+  size: 21, 64
+  orig: 21, 64
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/Shadow
+  rotate: true
+  xy: 481, 248
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/arminnerdown
+  rotate: true
+  xy: 856, 379
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/arminnerup
+  rotate: false
+  xy: 112, 2
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/armoutdown
+  rotate: true
+  xy: 476, 134
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/armoutup
+  rotate: true
+  xy: 73, 2
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/body
+  rotate: false
+  xy: 372, 99
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/eyebrow
+  rotate: true
+  xy: 365, 20
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/eyehard
+  rotate: false
+  xy: 742, 327
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/eyehard2
+  rotate: false
+  xy: 882, 400
+  size: 67, 10
+  orig: 67, 10
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/eyehard3
+  rotate: false
+  xy: 882, 392
+  size: 67, 6
+  orig: 67, 6
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/eyeyun
+  rotate: false
+  xy: 221, 39
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/face
+  rotate: false
+  xy: 184, 369
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/fx
+  rotate: false
+  xy: 508, 267
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/hair1
+  rotate: true
+  xy: 508, 330
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/hair2
+  rotate: true
+  xy: 675, 338
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/hair3
+  rotate: false
+  xy: 291, 179
+  size: 84, 79
+  orig: 84, 79
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/hair4
+  rotate: false
+  xy: 512, 437
+  size: 109, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/handinner
+  rotate: false
+  xy: 474, 176
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/handout
+  rotate: true
+  xy: 425, 47
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/handout1
+  rotate: false
+  xy: 508, 225
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/jianjiainner
+  rotate: true
+  xy: 611, 210
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/jianjiaou
+  rotate: true
+  xy: 302, 260
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/mouth01
+  rotate: false
+  xy: 393, 331
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/mouth02
+  rotate: true
+  xy: 209, 145
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/mouth03
+  rotate: true
+  xy: 1014, 493
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/mouth04
+  rotate: false
+  xy: 604, 403
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/pifenginner1
+  rotate: false
+  xy: 313, 338
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/pifenginner2
+  rotate: false
+  xy: 209, 164
+  size: 80, 102
+  orig: 80, 102
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/pifengout
+  rotate: false
+  xy: 313, 399
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/qunbaiinner
+  rotate: true
+  xy: 604, 333
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/qunbaiinner1
+  rotate: false
+  xy: 292, 92
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/qunbaiout
+  rotate: false
+  xy: 292, 2
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao1
+  rotate: false
+  xy: 623, 425
+  size: 129, 39
+  orig: 129, 39
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao2
+  rotate: false
+  xy: 759, 460
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao3
+  rotate: false
+  xy: 882, 412
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao4
+  rotate: false
+  xy: 887, 458
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao5
+  rotate: true
+  xy: 158, 138
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao6
+  rotate: false
+  xy: 754, 411
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao7
+  rotate: true
+  xy: 742, 371
+  size: 38, 112
+  orig: 38, 112
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao8
+  rotate: true
+  xy: 377, 175
+  size: 37, 95
+  orig: 37, 95
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/texiao9
+  rotate: true
+  xy: 623, 466
+  size: 44, 134
+  orig: 44, 134
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/toushi
+  rotate: false
+  xy: 411, 413
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/weapon
+  rotate: false
+  xy: 2, 264
+  size: 180, 246
+  orig: 180, 246
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/yaodai
+  rotate: true
+  xy: 951, 371
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/yaodai1
+  rotate: false
+  xy: 561, 230
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/yaodai2
+  rotate: true
+  xy: 382, 31
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/yaodai3
+  rotate: true
+  xy: 377, 214
+  size: 41, 99
+  orig: 41, 99
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/yaodai4
+  rotate: true
+  xy: 623, 378
+  size: 45, 117
+  orig: 45, 117
+  offset: 0, 0
+  index: -1
+Transcendent/Doom/Transcendent_Doom_4/yaodai5
+  rotate: true
+  xy: 512, 408
+  size: 27, 109
+  orig: 27, 109
+  offset: 0, 0
+  index: -1

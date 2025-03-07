@@ -1,0 +1,503 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Agnes_Prophet_02/toushi1
+  rotate: false
+  xy: 982, 241
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_02/weapon2
+  rotate: true
+  xy: 349, 303
+  size: 53, 261
+  orig: 53, 261
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_02/xiabai1
+  rotate: false
+  xy: 410, 2
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_02/xiabai2
+  rotate: true
+  xy: 935, 126
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/bao
+  rotate: true
+  xy: 520, 51
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/bao2
+  rotate: true
+  xy: 518, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/hat
+  rotate: true
+  xy: 552, 155
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/toushi2
+  rotate: false
+  xy: 880, 126
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/weapon2
+  rotate: true
+  xy: 624, 433
+  size: 77, 277
+  orig: 77, 277
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/xiabai1
+  rotate: false
+  xy: 464, 2
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/xiabai2
+  rotate: true
+  xy: 818, 111
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_03/xiabai3
+  rotate: false
+  xy: 479, 86
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/1
+  rotate: true
+  xy: 327, 114
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/2
+  rotate: false
+  xy: 624, 322
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/Shadow
+  rotate: true
+  xy: 988, 344
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/arminnerdown
+  rotate: true
+  xy: 518, 13
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/arminnerup
+  rotate: true
+  xy: 707, 114
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/armoutdown
+  rotate: true
+  xy: 993, 65
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/armoutup
+  rotate: false
+  xy: 546, 10
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/bag2
+  rotate: false
+  xy: 747, 96
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/bao1
+  rotate: false
+  xy: 579, 10
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/bao2
+  rotate: false
+  xy: 993, 101
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/body
+  rotate: false
+  xy: 353, 37
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/eyebrow
+  rotate: false
+  xy: 747, 117
+  size: 58, 7
+  orig: 58, 7
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/eyehard
+  rotate: false
+  xy: 552, 129
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/eyehard1
+  rotate: false
+  xy: 748, 144
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/eyehard2
+  rotate: false
+  xy: 748, 126
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/eyehard3
+  rotate: true
+  xy: 1015, 356
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/eyesffuer
+  rotate: false
+  xy: 818, 144
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/eyeyun
+  rotate: false
+  xy: 879, 96
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/face
+  rotate: false
+  xy: 647, 180
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hair1
+  rotate: true
+  xy: 647, 141
+  size: 37, 99
+  orig: 37, 99
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hair2
+  rotate: true
+  xy: 547, 81
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hair3
+  rotate: false
+  xy: 294, 18
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hair4
+  rotate: true
+  xy: 867, 174
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hair5
+  rotate: false
+  xy: 936, 160
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hair6
+  rotate: false
+  xy: 982, 281
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hair7
+  rotate: false
+  xy: 404, 136
+  size: 146, 165
+  orig: 146, 165
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hand2
+  rotate: true
+  xy: 622, 129
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/handinner
+  rotate: false
+  xy: 707, 87
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/handout
+  rotate: false
+  xy: 735, 62
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/hat
+  rotate: true
+  xy: 773, 174
+  size: 146, 92
+  orig: 146, 92
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/leginnerdown
+  rotate: true
+  xy: 547, 39
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/leginnerup
+  rotate: false
+  xy: 996, 126
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/legoutdown
+  rotate: true
+  xy: 547, 59
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/legoutup
+  rotate: true
+  xy: 652, 78
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/mouth01
+  rotate: false
+  xy: 349, 293
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/mouth02
+  rotate: true
+  xy: 977, 160
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/mouth04
+  rotate: false
+  xy: 533, 2
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/shipin1
+  rotate: false
+  xy: 987, 160
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/shipin2
+  rotate: false
+  xy: 807, 117
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/shipin3
+  rotate: true
+  xy: 553, 2
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/shipin4
+  rotate: true
+  xy: 866, 420
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/shipin5
+  rotate: false
+  xy: 1015, 344
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/shipin6
+  rotate: true
+  xy: 612, 349
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/sidai
+  rotate: false
+  xy: 702, 64
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/toushi1
+  rotate: false
+  xy: 353, 2
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/toushi2
+  rotate: false
+  xy: 938, 78
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/toushi3
+  rotate: false
+  xy: 607, 76
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/tx1
+  rotate: true
+  xy: 903, 420
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/tx2
+  rotate: false
+  xy: 867, 236
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/tx3
+  rotate: true
+  xy: 866, 343
+  size: 75, 120
+  orig: 75, 120
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/weapon
+  rotate: true
+  xy: 2, 7
+  size: 91, 290
+  orig: 91, 290
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/xiabai1
+  rotate: false
+  xy: 410, 70
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/xiabai2
+  rotate: false
+  xy: 977, 176
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/xiabai3
+  rotate: true
+  xy: 933, 242
+  size: 99, 47
+  orig: 99, 47
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/xiabei3
+  rotate: false
+  xy: 652, 107
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+Agnes_Prophet_04/yaodai
+  rotate: false
+  xy: 479, 70
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1

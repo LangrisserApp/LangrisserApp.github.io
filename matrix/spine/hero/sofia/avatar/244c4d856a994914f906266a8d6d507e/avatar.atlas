@@ -1,0 +1,251 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Bishop/dd
+  rotate: false
+  xy: 63, 83
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/arminner1
+  rotate: false
+  xy: 475, 405
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/armout1
+  rotate: false
+  xy: 307, 310
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/body
+  rotate: true
+  xy: 256, 418
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/fushi
+  rotate: true
+  xy: 2, 27
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handinner
+  rotate: true
+  xy: 243, 300
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handout
+  rotate: true
+  xy: 390, 402
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijian
+  rotate: true
+  xy: 63, 89
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijianiinner
+  rotate: false
+  xy: 273, 378
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/weapon
+  rotate: false
+  xy: 2, 413
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodai
+  rotate: false
+  xy: 324, 380
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodaipeijian
+  rotate: true
+  xy: 212, 211
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 475, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Priest_2/hair4
+  rotate: true
+  xy: 129, 203
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Priest_2/hair8
+  rotate: false
+  xy: 2, 279
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Priest_2/toushi1
+  rotate: false
+  xy: 128, 116
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Priest_2/toushi2
+  rotate: false
+  xy: 324, 353
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyebrow
+  rotate: true
+  xy: 502, 445
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard
+  rotate: true
+  xy: 79, 13
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard1
+  rotate: false
+  xy: 129, 177
+  size: 75, 24
+  orig: 75, 24
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard2
+  rotate: false
+  xy: 2, 5
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyehard3
+  rotate: true
+  xy: 114, 106
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyesffuer
+  rotate: true
+  xy: 171, 111
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/eyeyun
+  rotate: true
+  xy: 243, 347
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/face
+  rotate: false
+  xy: 138, 309
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair1
+  rotate: false
+  xy: 275, 311
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair2
+  rotate: true
+  xy: 138, 255
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair3
+  rotate: false
+  xy: 390, 428
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair5
+  rotate: false
+  xy: 2, 77
+  size: 59, 103
+  orig: 59, 103
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair6
+  rotate: false
+  xy: 2, 182
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/hair7
+  rotate: true
+  xy: 273, 350
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth01
+  rotate: true
+  xy: 129, 263
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth02
+  rotate: false
+  xy: 449, 412
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth03
+  rotate: true
+  xy: 466, 413
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Sofia/Monk/Sofia_Sister_1/mouth04
+  rotate: true
+  xy: 206, 185
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1

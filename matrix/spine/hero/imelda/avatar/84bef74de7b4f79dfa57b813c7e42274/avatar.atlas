@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: true
+  xy: 144, 148
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/arminnerdown
+  rotate: false
+  xy: 110, 19
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/arminnerup
+  rotate: false
+  xy: 135, 26
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/armoutdown
+  rotate: true
+  xy: 277, 232
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/armoutup
+  rotate: true
+  xy: 481, 416
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/body
+  rotate: false
+  xy: 269, 342
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/jianjiainner
+  rotate: false
+  xy: 129, 62
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/jianjiaout
+  rotate: true
+  xy: 205, 151
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/leginnerdown
+  rotate: false
+  xy: 367, 364
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/leginnerup
+  rotate: false
+  xy: 218, 109
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/legoutdown
+  rotate: false
+  xy: 2, 2
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/legoutup
+  rotate: false
+  xy: 484, 473
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/pifeng
+  rotate: true
+  xy: 2, 56
+  size: 146, 125
+  orig: 146, 125
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/toushi
+  rotate: false
+  xy: 182, 65
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/weapon
+  rotate: false
+  xy: 2, 414
+  size: 275, 96
+  orig: 275, 96
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/yaojiainner
+  rotate: false
+  xy: 129, 104
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/yaojiainnerinner
+  rotate: false
+  xy: 484, 439
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/yaojiaout
+  rotate: true
+  xy: 269, 297
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/Imelda_Swordman_2/yaojiaoutinner
+  rotate: true
+  xy: 451, 422
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/dd
+  rotate: false
+  xy: 129, 56
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/erhuaninner
+  rotate: false
+  xy: 160, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/erhuanout
+  rotate: true
+  xy: 367, 356
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/eyebrow
+  rotate: true
+  xy: 255, 150
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/eyehard
+  rotate: false
+  xy: 42, 4
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/eyehard1
+  rotate: true
+  xy: 348, 351
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/eyehard2
+  rotate: false
+  xy: 375, 414
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/eyehard3
+  rotate: true
+  xy: 267, 233
+  size: 61, 8
+  orig: 61, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/eyesffuer
+  rotate: false
+  xy: 42, 23
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/eyeyun
+  rotate: true
+  xy: 317, 346
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/face
+  rotate: false
+  xy: 279, 414
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/hair
+  rotate: true
+  xy: 181, 105
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/hair1
+  rotate: true
+  xy: 375, 457
+  size: 53, 107
+  orig: 53, 107
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/hair2
+  rotate: false
+  xy: 205, 296
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/hair3
+  rotate: false
+  xy: 205, 218
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/hairinner
+  rotate: false
+  xy: 2, 204
+  size: 140, 208
+  orig: 140, 208
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/handinner
+  rotate: false
+  xy: 182, 43
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/handout
+  rotate: false
+  xy: 161, 39
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/mouth01
+  rotate: true
+  xy: 434, 395
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/mouth02
+  rotate: true
+  xy: 438, 414
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/mouth03
+  rotate: true
+  xy: 105, 5
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Imelda/Imelda_Sword/mouth04
+  rotate: false
+  xy: 129, 195
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_js/Ledin_js01/handinner1
+  rotate: false
+  xy: 135, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_js/Ledin_js01/jianjiaoutinner
+  rotate: false
+  xy: 277, 263
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_js/Ledin_js01/leginnerdown
+  rotate: false
+  xy: 319, 301
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Ledin/Ledin_js/Ledin_js01/legoutdown
+  rotate: false
+  xy: 398, 369
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 375, 430
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

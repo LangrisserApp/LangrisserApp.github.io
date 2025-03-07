@@ -1,0 +1,328 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mount/Dragon/Dragon_White/Dragon_arm
+  rotate: false
+  xy: 388, 331
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_body
+  rotate: false
+  xy: 515, 697
+  size: 153, 121
+  orig: 153, 121
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_footout
+  rotate: true
+  xy: 321, 230
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_head
+  rotate: false
+  xy: 382, 482
+  size: 129, 166
+  orig: 129, 166
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_legoutdown
+  rotate: false
+  xy: 477, 343
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_legoutup
+  rotate: true
+  xy: 801, 829
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_neck
+  rotate: false
+  xy: 801, 880
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_weiba1
+  rotate: false
+  xy: 908, 897
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_weiba2
+  rotate: false
+  xy: 515, 654
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_weiba3
+  rotate: false
+  xy: 2, 22
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_winginner
+  rotate: true
+  xy: 2, 58
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_winginner2
+  rotate: false
+  xy: 321, 650
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_wingout
+  rotate: false
+  xy: 2, 638
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_White/Dragon_wingout2
+  rotate: false
+  xy: 2, 252
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/arminnerup
+  rotate: false
+  xy: 470, 287
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/armoutup
+  rotate: false
+  xy: 927, 840
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/body
+  rotate: true
+  xy: 388, 266
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/eyebrow
+  rotate: false
+  xy: 908, 881
+  size: 71, 14
+  orig: 71, 14
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/eyehard
+  rotate: true
+  xy: 989, 898
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/eyehard1
+  rotate: false
+  xy: 117, 19
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/eyehard2
+  rotate: true
+  xy: 1008, 900
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/eyehard3
+  rotate: false
+  xy: 679, 821
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/eyesffuer
+  rotate: false
+  xy: 199, 39
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/eyeyun
+  rotate: false
+  xy: 2, 2
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/face
+  rotate: false
+  xy: 679, 831
+  size: 120, 135
+  orig: 120, 135
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/hair1
+  rotate: true
+  xy: 117, 37
+  size: 19, 80
+  orig: 19, 80
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/hair2
+  rotate: false
+  xy: 321, 284
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/hair3
+  rotate: true
+  xy: 382, 395
+  size: 85, 125
+  orig: 85, 125
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/hair4
+  rotate: false
+  xy: 320, 77
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/hair5
+  rotate: false
+  xy: 320, 149
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/hair6
+  rotate: true
+  xy: 470, 266
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/hairback
+  rotate: false
+  xy: 515, 820
+  size: 162, 146
+  orig: 162, 146
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/handinner
+  rotate: false
+  xy: 272, 29
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/handout
+  rotate: true
+  xy: 320, 45
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/jianjiainner
+  rotate: false
+  xy: 607, 644
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/jianjiaout
+  rotate: false
+  xy: 928, 963
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/legoutdown
+  rotate: false
+  xy: 965, 841
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/legoutup
+  rotate: true
+  xy: 477, 315
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/mouth01
+  rotate: false
+  xy: 464, 256
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/mouth02
+  rotate: true
+  xy: 981, 881
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/mouth03
+  rotate: false
+  xy: 75, 12
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/mouth04
+  rotate: false
+  xy: 908, 963
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/weapon
+  rotate: false
+  xy: 321, 968
+  size: 605, 54
+  orig: 605, 54
+  offset: 0, 0
+  index: -1
+Ranford/DragonKnight/Ranford_DragonKnight_2/yaojiaout
+  rotate: false
+  xy: 887, 832
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 388, 239
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: true
+  xy: 321, 384
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

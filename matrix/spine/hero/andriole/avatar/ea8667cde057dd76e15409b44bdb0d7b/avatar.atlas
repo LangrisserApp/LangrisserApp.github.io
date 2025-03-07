@@ -1,0 +1,699 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+StrikeMaster/StrikeMaster_3/body
+  rotate: false
+  xy: 489, 823
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx1
+  rotate: false
+  xy: 554, 423
+  size: 134, 79
+  orig: 134, 79
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx2
+  rotate: true
+  xy: 926, 825
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx3
+  rotate: true
+  xy: 195, 68
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx4
+  rotate: true
+  xy: 690, 402
+  size: 71, 106
+  orig: 71, 106
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx5
+  rotate: true
+  xy: 278, 58
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx6
+  rotate: true
+  xy: 253, 423
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx7
+  rotate: false
+  xy: 305, 165
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/fx8
+  rotate: true
+  xy: 309, 72
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/jianjiainner
+  rotate: true
+  xy: 74, 2
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/jianjiaout
+  rotate: false
+  xy: 186, 4
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longbody
+  rotate: false
+  xy: 2, 651
+  size: 246, 116
+  orig: 246, 116
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longbojia
+  rotate: false
+  xy: 798, 394
+  size: 128, 88
+  orig: 128, 88
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longhandinnerdown
+  rotate: true
+  xy: 558, 828
+  size: 133, 182
+  orig: 133, 182
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longhandinnerdown1
+  rotate: true
+  xy: 527, 78
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longhandoutdown
+  rotate: true
+  xy: 742, 824
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longhandoutdown1
+  rotate: false
+  xy: 553, 384
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longhandoutup
+  rotate: false
+  xy: 554, 504
+  size: 134, 109
+  orig: 134, 109
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longhead
+  rotate: false
+  xy: 2, 290
+  size: 153, 170
+  orig: 153, 170
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longjiaoinner
+  rotate: true
+  xy: 249, 350
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longjiaoout
+  rotate: true
+  xy: 132, 2
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longleginnerdown
+  rotate: true
+  xy: 948, 492
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longleginnerup
+  rotate: true
+  xy: 165, 423
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longlegoutdown
+  rotate: false
+  xy: 696, 310
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longlegoutup
+  rotate: false
+  xy: 483, 72
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/longweiba
+  rotate: false
+  xy: 824, 958
+  size: 187, 64
+  orig: 187, 64
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/neak
+  rotate: true
+  xy: 377, 652
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/pifeng
+  rotate: false
+  xy: 727, 620
+  size: 127, 117
+  orig: 127, 117
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/pifeng2
+  rotate: true
+  xy: 93, 74
+  size: 214, 100
+  orig: 214, 100
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/weapon
+  rotate: false
+  xy: 2, 769
+  size: 286, 121
+  orig: 286, 121
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_3/yaojia
+  rotate: false
+  xy: 872, 484
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/Pike
+  rotate: false
+  xy: 558, 963
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/Shadow
+  rotate: true
+  xy: 645, 312
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/arminnerdown
+  rotate: true
+  xy: 524, 793
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/arminnerup
+  rotate: true
+  xy: 659, 274
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/armoutdown
+  rotate: false
+  xy: 600, 182
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/armoutup
+  rotate: false
+  xy: 600, 233
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/body
+  rotate: false
+  xy: 883, 743
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/dang
+  rotate: false
+  xy: 249, 308
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/eyebrow
+  rotate: true
+  xy: 538, 403
+  size: 78, 13
+  orig: 78, 13
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/eyehard
+  rotate: true
+  xy: 672, 310
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/eyehard1
+  rotate: false
+  xy: 696, 378
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/eyehard2
+  rotate: true
+  xy: 290, 814
+  size: 76, 18
+  orig: 76, 18
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/eyehard3
+  rotate: true
+  xy: 1006, 666
+  size: 65, 13
+  orig: 65, 13
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/eyesffuer
+  rotate: true
+  xy: 612, 312
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/eyeyun
+  rotate: false
+  xy: 696, 348
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/face
+  rotate: false
+  xy: 582, 615
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx1
+  rotate: true
+  xy: 790, 484
+  size: 134, 80
+  orig: 134, 80
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx2
+  rotate: true
+  xy: 157, 290
+  size: 131, 90
+  orig: 131, 90
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx3
+  rotate: true
+  xy: 278, 423
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx4
+  rotate: true
+  xy: 914, 733
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx5
+  rotate: true
+  xy: 398, 160
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx6
+  rotate: false
+  xy: 501, 652
+  size: 79, 106
+  orig: 79, 106
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx7
+  rotate: true
+  xy: 951, 733
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/fx8
+  rotate: false
+  xy: 914, 665
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair1
+  rotate: true
+  xy: 690, 475
+  size: 138, 98
+  orig: 138, 98
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair2
+  rotate: false
+  xy: 928, 396
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair3
+  rotate: true
+  xy: 914, 623
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair4
+  rotate: true
+  xy: 253, 433
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair5
+  rotate: false
+  xy: 489, 760
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair6
+  rotate: false
+  xy: 561, 180
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair7
+  rotate: true
+  xy: 404, 328
+  size: 77, 129
+  orig: 77, 129
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/hair8
+  rotate: true
+  xy: 404, 407
+  size: 74, 132
+  orig: 74, 132
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/handinner
+  rotate: true
+  xy: 774, 377
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/handout
+  rotate: false
+  xy: 554, 627
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/jianjiainner
+  rotate: false
+  xy: 512, 165
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/jianjiaout
+  rotate: true
+  xy: 377, 58
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/legoutdown
+  rotate: false
+  xy: 452, 3
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/legoutup
+  rotate: true
+  xy: 640, 388
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longbody
+  rotate: false
+  xy: 311, 904
+  size: 245, 118
+  orig: 245, 118
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longbojia
+  rotate: true
+  xy: 305, 233
+  size: 129, 89
+  orig: 129, 89
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longeyeyun
+  rotate: true
+  xy: 554, 615
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandinner
+  rotate: true
+  xy: 566, 93
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandinnerdown
+  rotate: true
+  xy: 311, 758
+  size: 144, 176
+  orig: 144, 176
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandinnerup
+  rotate: false
+  xy: 303, 364
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandout
+  rotate: true
+  xy: 872, 547
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandoutdown
+  rotate: false
+  xy: 165, 466
+  size: 136, 183
+  orig: 136, 183
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandoutup
+  rotate: true
+  xy: 195, 154
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandoutup1
+  rotate: false
+  xy: 856, 634
+  size: 56, 103
+  orig: 56, 103
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhandoutup2
+  rotate: false
+  xy: 736, 739
+  size: 145, 83
+  orig: 145, 83
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longhead
+  rotate: false
+  xy: 2, 462
+  size: 161, 187
+  orig: 161, 187
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longjiaoinner
+  rotate: false
+  xy: 526, 267
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longjiaoout
+  rotate: false
+  xy: 2, 2
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longleginnerdown
+  rotate: true
+  xy: 484, 11
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longleginnerup
+  rotate: true
+  xy: 278, 2
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longlegoutdown
+  rotate: false
+  xy: 598, 273
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longlegoutup
+  rotate: true
+  xy: 365, 3
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longweiba
+  rotate: false
+  xy: 558, 760
+  size: 176, 66
+  orig: 176, 66
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/longweijia
+  rotate: false
+  xy: 396, 246
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/mouth01
+  rotate: false
+  xy: 727, 615
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/mouth02
+  rotate: true
+  xy: 249, 290
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/mouth04
+  rotate: false
+  xy: 742, 958
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/neak
+  rotate: true
+  xy: 250, 651
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/pifeng
+  rotate: true
+  xy: 303, 475
+  size: 174, 99
+  orig: 174, 99
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/pifeng1
+  rotate: true
+  xy: 404, 483
+  size: 167, 148
+  orig: 167, 148
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/pifeng2
+  rotate: true
+  xy: 2, 55
+  size: 233, 89
+  orig: 233, 89
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/pifeng4
+  rotate: false
+  xy: 912, 554
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/weapon
+  rotate: false
+  xy: 2, 892
+  size: 307, 130
+  orig: 307, 130
+  offset: 0, 0
+  index: -1
+StrikeMaster/StrikeMaster_4/yaojia
+  rotate: false
+  xy: 535, 321
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1

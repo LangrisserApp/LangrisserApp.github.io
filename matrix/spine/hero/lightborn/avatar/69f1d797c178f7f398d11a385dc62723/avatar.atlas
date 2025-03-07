@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lightborn/Wizard/Lightborn_Wizard_3/arminnerdown
+  rotate: false
+  xy: 255, 234
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/arminnerup
+  rotate: true
+  xy: 360, 387
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/armoutdown
+  rotate: false
+  xy: 255, 265
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/armoutup
+  rotate: false
+  xy: 267, 333
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/body
+  rotate: false
+  xy: 85, 139
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/eyeborw
+  rotate: false
+  xy: 272, 378
+  size: 59, 7
+  orig: 59, 7
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/eyehard
+  rotate: false
+  xy: 433, 443
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/eyehard1
+  rotate: false
+  xy: 152, 205
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/eyehard2
+  rotate: false
+  xy: 141, 156
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/eyehard3
+  rotate: true
+  xy: 256, 309
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/eyesffuer
+  rotate: false
+  xy: 85, 101
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/eyeyun
+  rotate: true
+  xy: 216, 233
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/face
+  rotate: false
+  xy: 152, 378
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/hair1
+  rotate: true
+  xy: 272, 387
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/hair2
+  rotate: false
+  xy: 2, 2
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/hair3
+  rotate: false
+  xy: 152, 304
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/hair4
+  rotate: true
+  xy: 433, 471
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/hair5
+  rotate: false
+  xy: 54, 10
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/hair6
+  rotate: false
+  xy: 2, 285
+  size: 148, 225
+  orig: 148, 225
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/handinner
+  rotate: false
+  xy: 303, 307
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/handout
+  rotate: true
+  xy: 412, 423
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/jinglian2
+  rotate: false
+  xy: 152, 109
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/jinglian3
+  rotate: true
+  xy: 267, 302
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/jinglian4
+  rotate: true
+  xy: 292, 235
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/jinglian5
+  rotate: true
+  xy: 289, 265
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/leginnerdown
+  rotate: false
+  xy: 202, 114
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/leginnerup
+  rotate: true
+  xy: 363, 420
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/legoutdown
+  rotate: false
+  xy: 229, 191
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/legoutup
+  rotate: false
+  xy: 303, 327
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/mao
+  rotate: false
+  xy: 272, 429
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/mouth01
+  rotate: false
+  xy: 303, 302
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/mouth02
+  rotate: false
+  xy: 433, 428
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/mouth04
+  rotate: true
+  xy: 141, 139
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/qunziinner
+  rotate: false
+  xy: 152, 233
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/qunziout
+  rotate: false
+  xy: 363, 447
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/shiping2
+  rotate: false
+  xy: 402, 406
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/texiao
+  rotate: true
+  xy: 85, 216
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Lightborn/Wizard/Lightborn_Wizard_3/weapon
+  rotate: true
+  xy: 2, 95
+  size: 188, 81
+  orig: 188, 81
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 141, 178
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

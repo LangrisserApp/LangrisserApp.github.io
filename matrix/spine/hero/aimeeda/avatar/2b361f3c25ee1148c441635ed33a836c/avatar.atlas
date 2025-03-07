@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/Hair2
+  rotate: true
+  xy: 185, 178
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/Hair3
+  rotate: true
+  xy: 213, 298
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/Hair4
+  rotate: false
+  xy: 213, 318
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/Hairinner
+  rotate: false
+  xy: 2, 156
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/body
+  rotate: false
+  xy: 467, 439
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/daizi
+  rotate: false
+  xy: 151, 268
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/eyebrow
+  rotate: false
+  xy: 306, 395
+  size: 59, 6
+  orig: 59, 6
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/eyehard
+  rotate: false
+  xy: 379, 405
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/eyehard1
+  rotate: false
+  xy: 74, 153
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/eyehard2
+  rotate: false
+  xy: 72, 134
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/eyehard3
+  rotate: false
+  xy: 239, 318
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/eyesffuer
+  rotate: false
+  xy: 239, 363
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/eyeyun
+  rotate: false
+  xy: 239, 328
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/face
+  rotate: true
+  xy: 376, 429
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/hairout
+  rotate: false
+  xy: 2, 268
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/handinner
+  rotate: false
+  xy: 246, 259
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/handinner1
+  rotate: false
+  xy: 301, 334
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/handinner2
+  rotate: true
+  xy: 153, 179
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/handout
+  rotate: false
+  xy: 204, 195
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/handout1
+  rotate: false
+  xy: 72, 93
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/handout2
+  rotate: true
+  xy: 119, 91
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/jianjiainner
+  rotate: false
+  xy: 300, 372
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/jianjiaout
+  rotate: false
+  xy: 306, 403
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/leginnerdown
+  rotate: true
+  xy: 72, 67
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/leginnerup
+  rotate: true
+  xy: 199, 232
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/legoutdown
+  rotate: true
+  xy: 116, 63
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/legoutup
+  rotate: true
+  xy: 203, 263
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/mouth01
+  rotate: true
+  xy: 344, 355
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/mouth02
+  rotate: false
+  xy: 449, 413
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/mouth03
+  rotate: false
+  xy: 272, 309
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/mouth04
+  rotate: false
+  xy: 301, 329
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/pifeng1
+  rotate: false
+  xy: 74, 177
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/pifeng2
+  rotate: true
+  xy: 216, 400
+  size: 26, 88
+  orig: 26, 88
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/pifeng3
+  rotate: false
+  xy: 216, 428
+  size: 158, 82
+  orig: 158, 82
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/pijianinner
+  rotate: true
+  xy: 241, 230
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/pijianout
+  rotate: false
+  xy: 153, 229
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/qunzi
+  rotate: true
+  xy: 2, 9
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/shipin1
+  rotate: true
+  xy: 2, 79
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/shipin2
+  rotate: true
+  xy: 240, 201
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/shipin3
+  rotate: false
+  xy: 379, 391
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/shipin4
+  rotate: true
+  xy: 44, 22
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/toushi
+  rotate: true
+  xy: 151, 300
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/weapon
+  rotate: false
+  xy: 2, 410
+  size: 212, 100
+  orig: 212, 100
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/xiongshi
+  rotate: false
+  xy: 44, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Avatar/Aimeeda_Avatar_3/yaojiaout
+  rotate: true
+  xy: 204, 166
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_sacred/mouth05
+  rotate: false
+  xy: 467, 430
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 45, 80
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

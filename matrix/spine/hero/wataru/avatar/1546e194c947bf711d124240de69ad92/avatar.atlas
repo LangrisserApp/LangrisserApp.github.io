@@ -1,0 +1,251 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 128, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/arminnerdown
+  rotate: false
+  xy: 480, 288
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/arminnerup
+  rotate: true
+  xy: 573, 350
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/armoutdown
+  rotate: true
+  xy: 235, 32
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/armoutup
+  rotate: true
+  xy: 918, 324
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/body
+  rotate: false
+  xy: 182, 289
+  size: 165, 217
+  orig: 165, 217
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/eye
+  rotate: false
+  xy: 990, 366
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/fx
+  rotate: false
+  xy: 640, 334
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/handinner
+  rotate: false
+  xy: 767, 282
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/handout
+  rotate: false
+  xy: 696, 228
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/head
+  rotate: false
+  xy: 2, 284
+  size: 178, 222
+  orig: 178, 222
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/jianjiainner
+  rotate: false
+  xy: 238, 179
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/jianjiainner1
+  rotate: false
+  xy: 858, 332
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/jianjiainner2
+  rotate: false
+  xy: 334, 182
+  size: 95, 103
+  orig: 95, 103
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/jianjiaout
+  rotate: true
+  xy: 128, 155
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/jianjiaout1
+  rotate: true
+  xy: 238, 96
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/jianjiaout11
+  rotate: false
+  xy: 622, 267
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/jianjiaout2
+  rotate: false
+  xy: 349, 384
+  size: 132, 122
+  orig: 132, 122
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/leginnerdown1
+  rotate: false
+  xy: 633, 407
+  size: 151, 99
+  orig: 151, 99
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/leginnerdown2
+  rotate: true
+  xy: 786, 405
+  size: 101, 132
+  orig: 101, 132
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/leginnerdown3
+  rotate: false
+  xy: 552, 290
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/leginnerup
+  rotate: false
+  xy: 764, 229
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/legoutdown1
+  rotate: true
+  xy: 920, 388
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/legoutdown2
+  rotate: true
+  xy: 483, 403
+  size: 103, 148
+  orig: 103, 148
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/legoutdown3
+  rotate: true
+  xy: 557, 219
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/legoutdown4
+  rotate: false
+  xy: 431, 189
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/legoutdown5
+  rotate: true
+  xy: 349, 287
+  size: 95, 129
+  orig: 95, 129
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/legoutdown6
+  rotate: false
+  xy: 786, 333
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/legoutup
+  rotate: false
+  xy: 713, 334
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/lingzi
+  rotate: true
+  xy: 622, 215
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/long
+  rotate: false
+  xy: 691, 283
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/weapon
+  rotate: false
+  xy: 2, 7
+  size: 124, 275
+  orig: 124, 275
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/weapon1
+  rotate: true
+  xy: 483, 353
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/xiongshi
+  rotate: true
+  xy: 515, 211
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/yy
+  rotate: true
+  xy: 128, 29
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1

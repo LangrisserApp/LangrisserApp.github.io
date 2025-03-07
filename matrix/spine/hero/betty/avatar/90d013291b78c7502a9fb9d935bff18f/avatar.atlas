@@ -1,0 +1,384 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Betty/Betty_HighRider/Beety_HighRider_3/Pike
+  rotate: false
+  xy: 2, 348
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/arminnerdown
+  rotate: false
+  xy: 268, 21
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/arminnerup
+  rotate: false
+  xy: 111, 2
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/armoutdown
+  rotate: true
+  xy: 179, 59
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/armoutup
+  rotate: false
+  xy: 461, 246
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/body
+  rotate: false
+  xy: 409, 230
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/dang
+  rotate: true
+  xy: 256, 180
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/eyebrow
+  rotate: false
+  xy: 441, 44
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/eyehard
+  rotate: false
+  xy: 447, 395
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/eyehard1
+  rotate: true
+  xy: 486, 330
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/eyehard2
+  rotate: true
+  xy: 477, 131
+  size: 63, 12
+  orig: 63, 12
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/eyehard3
+  rotate: false
+  xy: 115, 73
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/eyesffuer
+  rotate: false
+  xy: 111, 44
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/eyeyun
+  rotate: false
+  xy: 461, 288
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/face
+  rotate: false
+  xy: 2, 76
+  size: 111, 126
+  orig: 111, 126
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair1
+  rotate: true
+  xy: 288, 70
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair10
+  rotate: false
+  xy: 441, 54
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair2
+  rotate: false
+  xy: 214, 222
+  size: 79, 124
+  orig: 79, 124
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair3
+  rotate: false
+  xy: 371, 111
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair4
+  rotate: false
+  xy: 302, 43
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair5
+  rotate: false
+  xy: 473, 433
+  size: 34, 77
+  orig: 34, 77
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair6
+  rotate: false
+  xy: 219, 73
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair7
+  rotate: true
+  xy: 408, 195
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair8
+  rotate: false
+  xy: 204, 12
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/hair9
+  rotate: false
+  xy: 369, 47
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/handinner
+  rotate: false
+  xy: 268, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/handout
+  rotate: true
+  xy: 491, 174
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_backlegdown
+  rotate: false
+  xy: 170, 12
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_backlegup
+  rotate: false
+  xy: 392, 307
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_body
+  rotate: false
+  xy: 315, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_frontlegdown
+  rotate: false
+  xy: 461, 196
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_frontlegup
+  rotate: false
+  xy: 423, 123
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_guajian1
+  rotate: false
+  xy: 268, 348
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_guajian2
+  rotate: false
+  xy: 288, 116
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_head
+  rotate: false
+  xy: 2, 204
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_maan
+  rotate: false
+  xy: 295, 306
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_neck
+  rotate: true
+  xy: 2, 2
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_tunjia
+  rotate: true
+  xy: 115, 82
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_tunjia1
+  rotate: false
+  xy: 267, 43
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_weiba
+  rotate: false
+  xy: 295, 243
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/horse_xiongjia
+  rotate: false
+  xy: 124, 222
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/legoutdown
+  rotate: false
+  xy: 148, 2
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/legoutup
+  rotate: false
+  xy: 237, 30
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/mouth01
+  rotate: false
+  xy: 189, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/pifeng
+  rotate: false
+  xy: 124, 178
+  size: 130, 42
+  orig: 130, 42
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/pifeng1
+  rotate: false
+  xy: 295, 192
+  size: 111, 49
+  orig: 111, 49
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/qunzi
+  rotate: false
+  xy: 237, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/weapon
+  rotate: false
+  xy: 2, 409
+  size: 311, 101
+  orig: 311, 101
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/weapon1
+  rotate: false
+  xy: 315, 395
+  size: 130, 20
+  orig: 130, 20
+  offset: 0, 0
+  index: -1
+Betty/Betty_HighRider/Beety_HighRider_3/yaojiaout
+  rotate: true
+  xy: 336, 40
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/mouth02
+  rotate: false
+  xy: 486, 319
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/mouth03
+  rotate: false
+  xy: 170, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Knight/EmmaLink_Knight_1/mouth04
+  rotate: true
+  xy: 214, 63
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 459, 319
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

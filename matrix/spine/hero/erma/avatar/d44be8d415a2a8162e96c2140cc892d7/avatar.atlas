@@ -1,0 +1,433 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Erma/Erma_Avatar/Erma_Avatar02/body
+  rotate: true
+  xy: 89, 22
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar02/huangguan
+  rotate: false
+  xy: 291, 310
+  size: 114, 68
+  orig: 114, 68
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar02/leginnerdown
+  rotate: true
+  xy: 142, 2
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar02/legoutdown
+  rotate: false
+  xy: 233, 77
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar02/lingz
+  rotate: false
+  xy: 825, 350
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar02/qunzi
+  rotate: false
+  xy: 719, 358
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar02/qunzi2
+  rotate: false
+  xy: 445, 318
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar02/weapon
+  rotate: false
+  xy: 207, 227
+  size: 82, 283
+  orig: 82, 283
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/arminnerdown
+  rotate: true
+  xy: 70, 2
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/arminnerup
+  rotate: false
+  xy: 677, 321
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/armoutdown
+  rotate: false
+  xy: 378, 215
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/armoutup
+  rotate: false
+  xy: 637, 320
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/body
+  rotate: false
+  xy: 544, 354
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/handout
+  rotate: false
+  xy: 1000, 408
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/huangguan
+  rotate: true
+  xy: 2, 22
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/piaodai
+  rotate: false
+  xy: 207, 177
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/tx
+  rotate: true
+  xy: 963, 406
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar03/weapon
+  rotate: false
+  xy: 108, 187
+  size: 97, 323
+  orig: 97, 323
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/arminnerdown
+  rotate: true
+  xy: 962, 381
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/arminnerup
+  rotate: true
+  xy: 923, 407
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/armoutdown
+  rotate: true
+  xy: 879, 354
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/armoutup
+  rotate: false
+  xy: 142, 27
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/body
+  rotate: false
+  xy: 631, 360
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/eyebrow
+  rotate: false
+  xy: 2, 7
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/eyehard
+  rotate: true
+  xy: 796, 355
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/eyehard1
+  rotate: false
+  xy: 821, 426
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/eyehard2
+  rotate: false
+  xy: 195, 126
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/eyehard3
+  rotate: false
+  xy: 294, 166
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/eyesffuer
+  rotate: true
+  xy: 407, 312
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/eyeyun
+  rotate: true
+  xy: 149, 68
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/face
+  rotate: false
+  xy: 291, 380
+  size: 161, 130
+  orig: 161, 130
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/fx_1
+  rotate: true
+  xy: 294, 189
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/fx_2
+  rotate: true
+  xy: 454, 366
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/fx_3
+  rotate: true
+  xy: 832, 455
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/fx_4
+  rotate: true
+  xy: 108, 136
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hair1
+  rotate: true
+  xy: 721, 459
+  size: 51, 109
+  orig: 51, 109
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hair2
+  rotate: true
+  xy: 721, 426
+  size: 31, 98
+  orig: 31, 98
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hair3
+  rotate: false
+  xy: 89, 74
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hand1
+  rotate: true
+  xy: 795, 327
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hand2
+  rotate: true
+  xy: 824, 322
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hand3
+  rotate: true
+  xy: 755, 331
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hand4
+  rotate: true
+  xy: 923, 385
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/hand5
+  rotate: true
+  xy: 883, 383
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/handinner
+  rotate: false
+  xy: 100, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/handout
+  rotate: false
+  xy: 1000, 377
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/huangguan
+  rotate: false
+  xy: 454, 425
+  size: 169, 85
+  orig: 169, 85
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/jianjiainner
+  rotate: true
+  xy: 711, 333
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/jianjiaout
+  rotate: false
+  xy: 187, 76
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/leginnerdown
+  rotate: false
+  xy: 514, 312
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/leginnerup
+  rotate: false
+  xy: 892, 410
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/legoutdown
+  rotate: true
+  xy: 541, 318
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/legoutup
+  rotate: true
+  xy: 589, 318
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/lingz
+  rotate: false
+  xy: 825, 386
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/mouth01
+  rotate: true
+  xy: 1014, 490
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/mouth02
+  rotate: false
+  xy: 125, 13
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/piaodai
+  rotate: false
+  xy: 291, 248
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/pifeng
+  rotate: false
+  xy: 625, 431
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/qunzi
+  rotate: false
+  xy: 923, 440
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+Erma/Erma_Avatar/Erma_Avatar04/weapon
+  rotate: false
+  xy: 2, 160
+  size: 104, 350
+  orig: 104, 350
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 195, 150
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

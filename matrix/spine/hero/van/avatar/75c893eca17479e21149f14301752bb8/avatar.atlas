@@ -1,0 +1,489 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 282, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/arminnerdonw
+  rotate: false
+  xy: 669, 155
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/armoutdown
+  rotate: true
+  xy: 662, 125
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/leginnertdown
+  rotate: false
+  xy: 558, 72
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/legoutdown
+  rotate: true
+  xy: 706, 207
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/lingzi
+  rotate: false
+  xy: 218, 2
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/waitaoinner
+  rotate: false
+  xy: 558, 183
+  size: 18, 66
+  orig: 18, 66
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/waitaoout
+  rotate: true
+  xy: 872, 329
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_02/weapon
+  rotate: false
+  xy: 624, 320
+  size: 202, 79
+  orig: 202, 79
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_03/lingzi
+  rotate: true
+  xy: 828, 318
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_03/qunbai
+  rotate: true
+  xy: 504, 8
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_03/waitaoinner
+  rotate: true
+  xy: 968, 404
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_03/waitaoinner1
+  rotate: false
+  xy: 981, 281
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_03/waitaoout
+  rotate: false
+  xy: 788, 257
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_03/waitaoout1
+  rotate: false
+  xy: 578, 195
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_03/weapon
+  rotate: false
+  xy: 2, 5
+  size: 214, 93
+  orig: 214, 93
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/1
+  rotate: true
+  xy: 481, 76
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/2
+  rotate: false
+  xy: 624, 401
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/arminnerdonw
+  rotate: true
+  xy: 947, 236
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/arminnerup
+  rotate: true
+  xy: 578, 320
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/armoutdown
+  rotate: false
+  xy: 983, 230
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/armoutup
+  rotate: false
+  xy: 581, 27
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/body
+  rotate: false
+  xy: 451, 2
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/daizi1
+  rotate: false
+  xy: 451, 85
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/daizi2
+  rotate: true
+  xy: 1000, 281
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/daizi3
+  rotate: false
+  xy: 691, 227
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/eyebrow
+  rotate: false
+  xy: 956, 365
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/eyehard
+  rotate: true
+  xy: 558, 116
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/eyehard1
+  rotate: false
+  xy: 626, 191
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/eyehard2
+  rotate: false
+  xy: 706, 235
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/eyehard3
+  rotate: false
+  xy: 947, 264
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/eyesffuer
+  rotate: false
+  xy: 358, 2
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/eyeyun
+  rotate: false
+  xy: 956, 378
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/face
+  rotate: true
+  xy: 327, 99
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/hair1
+  rotate: true
+  xy: 706, 258
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/hair2
+  rotate: true
+  xy: 947, 281
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/hair3
+  rotate: false
+  xy: 866, 408
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/hair4
+  rotate: false
+  xy: 880, 266
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/hair5
+  rotate: false
+  xy: 750, 191
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/hair6
+  rotate: false
+  xy: 626, 216
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/hand
+  rotate: true
+  xy: 912, 234
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/handinner
+  rotate: true
+  xy: 426, 3
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/handout
+  rotate: false
+  xy: 327, 269
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/jiandai
+  rotate: false
+  xy: 1000, 300
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/kua
+  rotate: false
+  xy: 944, 331
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/leginnertdown
+  rotate: true
+  xy: 770, 172
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/leginnertup
+  rotate: true
+  xy: 773, 227
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/legoutdown
+  rotate: true
+  xy: 770, 199
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/legoutup
+  rotate: true
+  xy: 612, 131
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/lingzi
+  rotate: true
+  xy: 968, 425
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/mouth01
+  rotate: false
+  xy: 327, 251
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/mouth02
+  rotate: false
+  xy: 1007, 271
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/mouth04
+  rotate: false
+  xy: 504, 2
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/qunbai
+  rotate: false
+  xy: 872, 366
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/shiping
+  rotate: false
+  xy: 995, 334
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/tx1
+  rotate: false
+  xy: 218, 36
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/tx2
+  rotate: false
+  xy: 322, 29
+  size: 127, 68
+  orig: 127, 68
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/tx3
+  rotate: false
+  xy: 578, 247
+  size: 126, 71
+  orig: 126, 71
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/waitaoinner
+  rotate: true
+  xy: 612, 164
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/waitaoinner1
+  rotate: false
+  xy: 583, 135
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/waitaoout
+  rotate: false
+  xy: 912, 270
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/waitaoout1
+  rotate: false
+  xy: 823, 259
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/weapon
+  rotate: false
+  xy: 349, 251
+  size: 227, 105
+  orig: 227, 105
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/yaodai
+  rotate: true
+  xy: 554, 20
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/yaodai1
+  rotate: false
+  xy: 880, 236
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Van/Sword/Van_Sword_04/yaodai2
+  rotate: true
+  xy: 327, 259
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,965 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 569, 215
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/arminnerdown
+  rotate: true
+  xy: 976, 388
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/arminnerup
+  rotate: false
+  xy: 758, 189
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/armoutdown
+  rotate: true
+  xy: 976, 364
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/armoutup
+  rotate: false
+  xy: 484, 14
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/body
+  rotate: false
+  xy: 354, 38
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/eyebrow
+  rotate: false
+  xy: 872, 223
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/eyehard
+  rotate: true
+  xy: 257, 119
+  size: 80, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/eyehard1
+  rotate: false
+  xy: 599, 289
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/eyehard1
+  rotate: false
+  xy: 599, 289
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/eyehard1
+  rotate: false
+  xy: 599, 289
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/eyehard2
+  rotate: false
+  xy: 619, 322
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/eyehard2
+  rotate: false
+  xy: 619, 322
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/eyehard2
+  rotate: false
+  xy: 619, 322
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/eyehard3
+  rotate: true
+  xy: 1005, 368
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/eyehard3
+  rotate: true
+  xy: 1005, 368
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/eyehard3
+  rotate: true
+  xy: 1005, 368
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/eyesffuer
+  rotate: false
+  xy: 335, 122
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/eyesffuer
+  rotate: false
+  xy: 335, 122
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/eyesffuer
+  rotate: false
+  xy: 335, 122
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/eyeyun
+  rotate: false
+  xy: 694, 185
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/eyeyun
+  rotate: false
+  xy: 694, 185
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/eyeyun
+  rotate: false
+  xy: 694, 185
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/face
+  rotate: true
+  xy: 122, 2
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/face
+  rotate: true
+  xy: 122, 2
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/face
+  rotate: true
+  xy: 122, 2
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/face1
+  rotate: false
+  xy: 619, 343
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/face1
+  rotate: false
+  xy: 619, 343
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/face1
+  rotate: false
+  xy: 619, 343
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hair1
+  rotate: false
+  xy: 340, 333
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hair2
+  rotate: false
+  xy: 290, 120
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hair3
+  rotate: false
+  xy: 710, 348
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hair4
+  rotate: false
+  xy: 646, 183
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hair5
+  rotate: false
+  xy: 137, 199
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hair6
+  rotate: true
+  xy: 551, 411
+  size: 99, 117
+  orig: 99, 117
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/handinner
+  rotate: false
+  xy: 759, 166
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/handout
+  rotate: true
+  xy: 541, 135
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/handout1
+  rotate: false
+  xy: 588, 128
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/handout1
+  rotate: false
+  xy: 588, 128
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/handout1
+  rotate: false
+  xy: 588, 128
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hat
+  rotate: false
+  xy: 416, 412
+  size: 133, 98
+  orig: 133, 98
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hat1
+  rotate: true
+  xy: 710, 305
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/hudang
+  rotate: false
+  xy: 991, 231
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/jianjiainner
+  rotate: false
+  xy: 347, 2
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/jianjiaout
+  rotate: false
+  xy: 460, 99
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/leginnerdown
+  rotate: false
+  xy: 435, 90
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/leginnerup
+  rotate: true
+  xy: 786, 197
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/legoutdown
+  rotate: true
+  xy: 939, 217
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/legoutup
+  rotate: false
+  xy: 460, 14
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/mouth01
+  rotate: false
+  xy: 484, 291
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/mouth02
+  rotate: true
+  xy: 873, 326
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/mouth02
+  rotate: true
+  xy: 873, 326
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/mouth02
+  rotate: true
+  xy: 873, 326
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/mouth04
+  rotate: true
+  xy: 208, 389
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/mouth04
+  rotate: true
+  xy: 208, 389
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/mouth04
+  rotate: true
+  xy: 208, 389
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/qunzi
+  rotate: false
+  xy: 891, 373
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/shipin
+  rotate: false
+  xy: 195, 105
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/toushi1
+  rotate: true
+  xy: 569, 178
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/weapon
+  rotate: false
+  xy: 216, 429
+  size: 198, 81
+  orig: 198, 81
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/yaojiainner
+  rotate: true
+  xy: 872, 232
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_2/yaojiaout
+  rotate: true
+  xy: 569, 242
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/arminnerdown
+  rotate: true
+  xy: 595, 150
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/arminnerup
+  rotate: true
+  xy: 786, 169
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/armoutdown
+  rotate: false
+  xy: 624, 149
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/armoutup
+  rotate: false
+  xy: 548, 192
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/body
+  rotate: true
+  xy: 484, 236
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/eyebrow
+  rotate: false
+  xy: 354, 30
+  size: 64, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/eyehard
+  rotate: false
+  xy: 873, 285
+  size: 81, 31
+  orig: 81, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hair1
+  rotate: false
+  xy: 331, 236
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hair2
+  rotate: false
+  xy: 229, 27
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hair3
+  rotate: false
+  xy: 404, 239
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hair4
+  rotate: false
+  xy: 779, 224
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hair5
+  rotate: true
+  xy: 789, 431
+  size: 79, 120
+  orig: 79, 120
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hair6
+  rotate: true
+  xy: 2, 2
+  size: 100, 118
+  orig: 100, 118
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/handinner
+  rotate: true
+  xy: 674, 136
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/handinner
+  rotate: true
+  xy: 674, 136
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/handout
+  rotate: false
+  xy: 563, 128
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/handout
+  rotate: false
+  xy: 563, 128
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hat
+  rotate: false
+  xy: 2, 212
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hat1
+  rotate: true
+  xy: 790, 342
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/hudang
+  rotate: false
+  xy: 827, 226
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/jianjiainner
+  rotate: false
+  xy: 414, 131
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/jianjiaout
+  rotate: false
+  xy: 934, 237
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/leginnerdown
+  rotate: true
+  xy: 229, 2
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/leginnerup
+  rotate: true
+  xy: 388, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/legoutdown
+  rotate: true
+  xy: 420, 30
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/legoutup
+  rotate: true
+  xy: 499, 135
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/mouth01
+  rotate: false
+  xy: 891, 420
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/qunzi
+  rotate: false
+  xy: 413, 302
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/shipin
+  rotate: true
+  xy: 326, 341
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/toushi
+  rotate: false
+  xy: 873, 272
+  size: 78, 11
+  orig: 78, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/toushi1
+  rotate: true
+  xy: 911, 416
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/weapon
+  rotate: false
+  xy: 2, 321
+  size: 204, 87
+  orig: 204, 87
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/yaojiainner
+  rotate: true
+  xy: 702, 261
+  size: 42, 73
+  orig: 42, 73
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_3/yaojiaout
+  rotate: false
+  xy: 414, 162
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/arminnerdown
+  rotate: true
+  xy: 646, 136
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/arminnerup
+  rotate: true
+  xy: 565, 150
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/armoutdown
+  rotate: false
+  xy: 677, 292
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/armoutup
+  rotate: false
+  xy: 484, 56
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/body
+  rotate: true
+  xy: 886, 318
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/erhuan
+  rotate: false
+  xy: 409, 90
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/erhuan1
+  rotate: false
+  xy: 409, 49
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/eyebrow
+  rotate: false
+  xy: 694, 177
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/eyehard
+  rotate: false
+  xy: 469, 160
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hair1
+  rotate: true
+  xy: 523, 339
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hair2
+  rotate: false
+  xy: 274, 28
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hair3
+  rotate: true
+  xy: 335, 156
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hair4
+  rotate: true
+  xy: 644, 242
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hair5
+  rotate: true
+  xy: 136, 119
+  size: 78, 119
+  orig: 78, 119
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hair6
+  rotate: true
+  xy: 670, 411
+  size: 99, 117
+  orig: 99, 117
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hat
+  rotate: false
+  xy: 2, 104
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hat1
+  rotate: true
+  xy: 208, 323
+  size: 42, 116
+  orig: 42, 116
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/hudang
+  rotate: false
+  xy: 970, 307
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/jianjiainner
+  rotate: false
+  xy: 956, 269
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/jianjiaout
+  rotate: false
+  xy: 702, 219
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/leginnerdown
+  rotate: false
+  xy: 435, 49
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/leginnerup
+  rotate: true
+  xy: 424, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/legoutdown
+  rotate: true
+  xy: 646, 163
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/legoutup
+  rotate: false
+  xy: 460, 56
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/mouth01
+  rotate: false
+  xy: 599, 328
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/qunzi
+  rotate: false
+  xy: 506, 291
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/shipin
+  rotate: true
+  xy: 551, 167
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/shipin1
+  rotate: false
+  xy: 790, 387
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/shipin2
+  rotate: true
+  xy: 460, 130
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/shipin3
+  rotate: false
+  xy: 136, 104
+  size: 57, 13
+  orig: 57, 13
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/shipin4
+  rotate: true
+  xy: 398, 151
+  size: 83, 14
+  orig: 83, 14
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/texiao1
+  rotate: true
+  xy: 281, 211
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/texiao2
+  rotate: true
+  xy: 217, 201
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/texiao3
+  rotate: false
+  xy: 216, 367
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/texiao4
+  rotate: false
+  xy: 911, 450
+  size: 109, 60
+  orig: 109, 60
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/texiao5
+  rotate: false
+  xy: 413, 350
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/toushi
+  rotate: false
+  xy: 274, 2
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/toushi1
+  rotate: false
+  xy: 318, 30
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/weapon
+  rotate: false
+  xy: 2, 410
+  size: 212, 100
+  orig: 212, 100
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/yaojiainner
+  rotate: true
+  xy: 469, 192
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Princess/Yulia_Princess_4/yaojiaout
+  rotate: true
+  xy: 790, 283
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1

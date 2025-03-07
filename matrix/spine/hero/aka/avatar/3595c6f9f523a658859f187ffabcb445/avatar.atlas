@@ -1,0 +1,559 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_2/mianju
+  rotate: false
+  xy: 695, 370
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_2/mianju1
+  rotate: true
+  xy: 350, 97
+  size: 95, 31
+  orig: 95, 31
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_2/weapon
+  rotate: true
+  xy: 279, 92
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_2/yumao
+  rotate: true
+  xy: 176, 22
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/1
+  rotate: false
+  xy: 396, 194
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/2
+  rotate: true
+  xy: 665, 370
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/3
+  rotate: false
+  xy: 431, 116
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/4
+  rotate: false
+  xy: 459, 237
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/arminnerdown
+  rotate: false
+  xy: 613, 328
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/arminnerup
+  rotate: false
+  xy: 141, 2
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/armoutdown
+  rotate: true
+  xy: 638, 338
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/armoutup
+  rotate: true
+  xy: 269, 2
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/body
+  rotate: true
+  xy: 279, 38
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/dang
+  rotate: false
+  xy: 575, 329
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/dao
+  rotate: false
+  xy: 419, 194
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/eyebrow
+  rotate: true
+  xy: 447, 247
+  size: 54, 10
+  orig: 54, 10
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/eyehard
+  rotate: false
+  xy: 392, 25
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/eyehard1
+  rotate: true
+  xy: 433, 303
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/eyehard2
+  rotate: false
+  xy: 170, 4
+  size: 71, 16
+  orig: 71, 16
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/eyehard3
+  rotate: false
+  xy: 329, 194
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/eyesffuer
+  rotate: false
+  xy: 783, 361
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/eyeyun
+  rotate: true
+  xy: 414, 224
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/face
+  rotate: false
+  xy: 2, 163
+  size: 120, 137
+  orig: 120, 137
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair1
+  rotate: false
+  xy: 124, 156
+  size: 47, 144
+  orig: 47, 144
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair10
+  rotate: false
+  xy: 871, 425
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair11
+  rotate: true
+  xy: 383, 115
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair2
+  rotate: false
+  xy: 272, 194
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair3
+  rotate: false
+  xy: 349, 303
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair4
+  rotate: false
+  xy: 431, 142
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair5
+  rotate: false
+  xy: 450, 85
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair6
+  rotate: false
+  xy: 121, 41
+  size: 53, 113
+  orig: 53, 113
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair7
+  rotate: true
+  xy: 2, 30
+  size: 131, 117
+  orig: 131, 117
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair8
+  rotate: false
+  xy: 963, 418
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/hair9
+  rotate: true
+  xy: 324, 404
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/handinner
+  rotate: true
+  xy: 243, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/handout
+  rotate: false
+  xy: 638, 315
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/leginnerdown
+  rotate: true
+  xy: 350, 2
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/leginnerup
+  rotate: true
+  xy: 625, 366
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/legoutdown
+  rotate: true
+  xy: 308, 9
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/legoutup
+  rotate: true
+  xy: 97, 2
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/mianju
+  rotate: false
+  xy: 783, 394
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/mianju1
+  rotate: false
+  xy: 324, 374
+  size: 100, 28
+  orig: 100, 28
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/mouth01
+  rotate: false
+  xy: 308, 2
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/mouth02
+  rotate: true
+  xy: 447, 232
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/mouth03
+  rotate: true
+  xy: 555, 387
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/mouth04
+  rotate: true
+  xy: 170, 24
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/qunzi
+  rotate: true
+  xy: 350, 27
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/texiao
+  rotate: false
+  xy: 958, 352
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/weapon
+  rotate: true
+  xy: 176, 78
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/weapon1
+  rotate: false
+  xy: 569, 488
+  size: 202, 22
+  orig: 202, 22
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/yaodai
+  rotate: false
+  xy: 2, 2
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/yumao
+  rotate: false
+  xy: 173, 183
+  size: 97, 119
+  orig: 97, 119
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/yumao1
+  rotate: true
+  xy: 575, 308
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/yumao2
+  rotate: false
+  xy: 496, 241
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/yumao3
+  rotate: true
+  xy: 392, 9
+  size: 14, 72
+  orig: 14, 72
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/yumao4
+  rotate: false
+  xy: 306, 304
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_3/yumao6
+  rotate: false
+  xy: 450, 59
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_4/mianju
+  rotate: true
+  xy: 569, 396
+  size: 90, 124
+  orig: 90, 124
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_4/mianju1
+  rotate: true
+  xy: 250, 80
+  size: 101, 27
+  orig: 101, 27
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_4/weapon
+  rotate: false
+  xy: 198, 395
+  size: 124, 115
+  orig: 124, 115
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaSoulcaller/Aka_ShikaSoulcaller_4/yumao
+  rotate: true
+  xy: 448, 403
+  size: 107, 119
+  orig: 107, 119
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L1_shou1
+  rotate: true
+  xy: 392, 51
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L1_shou2
+  rotate: false
+  xy: 50, 2
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L1_shou3
+  rotate: true
+  xy: 503, 320
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L_shou1
+  rotate: true
+  xy: 546, 324
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L_shou1a
+  rotate: false
+  xy: 871, 344
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L_shou1b
+  rotate: false
+  xy: 329, 216
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L_shou2
+  rotate: false
+  xy: 958, 300
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/L_shou3
+  rotate: true
+  xy: 459, 319
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/Wolf_head
+  rotate: false
+  xy: 173, 304
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/Wolf_jawbone
+  rotate: false
+  xy: 575, 358
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/body1
+  rotate: false
+  xy: 2, 395
+  size: 194, 115
+  orig: 194, 115
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/erduoinner
+  rotate: true
+  xy: 502, 376
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/erduoout
+  rotate: false
+  xy: 459, 265
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/eye
+  rotate: true
+  xy: 597, 308
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/sj
+  rotate: false
+  xy: 121, 30
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/weib
+  rotate: false
+  xy: 2, 302
+  size: 169, 91
+  orig: 169, 91
+  offset: 0, 0
+  index: -1
+Aka/Aka_Wolfspirit/Aka_Wolfspirit_3/yun
+  rotate: true
+  xy: 306, 374
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 426, 376
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

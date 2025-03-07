@@ -1,0 +1,349 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/armout
+  rotate: false
+  xy: 909, 853
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/body
+  rotate: false
+  xy: 513, 563
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/eyebrow
+  rotate: false
+  xy: 625, 773
+  size: 56, 5
+  orig: 56, 5
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/eyehard
+  rotate: false
+  xy: 2, 7
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/eyehard1
+  rotate: false
+  xy: 68, 7
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/eyehard2
+  rotate: false
+  xy: 458, 387
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/eyehard3
+  rotate: false
+  xy: 134, 6
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/eyesuffer
+  rotate: false
+  xy: 390, 358
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/eyeyun
+  rotate: true
+  xy: 357, 265
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/face
+  rotate: true
+  xy: 780, 851
+  size: 114, 127
+  orig: 114, 127
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hair2
+  rotate: false
+  xy: 357, 322
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hair3
+  rotate: true
+  xy: 2, 24
+  size: 32, 139
+  orig: 32, 139
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hair4
+  rotate: true
+  xy: 143, 24
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hair5
+  rotate: false
+  xy: 513, 487
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hair6
+  rotate: false
+  xy: 524, 407
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hair7
+  rotate: false
+  xy: 390, 331
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hair8
+  rotate: false
+  xy: 382, 386
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/hairback
+  rotate: false
+  xy: 515, 772
+  size: 108, 193
+  orig: 108, 193
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/handinnerdown
+  rotate: true
+  xy: 293, 14
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/handinnerup
+  rotate: true
+  xy: 321, 242
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/handout
+  rotate: false
+  xy: 264, 2
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/jianjiainner
+  rotate: true
+  xy: 226, 2
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/jianjiainnerdown
+  rotate: false
+  xy: 320, 213
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/jianjiaout
+  rotate: true
+  xy: 566, 572
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/legout
+  rotate: false
+  xy: 879, 803
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/legoutdown
+  rotate: false
+  xy: 524, 449
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/mouth01
+  rotate: false
+  xy: 714, 783
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/mouth02
+  rotate: false
+  xy: 293, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/weapon
+  rotate: false
+  xy: 321, 967
+  size: 615, 55
+  orig: 615, 55
+  offset: 0, 0
+  index: -1
+Leticia/Leticia_DragonKnight/Leticia_DragonKnight_2/yaojia
+  rotate: false
+  xy: 832, 801
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Leticia/dd
+  rotate: false
+  xy: 513, 481
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sherry/SherryDragon/SherryDragon02/dd
+  rotate: false
+  xy: 513, 481
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_arm
+  rotate: false
+  xy: 625, 780
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_body
+  rotate: false
+  xy: 625, 844
+  size: 153, 121
+  orig: 153, 121
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_footout
+  rotate: true
+  xy: 714, 790
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_head
+  rotate: false
+  xy: 382, 481
+  size: 129, 166
+  orig: 129, 166
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_legoutdown
+  rotate: false
+  xy: 781, 799
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_legoutup
+  rotate: true
+  xy: 938, 973
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_neck
+  rotate: false
+  xy: 515, 684
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba1
+  rotate: true
+  xy: 458, 400
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba2
+  rotate: false
+  xy: 515, 641
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba3
+  rotate: true
+  xy: 321, 268
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_winginner
+  rotate: true
+  xy: 2, 58
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_winginner2
+  rotate: false
+  xy: 321, 649
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_wingout
+  rotate: false
+  xy: 2, 638
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_wingout2
+  rotate: false
+  xy: 2, 252
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 909, 891
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: true
+  xy: 321, 383
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

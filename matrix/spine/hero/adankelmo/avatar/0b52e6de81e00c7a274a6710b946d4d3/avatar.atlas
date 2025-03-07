@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Adankelmo/Magic/Magic_2/body
+  rotate: true
+  xy: 550, 359
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_2/pifeng
+  rotate: false
+  xy: 392, 431
+  size: 160, 79
+  orig: 160, 79
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/jianjiainner
+  rotate: true
+  xy: 342, 228
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/jianjiaout1
+  rotate: false
+  xy: 634, 362
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/piaodai
+  rotate: true
+  xy: 266, 108
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/piaodai1
+  rotate: false
+  xy: 749, 320
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/piaodai2
+  rotate: false
+  xy: 181, 123
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/piaodai3
+  rotate: false
+  xy: 910, 334
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/piaodai5
+  rotate: false
+  xy: 581, 316
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/piaodai51
+  rotate: true
+  xy: 364, 315
+  size: 97, 35
+  orig: 97, 35
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/piaodai6
+  rotate: false
+  xy: 188, 2
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/pifeng
+  rotate: false
+  xy: 230, 414
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_3/pifeng1
+  rotate: true
+  xy: 961, 332
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/arminnerdown
+  rotate: false
+  xy: 266, 134
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/arminnerup
+  rotate: true
+  xy: 450, 262
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/armoutdown
+  rotate: false
+  xy: 808, 320
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/armoutup
+  rotate: true
+  xy: 533, 260
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/body
+  rotate: true
+  xy: 401, 296
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/eyebrow
+  rotate: true
+  xy: 253, 67
+  size: 74, 11
+  orig: 74, 11
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/eyehard
+  rotate: false
+  xy: 694, 350
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/eyehard03
+  rotate: false
+  xy: 230, 404
+  size: 63, 8
+  orig: 63, 8
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/eyehard1
+  rotate: false
+  xy: 766, 350
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/eyehard2
+  rotate: false
+  xy: 838, 356
+  size: 70, 17
+  orig: 70, 17
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/eyesffuer
+  rotate: false
+  xy: 685, 319
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/eyeyun
+  rotate: false
+  xy: 634, 384
+  size: 61, 29
+  orig: 61, 29
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/face
+  rotate: false
+  xy: 839, 375
+  size: 120, 135
+  orig: 120, 135
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/guang
+  rotate: false
+  xy: 401, 352
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair1
+  rotate: false
+  xy: 221, 143
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair2
+  rotate: false
+  xy: 478, 359
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair3
+  rotate: false
+  xy: 295, 267
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair4
+  rotate: false
+  xy: 961, 372
+  size: 60, 138
+  orig: 60, 138
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair5
+  rotate: true
+  xy: 554, 415
+  size: 95, 141
+  orig: 95, 141
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair6
+  rotate: true
+  xy: 198, 276
+  size: 119, 95
+  orig: 119, 95
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair7
+  rotate: false
+  xy: 2, 86
+  size: 136, 178
+  orig: 136, 178
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/hair8
+  rotate: true
+  xy: 2, 2
+  size: 82, 141
+  orig: 82, 141
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/handinner
+  rotate: false
+  xy: 266, 82
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/handinner1
+  rotate: false
+  xy: 303, 195
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/handinner2
+  rotate: false
+  xy: 223, 48
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/handout
+  rotate: false
+  xy: 266, 167
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/handout1
+  rotate: false
+  xy: 266, 62
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/jianjia
+  rotate: false
+  xy: 394, 269
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/jianjia1
+  rotate: true
+  xy: 1009, 337
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/jianjiainner
+  rotate: false
+  xy: 568, 272
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/jianjiainner1
+  rotate: false
+  xy: 485, 321
+  size: 94, 36
+  orig: 94, 36
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/jianjiaout
+  rotate: true
+  xy: 223, 68
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/jianjiaout1
+  rotate: false
+  xy: 485, 292
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/leginnerdown
+  rotate: false
+  xy: 363, 220
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/leginnerup
+  rotate: true
+  xy: 485, 264
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/legoutdown
+  rotate: true
+  xy: 567, 293
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/legoutup
+  rotate: false
+  xy: 364, 266
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/mouth01
+  rotate: true
+  xy: 392, 415
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/mouth02
+  rotate: false
+  xy: 267, 268
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/mouth04
+  rotate: false
+  xy: 1009, 331
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai
+  rotate: false
+  xy: 568, 256
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai1
+  rotate: false
+  xy: 697, 375
+  size: 140, 135
+  orig: 140, 135
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai2
+  rotate: false
+  xy: 208, 209
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai3
+  rotate: false
+  xy: 2, 266
+  size: 194, 129
+  orig: 194, 129
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai4
+  rotate: true
+  xy: 295, 313
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai5
+  rotate: false
+  xy: 267, 217
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai51
+  rotate: true
+  xy: 145, 2
+  size: 116, 41
+  orig: 116, 41
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai6
+  rotate: true
+  xy: 140, 120
+  size: 144, 39
+  orig: 144, 39
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/piaodai7
+  rotate: true
+  xy: 188, 48
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/pifeng
+  rotate: false
+  xy: 2, 397
+  size: 226, 113
+  orig: 226, 113
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/pifeng1
+  rotate: false
+  xy: 635, 315
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/shouhuaninner
+  rotate: true
+  xy: 617, 296
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/shouhuanout
+  rotate: false
+  xy: 342, 212
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Magic_4/wehuan
+  rotate: true
+  xy: 267, 193
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Adankelmo/Magic/Shadow
+  rotate: true
+  xy: 181, 190
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,496 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/arminnerdown
+  rotate: false
+  xy: 176, 150
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/arminnerup
+  rotate: false
+  xy: 288, 198
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/armoutdownout
+  rotate: false
+  xy: 484, 228
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/armoutupout
+  rotate: true
+  xy: 430, 189
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/body
+  rotate: true
+  xy: 72, 9
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/dang
+  rotate: true
+  xy: 473, 181
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/eyebrow
+  rotate: true
+  xy: 502, 444
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/eyehard
+  rotate: false
+  xy: 70, 65
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/eyehard01
+  rotate: false
+  xy: 131, 342
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/eyehard02
+  rotate: true
+  xy: 488, 351
+  size: 79, 22
+  orig: 79, 22
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/eyehard3
+  rotate: false
+  xy: 356, 263
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/eyesffuer
+  rotate: false
+  xy: 356, 303
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/eyeyun
+  rotate: true
+  xy: 322, 272
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/face
+  rotate: false
+  xy: 131, 371
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/hair1
+  rotate: false
+  xy: 83, 176
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/hair2
+  rotate: true
+  xy: 432, 255
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/hair3
+  rotate: false
+  xy: 2, 350
+  size: 127, 160
+  orig: 127, 160
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/handinner
+  rotate: false
+  xy: 151, 5
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/handout
+  rotate: false
+  xy: 250, 189
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/jianjiainner
+  rotate: true
+  xy: 228, 173
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/jianjiaout
+  rotate: true
+  xy: 404, 182
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/leginnerdown
+  rotate: false
+  xy: 154, 70
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/leginnerup
+  rotate: false
+  xy: 288, 232
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/legoutdown
+  rotate: true
+  xy: 430, 158
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/legoutup
+  rotate: false
+  xy: 151, 25
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/mouth01
+  rotate: false
+  xy: 488, 301
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/mouth02
+  rotate: false
+  xy: 429, 326
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/mouth03
+  rotate: false
+  xy: 199, 332
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/mouth04
+  rotate: true
+  xy: 265, 328
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/page1
+  rotate: false
+  xy: 429, 303
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/page2
+  rotate: false
+  xy: 250, 167
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/page3
+  rotate: true
+  xy: 208, 140
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/page4
+  rotate: true
+  xy: 228, 139
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/page5
+  rotate: false
+  xy: 174, 182
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/pifeng1
+  rotate: true
+  xy: 199, 269
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/pifeng3
+  rotate: true
+  xy: 2, 63
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/qunzi
+  rotate: false
+  xy: 132, 176
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/toushi
+  rotate: false
+  xy: 150, 110
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_02/weapon
+  rotate: false
+  xy: 2, 3
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/arminnerdown
+  rotate: false
+  xy: 176, 125
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/body
+  rotate: false
+  xy: 132, 204
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/daizi
+  rotate: true
+  xy: 410, 225
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/jianjiainner
+  rotate: true
+  xy: 404, 145
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/jianjiaout
+  rotate: false
+  xy: 356, 225
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/leginnerdown
+  rotate: false
+  xy: 488, 310
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/leginnerup
+  rotate: true
+  xy: 432, 222
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/legoutdown
+  rotate: true
+  xy: 430, 126
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/legoutup
+  rotate: true
+  xy: 188, 175
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/pifeng1
+  rotate: true
+  xy: 265, 345
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/pifeng2
+  rotate: false
+  xy: 188, 207
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/pifeng3
+  rotate: true
+  xy: 2, 178
+  size: 170, 79
+  orig: 170, 79
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/qunzi
+  rotate: true
+  xy: 484, 256
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/qunzi1
+  rotate: true
+  xy: 321, 231
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/toushi
+  rotate: false
+  xy: 83, 259
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/weapon
+  rotate: false
+  xy: 128, 280
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/weapon1
+  rotate: false
+  xy: 437, 432
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/xiabai
+  rotate: true
+  xy: 443, 298
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/xiabai1
+  rotate: true
+  xy: 473, 120
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/xiabai2
+  rotate: false
+  xy: 215, 327
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_03/xiabai3
+  rotate: false
+  xy: 321, 191
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/jianjiainner
+  rotate: true
+  xy: 473, 141
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/jianjiaout
+  rotate: true
+  xy: 239, 210
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/pifeng1
+  rotate: false
+  xy: 357, 339
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/pifeng2
+  rotate: false
+  xy: 271, 283
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/pifeng3
+  rotate: false
+  xy: 265, 431
+  size: 170, 79
+  orig: 170, 79
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/toushi
+  rotate: false
+  xy: 443, 341
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/weapon
+  rotate: false
+  xy: 70, 94
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/xiabai
+  rotate: true
+  xy: 356, 178
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Florentia/Florentia_Counsello/Florentia_Counsellor_04/yaoshi
+  rotate: true
+  xy: 208, 127
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 356, 276
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

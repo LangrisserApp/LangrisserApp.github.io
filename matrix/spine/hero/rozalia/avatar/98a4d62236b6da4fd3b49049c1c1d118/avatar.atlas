@@ -1,0 +1,258 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/Pike
+  rotate: false
+  xy: 2, 202
+  size: 264, 52
+  orig: 264, 52
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/arminnerdown
+  rotate: false
+  xy: 436, 30
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/arminnerup
+  rotate: false
+  xy: 460, 78
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/armoutdown
+  rotate: true
+  xy: 429, 106
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/armoutup
+  rotate: false
+  xy: 221, 157
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/body
+  rotate: false
+  xy: 211, 50
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/eyebrow
+  rotate: true
+  xy: 397, 21
+  size: 63, 12
+  orig: 63, 12
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/eyehard
+  rotate: true
+  xy: 359, 84
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/eyehard01
+  rotate: true
+  xy: 326, 5
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/eyehard02
+  rotate: false
+  xy: 126, 3
+  size: 74, 19
+  orig: 74, 19
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/eyehard03
+  rotate: true
+  xy: 382, 10
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/eyesffuer
+  rotate: true
+  xy: 288, 6
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/eyeyun
+  rotate: false
+  xy: 388, 148
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/face
+  rotate: false
+  xy: 2, 6
+  size: 122, 136
+  orig: 122, 136
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/hair1
+  rotate: true
+  xy: 126, 24
+  size: 118, 83
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/hair2
+  rotate: false
+  xy: 280, 75
+  size: 43, 83
+  orig: 43, 83
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/hair3
+  rotate: true
+  xy: 388, 86
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/hair4
+  rotate: false
+  xy: 280, 160
+  size: 85, 32
+  orig: 85, 32
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/hair5
+  rotate: true
+  xy: 391, 186
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/hair6
+  rotate: true
+  xy: 268, 194
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/hair7
+  rotate: false
+  xy: 325, 81
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/handinner
+  rotate: true
+  xy: 436, 8
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/handout
+  rotate: false
+  xy: 411, 9
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/jianjiainner
+  rotate: false
+  xy: 388, 108
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/jianjiaout
+  rotate: false
+  xy: 211, 2
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/leginnerdown
+  rotate: false
+  xy: 436, 61
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/leginnerup
+  rotate: false
+  xy: 262, 2
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/legoutdown
+  rotate: false
+  xy: 411, 36
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/legoutup
+  rotate: true
+  xy: 453, 156
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/mouth01
+  rotate: true
+  xy: 280, 55
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/mouth02
+  rotate: false
+  xy: 367, 177
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/mouth04
+  rotate: true
+  xy: 367, 160
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/weapon
+  rotate: false
+  xy: 2, 144
+  size: 217, 56
+  orig: 217, 56
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/yaojiaijnner
+  rotate: false
+  xy: 260, 153
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Rozalia/Rozalia_SwordMaster/Rozalia_SwordMaster3/yaojiaout
+  rotate: false
+  xy: 460, 114
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 355, 5
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

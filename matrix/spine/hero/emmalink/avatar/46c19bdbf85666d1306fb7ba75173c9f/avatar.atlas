@@ -1,0 +1,363 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/weapon
+  rotate: false
+  xy: 2, 420
+  size: 399, 90
+  orig: 399, 90
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/arminnerdown
+  rotate: false
+  xy: 204, 100
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/arminnerup
+  rotate: false
+  xy: 423, 235
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/armoutdown
+  rotate: false
+  xy: 204, 69
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/armoutup
+  rotate: true
+  xy: 456, 281
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/body
+  rotate: false
+  xy: 210, 207
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyebrow
+  rotate: false
+  xy: 2, 5
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard
+  rotate: true
+  xy: 231, 76
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard1
+  rotate: true
+  xy: 249, 76
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard2
+  rotate: false
+  xy: 158, 130
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard3
+  rotate: true
+  xy: 493, 286
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyesffuer
+  rotate: true
+  xy: 177, 64
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyeyun
+  rotate: true
+  xy: 177, 96
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/face
+  rotate: false
+  xy: 60, 276
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair
+  rotate: false
+  xy: 403, 410
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair1
+  rotate: false
+  xy: 337, 303
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair2
+  rotate: false
+  xy: 158, 142
+  size: 50, 132
+  orig: 50, 132
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair3
+  rotate: true
+  xy: 60, 5
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/handinner
+  rotate: false
+  xy: 177, 42
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/handout
+  rotate: false
+  xy: 458, 225
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hudang
+  rotate: false
+  xy: 299, 228
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/jianjiainner
+  rotate: false
+  xy: 451, 414
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/jianjiaout
+  rotate: true
+  xy: 460, 340
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/jianjiaout1
+  rotate: false
+  xy: 231, 108
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/leginnerdown
+  rotate: true
+  xy: 261, 118
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/leginnerup
+  rotate: true
+  xy: 332, 274
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/legoutdown
+  rotate: false
+  xy: 395, 232
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/legoutup
+  rotate: false
+  xy: 260, 227
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth01
+  rotate: false
+  xy: 38, 6
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth02
+  rotate: true
+  xy: 191, 25
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth03
+  rotate: true
+  xy: 502, 318
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth04
+  rotate: true
+  xy: 506, 437
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/pifeng
+  rotate: false
+  xy: 132, 42
+  size: 43, 81
+  orig: 43, 81
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/pifeng1
+  rotate: false
+  xy: 199, 312
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/yaodai
+  rotate: false
+  xy: 418, 276
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/yaojiainner
+  rotate: true
+  xy: 381, 274
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/yaojiaout
+  rotate: false
+  xy: 261, 185
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/body
+  rotate: false
+  xy: 210, 131
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/hudang
+  rotate: false
+  xy: 261, 145
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/jianjiainner
+  rotate: false
+  xy: 451, 458
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/jianjiaout
+  rotate: true
+  xy: 403, 329
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/leginnerdown
+  rotate: false
+  xy: 369, 227
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/leginnerup
+  rotate: true
+  xy: 275, 277
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/legoutdown
+  rotate: true
+  xy: 403, 300
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/legoutup
+  rotate: true
+  xy: 132, 2
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/pifeng
+  rotate: true
+  xy: 60, 125
+  size: 149, 96
+  orig: 149, 96
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/weapon
+  rotate: true
+  xy: 2, 18
+  size: 400, 56
+  orig: 400, 56
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/yaojia
+  rotate: false
+  xy: 458, 247
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/yaojiainner
+  rotate: true
+  xy: 460, 317
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_Marshal_3/yaojiaout
+  rotate: false
+  xy: 331, 228
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 199, 285
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

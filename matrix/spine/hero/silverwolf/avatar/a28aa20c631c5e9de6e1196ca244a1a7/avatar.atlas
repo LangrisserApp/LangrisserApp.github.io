@@ -1,0 +1,370 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 330, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/dd
+  rotate: false
+  xy: 330, 423
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/dd
+  rotate: false
+  xy: 330, 423
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 285, 132
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/jianjiaout
+  rotate: true
+  xy: 316, 267
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/pifeng
+  rotate: false
+  xy: 2, 25
+  size: 147, 119
+  orig: 147, 119
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/toushi
+  rotate: false
+  xy: 803, 471
+  size: 124, 39
+  orig: 124, 39
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/weapon
+  rotate: false
+  xy: 2, 413
+  size: 326, 97
+  orig: 326, 97
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/weapon1
+  rotate: false
+  xy: 596, 454
+  size: 205, 56
+  orig: 205, 56
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/weijin
+  rotate: false
+  xy: 151, 20
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/yaojiaout
+  rotate: false
+  xy: 716, 412
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/yibaiinner
+  rotate: false
+  xy: 312, 157
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Ranger_3/yibaiout
+  rotate: true
+  xy: 316, 207
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/arminnerdown
+  rotate: false
+  xy: 997, 425
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/arminnerup
+  rotate: true
+  xy: 102, 146
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/armoutdown
+  rotate: false
+  xy: 369, 254
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/armoutup
+  rotate: true
+  xy: 803, 395
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/body
+  rotate: false
+  xy: 286, 346
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/daizi
+  rotate: false
+  xy: 312, 131
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/handinner
+  rotate: true
+  xy: 128, 153
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/handout
+  rotate: false
+  xy: 1002, 400
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/jianjiainner
+  rotate: false
+  xy: 369, 229
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/jianjiaout
+  rotate: false
+  xy: 760, 417
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/leginnerdown
+  rotate: true
+  xy: 926, 394
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/leginnerup
+  rotate: true
+  xy: 664, 411
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/legoutdown
+  rotate: true
+  xy: 887, 399
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/legoutup
+  rotate: true
+  xy: 233, 74
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/weapon
+  rotate: false
+  xy: 2, 327
+  size: 282, 84
+  orig: 282, 84
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/weapon1
+  rotate: false
+  xy: 330, 429
+  size: 189, 20
+  orig: 189, 20
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/weijininner
+  rotate: true
+  xy: 151, 72
+  size: 105, 80
+  orig: 105, 80
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/yaojiaout
+  rotate: true
+  xy: 360, 286
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/yibaiinner
+  rotate: true
+  xy: 240, 22
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/yibaiinnerinner
+  rotate: false
+  xy: 408, 370
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/yibaiout
+  rotate: true
+  xy: 466, 369
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+SilverWolf/Bow/SilverWolf_Sniper_2/yibaioutinner
+  rotate: false
+  xy: 355, 330
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/bodyinner
+  rotate: false
+  xy: 2, 4
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/eyebrow
+  rotate: false
+  xy: 160, 3
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/eyehard
+  rotate: false
+  xy: 240, 2
+  size: 68, 18
+  orig: 68, 18
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/eyehard1
+  rotate: false
+  xy: 521, 431
+  size: 68, 18
+  orig: 68, 18
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/eyehard2
+  rotate: false
+  xy: 90, 2
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/eyehard3
+  rotate: false
+  xy: 286, 327
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/eyesffuer
+  rotate: false
+  xy: 929, 422
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/eyeyun
+  rotate: false
+  xy: 596, 428
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/face
+  rotate: false
+  xy: 102, 179
+  size: 124, 146
+  orig: 124, 146
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/hair1
+  rotate: true
+  xy: 929, 450
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/hair2
+  rotate: false
+  xy: 2, 146
+  size: 98, 179
+  orig: 98, 179
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/hair3
+  rotate: true
+  xy: 228, 208
+  size: 117, 86
+  orig: 117, 86
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/leginnerdown
+  rotate: true
+  xy: 964, 394
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/legoutdown
+  rotate: true
+  xy: 847, 399
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/toushi
+  rotate: false
+  xy: 803, 430
+  size: 124, 39
+  orig: 124, 39
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/toushi2
+  rotate: false
+  xy: 343, 367
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+SilverWolf/Sword/SilverWolf_SwardMan_2/weijin
+  rotate: true
+  xy: 233, 119
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1

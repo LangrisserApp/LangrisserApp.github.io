@@ -1,0 +1,405 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boser/Boser_Demon/hair
+  rotate: false
+  xy: 286, 241
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/hair2out
+  rotate: true
+  xy: 2, 2
+  size: 68, 124
+  orig: 68, 124
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/handinner
+  rotate: true
+  xy: 714, 844
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao1
+  rotate: true
+  xy: 134, 100
+  size: 129, 39
+  orig: 129, 39
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao2
+  rotate: false
+  xy: 586, 830
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao3
+  rotate: true
+  xy: 175, 104
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao4
+  rotate: true
+  xy: 142, 286
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao5
+  rotate: false
+  xy: 745, 835
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao6
+  rotate: true
+  xy: 142, 413
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/arminnerdown
+  rotate: false
+  xy: 493, 133
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/face
+  rotate: false
+  xy: 450, 161
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/jianjiainner
+  rotate: true
+  xy: 393, 140
+  size: 99, 55
+  orig: 99, 55
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/jianjiaout
+  rotate: false
+  xy: 591, 511
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/lingziinner
+  rotate: false
+  xy: 871, 825
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/lingziout
+  rotate: false
+  xy: 668, 433
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/lingzioutinner
+  rotate: true
+  xy: 923, 825
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/maozi
+  rotate: false
+  xy: 372, 836
+  size: 212, 185
+  orig: 212, 185
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/mouth01
+  rotate: true
+  xy: 196, 287
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifeng1
+  rotate: false
+  xy: 302, 679
+  size: 146, 145
+  orig: 146, 145
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifeng2
+  rotate: true
+  xy: 2, 231
+  size: 149, 138
+  orig: 149, 138
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifeng3
+  rotate: false
+  xy: 300, 542
+  size: 149, 135
+  orig: 149, 135
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifeng4
+  rotate: false
+  xy: 148, 542
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifeng5
+  rotate: true
+  xy: 450, 685
+  size: 149, 133
+  orig: 149, 133
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifeng6
+  rotate: true
+  xy: 451, 537
+  size: 146, 138
+  orig: 146, 138
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifenginne1
+  rotate: false
+  xy: 196, 308
+  size: 81, 112
+  orig: 81, 112
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifenginne2
+  rotate: false
+  xy: 221, 129
+  size: 76, 107
+  orig: 76, 107
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifenginne3
+  rotate: false
+  xy: 454, 323
+  size: 85, 107
+  orig: 85, 107
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifenginner4
+  rotate: false
+  xy: 299, 141
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifenginner5
+  rotate: false
+  xy: 361, 309
+  size: 91, 108
+  orig: 91, 108
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/pifenginner6
+  rotate: true
+  xy: 551, 434
+  size: 75, 115
+  orig: 75, 115
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/weapon
+  rotate: false
+  xy: 2, 697
+  size: 144, 324
+  orig: 144, 324
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/xiongjia
+  rotate: true
+  xy: 976, 845
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/xiuzi
+  rotate: true
+  xy: 450, 135
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/arminnerdown
+  rotate: false
+  xy: 551, 511
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/jianjiainner
+  rotate: false
+  xy: 349, 241
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/jianjiaout
+  rotate: false
+  xy: 585, 725
+  size: 113, 103
+  orig: 113, 103
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/lingziinner
+  rotate: true
+  xy: 142, 231
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/lingziout
+  rotate: true
+  xy: 205, 238
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/lingzioutinner
+  rotate: false
+  xy: 1003, 989
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/maozi
+  rotate: false
+  xy: 148, 826
+  size: 222, 195
+  orig: 222, 195
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifeng1
+  rotate: false
+  xy: 148, 679
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifeng2
+  rotate: false
+  xy: 586, 882
+  size: 157, 139
+  orig: 157, 139
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifeng3
+  rotate: true
+  xy: 2, 72
+  size: 157, 130
+  orig: 157, 130
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifeng4
+  rotate: false
+  xy: 745, 886
+  size: 158, 135
+  orig: 158, 135
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifeng5
+  rotate: true
+  xy: 2, 382
+  size: 157, 138
+  orig: 157, 138
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifeng6
+  rotate: true
+  xy: 2, 541
+  size: 154, 144
+  orig: 154, 144
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifenginner1
+  rotate: false
+  xy: 191, 422
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifenginner2
+  rotate: false
+  xy: 279, 313
+  size: 80, 113
+  orig: 80, 113
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifenginner3
+  rotate: false
+  xy: 279, 428
+  size: 89, 112
+  orig: 89, 112
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifenginner4
+  rotate: false
+  xy: 451, 432
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifenginner5
+  rotate: false
+  xy: 591, 609
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/pifenginner6
+  rotate: false
+  xy: 370, 419
+  size: 79, 121
+  orig: 79, 121
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/weapon
+  rotate: false
+  xy: 905, 895
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/xiongjia
+  rotate: false
+  xy: 923, 844
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Summoner_2/xiuzi
+  rotate: true
+  xy: 134, 71
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Boser/gx
+  rotate: false
+  xy: 456, 241
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 221, 102
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

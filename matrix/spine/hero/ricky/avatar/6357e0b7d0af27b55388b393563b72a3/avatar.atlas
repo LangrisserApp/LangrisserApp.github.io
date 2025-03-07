@@ -1,0 +1,433 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ricky/Knight/Knight_3/legoutdown
+  rotate: true
+  xy: 176, 63
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Ricky/Knight/Knight_3/legoutdown2
+  rotate: false
+  xy: 340, 154
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Ricky/Shadow
+  rotate: true
+  xy: 396, 290
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/mouth02
+  rotate: true
+  xy: 480, 443
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/mouth04
+  rotate: false
+  xy: 129, 130
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/arminnerdown
+  rotate: true
+  xy: 257, 49
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/armoutdown
+  rotate: false
+  xy: 220, 51
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/body
+  rotate: false
+  xy: 73, 123
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/handinner
+  rotate: false
+  xy: 477, 341
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/jianjiainner
+  rotate: false
+  xy: 368, 189
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/jianjiaout
+  rotate: false
+  xy: 221, 165
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/jianjiaout1
+  rotate: false
+  xy: 388, 270
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/legoutdown
+  rotate: true
+  xy: 365, 159
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/toushi
+  rotate: true
+  xy: 73, 196
+  size: 100, 59
+  orig: 100, 59
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/weapon
+  rotate: false
+  xy: 243, 453
+  size: 167, 57
+  orig: 167, 57
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_2/weapon1
+  rotate: false
+  xy: 2, 5
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/arminnerdown
+  rotate: false
+  xy: 368, 227
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/arminnerup
+  rotate: false
+  xy: 394, 231
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/armoutdown
+  rotate: false
+  xy: 221, 128
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/armoutup
+  rotate: false
+  xy: 407, 194
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/body
+  rotate: false
+  xy: 74, 51
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/eyebrow
+  rotate: false
+  xy: 134, 183
+  size: 77, 14
+  orig: 77, 14
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/eyehard
+  rotate: true
+  xy: 343, 198
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/eyehard1
+  rotate: true
+  xy: 128, 53
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/eyehard2
+  rotate: true
+  xy: 153, 67
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/eyehard3
+  rotate: true
+  xy: 497, 443
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/eyesffuer
+  rotate: false
+  xy: 264, 200
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/eyeyun
+  rotate: true
+  xy: 480, 364
+  size: 77, 30
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/face
+  rotate: false
+  xy: 2, 298
+  size: 130, 152
+  orig: 130, 152
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/hair1
+  rotate: false
+  xy: 381, 366
+  size: 40, 85
+  orig: 40, 85
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/hair2
+  rotate: true
+  xy: 264, 233
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/hair3
+  rotate: false
+  xy: 2, 36
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/hair4
+  rotate: false
+  xy: 219, 207
+  size: 43, 79
+  orig: 43, 79
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/hair5
+  rotate: true
+  xy: 412, 463
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/hairinner1
+  rotate: false
+  xy: 257, 74
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/hairinner2
+  rotate: false
+  xy: 319, 154
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/handinner
+  rotate: true
+  xy: 153, 45
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/handout
+  rotate: false
+  xy: 362, 270
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/jianjiainner
+  rotate: false
+  xy: 179, 136
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/jianjiaout
+  rotate: false
+  xy: 423, 295
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/leginnerdown
+  rotate: false
+  xy: 283, 89
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/leginnerup
+  rotate: false
+  xy: 176, 88
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/legoutdown
+  rotate: false
+  xy: 481, 301
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/legoutup
+  rotate: true
+  xy: 265, 135
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/mouth01
+  rotate: true
+  xy: 264, 269
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/mouth05
+  rotate: true
+  xy: 502, 341
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/toushi
+  rotate: true
+  xy: 209, 288
+  size: 162, 61
+  orig: 162, 61
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/weapon
+  rotate: false
+  xy: 2, 452
+  size: 239, 58
+  orig: 239, 58
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_3/weijin
+  rotate: false
+  xy: 272, 366
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/jianjiainner
+  rotate: false
+  xy: 129, 137
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/jianjiaout
+  rotate: true
+  xy: 423, 341
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/pifeng
+  rotate: false
+  xy: 134, 199
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/pifenginner
+  rotate: false
+  xy: 272, 296
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/toushi
+  rotate: true
+  xy: 134, 287
+  size: 163, 73
+  orig: 163, 73
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/weapon
+  rotate: true
+  xy: 2, 115
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/weapon1
+  rotate: false
+  xy: 272, 268
+  size: 88, 26
+  orig: 88, 26
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/xiabaiinner
+  rotate: true
+  xy: 264, 168
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/xiabaiinner1
+  rotate: true
+  xy: 74, 2
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/xiabaiout
+  rotate: false
+  xy: 423, 399
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/xiongshi
+  rotate: true
+  xy: 216, 90
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Ricky/Sword/Sword_4/yaodai
+  rotate: false
+  xy: 315, 136
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1

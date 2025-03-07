@@ -1,0 +1,377 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/arminnerdown
+  rotate: true
+  xy: 422, 390
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/armoutdown
+  rotate: true
+  xy: 200, 190
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/body
+  rotate: false
+  xy: 99, 136
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/jianjiaout
+  rotate: true
+  xy: 350, 296
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/leginnerdown
+  rotate: true
+  xy: 137, 42
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/leginnerup
+  rotate: false
+  xy: 129, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/legoutdown
+  rotate: false
+  xy: 229, 207
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/legoutup
+  rotate: true
+  xy: 450, 318
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/pifeng
+  rotate: true
+  xy: 86, 253
+  size: 123, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/pifengout
+  rotate: false
+  xy: 304, 424
+  size: 144, 86
+  orig: 144, 86
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/toushi1
+  rotate: true
+  xy: 229, 281
+  size: 114, 53
+  orig: 114, 53
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/weapon
+  rotate: true
+  xy: 2, 28
+  size: 170, 62
+  orig: 170, 62
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/weijin1
+  rotate: true
+  xy: 354, 238
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/yaojiainner
+  rotate: false
+  xy: 99, 42
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_HighMaster_3/yaojiaout
+  rotate: true
+  xy: 154, 74
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/arminnerdown
+  rotate: false
+  xy: 2, 2
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/arminnerup
+  rotate: false
+  xy: 475, 234
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/armoutdown
+  rotate: true
+  xy: 200, 226
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/armoutup
+  rotate: false
+  xy: 438, 274
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/body
+  rotate: false
+  xy: 99, 74
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/handinner
+  rotate: false
+  xy: 403, 221
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/handout
+  rotate: false
+  xy: 35, 7
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/hudang
+  rotate: false
+  xy: 167, 2
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/jianjiainner
+  rotate: false
+  xy: 66, 2
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/jianjiaout
+  rotate: false
+  xy: 284, 245
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/jianjiaout1
+  rotate: true
+  xy: 172, 42
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/leginnerdown
+  rotate: true
+  xy: 228, 174
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/leginnerup
+  rotate: false
+  xy: 438, 234
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/legoutdown
+  rotate: true
+  xy: 229, 244
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/legoutup
+  rotate: false
+  xy: 66, 42
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/weapon
+  rotate: true
+  xy: 174, 262
+  size: 133, 53
+  orig: 133, 53
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/weijin
+  rotate: false
+  xy: 86, 198
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/weijin1
+  rotate: false
+  xy: 304, 389
+  size: 116, 33
+  orig: 116, 33
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/yaojiainner
+  rotate: true
+  xy: 167, 216
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Assassin/Dehault_Striker_2/yaojiaout
+  rotate: true
+  xy: 475, 275
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Dehault/eyebrow
+  rotate: true
+  xy: 388, 221
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Dehault/eyehard
+  rotate: true
+  xy: 481, 352
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Dehault/eyehard1
+  rotate: true
+  xy: 403, 244
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Dehault/eyehard2
+  rotate: true
+  xy: 424, 259
+  size: 62, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+Dehault/eyehard3
+  rotate: true
+  xy: 502, 354
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Dehault/eyesffuer
+  rotate: true
+  xy: 423, 323
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Dehault/eyeyun
+  rotate: true
+  xy: 450, 352
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Dehault/face
+  rotate: false
+  xy: 2, 378
+  size: 161, 132
+  orig: 161, 132
+  offset: 0, 0
+  index: -1
+Dehault/hair
+  rotate: false
+  xy: 66, 90
+  size: 31, 106
+  orig: 31, 106
+  offset: 0, 0
+  index: -1
+Dehault/hair1
+  rotate: false
+  xy: 450, 418
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Dehault/hair2
+  rotate: false
+  xy: 165, 397
+  size: 137, 113
+  orig: 137, 113
+  offset: 0, 0
+  index: -1
+Dehault/hair3
+  rotate: false
+  xy: 284, 291
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+Dehault/hair4
+  rotate: true
+  xy: 2, 200
+  size: 176, 82
+  orig: 176, 82
+  offset: 0, 0
+  index: -1
+Dehault/mouth01
+  rotate: true
+  xy: 424, 236
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Dehault/mouth02
+  rotate: true
+  xy: 267, 259
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+Dehault/mouth04
+  rotate: false
+  xy: 35, 2
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Dehault/toushi
+  rotate: true
+  xy: 396, 310
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 154, 122
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

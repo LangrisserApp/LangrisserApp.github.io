@@ -1,0 +1,384 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Loga/Loga_Assassin/dd
+  rotate: false
+  xy: 275, 340
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/arminnerdown
+  rotate: true
+  xy: 413, 319
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/arminnerup
+  rotate: false
+  xy: 248, 135
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/armoutdown
+  rotate: true
+  xy: 334, 11
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/armoutup
+  rotate: false
+  xy: 478, 367
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/body
+  rotate: true
+  xy: 530, 430
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyebrow
+  rotate: false
+  xy: 873, 486
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard
+  rotate: true
+  xy: 753, 378
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard1
+  rotate: false
+  xy: 384, 364
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard2
+  rotate: false
+  xy: 873, 468
+  size: 71, 16
+  orig: 71, 16
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyehard3
+  rotate: true
+  xy: 846, 376
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyesffuer
+  rotate: false
+  xy: 384, 383
+  size: 92, 37
+  orig: 92, 37
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/eyeyun
+  rotate: false
+  xy: 779, 475
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/face
+  rotate: true
+  xy: 2, 4
+  size: 126, 156
+  orig: 126, 156
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/handinner
+  rotate: false
+  xy: 345, 171
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/handout
+  rotate: true
+  xy: 604, 369
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/hudang
+  rotate: true
+  xy: 290, 125
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/hudanginner
+  rotate: false
+  xy: 386, 197
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/jianjiainner
+  rotate: false
+  xy: 281, 311
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/jianjiaout
+  rotate: false
+  xy: 537, 370
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/leginnerdown
+  rotate: false
+  xy: 340, 253
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/leginnerup
+  rotate: true
+  xy: 355, 319
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/legoutdown
+  rotate: false
+  xy: 292, 2
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/legoutup
+  rotate: false
+  xy: 248, 5
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/lingziout
+  rotate: false
+  xy: 386, 228
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth01
+  rotate: false
+  xy: 705, 367
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth02
+  rotate: true
+  xy: 275, 213
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth03
+  rotate: false
+  xy: 418, 260
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/mouth04
+  rotate: false
+  xy: 348, 126
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/weapon
+  rotate: false
+  xy: 281, 422
+  size: 247, 88
+  orig: 247, 88
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/weijin
+  rotate: false
+  xy: 281, 367
+  size: 101, 53
+  orig: 101, 53
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/yaojiainner
+  rotate: true
+  xy: 773, 368
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Assassin_1/yaojiaout
+  rotate: false
+  xy: 651, 369
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/arminnerdown
+  rotate: true
+  xy: 345, 208
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/armoutdown
+  rotate: true
+  xy: 418, 273
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/hudang
+  rotate: true
+  xy: 773, 406
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/jianjiainner
+  rotate: false
+  xy: 160, 65
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/jianjiaout
+  rotate: false
+  xy: 638, 438
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/leginnerdown
+  rotate: false
+  xy: 237, 65
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/legoutdown
+  rotate: false
+  xy: 208, 3
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/pifeng
+  rotate: false
+  xy: 2, 346
+  size: 277, 164
+  orig: 277, 164
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/weapon
+  rotate: false
+  xy: 2, 211
+  size: 271, 133
+  orig: 271, 133
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/yaojiainner
+  rotate: false
+  xy: 316, 58
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_HighMaster/yaojiaout
+  rotate: false
+  xy: 290, 168
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/hudang
+  rotate: false
+  xy: 705, 380
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/jianjiainner
+  rotate: false
+  xy: 704, 451
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/jianjiaout
+  rotate: false
+  xy: 275, 242
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/leginnerdown
+  rotate: false
+  xy: 277, 65
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/legoutdown
+  rotate: true
+  xy: 967, 471
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/weapon
+  rotate: false
+  xy: 2, 132
+  size: 244, 77
+  orig: 244, 77
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/yaojiainner
+  rotate: false
+  xy: 380, 261
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Loga/Loga_Assassin/loga_Striker/yaojiaout
+  rotate: false
+  xy: 160, 2
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+Loga/Loga_Spear/loga_General/handout
+  rotate: true
+  xy: 348, 136
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 779, 448
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

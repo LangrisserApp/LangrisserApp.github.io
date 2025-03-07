@@ -1,0 +1,566 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Loviner/Loviner_King/Loviner_King_2/arminnerdown
+  rotate: true
+  xy: 452, 282
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/armoutdown
+  rotate: true
+  xy: 627, 284
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/hudang
+  rotate: true
+  xy: 196, 2
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/jiajiaout1
+  rotate: true
+  xy: 555, 367
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/jianjiainner
+  rotate: false
+  xy: 248, 35
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/jianjiainner1
+  rotate: true
+  xy: 159, 2
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/jianjiainner2
+  rotate: true
+  xy: 626, 316
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/jianjiainner3
+  rotate: true
+  xy: 502, 222
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/jianjiaout
+  rotate: false
+  xy: 157, 76
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/leginnerdown
+  rotate: true
+  xy: 373, 196
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/leginnerup
+  rotate: true
+  xy: 214, 72
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/legoutdown
+  rotate: true
+  xy: 246, 2
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/legoutup
+  rotate: false
+  xy: 373, 221
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/lingzi
+  rotate: false
+  xy: 280, 268
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/pifenginner
+  rotate: false
+  xy: 884, 434
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/weapon
+  rotate: false
+  xy: 445, 457
+  size: 165, 53
+  orig: 165, 53
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/yaojiainner
+  rotate: false
+  xy: 196, 35
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/yaojiaout
+  rotate: false
+  xy: 157, 117
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_2/yaojiaout1
+  rotate: false
+  xy: 998, 435
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/arminnerdown
+  rotate: true
+  xy: 539, 221
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/armoutdown
+  rotate: true
+  xy: 657, 319
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/hudang
+  rotate: false
+  xy: 159, 22
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/jianjiainner
+  rotate: false
+  xy: 163, 156
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/jianjiainner1
+  rotate: true
+  xy: 595, 350
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/jianjiaout
+  rotate: false
+  xy: 219, 199
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/leginnerdown
+  rotate: false
+  xy: 477, 234
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/leginnerup
+  rotate: false
+  xy: 595, 377
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/legoutdown
+  rotate: true
+  xy: 499, 295
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/legoutup
+  rotate: true
+  xy: 547, 295
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/pifenginner
+  rotate: false
+  xy: 612, 443
+  size: 146, 67
+  orig: 146, 67
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/weapon
+  rotate: false
+  xy: 228, 439
+  size: 215, 71
+  orig: 215, 71
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/xiabaiinner
+  rotate: false
+  xy: 444, 368
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/xiabaiinner1
+  rotate: false
+  xy: 760, 442
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/xiabaiout
+  rotate: false
+  xy: 497, 369
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/yaojiainner
+  rotate: false
+  xy: 543, 334
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/yaojiaout
+  rotate: false
+  xy: 219, 115
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_3/yaojiaout1
+  rotate: true
+  xy: 637, 351
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/arminnerdown
+  rotate: false
+  xy: 591, 314
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/arminnerup
+  rotate: false
+  xy: 539, 256
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/armoutdown
+  rotate: false
+  xy: 591, 281
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/armoutup
+  rotate: false
+  xy: 499, 329
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/body
+  rotate: false
+  xy: 219, 245
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/eyebrow
+  rotate: true
+  xy: 328, 199
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/eyehard
+  rotate: false
+  xy: 664, 424
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/eyehard1
+  rotate: false
+  xy: 594, 424
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/eyehard2
+  rotate: true
+  xy: 435, 293
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/eyehard3
+  rotate: true
+  xy: 486, 300
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/eyesffuer
+  rotate: false
+  xy: 344, 272
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/eyeyun
+  rotate: true
+  xy: 345, 201
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/face
+  rotate: false
+  xy: 2, 172
+  size: 159, 134
+  orig: 159, 134
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/hair1
+  rotate: true
+  xy: 364, 362
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/hair2
+  rotate: false
+  xy: 414, 221
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/hair3
+  rotate: true
+  xy: 444, 217
+  size: 15, 51
+  orig: 15, 51
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/hair4
+  rotate: true
+  xy: 266, 319
+  size: 44, 96
+  orig: 44, 96
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/hair6
+  rotate: false
+  xy: 2, 62
+  size: 153, 108
+  orig: 153, 108
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/handinner
+  rotate: false
+  xy: 733, 419
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/handinner1
+  rotate: false
+  xy: 758, 419
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/handout
+  rotate: false
+  xy: 575, 223
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/hudang
+  rotate: true
+  xy: 521, 421
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/jianjiainner
+  rotate: true
+  xy: 283, 200
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/jianjiainner1
+  rotate: true
+  xy: 579, 252
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/jianjiaout
+  rotate: false
+  xy: 2, 2
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/leginnerdown
+  rotate: false
+  xy: 998, 465
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/leginnerup
+  rotate: true
+  xy: 682, 386
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/legoutdown
+  rotate: false
+  xy: 444, 234
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/legoutup
+  rotate: false
+  xy: 502, 251
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/mouth01
+  rotate: false
+  xy: 228, 432
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/mouth02
+  rotate: false
+  xy: 89, 2
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/mouth04
+  rotate: true
+  xy: 497, 213
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/pifenginner
+  rotate: false
+  xy: 188, 312
+  size: 76, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/pifenginner1
+  rotate: false
+  xy: 2, 308
+  size: 184, 114
+  orig: 184, 114
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/pifengout
+  rotate: false
+  xy: 163, 200
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/weapon
+  rotate: false
+  xy: 2, 424
+  size: 224, 86
+  orig: 224, 86
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/xiabaiinner
+  rotate: true
+  xy: 89, 12
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/xiabaiinner1
+  rotate: false
+  xy: 266, 365
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/xiabaiout
+  rotate: true
+  xy: 364, 301
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/xiongshi
+  rotate: true
+  xy: 452, 317
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/yaojiainner
+  rotate: false
+  xy: 636, 383
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Loviner/Loviner_King/Loviner_King_4/yaojiaout
+  rotate: false
+  xy: 219, 152
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 445, 430
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

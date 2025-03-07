@@ -1,0 +1,566 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shion_Knight_3/horse_an2
+  rotate: false
+  xy: 816, 177
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/horse_hair2
+  rotate: true
+  xy: 495, 301
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/horse_mianjia
+  rotate: false
+  xy: 235, 308
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/horse_pifeng1
+  rotate: true
+  xy: 390, 314
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/horse_pifeng2
+  rotate: true
+  xy: 57, 122
+  size: 14, 80
+  orig: 14, 80
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/horse_pifeng3
+  rotate: false
+  xy: 337, 220
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/horse_pifeng4
+  rotate: true
+  xy: 490, 213
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/horse_xiongjia
+  rotate: true
+  xy: 785, 436
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/weapon1
+  rotate: false
+  xy: 2, 2
+  size: 193, 113
+  orig: 193, 113
+  offset: 0, 0
+  index: -1
+Shion_Knight_3/weijin3
+  rotate: true
+  xy: 620, 357
+  size: 95, 46
+  orig: 95, 46
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/Pike
+  rotate: true
+  xy: 2, 117
+  size: 264, 53
+  orig: 264, 53
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/Shadow
+  rotate: false
+  xy: 748, 266
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/arminnerdown
+  rotate: true
+  xy: 266, 115
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/arminnerup
+  rotate: false
+  xy: 824, 256
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/armoutdown
+  rotate: false
+  xy: 534, 91
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/armoutup
+  rotate: false
+  xy: 295, 203
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/body
+  rotate: true
+  xy: 600, 300
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/dang
+  rotate: false
+  xy: 339, 122
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/eyebrow
+  rotate: true
+  xy: 1009, 449
+  size: 61, 10
+  orig: 61, 10
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/eyehard
+  rotate: false
+  xy: 426, 203
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/eyehard1
+  rotate: false
+  xy: 488, 127
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/eyehard2
+  rotate: true
+  xy: 796, 183
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/eyehard3
+  rotate: false
+  xy: 425, 117
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/eyesffuer
+  rotate: false
+  xy: 490, 181
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/eyeyun
+  rotate: false
+  xy: 488, 149
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/face
+  rotate: false
+  xy: 57, 230
+  size: 130, 151
+  orig: 130, 151
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair1
+  rotate: false
+  xy: 292, 145
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair2
+  rotate: false
+  xy: 316, 118
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair3
+  rotate: false
+  xy: 425, 162
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair4
+  rotate: true
+  xy: 235, 243
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair5
+  rotate: false
+  xy: 382, 155
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair6
+  rotate: true
+  xy: 748, 293
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair7
+  rotate: false
+  xy: 337, 310
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/hair8
+  rotate: true
+  xy: 958, 254
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/handinner
+  rotate: false
+  xy: 233, 80
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/handout
+  rotate: false
+  xy: 289, 118
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse head
+  rotate: true
+  xy: 393, 397
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_an1
+  rotate: true
+  xy: 864, 340
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_an2
+  rotate: true
+  xy: 185, 143
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_an3
+  rotate: true
+  xy: 862, 256
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_body
+  rotate: false
+  xy: 221, 403
+  size: 170, 107
+  orig: 170, 107
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_ear inner
+  rotate: false
+  xy: 233, 108
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_ear out
+  rotate: false
+  xy: 197, 27
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_foreleg inner down
+  rotate: false
+  xy: 197, 82
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_foreleg inner up
+  rotate: false
+  xy: 339, 153
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_foreleg out down
+  rotate: true
+  xy: 233, 206
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_foreleg out up
+  rotate: true
+  xy: 958, 295
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_hair1
+  rotate: false
+  xy: 670, 284
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_hair2
+  rotate: true
+  xy: 425, 127
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_hind leg inner down
+  rotate: false
+  xy: 189, 206
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_hind leg inner up
+  rotate: true
+  xy: 732, 192
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_mianjia1
+  rotate: true
+  xy: 671, 444
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_mianjia2
+  rotate: false
+  xy: 769, 343
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_mianjia3
+  rotate: true
+  xy: 580, 204
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_neck
+  rotate: true
+  xy: 511, 369
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_pifeng1
+  rotate: true
+  xy: 57, 138
+  size: 90, 126
+  orig: 90, 126
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_pifeng2
+  rotate: true
+  xy: 668, 359
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_pifeng3
+  rotate: false
+  xy: 958, 338
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_weiba
+  rotate: false
+  xy: 897, 416
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_xiongjia
+  rotate: false
+  xy: 426, 225
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_zhuangshi1
+  rotate: true
+  xy: 863, 279
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_zhuangshi2
+  rotate: true
+  xy: 739, 247
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/horse_zhuangshi3
+  rotate: true
+  xy: 661, 194
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/legoutdown
+  rotate: true
+  xy: 863, 170
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/legoutup
+  rotate: true
+  xy: 489, 93
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/matui1
+  rotate: false
+  xy: 241, 146
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/matui2
+  rotate: false
+  xy: 816, 205
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/matui3
+  rotate: false
+  xy: 863, 206
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/mouth01
+  rotate: false
+  xy: 495, 387
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/mouth02
+  rotate: false
+  xy: 769, 436
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/mouth03
+  rotate: false
+  xy: 748, 352
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/toujin1
+  rotate: true
+  xy: 189, 267
+  size: 114, 44
+  orig: 114, 44
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/toujin2
+  rotate: true
+  xy: 929, 273
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/toujin3
+  rotate: false
+  xy: 824, 293
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/weapon1
+  rotate: false
+  xy: 2, 383
+  size: 217, 127
+  orig: 217, 127
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/weapon2
+  rotate: false
+  xy: 580, 251
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/weijin1
+  rotate: false
+  xy: 664, 248
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/weijin2
+  rotate: false
+  xy: 382, 121
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/weijin5
+  rotate: false
+  xy: 511, 454
+  size: 158, 56
+  orig: 158, 56
+  offset: 0, 0
+  index: -1
+Shion_Knight_4/yaojiaout
+  rotate: false
+  xy: 197, 3
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1

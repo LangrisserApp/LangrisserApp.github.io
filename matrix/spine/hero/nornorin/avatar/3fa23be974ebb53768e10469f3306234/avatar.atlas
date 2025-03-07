@@ -1,0 +1,524 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nornorin_Sword_2/body
+  rotate: true
+  xy: 682, 329
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/face
+  rotate: false
+  xy: 185, 366
+  size: 179, 144
+  orig: 179, 144
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/jianjiainner
+  rotate: true
+  xy: 564, 291
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/jianjiainner1
+  rotate: false
+  xy: 350, 210
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/jianjiaout
+  rotate: false
+  xy: 436, 292
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/leginnerdown
+  rotate: false
+  xy: 260, 203
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/legoutdown
+  rotate: false
+  xy: 496, 352
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/weapon
+  rotate: false
+  xy: 185, 309
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/weapon1
+  rotate: false
+  xy: 662, 466
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/yaojiainner
+  rotate: false
+  xy: 468, 204
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_2/yaojiaout
+  rotate: false
+  xy: 855, 312
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/face
+  rotate: false
+  xy: 2, 206
+  size: 180, 151
+  orig: 180, 151
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/jianjiainner
+  rotate: false
+  xy: 496, 293
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/jianjiaout
+  rotate: true
+  xy: 205, 132
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/pifenginner
+  rotate: true
+  xy: 275, 308
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/pifengout
+  rotate: false
+  xy: 629, 365
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/weapon
+  rotate: false
+  xy: 682, 394
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/weapon1
+  rotate: false
+  xy: 526, 461
+  size: 134, 49
+  orig: 134, 49
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/yaojiainner
+  rotate: false
+  xy: 308, 55
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/yaojiainner1
+  rotate: true
+  xy: 287, 132
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_3/yaojiaout
+  rotate: false
+  xy: 287, 162
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/Shadow
+  rotate: false
+  xy: 526, 342
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/arminnerdown
+  rotate: true
+  xy: 919, 314
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/arminnerup
+  rotate: true
+  xy: 254, 2
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/armoutdown
+  rotate: false
+  xy: 888, 314
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/armoutup
+  rotate: false
+  xy: 273, 93
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/body
+  rotate: true
+  xy: 781, 344
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/eyebrow
+  rotate: true
+  xy: 602, 296
+  size: 71, 10
+  orig: 71, 10
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/eyehard
+  rotate: false
+  xy: 773, 315
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/eyehard1
+  rotate: false
+  xy: 366, 341
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/eyehard2
+  rotate: false
+  xy: 890, 387
+  size: 80, 22
+  orig: 80, 22
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/eyehard3
+  rotate: false
+  xy: 2, 7
+  size: 77, 13
+  orig: 77, 13
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/eyesffuer
+  rotate: false
+  xy: 872, 347
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/eyeyun
+  rotate: false
+  xy: 184, 206
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/face
+  rotate: false
+  xy: 2, 359
+  size: 181, 151
+  orig: 181, 151
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair
+  rotate: false
+  xy: 526, 369
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair1
+  rotate: true
+  xy: 388, 207
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair2
+  rotate: false
+  xy: 972, 368
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair3
+  rotate: false
+  xy: 205, 85
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair4
+  rotate: false
+  xy: 198, 2
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair5
+  rotate: false
+  xy: 614, 295
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair6
+  rotate: false
+  xy: 2, 22
+  size: 108, 182
+  orig: 108, 182
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair7
+  rotate: true
+  xy: 272, 247
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair8
+  rotate: false
+  xy: 784, 409
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hair9
+  rotate: true
+  xy: 112, 2
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hand1
+  rotate: false
+  xy: 945, 311
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/hand2
+  rotate: false
+  xy: 350, 186
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/handinner
+  rotate: false
+  xy: 944, 365
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/handout
+  rotate: false
+  xy: 945, 336
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/jianjiainner
+  rotate: false
+  xy: 360, 293
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/jianjiaout
+  rotate: false
+  xy: 184, 245
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/leginnerdown
+  rotate: false
+  xy: 326, 205
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/leginnerup
+  rotate: false
+  xy: 496, 395
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/legoutdown
+  rotate: false
+  xy: 257, 159
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/legoutup
+  rotate: true
+  xy: 448, 335
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/mouth01
+  rotate: false
+  xy: 81, 9
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/mouth02
+  rotate: false
+  xy: 663, 337
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/mouth04
+  rotate: true
+  xy: 872, 387
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/pifenginner
+  rotate: false
+  xy: 890, 411
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/pifengout
+  rotate: true
+  xy: 366, 370
+  size: 78, 128
+  orig: 78, 128
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/tx2
+  rotate: false
+  xy: 239, 85
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapon
+  rotate: true
+  xy: 112, 85
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapon1
+  rotate: false
+  xy: 366, 450
+  size: 158, 60
+  orig: 158, 60
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx
+  rotate: true
+  xy: 991, 423
+  size: 87, 26
+  orig: 87, 26
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx1
+  rotate: false
+  xy: 353, 244
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx2
+  rotate: true
+  xy: 424, 235
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx3
+  rotate: true
+  xy: 254, 39
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx4
+  rotate: false
+  xy: 257, 132
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx5
+  rotate: false
+  xy: 614, 319
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx6
+  rotate: true
+  xy: 663, 348
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/weapontx7
+  rotate: false
+  xy: 423, 212
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/yaojiainner
+  rotate: false
+  xy: 278, 54
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/yaojiainner1
+  rotate: false
+  xy: 305, 93
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Nornorin_Sword_4/yaojiaout
+  rotate: false
+  xy: 284, 204
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1

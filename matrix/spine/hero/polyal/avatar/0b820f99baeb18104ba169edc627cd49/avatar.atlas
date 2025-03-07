@@ -1,0 +1,440 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Polyal/Sword/Polyal_Sword_3/arminnerdown
+  rotate: true
+  xy: 176, 145
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/arminnerup
+  rotate: false
+  xy: 80, 7
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/armoutdown
+  rotate: true
+  xy: 482, 399
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/armoutup
+  rotate: false
+  xy: 170, 104
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/asinner1
+  rotate: true
+  xy: 181, 317
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/asinner2
+  rotate: false
+  xy: 492, 432
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/asinner3
+  rotate: true
+  xy: 219, 269
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/asout1
+  rotate: true
+  xy: 390, 415
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/asout2
+  rotate: false
+  xy: 99, 142
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/asout3
+  rotate: false
+  xy: 219, 323
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/body
+  rotate: true
+  xy: 99, 317
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/earinner
+  rotate: false
+  xy: 137, 73
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/earout
+  rotate: true
+  xy: 80, 45
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/eyebrow
+  rotate: false
+  xy: 417, 432
+  size: 73, 8
+  orig: 73, 8
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/eyehard
+  rotate: true
+  xy: 72, 218
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/eyehard1
+  rotate: true
+  xy: 57, 17
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/eyehard2
+  rotate: true
+  xy: 72, 141
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/eyehard3
+  rotate: false
+  xy: 417, 424
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/eyesffuer
+  rotate: false
+  xy: 287, 379
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/eyeyun
+  rotate: true
+  xy: 141, 147
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/face
+  rotate: false
+  xy: 99, 376
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair
+  rotate: false
+  xy: 224, 385
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair1
+  rotate: true
+  xy: 418, 469
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair2
+  rotate: false
+  xy: 137, 99
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair2f
+  rotate: false
+  xy: 119, 10
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair3
+  rotate: false
+  xy: 200, 282
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair3f
+  rotate: false
+  xy: 219, 329
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair4
+  rotate: false
+  xy: 2, 295
+  size: 95, 215
+  orig: 95, 215
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair5
+  rotate: false
+  xy: 99, 150
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair6
+  rotate: false
+  xy: 2, 4
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/hair7
+  rotate: false
+  xy: 2, 94
+  size: 68, 199
+  orig: 68, 199
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/handinner
+  rotate: false
+  xy: 258, 361
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/handinner1
+  rotate: false
+  xy: 236, 337
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/handout
+  rotate: true
+  xy: 116, 68
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/jiao1
+  rotate: false
+  xy: 181, 323
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/jiao2
+  rotate: false
+  xy: 109, 100
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/jiaoh
+  rotate: false
+  xy: 236, 327
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/jiaoh1
+  rotate: true
+  xy: 363, 384
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/jiaoh2
+  rotate: true
+  xy: 260, 337
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/jiaoh3
+  rotate: true
+  xy: 116, 45
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/leginnerdown
+  rotate: false
+  xy: 176, 179
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/leginnerup
+  rotate: false
+  xy: 167, 267
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/legoutdown
+  rotate: false
+  xy: 72, 96
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/legoutup
+  rotate: true
+  xy: 369, 422
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/mao
+  rotate: false
+  xy: 372, 389
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/mouth01
+  rotate: false
+  xy: 77, 2
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/mouth02
+  rotate: false
+  xy: 268, 330
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/mouth04
+  rotate: false
+  xy: 369, 416
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/toushi
+  rotate: false
+  xy: 287, 416
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/toushi2
+  rotate: false
+  xy: 99, 266
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/toushi3
+  rotate: false
+  xy: 169, 223
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/tuiinner1
+  rotate: false
+  xy: 203, 228
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/tuiinner2
+  rotate: false
+  xy: 200, 267
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/tuiinner3
+  rotate: false
+  xy: 119, 2
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/tuiout1
+  rotate: true
+  xy: 57, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/tuiout2
+  rotate: true
+  xy: 203, 247
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/tuiout3
+  rotate: false
+  xy: 372, 404
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/weapon
+  rotate: true
+  xy: 224, 458
+  size: 52, 192
+  orig: 52, 192
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/yaodai
+  rotate: false
+  xy: 99, 223
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/yaodai1
+  rotate: false
+  xy: 224, 361
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Polyal_Sword_3/yaodai2
+  rotate: true
+  xy: 494, 448
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Polyal/Sword/Shadow
+  rotate: false
+  xy: 418, 442
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

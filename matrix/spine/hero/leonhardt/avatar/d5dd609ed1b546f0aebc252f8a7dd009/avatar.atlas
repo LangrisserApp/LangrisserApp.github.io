@@ -1,0 +1,370 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/Pike
+  rotate: true
+  xy: 2, 82
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/arminnerdown
+  rotate: false
+  xy: 435, 369
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/arminnerup
+  rotate: false
+  xy: 329, 172
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/armoutdown
+  rotate: false
+  xy: 359, 260
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/armoutup
+  rotate: true
+  xy: 386, 289
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/body
+  rotate: true
+  xy: 277, 266
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/eyebrow
+  rotate: true
+  xy: 46, 9
+  size: 71, 13
+  orig: 71, 13
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/eyehard
+  rotate: true
+  xy: 176, 154
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/eyehard1
+  rotate: false
+  xy: 63, 80
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/eyehard2
+  rotate: false
+  xy: 61, 65
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/eyehard3
+  rotate: false
+  xy: 434, 449
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/eyesffuer
+  rotate: true
+  xy: 359, 292
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/eyeyun
+  rotate: false
+  xy: 271, 211
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/face
+  rotate: false
+  xy: 2, 348
+  size: 177, 162
+  orig: 177, 162
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/hair1
+  rotate: false
+  xy: 187, 295
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/hair2
+  rotate: true
+  xy: 61, 46
+  size: 17, 59
+  orig: 17, 59
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/hair3
+  rotate: true
+  xy: 277, 368
+  size: 30, 105
+  orig: 30, 105
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/hairinner1
+  rotate: true
+  xy: 271, 171
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/hairinner2
+  rotate: false
+  xy: 2, 5
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/hairinner3
+  rotate: false
+  xy: 195, 171
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/handinner
+  rotate: false
+  xy: 176, 87
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/handout
+  rotate: false
+  xy: 459, 381
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/leginnerdown
+  rotate: true
+  xy: 133, 84
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/leginnerup
+  rotate: false
+  xy: 459, 403
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/legoutdown
+  rotate: false
+  xy: 176, 109
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/legoutup
+  rotate: true
+  xy: 384, 371
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/lingzi1
+  rotate: true
+  xy: 61, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/lingzi2
+  rotate: false
+  xy: 91, 3
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/mouth01
+  rotate: false
+  xy: 459, 371
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/mouth02
+  rotate: true
+  xy: 500, 495
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/mouth03
+  rotate: false
+  xy: 425, 321
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/mouth04
+  rotate: true
+  xy: 347, 241
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/weapon
+  rotate: true
+  xy: 63, 99
+  size: 247, 55
+  orig: 247, 55
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/xiabai1
+  rotate: false
+  xy: 432, 404
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_2/xiabai2
+  rotate: true
+  xy: 195, 155
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/arminnerdown
+  rotate: true
+  xy: 385, 264
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/arminnerup
+  rotate: true
+  xy: 271, 151
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/armoutdown
+  rotate: false
+  xy: 483, 409
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/armoutup
+  rotate: false
+  xy: 200, 118
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/body
+  rotate: true
+  xy: 277, 315
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/lingzi1
+  rotate: false
+  xy: 483, 380
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/lingzi2
+  rotate: true
+  xy: 425, 334
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/lingzi3
+  rotate: false
+  xy: 61, 25
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/pifenginner
+  rotate: true
+  xy: 120, 224
+  size: 122, 65
+  orig: 122, 65
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/weapon
+  rotate: false
+  xy: 181, 400
+  size: 249, 53
+  orig: 249, 53
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/xiabai1
+  rotate: true
+  xy: 187, 227
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_3/xiabai2
+  rotate: true
+  xy: 434, 458
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_4/weapon
+  rotate: false
+  xy: 181, 455
+  size: 251, 55
+  orig: 251, 55
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_4/weijin1
+  rotate: true
+  xy: 386, 319
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_4/weijin2
+  rotate: false
+  xy: 251, 162
+  size: 18, 63
+  orig: 18, 63
+  offset: 0, 0
+  index: -1
+Leonhardt/SwordEmperor/Leonhardt_SwordEmperor_4/weijin3
+  rotate: true
+  xy: 120, 104
+  size: 118, 54
+  orig: 118, 54
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 271, 239
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

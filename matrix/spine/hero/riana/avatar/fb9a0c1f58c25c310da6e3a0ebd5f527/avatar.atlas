@@ -1,0 +1,454 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Riana/Riana01/Hair1
+  rotate: true
+  xy: 413, 165
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Riana/Riana01/Hair2
+  rotate: false
+  xy: 295, 14
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+Riana/Riana01/Hair3
+  rotate: true
+  xy: 409, 196
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+Riana/Riana01/Hair4
+  rotate: true
+  xy: 357, 159
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Riana/Riana01/Hairinner
+  rotate: false
+  xy: 280, 241
+  size: 31, 147
+  orig: 31, 147
+  offset: 0, 0
+  index: -1
+Riana/Riana01/body
+  rotate: false
+  xy: 313, 333
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyebrow
+  rotate: false
+  xy: 2, 4
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard
+  rotate: true
+  xy: 174, 57
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard1
+  rotate: false
+  xy: 280, 128
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard2
+  rotate: true
+  xy: 199, 57
+  size: 69, 19
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyehard3
+  rotate: false
+  xy: 90, 2
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyesffuer
+  rotate: true
+  xy: 280, 176
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+Riana/Riana01/eyeyun
+  rotate: false
+  xy: 138, 128
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+Riana/Riana01/face
+  rotate: false
+  xy: 311, 422
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+Riana/Riana01/hairout
+  rotate: false
+  xy: 2, 128
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Riana/Riana01/handinner
+  rotate: true
+  xy: 458, 212
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Riana/Riana01/handinner1
+  rotate: false
+  xy: 313, 207
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana01/handout
+  rotate: true
+  xy: 486, 131
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Riana/Riana01/handout1
+  rotate: false
+  xy: 413, 136
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Riana/Riana01/handout2
+  rotate: true
+  xy: 487, 303
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Riana/Riana01/leginnerdown
+  rotate: false
+  xy: 487, 168
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+Riana/Riana01/leginnerup
+  rotate: true
+  xy: 345, 76
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Riana/Riana01/legoutdown
+  rotate: true
+  xy: 245, 14
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Riana/Riana01/legoutup
+  rotate: false
+  xy: 458, 235
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Riana/Riana01/toushi
+  rotate: true
+  xy: 214, 165
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+Riana/Riana01/weapon
+  rotate: true
+  xy: 357, 194
+  size: 137, 24
+  orig: 137, 24
+  offset: 0, 0
+  index: -1
+Riana/Riana01/weapon1
+  rotate: true
+  xy: 383, 194
+  size: 137, 24
+  orig: 137, 24
+  offset: 0, 0
+  index: -1
+Riana/Riana01/weapon3
+  rotate: true
+  xy: 260, 37
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Riana/Riana01/weapon4
+  rotate: false
+  xy: 220, 39
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Riana/Riana01/weijin
+  rotate: true
+  xy: 313, 239
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+Riana/Riana01/weijin1
+  rotate: false
+  xy: 174, 40
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+Riana/Riana01/yaodai
+  rotate: true
+  xy: 409, 214
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana01/yaojiainner
+  rotate: true
+  xy: 421, 334
+  size: 16, 61
+  orig: 16, 61
+  offset: 0, 0
+  index: -1
+Riana/Riana01/yaojiaout
+  rotate: true
+  xy: 214, 140
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+Riana/Riana01/yaojiaout1
+  rotate: false
+  xy: 445, 282
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Riana/Riana02/arminner2
+  rotate: false
+  xy: 409, 275
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana02/armout2_1
+  rotate: false
+  xy: 139, 46
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+Riana/Riana02/armout2_inner
+  rotate: true
+  xy: 280, 153
+  size: 21, 71
+  orig: 21, 71
+  offset: 0, 0
+  index: -1
+Riana/Riana02/body
+  rotate: false
+  xy: 421, 411
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+Riana/Riana02/dd
+  rotate: false
+  xy: 208, 156
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Riana/Riana02/handinner
+  rotate: false
+  xy: 357, 40
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Riana/Riana02/handinner1
+  rotate: true
+  xy: 458, 136
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Riana/Riana02/handout
+  rotate: true
+  xy: 351, 103
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Riana/Riana02/jianjiaout2
+  rotate: false
+  xy: 198, 10
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Riana/Riana02/weapon
+  rotate: false
+  xy: 2, 275
+  size: 276, 113
+  orig: 276, 113
+  offset: 0, 0
+  index: -1
+Riana/Riana02/weijin
+  rotate: true
+  xy: 90, 34
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+Riana/Riana02/yaojiainner
+  rotate: false
+  xy: 440, 214
+  size: 16, 59
+  orig: 16, 59
+  offset: 0, 0
+  index: -1
+Riana/Riana02/yaojiaout
+  rotate: true
+  xy: 280, 76
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+Riana/Riana03/body
+  rotate: false
+  xy: 138, 162
+  size: 74, 111
+  orig: 74, 111
+  offset: 0, 0
+  index: -1
+Riana/Riana03/handinner1
+  rotate: false
+  xy: 309, 36
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana03/handout1
+  rotate: false
+  xy: 313, 176
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana03/jianjiainner
+  rotate: false
+  xy: 220, 84
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Riana/Riana03/jianjiaout
+  rotate: false
+  xy: 421, 352
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana03/leginnerdown
+  rotate: false
+  xy: 488, 368
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+Riana/Riana03/legoutdown
+  rotate: false
+  xy: 456, 167
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Riana/Riana03/toushi
+  rotate: false
+  xy: 2, 17
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+Riana/Riana03/weapon
+  rotate: false
+  xy: 2, 390
+  size: 307, 120
+  orig: 307, 120
+  offset: 0, 0
+  index: -1
+Riana/Riana03/xiongjia
+  rotate: true
+  xy: 166, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana03/yaojiainner
+  rotate: false
+  xy: 261, 78
+  size: 17, 60
+  orig: 17, 60
+  offset: 0, 0
+  index: -1
+Riana/Riana03/yaojiaout
+  rotate: true
+  xy: 280, 103
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+Riana/mouth01
+  rotate: true
+  xy: 502, 493
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Riana/mouth02
+  rotate: false
+  xy: 488, 353
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Riana/mouth04
+  rotate: false
+  xy: 198, 2
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 394, 346
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

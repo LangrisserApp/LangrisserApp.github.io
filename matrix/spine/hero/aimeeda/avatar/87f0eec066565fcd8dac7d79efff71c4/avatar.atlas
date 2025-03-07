@@ -1,0 +1,223 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Bishop/Aimeeda_Bishop_3/toushi
+  rotate: false
+  xy: 274, 94
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/Hair2
+  rotate: false
+  xy: 282, 9
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/Hair3
+  rotate: false
+  xy: 262, 5
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/Hair4
+  rotate: false
+  xy: 473, 174
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/Hairinner
+  rotate: false
+  xy: 151, 45
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/dd
+  rotate: false
+  xy: 468, 159
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/eyebrow
+  rotate: false
+  xy: 2, 7
+  size: 59, 6
+  orig: 59, 6
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/eyehard
+  rotate: true
+  xy: 383, 92
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/eyehard1
+  rotate: true
+  xy: 333, 15
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/eyehard2
+  rotate: true
+  xy: 357, 15
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/eyehard3
+  rotate: true
+  xy: 499, 192
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/eyesffuer
+  rotate: false
+  xy: 407, 128
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/eyeyun
+  rotate: true
+  xy: 227, 2
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/face
+  rotate: false
+  xy: 390, 165
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/hairout
+  rotate: false
+  xy: 2, 15
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/mouth01
+  rotate: false
+  xy: 2, 2
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/mouth02
+  rotate: false
+  xy: 151, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/mouth03
+  rotate: false
+  xy: 473, 165
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Bishop/mouth04
+  rotate: false
+  xy: 256, 157
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/arminner1
+  rotate: true
+  xy: 437, 53
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/armout1
+  rotate: false
+  xy: 408, 50
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/body
+  rotate: true
+  xy: 256, 162
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/fushi
+  rotate: false
+  xy: 333, 85
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handinner
+  rotate: true
+  xy: 376, 38
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/handout
+  rotate: true
+  xy: 274, 68
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijian
+  rotate: true
+  xy: 223, 64
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/pijianiinner
+  rotate: false
+  xy: 282, 28
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/weapon
+  rotate: false
+  xy: 2, 157
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodai
+  rotate: false
+  xy: 407, 90
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Riana/Riana_Bishop/Riana_HighBishop_2/yaodaipeijian
+  rotate: false
+  xy: 376, 19
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 151, 18
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

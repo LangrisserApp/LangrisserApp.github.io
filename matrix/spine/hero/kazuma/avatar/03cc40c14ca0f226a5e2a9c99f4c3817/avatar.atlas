@@ -1,0 +1,370 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/arminnerdown
+  rotate: true
+  xy: 841, 265
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/arminnerup
+  rotate: false
+  xy: 569, 135
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/armoutdown
+  rotate: false
+  xy: 882, 262
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/armoutup
+  rotate: true
+  xy: 701, 170
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/body
+  rotate: true
+  xy: 896, 443
+  size: 67, 100
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/leginnerdown
+  rotate: true
+  xy: 554, 2
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/leginnerup
+  rotate: false
+  xy: 841, 294
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/legoutdown
+  rotate: false
+  xy: 568, 84
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_2/legoutup
+  rotate: false
+  xy: 612, 151
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/arminnerdown
+  rotate: false
+  xy: 750, 163
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/arminnerup
+  rotate: false
+  xy: 612, 105
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/armoutdown
+  rotate: true
+  xy: 595, 2
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/armoutup
+  rotate: false
+  xy: 612, 56
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/body
+  rotate: true
+  xy: 799, 345
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/dang
+  rotate: false
+  xy: 660, 159
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/eyebrow
+  rotate: true
+  xy: 986, 387
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/eyehard
+  rotate: false
+  xy: 953, 297
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/eyehard1
+  rotate: true
+  xy: 783, 195
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/eyehard2
+  rotate: true
+  xy: 556, 84
+  size: 69, 10
+  orig: 69, 10
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/eyehard3
+  rotate: false
+  xy: 880, 299
+  size: 71, 19
+  orig: 71, 19
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/eyesffuer
+  rotate: true
+  xy: 810, 274
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/eyeyun
+  rotate: true
+  xy: 282, 28
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/face
+  rotate: true
+  xy: 614, 202
+  size: 139, 167
+  orig: 139, 167
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/hair
+  rotate: true
+  xy: 993, 265
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/handinner
+  rotate: false
+  xy: 651, 124
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/handinner1
+  rotate: false
+  xy: 634, 11
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/handinner2
+  rotate: false
+  xy: 701, 143
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/handout
+  rotate: true
+  xy: 998, 487
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/handout2
+  rotate: true
+  xy: 781, 161
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/leginnerdown
+  rotate: false
+  xy: 922, 263
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/leginnerup
+  rotate: true
+  xy: 556, 38
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/legoutdown
+  rotate: true
+  xy: 953, 269
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/legoutup
+  rotate: true
+  xy: 496, 3
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/mouth01
+  rotate: true
+  xy: 998, 447
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/mouth02
+  rotate: false
+  xy: 282, 7
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/mouth03
+  rotate: false
+  xy: 612, 39
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/mouth04
+  rotate: true
+  xy: 604, 228
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/weapon
+  rotate: false
+  xy: 349, 266
+  size: 263, 90
+  orig: 263, 90
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/weapon1
+  rotate: false
+  xy: 2, 11
+  size: 278, 87
+  orig: 278, 87
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/weapon2
+  rotate: false
+  xy: 624, 420
+  size: 270, 90
+  orig: 270, 90
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/xiabai1
+  rotate: true
+  xy: 880, 320
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/xiabai2
+  rotate: false
+  xy: 953, 317
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_3/xiabaiinner
+  rotate: true
+  xy: 496, 57
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/1
+  rotate: false
+  xy: 624, 343
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/2
+  rotate: false
+  xy: 327, 155
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/face
+  rotate: true
+  xy: 327, 5
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/toushi
+  rotate: true
+  xy: 896, 387
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: -1
+Kazuma/SpiritSword/Kazuma_SpiritSword_4/toushi1
+  rotate: true
+  xy: 569, 185
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 783, 267
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

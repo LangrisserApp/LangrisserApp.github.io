@@ -1,0 +1,608 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zelgadiss_FX/body
+  rotate: true
+  xy: 591, 248
+  size: 101, 135
+  orig: 101, 135
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/eyehard
+  rotate: false
+  xy: 914, 42
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/eyehard1
+  rotate: true
+  xy: 949, 41
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/eyehard2
+  rotate: false
+  xy: 975, 100
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/hair
+  rotate: false
+  xy: 624, 351
+  size: 207, 159
+  orig: 207, 159
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/hair1
+  rotate: false
+  xy: 728, 239
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/hair2
+  rotate: true
+  xy: 613, 167
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/hand1
+  rotate: false
+  xy: 747, 104
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/hand2
+  rotate: false
+  xy: 621, 92
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/head
+  rotate: false
+  xy: 327, 147
+  size: 162, 98
+  orig: 162, 98
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/lingzi
+  rotate: true
+  xy: 880, 171
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/mouth1
+  rotate: true
+  xy: 1010, 312
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/mouth2
+  rotate: true
+  xy: 1019, 454
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/pifeng1
+  rotate: true
+  xy: 547, 9
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/pifeng2
+  rotate: false
+  xy: 468, 10
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/pifeng3
+  rotate: false
+  xy: 327, 94
+  size: 142, 51
+  orig: 142, 51
+  offset: 0, 0
+  index: -1
+Zelgadiss_FX/weapon
+  rotate: false
+  xy: 821, 246
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx10
+  rotate: false
+  xy: 904, 142
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx11
+  rotate: false
+  xy: 1003, 136
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx12
+  rotate: false
+  xy: 683, 98
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx2
+  rotate: true
+  xy: 986, 183
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx3
+  rotate: false
+  xy: 808, 49
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx4
+  rotate: true
+  xy: 942, 186
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx5
+  rotate: false
+  xy: 864, 48
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx6
+  rotate: false
+  xy: 591, 351
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx7
+  rotate: false
+  xy: 621, 40
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx8
+  rotate: true
+  xy: 327, 247
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_03/tx9
+  rotate: false
+  xy: 973, 42
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/1
+  rotate: false
+  xy: 2, 23
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/2
+  rotate: false
+  xy: 349, 247
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/Shadow
+  rotate: true
+  xy: 992, 399
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/arminnerdown
+  rotate: true
+  xy: 946, 111
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/arminnerup
+  rotate: true
+  xy: 904, 111
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/armoutdown
+  rotate: false
+  xy: 974, 156
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/armoutdown1
+  rotate: true
+  xy: 944, 75
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/armoutup
+  rotate: false
+  xy: 943, 143
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/body
+  rotate: true
+  xy: 683, 42
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/eyehard
+  rotate: true
+  xy: 992, 333
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/eyehard1
+  rotate: false
+  xy: 608, 15
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/eyehard2
+  rotate: false
+  xy: 821, 223
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/eyehard3
+  rotate: false
+  xy: 49, 3
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/eyesffuer
+  rotate: true
+  xy: 810, 102
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/eyeyun
+  rotate: false
+  xy: 886, 224
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/hair1
+  rotate: true
+  xy: 716, 164
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/hair2
+  rotate: false
+  xy: 943, 220
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/hair3
+  rotate: true
+  xy: 833, 310
+  size: 200, 157
+  orig: 200, 157
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/handinneer
+  rotate: true
+  xy: 327, 260
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/handinner1
+  rotate: false
+  xy: 970, 75
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/handinner2
+  rotate: false
+  xy: 975, 123
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/handout
+  rotate: true
+  xy: 594, 131
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/handout1
+  rotate: false
+  xy: 995, 75
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/head
+  rotate: false
+  xy: 491, 162
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/hudiejie
+  rotate: false
+  xy: 971, 10
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/leginnerdown
+  rotate: true
+  xy: 2, 2
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/leginnerup
+  rotate: false
+  xy: 879, 115
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/legoutdown
+  rotate: false
+  xy: 914, 68
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/legoutup
+  rotate: true
+  xy: 852, 11
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/lingzi
+  rotate: true
+  xy: 837, 104
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/mouth01
+  rotate: true
+  xy: 674, 21
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/mouth02
+  rotate: false
+  xy: 852, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/mouth03
+  rotate: true
+  xy: 1017, 383
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/mouth04
+  rotate: false
+  xy: 307, 94
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/pifeng1
+  rotate: false
+  xy: 683, 2
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/pifeng2
+  rotate: true
+  xy: 939, 13
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/pifeng3
+  rotate: true
+  xy: 471, 75
+  size: 52, 93
+  orig: 52, 93
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/pifeng4
+  rotate: true
+  xy: 491, 129
+  size: 31, 101
+  orig: 31, 101
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/pifeng5
+  rotate: false
+  xy: 177, 4
+  size: 128, 94
+  orig: 128, 94
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/pifenginner3
+  rotate: false
+  xy: 992, 310
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/qunzi
+  rotate: false
+  xy: 747, 63
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx1
+  rotate: false
+  xy: 115, 3
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx10
+  rotate: false
+  xy: 805, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx11
+  rotate: true
+  xy: 992, 475
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx12
+  rotate: true
+  xy: 395, 17
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx2
+  rotate: true
+  xy: 986, 201
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx3
+  rotate: false
+  xy: 746, 7
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx4
+  rotate: false
+  xy: 903, 181
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx5
+  rotate: false
+  xy: 566, 75
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx6
+  rotate: true
+  xy: 821, 327
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx7
+  rotate: false
+  xy: 820, 167
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx8
+  rotate: false
+  xy: 471, 129
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/tx9
+  rotate: true
+  xy: 907, 12
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/weapon
+  rotate: true
+  xy: 307, 2
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Zelgadiss_Wizard_04/xiongzhen
+  rotate: false
+  xy: 395, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

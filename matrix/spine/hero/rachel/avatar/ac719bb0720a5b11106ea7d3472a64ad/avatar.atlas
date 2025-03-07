@@ -1,0 +1,426 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/body
+  rotate: true
+  xy: 209, 2
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/eyeborw
+  rotate: false
+  xy: 298, 232
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/eyehard
+  rotate: true
+  xy: 302, 135
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/eyehard1
+  rotate: true
+  xy: 328, 135
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/eyehard2
+  rotate: true
+  xy: 491, 445
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/eyehard3
+  rotate: true
+  xy: 354, 135
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/eyesffuer
+  rotate: true
+  xy: 418, 312
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/eyeyun
+  rotate: false
+  xy: 291, 201
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/face
+  rotate: false
+  xy: 202, 301
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hair1
+  rotate: false
+  xy: 2, 2
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hair2
+  rotate: true
+  xy: 202, 193
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hair3
+  rotate: false
+  xy: 450, 323
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hair4
+  rotate: true
+  xy: 202, 241
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hair5
+  rotate: true
+  xy: 307, 279
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hairback
+  rotate: false
+  xy: 2, 283
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/handinner
+  rotate: false
+  xy: 377, 215
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/handinner1
+  rotate: true
+  xy: 182, 157
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/handout
+  rotate: true
+  xy: 480, 219
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/handout1
+  rotate: true
+  xy: 333, 20
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hatinner
+  rotate: false
+  xy: 326, 444
+  size: 163, 66
+  orig: 163, 66
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hatout
+  rotate: false
+  xy: 164, 422
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/hudiejie
+  rotate: false
+  xy: 414, 282
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/jianjiainner
+  rotate: true
+  xy: 372, 239
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/jianjiainner1
+  rotate: true
+  xy: 361, 201
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/jianjiaout
+  rotate: false
+  xy: 312, 99
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/jianjiaout1
+  rotate: true
+  xy: 483, 243
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/jianjiaout2
+  rotate: false
+  xy: 133, 19
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/leginnerdown
+  rotate: true
+  xy: 97, 5
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/leginnerup
+  rotate: true
+  xy: 405, 227
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/legoutdown
+  rotate: false
+  xy: 390, 283
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/legoutup
+  rotate: true
+  xy: 443, 224
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/mouth01
+  rotate: true
+  xy: 298, 287
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/mouth02
+  rotate: false
+  xy: 497, 311
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/mouth03
+  rotate: false
+  xy: 262, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/mouth04
+  rotate: true
+  xy: 302, 117
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/qun
+  rotate: false
+  xy: 312, 65
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/qun1
+  rotate: true
+  xy: 52, 87
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/qun2
+  rotate: true
+  xy: 455, 282
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/qun3
+  rotate: false
+  xy: 298, 244
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/qunzi4
+  rotate: true
+  xy: 182, 207
+  size: 68, 18
+  orig: 68, 18
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/qunzi5
+  rotate: true
+  xy: 307, 396
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/qunzi6
+  rotate: false
+  xy: 182, 193
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/texiao1
+  rotate: true
+  xy: 97, 30
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/texiao2
+  rotate: true
+  xy: 118, 155
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/texiao3
+  rotate: false
+  xy: 326, 382
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/texiao4
+  rotate: false
+  xy: 307, 320
+  size: 109, 60
+  orig: 109, 60
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/texiao5
+  rotate: true
+  xy: 147, 45
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/toushi
+  rotate: true
+  xy: 147, 2
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/weapon
+  rotate: false
+  xy: 135, 277
+  size: 65, 130
+  orig: 65, 130
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/yaodai
+  rotate: false
+  xy: 209, 54
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_2/yaodai1
+  rotate: false
+  xy: 209, 118
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/body
+  rotate: false
+  xy: 261, 64
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/hatout
+  rotate: false
+  xy: 2, 409
+  size: 160, 101
+  orig: 160, 101
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/jianjiainner
+  rotate: false
+  xy: 405, 249
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/jianjiaout
+  rotate: true
+  xy: 262, 12
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/pifeng
+  rotate: true
+  xy: 2, 87
+  size: 194, 48
+  orig: 194, 48
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/qun
+  rotate: true
+  xy: 299, 16
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/texiao6
+  rotate: false
+  xy: 445, 247
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_MagicCorn/Rachel_MagicCore_3/weapon
+  rotate: false
+  xy: 52, 142
+  size: 64, 139
+  orig: 64, 139
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 275, 117
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_zs/Elwin_4/arm_out
+  rotate: true
+  xy: 316, 257
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_zs/Elwin_4/hand_out
+  rotate: false
+  xy: 167, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 91, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/arminnerdown
+  rotate: true
+  xy: 251, 171
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/arminnerup
+  rotate: true
+  xy: 316, 227
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/armoutdown
+  rotate: false
+  xy: 285, 168
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/armoutup
+  rotate: true
+  xy: 235, 90
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/body
+  rotate: false
+  xy: 316, 388
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/body1
+  rotate: true
+  xy: 206, 266
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/eyebrow
+  rotate: true
+  xy: 235, 171
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/eyehard
+  rotate: false
+  xy: 440, 423
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/eyehard1
+  rotate: false
+  xy: 440, 399
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/eyehard2
+  rotate: false
+  xy: 179, 246
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/eyehard3
+  rotate: true
+  xy: 251, 194
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/eyesffuer
+  rotate: false
+  xy: 126, 59
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/eyeyun
+  rotate: false
+  xy: 126, 29
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/face
+  rotate: false
+  xy: 2, 83
+  size: 121, 146
+  orig: 121, 146
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/hair1
+  rotate: true
+  xy: 278, 237
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/hair2
+  rotate: false
+  xy: 125, 90
+  size: 108, 139
+  orig: 108, 139
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/hair3
+  rotate: false
+  xy: 235, 121
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/hair4
+  rotate: false
+  xy: 206, 326
+  size: 108, 123
+  orig: 108, 123
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/hairinner
+  rotate: true
+  xy: 2, 2
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/handinner
+  rotate: true
+  xy: 315, 169
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/handinner1
+  rotate: false
+  xy: 341, 168
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/handout
+  rotate: false
+  xy: 201, 21
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/jianjiainner
+  rotate: false
+  xy: 269, 198
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/jianjiaout
+  rotate: true
+  xy: 278, 276
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/jianjiaout1
+  rotate: false
+  xy: 315, 191
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/leginnerdown
+  rotate: true
+  xy: 50, 2
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/leginnerup
+  rotate: true
+  xy: 469, 478
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/legoutdown
+  rotate: true
+  xy: 469, 447
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/legoutup
+  rotate: false
+  xy: 237, 43
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/mouth01
+  rotate: false
+  xy: 268, 451
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/mouth02
+  rotate: true
+  xy: 194, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/mouth04
+  rotate: false
+  xy: 440, 450
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/weapon
+  rotate: false
+  xy: 268, 458
+  size: 199, 52
+  orig: 199, 52
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/weapon1
+  rotate: false
+  xy: 440, 378
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/yaojiainner
+  rotate: false
+  xy: 316, 328
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/yaojiainner1
+  rotate: false
+  xy: 2, 27
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_3/yaojiaout
+  rotate: false
+  xy: 374, 396
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_4/jianjiainner
+  rotate: false
+  xy: 316, 286
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_4/jianjiaout
+  rotate: true
+  xy: 82, 29
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_4/jianjiaout1
+  rotate: true
+  xy: 201, 42
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_4/pifeng
+  rotate: false
+  xy: 2, 231
+  size: 175, 120
+  orig: 175, 120
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_4/weapon
+  rotate: false
+  xy: 2, 353
+  size: 202, 96
+  orig: 202, 96
+  offset: 0, 0
+  index: -1
+Sigma/Sigma_Sword/Sigma_Sword_4/weapon1
+  rotate: true
+  xy: 179, 268
+  size: 83, 25
+  orig: 83, 25
+  offset: 0, 0
+  index: -1

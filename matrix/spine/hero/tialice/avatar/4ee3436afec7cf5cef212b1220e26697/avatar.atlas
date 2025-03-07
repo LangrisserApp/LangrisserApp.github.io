@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Elwin_ HighRider/Elwin_H4/horse_head
+  rotate: false
+  xy: 2, 91
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_H4/horse_head1
+  rotate: true
+  xy: 541, 467
+  size: 43, 107
+  orig: 43, 107
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_H4/horse_head2
+  rotate: false
+  xy: 428, 207
+  size: 19, 60
+  orig: 19, 60
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_H4/horse_neck
+  rotate: false
+  xy: 938, 433
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_H4/horse_neck1
+  rotate: false
+  xy: 314, 78
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_HighRider/horse_tunjia
+  rotate: true
+  xy: 103, 2
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Elwin/Elwin_ HighRider/Elwin_HighRider/horse_xiongjia
+  rotate: true
+  xy: 337, 369
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_backlegdown
+  rotate: false
+  xy: 480, 226
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_backlegup
+  rotate: false
+  xy: 650, 373
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_body
+  rotate: false
+  xy: 2, 217
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_frontlegdown
+  rotate: true
+  xy: 396, 269
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_frontlegup
+  rotate: false
+  xy: 351, 197
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_guajian1
+  rotate: true
+  xy: 798, 384
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_guajian2
+  rotate: false
+  xy: 298, 269
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_head
+  rotate: true
+  xy: 125, 78
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_mana
+  rotate: false
+  xy: 454, 369
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_neck
+  rotate: false
+  xy: 546, 370
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_neck1
+  rotate: true
+  xy: 481, 273
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_tunjia1
+  rotate: false
+  xy: 446, 276
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_weiba
+  rotate: true
+  xy: 251, 87
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Luna/Luna_BowKnight/jianjiaoutinner
+  rotate: true
+  xy: 383, 35
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 204, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/arminnerup
+  rotate: true
+  xy: 909, 421
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/armoutup
+  rotate: false
+  xy: 347, 9
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/body
+  rotate: false
+  xy: 351, 124
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 66, 7
+  orig: 66, 7
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/eyehard
+  rotate: true
+  xy: 405, 208
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/eyehard1
+  rotate: false
+  xy: 843, 404
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/eyehard2
+  rotate: true
+  xy: 330, 17
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/eyehard3
+  rotate: false
+  xy: 251, 78
+  size: 58, 7
+  orig: 58, 7
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/eyesffuer
+  rotate: false
+  xy: 734, 420
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/eyeyun
+  rotate: false
+  xy: 734, 384
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/face
+  rotate: true
+  xy: 160, 201
+  size: 109, 136
+  orig: 109, 136
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hair1
+  rotate: false
+  xy: 298, 201
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hair2
+  rotate: true
+  xy: 404, 303
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hair3
+  rotate: true
+  xy: 312, 308
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hair4
+  rotate: true
+  xy: 481, 296
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hair7
+  rotate: true
+  xy: 337, 82
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hairinner1
+  rotate: true
+  xy: 843, 446
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hairinner2
+  rotate: false
+  xy: 623, 367
+  size: 25, 98
+  orig: 25, 98
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hairinner3
+  rotate: true
+  xy: 650, 461
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/hairinner4
+  rotate: true
+  xy: 2, 11
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/handinner
+  rotate: true
+  xy: 985, 358
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/handout
+  rotate: true
+  xy: 904, 380
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/handout1
+  rotate: false
+  xy: 449, 189
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/jianjiainner
+  rotate: false
+  xy: 650, 348
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/jianjiaout
+  rotate: true
+  xy: 514, 225
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/legoutdown
+  rotate: true
+  xy: 847, 375
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/legoutup
+  rotate: true
+  xy: 938, 402
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/mouth01
+  rotate: true
+  xy: 1017, 495
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/mouth02
+  rotate: false
+  xy: 717, 381
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/mouth04
+  rotate: false
+  xy: 330, 12
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/toushi
+  rotate: false
+  xy: 281, 9
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/toushi1
+  rotate: false
+  xy: 717, 392
+  size: 15, 67
+  orig: 15, 67
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/toushi2
+  rotate: false
+  xy: 314, 138
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/toushi3
+  rotate: true
+  xy: 843, 427
+  size: 17, 64
+  orig: 17, 64
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/toushi4
+  rotate: false
+  xy: 798, 402
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/weapon
+  rotate: false
+  xy: 2, 312
+  size: 308, 73
+  orig: 308, 73
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_MonkKnight_2/yaojia
+  rotate: true
+  xy: 377, 3
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/body
+  rotate: false
+  xy: 231, 5
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/handinner
+  rotate: false
+  xy: 986, 394
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/jianjiainner
+  rotate: false
+  xy: 492, 194
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/jianjiaout
+  rotate: true
+  xy: 449, 225
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/legoutdown
+  rotate: true
+  xy: 938, 374
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/toushi
+  rotate: true
+  xy: 747, 458
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/weapon
+  rotate: false
+  xy: 2, 387
+  size: 333, 123
+  orig: 333, 123
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/weaponpiaodai
+  rotate: false
+  xy: 337, 460
+  size: 202, 50
+  orig: 202, 50
+  offset: 0, 0
+  index: -1
+Tialice/Tialice_Monk/Tialice_SaintessKnight_3/yaojia
+  rotate: false
+  xy: 347, 37
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1

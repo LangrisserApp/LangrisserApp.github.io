@@ -1,0 +1,363 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/arminnerdown
+  rotate: false
+  xy: 349, 246
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/arminnerup
+  rotate: true
+  xy: 397, 208
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/armoutdown
+  rotate: true
+  xy: 351, 206
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/armoutup
+  rotate: false
+  xy: 215, 25
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/body
+  rotate: false
+  xy: 110, 208
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/eyebrow
+  rotate: true
+  xy: 406, 291
+  size: 72, 12
+  orig: 72, 12
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/eyehard
+  rotate: true
+  xy: 376, 294
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/eyehard 2
+  rotate: false
+  xy: 108, 2
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/eyehard1
+  rotate: true
+  xy: 420, 300
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/eyehard3
+  rotate: false
+  xy: 277, 116
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/eyesffuer
+  rotate: false
+  xy: 280, 205
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/eyeyun
+  rotate: false
+  xy: 277, 166
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/face
+  rotate: false
+  xy: 126, 378
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/hair1
+  rotate: false
+  xy: 2, 24
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/hair2
+  rotate: false
+  xy: 479, 426
+  size: 31, 84
+  orig: 31, 84
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/hair3
+  rotate: false
+  xy: 235, 118
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/hair4
+  rotate: true
+  xy: 2, 2
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/handinner
+  rotate: false
+  xy: 254, 41
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/handout
+  rotate: true
+  xy: 429, 234
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/jiao1
+  rotate: true
+  xy: 480, 296
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/jiao2
+  rotate: false
+  xy: 235, 208
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/jiao3
+  rotate: true
+  xy: 255, 311
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/leginnerdown
+  rotate: false
+  xy: 233, 67
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/leginnerup
+  rotate: false
+  xy: 262, 69
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/legoutdown
+  rotate: false
+  xy: 334, 67
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/legoutup
+  rotate: true
+  xy: 365, 365
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/lingje
+  rotate: false
+  xy: 429, 262
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/maoz3
+  rotate: false
+  xy: 126, 302
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/maozi1
+  rotate: true
+  xy: 480, 359
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/maozi2
+  rotate: false
+  xy: 466, 262
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/mouth01
+  rotate: true
+  xy: 507, 411
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/mouth02
+  rotate: false
+  xy: 179, 8
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/mouth04
+  rotate: false
+  xy: 376, 288
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/pijian3
+  rotate: false
+  xy: 108, 25
+  size: 105, 40
+  orig: 105, 40
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/pijianinner
+  rotate: true
+  xy: 394, 249
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/pijianout
+  rotate: false
+  xy: 277, 126
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/qunzi
+  rotate: false
+  xy: 108, 67
+  size: 123, 45
+  orig: 123, 45
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/texiao
+  rotate: false
+  xy: 280, 244
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_3/weapon
+  rotate: false
+  xy: 2, 125
+  size: 106, 177
+  orig: 106, 177
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/body
+  rotate: false
+  xy: 110, 114
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/handinner1
+  rotate: false
+  xy: 464, 236
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/handout1
+  rotate: true
+  xy: 48, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/handout2
+  rotate: false
+  xy: 427, 210
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/jiao1
+  rotate: true
+  xy: 450, 300
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/pifeng1
+  rotate: false
+  xy: 417, 413
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/pifeng2
+  rotate: true
+  xy: 269, 364
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/pifeng3
+  rotate: false
+  xy: 269, 407
+  size: 146, 103
+  orig: 146, 103
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/pijianinner
+  rotate: true
+  xy: 300, 65
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/pijianout
+  rotate: false
+  xy: 419, 371
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+Mu/Mu_WoodOracle/Mu_WoodOracle_4/weapon
+  rotate: false
+  xy: 2, 304
+  size: 122, 206
+  orig: 122, 206
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 349, 288
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

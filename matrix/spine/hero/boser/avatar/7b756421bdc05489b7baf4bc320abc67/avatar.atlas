@@ -1,0 +1,405 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boser/Boser_Death/Boser_Death _2/arminnerdown
+  rotate: false
+  xy: 610, 848
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/jianjiainner
+  rotate: true
+  xy: 244, 298
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/jianjiaout
+  rotate: false
+  xy: 786, 677
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/lingziinner
+  rotate: false
+  xy: 712, 412
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/lingziout
+  rotate: false
+  xy: 460, 361
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/lingzioutinner
+  rotate: false
+  xy: 1004, 657
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/maozi
+  rotate: false
+  xy: 351, 845
+  size: 219, 177
+  orig: 219, 177
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifeng1
+  rotate: false
+  xy: 572, 876
+  size: 152, 146
+  orig: 152, 146
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifeng2
+  rotate: false
+  xy: 172, 445
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifeng3
+  rotate: false
+  xy: 353, 573
+  size: 158, 130
+  orig: 158, 130
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifeng4
+  rotate: false
+  xy: 726, 888
+  size: 158, 134
+  orig: 158, 134
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifeng5
+  rotate: true
+  xy: 2, 124
+  size: 157, 139
+  orig: 157, 139
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifeng6
+  rotate: false
+  xy: 2, 283
+  size: 155, 145
+  orig: 155, 145
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifenginner1
+  rotate: true
+  xy: 767, 588
+  size: 87, 119
+  orig: 87, 119
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifenginner2
+  rotate: false
+  xy: 624, 464
+  size: 82, 114
+  orig: 82, 114
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifenginner3
+  rotate: true
+  xy: 888, 598
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifenginner4
+  rotate: false
+  xy: 786, 780
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifenginner5
+  rotate: false
+  xy: 670, 601
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/pifenginner6
+  rotate: true
+  xy: 886, 787
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/weapon
+  rotate: true
+  xy: 2, 430
+  size: 372, 168
+  orig: 372, 168
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/xiongjia
+  rotate: false
+  xy: 659, 414
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_Death _2/xiuzi
+  rotate: true
+  xy: 143, 127
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/arminnerdown
+  rotate: true
+  xy: 862, 559
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/jianjiainner
+  rotate: true
+  xy: 313, 195
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/jianjiaout
+  rotate: true
+  xy: 2, 2
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/lingzi
+  rotate: true
+  xy: 530, 342
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/lingziinner
+  rotate: false
+  xy: 611, 349
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/lingzioutinner
+  rotate: false
+  xy: 1004, 623
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/maozi
+  rotate: true
+  xy: 172, 586
+  size: 216, 179
+  orig: 216, 179
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifeng1
+  rotate: false
+  xy: 353, 705
+  size: 151, 138
+  orig: 151, 138
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifeng2
+  rotate: true
+  xy: 886, 867
+  size: 155, 132
+  orig: 155, 132
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifeng3
+  rotate: false
+  xy: 513, 580
+  size: 155, 130
+  orig: 155, 130
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifeng4
+  rotate: false
+  xy: 332, 443
+  size: 156, 128
+  orig: 156, 128
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifeng5
+  rotate: true
+  xy: 659, 720
+  size: 154, 125
+  orig: 154, 125
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifeng6
+  rotate: false
+  xy: 506, 712
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifenginner1
+  rotate: false
+  xy: 104, 3
+  size: 87, 119
+  orig: 87, 119
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifenginner2
+  rotate: false
+  xy: 159, 283
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifenginner3
+  rotate: false
+  xy: 531, 464
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifenginner4
+  rotate: false
+  xy: 762, 480
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifenginner5
+  rotate: true
+  xy: 888, 691
+  size: 94, 117
+  orig: 94, 117
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/pifenginner6
+  rotate: false
+  xy: 193, 33
+  size: 78, 122
+  orig: 78, 122
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/weapon
+  rotate: false
+  xy: 2, 804
+  size: 347, 218
+  orig: 347, 218
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/xiongjia
+  rotate: false
+  xy: 767, 430
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+Boser/Boser_Death/Boser_DeathLord_3/xiuzi
+  rotate: false
+  xy: 820, 435
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/hair
+  rotate: true
+  xy: 299, 298
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/hair2out
+  rotate: false
+  xy: 192, 157
+  size: 68, 124
+  orig: 68, 124
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/handinner
+  rotate: false
+  xy: 572, 845
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao1
+  rotate: true
+  xy: 490, 442
+  size: 129, 39
+  orig: 129, 39
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao2
+  rotate: false
+  xy: 531, 412
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao3
+  rotate: false
+  xy: 172, 399
+  size: 125, 44
+  orig: 125, 44
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao4
+  rotate: true
+  xy: 708, 474
+  size: 125, 52
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao5
+  rotate: true
+  xy: 262, 172
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+Boser/Boser_Demon/texiao6
+  rotate: true
+  xy: 143, 155
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/face
+  rotate: false
+  xy: 382, 363
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+Boser/Boser_Magic/Boser_Magician_1/mouth01
+  rotate: true
+  xy: 1015, 846
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Boser/gx
+  rotate: false
+  xy: 299, 361
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 193, 6
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

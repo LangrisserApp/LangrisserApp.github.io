@@ -1,0 +1,517 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sylrna_Orb3/face
+  rotate: false
+  xy: 2, 184
+  size: 179, 153
+  orig: 179, 153
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/weapon
+  rotate: false
+  xy: 443, 223
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/wtx5
+  rotate: false
+  xy: 448, 260
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/wtx7
+  rotate: true
+  xy: 260, 194
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/wtx8
+  rotate: true
+  xy: 403, 380
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/xiabai1
+  rotate: true
+  xy: 275, 2
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/xiabai2
+  rotate: true
+  xy: 882, 439
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/yifu4
+  rotate: true
+  xy: 509, 407
+  size: 38, 89
+  orig: 38, 89
+  offset: 0, 0
+  index: -1
+Sylrna_Orb3/zhuangshi2
+  rotate: false
+  xy: 490, 335
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/Shadow
+  rotate: false
+  xy: 183, 167
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/arminnerdown
+  rotate: true
+  xy: 882, 412
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/arminnerup
+  rotate: true
+  xy: 181, 3
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/armoutdown
+  rotate: false
+  xy: 799, 427
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/armoutup
+  rotate: false
+  xy: 359, 194
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/body
+  rotate: true
+  xy: 799, 451
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/body1
+  rotate: false
+  xy: 398, 266
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/ershi
+  rotate: false
+  xy: 778, 439
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/eyebrow
+  rotate: true
+  xy: 478, 314
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/eyehard
+  rotate: true
+  xy: 221, 28
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/eyehard1
+  rotate: true
+  xy: 244, 91
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/eyehard2
+  rotate: false
+  xy: 701, 443
+  size: 75, 18
+  orig: 75, 18
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/eyehard3
+  rotate: false
+  xy: 306, 329
+  size: 71, 10
+  orig: 71, 10
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/eyeyun
+  rotate: true
+  xy: 244, 22
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/face
+  rotate: false
+  xy: 2, 339
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/fx
+  rotate: false
+  xy: 181, 104
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/hair1
+  rotate: false
+  xy: 133, 77
+  size: 46, 105
+  orig: 46, 105
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/hair2
+  rotate: true
+  xy: 701, 463
+  size: 47, 96
+  orig: 47, 96
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/hair3
+  rotate: false
+  xy: 183, 194
+  size: 75, 140
+  orig: 75, 140
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/hair4
+  rotate: false
+  xy: 183, 336
+  size: 121, 174
+  orig: 121, 174
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/hair5
+  rotate: false
+  xy: 2, 34
+  size: 129, 148
+  orig: 129, 148
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/handinner
+  rotate: false
+  xy: 828, 426
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/handinner1
+  rotate: false
+  xy: 100, 6
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/handout
+  rotate: true
+  xy: 315, 66
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/handout1
+  rotate: false
+  xy: 910, 412
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/leginnerdown
+  rotate: true
+  xy: 303, 168
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/leginnerup
+  rotate: true
+  xy: 397, 194
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/legoutdown
+  rotate: true
+  xy: 259, 167
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/legoutup
+  rotate: false
+  xy: 363, 275
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/mouth01
+  rotate: false
+  xy: 379, 331
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/mouth02
+  rotate: false
+  xy: 217, 2
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/mouth03
+  rotate: true
+  xy: 1019, 492
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/qunzi
+  rotate: false
+  xy: 133, 2
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/weapon
+  rotate: false
+  xy: 398, 222
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wen
+  rotate: false
+  xy: 72, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx1
+  rotate: false
+  xy: 217, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx10
+  rotate: false
+  xy: 267, 101
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx11
+  rotate: false
+  xy: 303, 238
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx12
+  rotate: true
+  xy: 181, 34
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx13
+  rotate: true
+  xy: 308, 123
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx14
+  rotate: false
+  xy: 305, 191
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx15
+  rotate: false
+  xy: 490, 318
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx16
+  rotate: true
+  xy: 315, 41
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx17
+  rotate: true
+  xy: 308, 102
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx18
+  rotate: true
+  xy: 509, 447
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx19
+  rotate: false
+  xy: 477, 273
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx20
+  rotate: true
+  xy: 490, 357
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx4
+  rotate: false
+  xy: 306, 341
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx5
+  rotate: true
+  xy: 363, 230
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx6
+  rotate: true
+  xy: 487, 380
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx7
+  rotate: true
+  xy: 937, 411
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx8
+  rotate: true
+  xy: 275, 40
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/wtx9
+  rotate: false
+  xy: 260, 235
+  size: 41, 99
+  orig: 41, 99
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/xiabai1
+  rotate: true
+  xy: 962, 443
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/xiabai2
+  rotate: false
+  xy: 306, 413
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/yaojiaout
+  rotate: false
+  xy: 449, 193
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/yifu1
+  rotate: true
+  xy: 403, 426
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/yifu2
+  rotate: false
+  xy: 398, 315
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/yifu3
+  rotate: false
+  xy: 303, 281
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/yifu4
+  rotate: true
+  xy: 605, 451
+  size: 59, 94
+  orig: 59, 94
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/yifu5
+  rotate: false
+  xy: 857, 422
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/yifu6
+  rotate: true
+  xy: 235, 12
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Sylrna_Orb4/zhuangshi1
+  rotate: false
+  xy: 487, 398
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

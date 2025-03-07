@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chris/Chris_Bishop/Chris_Avatar_3/body
+  rotate: false
+  xy: 191, 285
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handinner
+  rotate: true
+  xy: 64, 13
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handinner1
+  rotate: false
+  xy: 121, 158
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handout
+  rotate: true
+  xy: 151, 157
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/handout1
+  rotate: false
+  xy: 88, 25
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiainner
+  rotate: true
+  xy: 158, 179
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiainner1
+  rotate: false
+  xy: 451, 391
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiaout
+  rotate: false
+  xy: 384, 395
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/jianjiaout1
+  rotate: false
+  xy: 2, 10
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/leginnerdown
+  rotate: false
+  xy: 135, 78
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/leginnerup
+  rotate: false
+  xy: 162, 119
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/legoutdown
+  rotate: false
+  xy: 184, 119
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/legoutup
+  rotate: false
+  xy: 135, 118
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/pifeng
+  rotate: false
+  xy: 240, 422
+  size: 142, 88
+  orig: 142, 88
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/qunziinner
+  rotate: true
+  xy: 319, 387
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/qunziout
+  rotate: false
+  xy: 384, 431
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/toushi
+  rotate: false
+  xy: 122, 344
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/weapon
+  rotate: false
+  xy: 2, 421
+  size: 236, 89
+  orig: 236, 89
+  offset: 0, 0
+  index: -1
+Chris/Chris_Bishop/Chris_Avatar_3/yaojia
+  rotate: false
+  xy: 439, 469
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Hair1
+  rotate: true
+  xy: 79, 56
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Hair2
+  rotate: false
+  xy: 121, 180
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Hair3
+  rotate: false
+  xy: 231, 355
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Hair4
+  rotate: false
+  xy: 79, 71
+  size: 27, 82
+  orig: 27, 82
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Hair5
+  rotate: false
+  xy: 2, 53
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/Hair6
+  rotate: false
+  xy: 122, 284
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/dd
+  rotate: false
+  xy: 378, 416
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/eyebrow
+  rotate: false
+  xy: 122, 272
+  size: 63, 10
+  orig: 63, 10
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/eyehard
+  rotate: false
+  xy: 253, 358
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/eyehard1
+  rotate: false
+  xy: 121, 246
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/eyehard2
+  rotate: false
+  xy: 121, 224
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/eyehard3
+  rotate: true
+  xy: 236, 294
+  size: 59, 14
+  orig: 59, 14
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/eyesffuer
+  rotate: false
+  xy: 439, 431
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/eyeyun
+  rotate: false
+  xy: 253, 384
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/face
+  rotate: false
+  xy: 2, 278
+  size: 118, 141
+  orig: 118, 141
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/hairinner
+  rotate: true
+  xy: 2, 155
+  size: 121, 117
+  orig: 121, 117
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/mouth01
+  rotate: false
+  xy: 88, 16
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/mouth02
+  rotate: true
+  xy: 501, 496
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Chris/Chris_fs/mouth04
+  rotate: false
+  xy: 2, 5
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 108, 79
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,398 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/arminnerdown
+  rotate: true
+  xy: 395, 186
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/arminnerup
+  rotate: false
+  xy: 328, 146
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/armoutdown
+  rotate: true
+  xy: 377, 216
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/armoutup
+  rotate: false
+  xy: 328, 184
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/body
+  rotate: false
+  xy: 80, 10
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/eyebrow
+  rotate: false
+  xy: 2, 8
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/eyehard
+  rotate: true
+  xy: 484, 271
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/eyehard1
+  rotate: false
+  xy: 259, 198
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/eyehard2
+  rotate: false
+  xy: 377, 251
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/eyehard3
+  rotate: true
+  xy: 317, 224
+  size: 65, 8
+  orig: 65, 8
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/eyesffuer
+  rotate: true
+  xy: 452, 264
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/eyeyun
+  rotate: true
+  xy: 294, 140
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/face
+  rotate: false
+  xy: 114, 365
+  size: 129, 145
+  orig: 129, 145
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair
+  rotate: false
+  xy: 189, 104
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair1
+  rotate: false
+  xy: 80, 85
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair2
+  rotate: false
+  xy: 196, 26
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair3
+  rotate: false
+  xy: 238, 109
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair4
+  rotate: false
+  xy: 362, 142
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair5
+  rotate: false
+  xy: 254, 291
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair6
+  rotate: false
+  xy: 259, 221
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/hair7
+  rotate: true
+  xy: 318, 293
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/handinner
+  rotate: false
+  xy: 209, 2
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/handout
+  rotate: true
+  xy: 415, 202
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/handout1
+  rotate: false
+  xy: 415, 181
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/handout2
+  rotate: false
+  xy: 302, 116
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/huaban1
+  rotate: false
+  xy: 435, 234
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/huaban2
+  rotate: false
+  xy: 379, 379
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/huaban3
+  rotate: false
+  xy: 387, 142
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/leginnerdown
+  rotate: false
+  xy: 289, 6
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/leginnerup
+  rotate: false
+  xy: 297, 62
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/legoutdown
+  rotate: true
+  xy: 130, 2
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/legoutup
+  rotate: false
+  xy: 484, 337
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/light
+  rotate: true
+  xy: 110, 182
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/lingzi
+  rotate: false
+  xy: 379, 271
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/lingzi1
+  rotate: true
+  xy: 240, 2
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/mouth01
+  rotate: true
+  xy: 245, 376
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/mouth02
+  rotate: true
+  xy: 387, 153
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/mouth03
+  rotate: true
+  xy: 387, 168
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/texiao
+  rotate: false
+  xy: 2, 312
+  size: 110, 198
+  orig: 110, 198
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/texiao1
+  rotate: false
+  xy: 125, 101
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/texiao2
+  rotate: false
+  xy: 2, 173
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/texiao3
+  rotate: true
+  xy: 2, 17
+  size: 154, 76
+  orig: 154, 76
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/toushi
+  rotate: true
+  xy: 394, 379
+  size: 131, 116
+  orig: 131, 116
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/weapon
+  rotate: false
+  xy: 245, 392
+  size: 147, 118
+  orig: 147, 118
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/weapon1
+  rotate: false
+  xy: 327, 250
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/weapon2
+  rotate: true
+  xy: 114, 284
+  size: 79, 138
+  orig: 79, 138
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/weapon3
+  rotate: true
+  xy: 180, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/weapon4
+  rotate: true
+  xy: 379, 323
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/weapon5
+  rotate: false
+  xy: 410, 225
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/xiabai
+  rotate: true
+  xy: 130, 31
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/xiabai1
+  rotate: false
+  xy: 238, 134
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/xiabai2
+  rotate: false
+  xy: 240, 56
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/yaojia
+  rotate: false
+  xy: 327, 216
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Freya/Freya_RoseQueen/Freya_RoseQueen_SP/yaojia1
+  rotate: false
+  xy: 370, 184
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 232, 208
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

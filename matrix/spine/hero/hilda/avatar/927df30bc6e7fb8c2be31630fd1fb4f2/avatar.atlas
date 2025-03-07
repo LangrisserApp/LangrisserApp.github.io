@@ -1,0 +1,258 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/Pike
+  rotate: true
+  xy: 194, 148
+  size: 264, 53
+  orig: 264, 53
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/Shadow
+  rotate: false
+  xy: 289, 426
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/arminnerdown
+  rotate: false
+  xy: 249, 140
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/arminnerup
+  rotate: false
+  xy: 280, 232
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/armoutdown
+  rotate: false
+  xy: 280, 275
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/armoutup
+  rotate: true
+  xy: 242, 97
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/body
+  rotate: true
+  xy: 2, 23
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/eyebrow
+  rotate: false
+  xy: 183, 67
+  size: 63, 12
+  orig: 63, 12
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/eyehard
+  rotate: false
+  xy: 390, 448
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/eyehard 1
+  rotate: false
+  xy: 289, 403
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/eyehard2
+  rotate: false
+  xy: 2, 6
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/eyehard3
+  rotate: false
+  xy: 183, 81
+  size: 68, 14
+  orig: 68, 14
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/eyesffuer
+  rotate: true
+  xy: 249, 256
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/eyeyun
+  rotate: true
+  xy: 249, 184
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/face
+  rotate: false
+  xy: 2, 86
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/hair1
+  rotate: false
+  xy: 127, 140
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/hair2
+  rotate: true
+  xy: 390, 471
+  size: 39, 95
+  orig: 39, 95
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/hair3
+  rotate: false
+  xy: 249, 328
+  size: 33, 84
+  orig: 33, 84
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/hair4
+  rotate: true
+  xy: 289, 453
+  size: 57, 99
+  orig: 57, 99
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/hair5
+  rotate: false
+  xy: 2, 227
+  size: 190, 185
+  orig: 190, 185
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/handinner
+  rotate: true
+  xy: 365, 427
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/handout
+  rotate: false
+  xy: 280, 207
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/hudang
+  rotate: false
+  xy: 127, 75
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/jianjiainner
+  rotate: false
+  xy: 120, 34
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/jianjiaout
+  rotate: false
+  xy: 183, 97
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/leginnerdown
+  rotate: true
+  xy: 182, 40
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/leginnerup
+  rotate: true
+  xy: 284, 316
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/legoutdown
+  rotate: true
+  xy: 120, 2
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/legoutup
+  rotate: false
+  xy: 331, 352
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/mouth01
+  rotate: false
+  xy: 253, 82
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/mouth02
+  rotate: true
+  xy: 181, 211
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/mouth04
+  rotate: false
+  xy: 464, 465
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/weapon
+  rotate: false
+  xy: 2, 414
+  size: 285, 96
+  orig: 285, 96
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/yaojiainner
+  rotate: false
+  xy: 487, 455
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/yaojiainner2
+  rotate: false
+  xy: 87, 29
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_SwardMan/Hilda_SwardMan03/yaojiaout
+  rotate: false
+  xy: 284, 347
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1

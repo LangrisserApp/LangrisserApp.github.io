@@ -1,0 +1,384 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: true
+  xy: 185, 26
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/body
+  rotate: true
+  xy: 386, 285
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/jianjiainner
+  rotate: true
+  xy: 373, 40
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/jianjiaout
+  rotate: false
+  xy: 380, 69
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/pifeng
+  rotate: false
+  xy: 347, 396
+  size: 142, 114
+  orig: 142, 114
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/toushi
+  rotate: false
+  xy: 386, 336
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/weapon
+  rotate: false
+  xy: 2, 292
+  size: 282, 84
+  orig: 282, 84
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/weapon1
+  rotate: true
+  xy: 301, 187
+  size: 189, 20
+  orig: 189, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/xiongshi
+  rotate: false
+  xy: 442, 184
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/yibaiinner
+  rotate: false
+  xy: 449, 281
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/yibaiout
+  rotate: false
+  xy: 436, 229
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/arminnerdown
+  rotate: false
+  xy: 395, 43
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/arminnerup
+  rotate: false
+  xy: 343, 40
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/armoutdown
+  rotate: false
+  xy: 425, 105
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/armoutup
+  rotate: true
+  xy: 384, 100
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/body
+  rotate: false
+  xy: 323, 221
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/handinner
+  rotate: true
+  xy: 418, 74
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/handout
+  rotate: false
+  xy: 418, 49
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/jianjiainner
+  rotate: true
+  xy: 491, 357
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/jianjiaout
+  rotate: true
+  xy: 447, 337
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/jianjiaoutinner
+  rotate: false
+  xy: 391, 14
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/leginnerdown
+  rotate: false
+  xy: 458, 101
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/leginnerup
+  rotate: false
+  xy: 145, 81
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/legoutdown
+  rotate: false
+  xy: 362, 3
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/legoutup
+  rotate: false
+  xy: 384, 135
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/lingzinner
+  rotate: true
+  xy: 343, 63
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/lingziout
+  rotate: false
+  xy: 308, 2
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/pifeng
+  rotate: false
+  xy: 2, 10
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/pijianinner
+  rotate: false
+  xy: 484, 100
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/pijianout
+  rotate: false
+  xy: 442, 140
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/toushi
+  rotate: false
+  xy: 246, 11
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/weapon
+  rotate: false
+  xy: 2, 378
+  size: 343, 132
+  orig: 343, 132
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/weapon1
+  rotate: true
+  xy: 246, 98
+  size: 192, 53
+  orig: 192, 53
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/xiongshi
+  rotate: false
+  xy: 347, 378
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yaodai
+  rotate: false
+  xy: 181, 2
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yaojiainner
+  rotate: false
+  xy: 484, 137
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yibaiinner
+  rotate: true
+  xy: 328, 116
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yibaiinnerinner
+  rotate: false
+  xy: 378, 227
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yibaiout
+  rotate: true
+  xy: 328, 165
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_4/yibaioutinner
+  rotate: false
+  xy: 380, 182
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/dd
+  rotate: false
+  xy: 380, 63
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyebrow
+  rotate: true
+  xy: 425, 160
+  size: 65, 15
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyeffuer
+  rotate: true
+  xy: 145, 9
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard
+  rotate: true
+  xy: 491, 446
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard1
+  rotate: true
+  xy: 491, 380
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard2
+  rotate: true
+  xy: 484, 163
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyehard3
+  rotate: true
+  xy: 286, 312
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/eyeyun
+  rotate: true
+  xy: 308, 39
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/face
+  rotate: false
+  xy: 2, 126
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/hair
+  rotate: false
+  xy: 323, 288
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth01
+  rotate: true
+  xy: 230, 7
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth03
+  rotate: false
+  xy: 369, 384
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth04
+  rotate: false
+  xy: 491, 350
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 301, 111
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

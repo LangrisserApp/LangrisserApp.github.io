@@ -1,0 +1,454 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_body
+  rotate: false
+  xy: 349, 235
+  size: 210, 121
+  orig: 210, 121
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_eyebrow
+  rotate: false
+  xy: 148, 30
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_eyehard
+  rotate: false
+  xy: 494, 2
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_eyehard1
+  rotate: false
+  xy: 829, 121
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_eyehard2
+  rotate: false
+  xy: 827, 147
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_eyehard3
+  rotate: false
+  xy: 528, 28
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_eyesffuer
+  rotate: true
+  xy: 792, 142
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_eyeyun
+  rotate: true
+  xy: 794, 62
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_head
+  rotate: false
+  xy: 810, 234
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_leginnerdown
+  rotate: false
+  xy: 952, 233
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_leginnerdown1
+  rotate: true
+  xy: 679, 2
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_leginnerup
+  rotate: false
+  xy: 561, 284
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_legoutdown
+  rotate: true
+  xy: 694, 62
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_legoutdown1
+  rotate: false
+  xy: 293, 30
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_legoutup
+  rotate: true
+  xy: 605, 2
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_legoutup1
+  rotate: false
+  xy: 605, 62
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_linnerup1
+  rotate: true
+  xy: 724, 133
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/Sadaharu_weiba
+  rotate: false
+  xy: 605, 130
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/arminnerdown
+  rotate: false
+  xy: 896, 121
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/arminnerup
+  rotate: false
+  xy: 561, 5
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/armoutdown
+  rotate: true
+  xy: 810, 369
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/armoutup
+  rotate: true
+  xy: 903, 204
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/body
+  rotate: true
+  xy: 424, 43
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/dang
+  rotate: true
+  xy: 488, 45
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/eyebrow
+  rotate: false
+  xy: 829, 62
+  size: 68, 12
+  orig: 68, 12
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/eyehard
+  rotate: false
+  xy: 236, 2
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/eyehard1
+  rotate: false
+  xy: 307, 2
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/eyehard2
+  rotate: false
+  xy: 829, 76
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/eyehard3
+  rotate: false
+  xy: 804, 49
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/eyesffuer
+  rotate: false
+  xy: 827, 174
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/eyeyun
+  rotate: false
+  xy: 425, 9
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/face
+  rotate: false
+  xy: 866, 369
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/hair1
+  rotate: true
+  xy: 148, 2
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/hair2
+  rotate: false
+  xy: 899, 98
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/hair3
+  rotate: false
+  xy: 217, 30
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/hair4
+  rotate: true
+  xy: 354, 41
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/hair5
+  rotate: true
+  xy: 829, 98
+  size: 21, 68
+  orig: 21, 68
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/handinner
+  rotate: true
+  xy: 900, 70
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/handinner1a
+  rotate: true
+  xy: 378, 2
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/handinner2a
+  rotate: false
+  xy: 966, 205
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/handout
+  rotate: false
+  xy: 939, 204
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/handout1
+  rotate: false
+  xy: 945, 176
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/legoutdown
+  rotate: true
+  xy: 561, 247
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/legoutup
+  rotate: true
+  xy: 842, 4
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/mouth01
+  rotate: true
+  xy: 922, 153
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/mouth02
+  rotate: false
+  xy: 327, 275
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/mouth03
+  rotate: false
+  xy: 354, 30
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/mouth04
+  rotate: true
+  xy: 599, 9
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/texiao1
+  rotate: false
+  xy: 922, 172
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/texiao2
+  rotate: false
+  xy: 952, 289
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/texiao3
+  rotate: false
+  xy: 745, 2
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/toushiinner
+  rotate: false
+  xy: 896, 153
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/toushiout
+  rotate: false
+  xy: 804, 3
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/weapon1
+  rotate: true
+  xy: 751, 59
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/weapon2b
+  rotate: false
+  xy: 2, 51
+  size: 213, 47
+  orig: 213, 47
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/weapon2c
+  rotate: true
+  xy: 2, 10
+  size: 39, 144
+  orig: 39, 144
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/weapon3
+  rotate: true
+  xy: 624, 222
+  size: 177, 184
+  orig: 177, 184
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_3/weapon4
+  rotate: true
+  xy: 327, 96
+  size: 137, 199
+  orig: 137, 199
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_4/1
+  rotate: true
+  xy: 528, 60
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_4/2
+  rotate: false
+  xy: 624, 401
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Kagura/StrikeMaster/Kagura_StrikeMaster_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 827, 207
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

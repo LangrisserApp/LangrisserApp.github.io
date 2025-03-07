@@ -1,0 +1,643 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/arminnerdown
+  rotate: false
+  xy: 632, 372
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/arminnerup
+  rotate: true
+  xy: 598, 371
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/armoutdown
+  rotate: false
+  xy: 210, 17
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/armoutup
+  rotate: true
+  xy: 392, 312
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/body
+  rotate: true
+  xy: 269, 210
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/dang
+  rotate: false
+  xy: 132, 2
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/eyebrow
+  rotate: false
+  xy: 891, 452
+  size: 71, 11
+  orig: 71, 11
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/eyehard
+  rotate: false
+  xy: 138, 190
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/eyehard1
+  rotate: false
+  xy: 349, 422
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/eyehard2
+  rotate: false
+  xy: 656, 418
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/eyehard3
+  rotate: false
+  xy: 815, 440
+  size: 71, 14
+  orig: 71, 14
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/eyesffuer
+  rotate: true
+  xy: 392, 349
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/eyeyun
+  rotate: false
+  xy: 134, 89
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/face
+  rotate: false
+  xy: 2, 192
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair1
+  rotate: true
+  xy: 189, 218
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair2
+  rotate: true
+  xy: 479, 432
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair3
+  rotate: true
+  xy: 66, 29
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair4
+  rotate: true
+  xy: 197, 318
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair5
+  rotate: true
+  xy: 429, 349
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair6
+  rotate: true
+  xy: 281, 317
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair7
+  rotate: true
+  xy: 78, 2
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair8
+  rotate: true
+  xy: 207, 425
+  size: 85, 140
+  orig: 85, 140
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/hair9
+  rotate: false
+  xy: 574, 430
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/handinner
+  rotate: true
+  xy: 289, 25
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/handout
+  rotate: false
+  xy: 878, 393
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/jianjiainner
+  rotate: false
+  xy: 231, 48
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/jianjiaout
+  rotate: true
+  xy: 207, 86
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/leginnerdown
+  rotate: false
+  xy: 267, 47
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/leginnerup
+  rotate: true
+  xy: 403, 215
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/legoutdown
+  rotate: false
+  xy: 473, 377
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/legoutup
+  rotate: true
+  xy: 445, 213
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/mouth01
+  rotate: false
+  xy: 332, 255
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/mouth02
+  rotate: true
+  xy: 256, 204
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/mouth03
+  rotate: false
+  xy: 192, 35
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/mouth04
+  rotate: false
+  xy: 473, 418
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/toushi
+  rotate: false
+  xy: 138, 218
+  size: 49, 117
+  orig: 49, 117
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/toushi1
+  rotate: false
+  xy: 404, 244
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/weapon
+  rotate: true
+  xy: 2, 29
+  size: 161, 62
+  orig: 161, 62
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/weapon1
+  rotate: false
+  xy: 351, 255
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/xiabai
+  rotate: false
+  xy: 189, 261
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/xiabai1
+  rotate: false
+  xy: 351, 312
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/xiabai2
+  rotate: false
+  xy: 807, 399
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/yanjing
+  rotate: false
+  xy: 735, 413
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_2/yaodai
+  rotate: false
+  xy: 964, 444
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/arminnerdown
+  rotate: true
+  xy: 774, 391
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/arminnerup
+  rotate: true
+  xy: 653, 365
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/armoutdown
+  rotate: true
+  xy: 528, 373
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/armoutup
+  rotate: false
+  xy: 442, 266
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/body
+  rotate: true
+  xy: 261, 263
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/handinner
+  rotate: true
+  xy: 264, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/handout
+  rotate: false
+  xy: 264, 25
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/jianjiainner
+  rotate: false
+  xy: 192, 45
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/jianjiaout
+  rotate: false
+  xy: 975, 465
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/leginnerdown
+  rotate: true
+  xy: 442, 244
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/leginnerup
+  rotate: true
+  xy: 528, 403
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/legoutdown
+  rotate: true
+  xy: 653, 395
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/legoutup
+  rotate: false
+  xy: 497, 391
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/toushi
+  rotate: true
+  xy: 197, 362
+  size: 61, 128
+  orig: 61, 128
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/toushi1
+  rotate: true
+  xy: 332, 215
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/weapon
+  rotate: false
+  xy: 2, 337
+  size: 193, 86
+  orig: 193, 86
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/weapon1
+  rotate: false
+  xy: 134, 124
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/xiabai
+  rotate: false
+  xy: 656, 443
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/xiabai1
+  rotate: false
+  xy: 194, 131
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/xiabai2
+  rotate: false
+  xy: 891, 465
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/yaodai
+  rotate: false
+  xy: 428, 424
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_3/yaodai2
+  rotate: false
+  xy: 217, 190
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/arminnerdown
+  rotate: true
+  xy: 497, 369
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/arminnerup
+  rotate: true
+  xy: 687, 366
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/armoutdown
+  rotate: true
+  xy: 563, 371
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/armoutup
+  rotate: true
+  xy: 438, 312
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/body
+  rotate: true
+  xy: 129, 35
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/dang
+  rotate: false
+  xy: 171, 2
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/handinner
+  rotate: true
+  xy: 286, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/handout
+  rotate: true
+  xy: 878, 415
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/jianjiainner
+  rotate: false
+  xy: 429, 377
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/jianjiaout
+  rotate: false
+  xy: 815, 456
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/leginnerdown
+  rotate: true
+  xy: 735, 391
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/leginnerup
+  rotate: true
+  xy: 570, 401
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/legoutdown
+  rotate: true
+  xy: 694, 395
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/legoutup
+  rotate: true
+  xy: 612, 400
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/toushi
+  rotate: true
+  xy: 349, 450
+  size: 60, 128
+  orig: 60, 128
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/toushi2
+  rotate: true
+  xy: 327, 362
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/weapon
+  rotate: false
+  xy: 2, 425
+  size: 203, 85
+  orig: 203, 85
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/weapon1
+  rotate: true
+  xy: 738, 442
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/xiabai
+  rotate: true
+  xy: 66, 91
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/xiabai1
+  rotate: false
+  xy: 235, 131
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/yaodai
+  rotate: true
+  xy: 324, 264
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/yaodai2
+  rotate: true
+  xy: 1008, 443
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/yaojiainner
+  rotate: false
+  xy: 236, 22
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Mariel/Mariel_SwordMaster/Mariel_SwordMaster_4/yaojiaout
+  rotate: true
+  xy: 254, 86
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,405 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Excela/Spear/Excela_Spear_2/jianjiainner
+  rotate: false
+  xy: 100, 301
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_2/jianjiaout
+  rotate: false
+  xy: 362, 616
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_2/jianjiaout1p
+  rotate: false
+  xy: 151, 333
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_2/qunzi
+  rotate: true
+  xy: 2, 70
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_2/qunziinner
+  rotate: false
+  xy: 982, 904
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_3/weapon
+  rotate: false
+  xy: 568, 969
+  size: 286, 53
+  orig: 286, 53
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/Shadow
+  rotate: true
+  xy: 292, 473
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/arminnerdown
+  rotate: false
+  xy: 319, 453
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/arminnerup
+  rotate: false
+  xy: 349, 582
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/armoutdown
+  rotate: true
+  xy: 47, 12
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/armoutdownp
+  rotate: true
+  xy: 319, 500
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/armoutdownpp
+  rotate: true
+  xy: 61, 325
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/armoutup
+  rotate: true
+  xy: 319, 409
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/body
+  rotate: true
+  xy: 453, 696
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/eyebrow
+  rotate: false
+  xy: 864, 896
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/eyehard
+  rotate: false
+  xy: 569, 824
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/eyehard1
+  rotate: false
+  xy: 655, 866
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/eyehard2
+  rotate: false
+  xy: 290, 646
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/eyehard3
+  rotate: false
+  xy: 282, 616
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/eyesffuer
+  rotate: true
+  xy: 316, 549
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/eyeyun
+  rotate: true
+  xy: 282, 549
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/face
+  rotate: false
+  xy: 290, 677
+  size: 123, 135
+  orig: 123, 135
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/hair
+  rotate: true
+  xy: 856, 978
+  size: 44, 123
+  orig: 44, 123
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/hair1
+  rotate: false
+  xy: 476, 814
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/hair2
+  rotate: false
+  xy: 415, 697
+  size: 36, 115
+  orig: 36, 115
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/hair3
+  rotate: true
+  xy: 569, 855
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/hair4
+  rotate: false
+  xy: 180, 350
+  size: 110, 197
+  orig: 110, 197
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/hair5
+  rotate: false
+  xy: 61, 351
+  size: 117, 196
+  orig: 117, 196
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/handinner
+  rotate: false
+  xy: 319, 384
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/handinnerp
+  rotate: true
+  xy: 547, 787
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/handout
+  rotate: false
+  xy: 113, 325
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/handout11
+  rotate: false
+  xy: 569, 800
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/handoutp
+  rotate: false
+  xy: 349, 556
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/hudiejie
+  rotate: false
+  xy: 453, 763
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/jianjiainner
+  rotate: false
+  xy: 372, 646
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/jianjiaout
+  rotate: true
+  xy: 981, 978
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/jianjiaout1
+  rotate: true
+  xy: 415, 679
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/leginnerdown
+  rotate: false
+  xy: 522, 726
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/leginnerup
+  rotate: false
+  xy: 982, 927
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/legotup
+  rotate: true
+  xy: 737, 865
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/legoutdown
+  rotate: false
+  xy: 292, 363
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/mouth01
+  rotate: true
+  xy: 86, 165
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/mouth02
+  rotate: false
+  xy: 290, 815
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/mouth04
+  rotate: true
+  xy: 1018, 958
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/qunzi
+  rotate: true
+  xy: 2, 181
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/qunziinner
+  rotate: false
+  xy: 803, 899
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/qunziinnerp
+  rotate: false
+  xy: 933, 908
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/toushi
+  rotate: true
+  xy: 2, 2
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/toushinner
+  rotate: false
+  xy: 292, 402
+  size: 25, 69
+  orig: 25, 69
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/toushiout
+  rotate: false
+  xy: 864, 911
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/tx1
+  rotate: false
+  xy: 317, 814
+  size: 157, 68
+  orig: 157, 68
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/tx2
+  rotate: false
+  xy: 61, 549
+  size: 219, 100
+  orig: 219, 100
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/tx3
+  rotate: false
+  xy: 317, 884
+  size: 249, 138
+  orig: 249, 138
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/tx4
+  rotate: false
+  xy: 2, 651
+  size: 286, 170
+  orig: 286, 170
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/tx5
+  rotate: false
+  xy: 2, 823
+  size: 313, 199
+  orig: 313, 199
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/weapon
+  rotate: true
+  xy: 2, 325
+  size: 324, 57
+  orig: 324, 57
+  offset: 0, 0
+  index: -1
+Excela/Spear/Excela_Spear_4/weapon0
+  rotate: false
+  xy: 568, 897
+  size: 233, 70
+  orig: 233, 70
+  offset: 0, 0
+  index: -1

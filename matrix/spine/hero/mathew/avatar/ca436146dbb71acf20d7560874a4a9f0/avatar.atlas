@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lance/Lance_Dragon/Lance_2/handinner
+  rotate: false
+  xy: 374, 4
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Lance/Lance_Dragon/Lance_2/handinner1
+  rotate: false
+  xy: 703, 358
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Lance/Lance_Dragon/Lance_2/handout
+  rotate: false
+  xy: 896, 689
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+Lance/Lance_Dragon/Lance_2/handout1
+  rotate: false
+  xy: 474, 43
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Lance/Lance_Dragon/Lance_3/handinner
+  rotate: false
+  xy: 932, 674
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Lance/Lance_Dragon/Lance_3/handinner1
+  rotate: false
+  xy: 338, 2
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Lance/Lance_Dragon/Lance_3/handout1
+  rotate: true
+  xy: 932, 642
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Lance/dd
+  rotate: false
+  xy: 427, 232
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lance/mouth04
+  rotate: true
+  xy: 522, 211
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/body
+  rotate: false
+  xy: 461, 231
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/handout
+  rotate: true
+  xy: 924, 706
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/jianjiainner
+  rotate: false
+  xy: 276, 2
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/jianjiaout
+  rotate: true
+  xy: 593, 239
+  size: 79, 39
+  orig: 79, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/legoutdown
+  rotate: false
+  xy: 703, 319
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/legoutup
+  rotate: true
+  xy: 972, 703
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/toushi
+  rotate: false
+  xy: 651, 317
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_03/yaojia
+  rotate: false
+  xy: 440, 111
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_04/jianjiainner
+  rotate: false
+  xy: 440, 73
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_04/jianjiaout
+  rotate: true
+  xy: 576, 374
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_04/pifeng
+  rotate: false
+  xy: 427, 159
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_04/toushi
+  rotate: false
+  xy: 948, 851
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/Mathew_04/xiongshi
+  rotate: true
+  xy: 651, 238
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/eyebrow
+  rotate: true
+  xy: 634, 253
+  size: 65, 15
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/eyehard
+  rotate: true
+  xy: 888, 552
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/eyehard1
+  rotate: true
+  xy: 911, 623
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/eyehard2
+  rotate: false
+  xy: 408, 56
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/eyehard3
+  rotate: false
+  xy: 183, 2
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/eyesffuer
+  rotate: false
+  xy: 629, 374
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/eyeyun
+  rotate: true
+  xy: 876, 369
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/face
+  rotate: false
+  xy: 765, 858
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/hair
+  rotate: false
+  xy: 576, 459
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/mouth01
+  rotate: true
+  xy: 962, 687
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/mouth02
+  rotate: false
+  xy: 888, 536
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/mouth03
+  rotate: true
+  xy: 629, 439
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_Dragon/mouth04
+  rotate: false
+  xy: 911, 615
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_datuishi
+  rotate: true
+  xy: 515, 320
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_toushi
+  rotate: true
+  xy: 321, 238
+  size: 80, 138
+  orig: 80, 138
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_toushiinner
+  rotate: false
+  xy: 503, 113
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_weiba1
+  rotate: true
+  xy: 527, 239
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_weiba2
+  rotate: false
+  xy: 2, 2
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_weiba3
+  rotate: true
+  xy: 408, 73
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_weishi
+  rotate: true
+  xy: 948, 913
+  size: 109, 61
+  orig: 109, 61
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_wingout
+  rotate: false
+  xy: 2, 628
+  size: 317, 394
+  orig: 317, 394
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_xiaotuishi
+  rotate: true
+  xy: 932, 615
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/Dragon_xiongshi
+  rotate: false
+  xy: 765, 377
+  size: 109, 156
+  orig: 109, 156
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/an
+  rotate: false
+  xy: 320, 63
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/weapon
+  rotate: true
+  xy: 640, 410
+  size: 612, 66
+  orig: 612, 66
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/weiqi1
+  rotate: true
+  xy: 888, 618
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/weiqi2
+  rotate: true
+  xy: 876, 441
+  size: 92, 28
+  orig: 92, 28
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/weiqi3
+  rotate: false
+  xy: 183, 14
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_H/xiongjiainner
+  rotate: true
+  xy: 701, 389
+  size: 16, 58
+  orig: 16, 58
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_arm
+  rotate: true
+  xy: 576, 549
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_body
+  rotate: true
+  xy: 765, 535
+  size: 153, 121
+  orig: 153, 121
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_footout
+  rotate: true
+  xy: 584, 320
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_head
+  rotate: false
+  xy: 765, 690
+  size: 129, 166
+  orig: 129, 166
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_legoutdown
+  rotate: false
+  xy: 651, 265
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_legoutup
+  rotate: true
+  xy: 932, 734
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_neck
+  rotate: false
+  xy: 320, 150
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba1
+  rotate: false
+  xy: 932, 785
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba2
+  rotate: false
+  xy: 91, 5
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_weiba3
+  rotate: true
+  xy: 896, 743
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_winginner
+  rotate: true
+  xy: 2, 48
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_winginner2
+  rotate: false
+  xy: 321, 320
+  size: 192, 316
+  orig: 192, 316
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_wingout
+  rotate: false
+  xy: 2, 242
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Mount/Dragon/Dragon_wingout2
+  rotate: false
+  xy: 321, 638
+  size: 317, 384
+  orig: 317, 384
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 320, 36
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: true
+  xy: 515, 372
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Sherry/SherryDragon/SherryDragon02/weapon
+  rotate: true
+  xy: 708, 407
+  size: 615, 55
+  orig: 615, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1070 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Consul/Consul_Scientist/Consul_Scientist_2/arminnerdown
+  rotate: false
+  xy: 648, 63
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/arminnerup
+  rotate: true
+  xy: 640, 32
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/armoutdown
+  rotate: true
+  xy: 655, 318
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/armoutup
+  rotate: true
+  xy: 924, 349
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/bodyup
+  rotate: true
+  xy: 301, 36
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/face
+  rotate: false
+  xy: 2, 367
+  size: 141, 143
+  orig: 141, 143
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/hair1
+  rotate: true
+  xy: 145, 450
+  size: 60, 165
+  orig: 60, 165
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/hair2
+  rotate: true
+  xy: 312, 470
+  size: 40, 147
+  orig: 40, 147
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/hair3
+  rotate: false
+  xy: 64, 2
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/handinner
+  rotate: false
+  xy: 734, 238
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/handout
+  rotate: true
+  xy: 691, 59
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/jixiebi1
+  rotate: false
+  xy: 692, 279
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/jixiebi2
+  rotate: false
+  xy: 609, 456
+  size: 130, 54
+  orig: 130, 54
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/jixiebi3
+  rotate: true
+  xy: 623, 89
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/jixiebi4
+  rotate: false
+  xy: 298, 151
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/leginnerdown
+  rotate: false
+  xy: 684, 323
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/leginnerup
+  rotate: false
+  xy: 555, 136
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/legoutdown
+  rotate: true
+  xy: 398, 2
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/legoutup
+  rotate: false
+  xy: 517, 136
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/pifeng1
+  rotate: false
+  xy: 715, 324
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/pifeng2
+  rotate: false
+  xy: 680, 220
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/weijin
+  rotate: false
+  xy: 407, 316
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/weijin1
+  rotate: true
+  xy: 863, 465
+  size: 45, 113
+  orig: 45, 113
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/xiabai1
+  rotate: false
+  xy: 229, 153
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/xiabai2
+  rotate: false
+  xy: 422, 397
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/yuanpan2
+  rotate: true
+  xy: 640, 261
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/yuanpan3
+  rotate: false
+  xy: 2, 2
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi10
+  rotate: true
+  xy: 400, 34
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi11
+  rotate: false
+  xy: 734, 212
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi12
+  rotate: false
+  xy: 669, 368
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi13
+  rotate: true
+  xy: 195, 27
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi14
+  rotate: false
+  xy: 759, 213
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi15
+  rotate: false
+  xy: 685, 32
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi16
+  rotate: true
+  xy: 924, 388
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi17
+  rotate: false
+  xy: 364, 100
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi18
+  rotate: true
+  xy: 699, 368
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi19
+  rotate: true
+  xy: 724, 281
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_2/zhuazi9
+  rotate: false
+  xy: 323, 2
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/arminnerdown
+  rotate: false
+  xy: 481, 250
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/arminnerup
+  rotate: true
+  xy: 653, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/armoutdown
+  rotate: true
+  xy: 581, 24
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/armoutup
+  rotate: false
+  xy: 542, 24
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/bodyup
+  rotate: true
+  xy: 230, 33
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/handinner
+  rotate: true
+  xy: 839, 349
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/handout
+  rotate: false
+  xy: 585, 186
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/jixiebi1
+  rotate: false
+  xy: 432, 247
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/jixiebi2
+  rotate: false
+  xy: 741, 461
+  size: 120, 49
+  orig: 120, 49
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/jixiebi4
+  rotate: false
+  xy: 243, 261
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/leginnerdown
+  rotate: true
+  xy: 978, 403
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/leginnerup
+  rotate: false
+  xy: 565, 78
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/legoutdown
+  rotate: true
+  xy: 446, 2
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/legoutup
+  rotate: false
+  xy: 455, 49
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/piaodai
+  rotate: true
+  xy: 627, 199
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/pifeng1
+  rotate: true
+  xy: 411, 109
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/pifeng2
+  rotate: false
+  xy: 699, 399
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/pifeng3
+  rotate: false
+  xy: 812, 383
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/pifeng4
+  rotate: true
+  xy: 257, 2
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/xiabai1
+  rotate: false
+  xy: 140, 24
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/xiabai2
+  rotate: false
+  xy: 741, 384
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/xiabai3
+  rotate: true
+  xy: 582, 318
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/xiongshi
+  rotate: true
+  xy: 708, 220
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/yuanpan2
+  rotate: true
+  xy: 529, 278
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/yuanpan3
+  rotate: false
+  xy: 978, 346
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi10
+  rotate: true
+  xy: 233, 97
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi11
+  rotate: true
+  xy: 585, 2
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi12
+  rotate: true
+  xy: 727, 141
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi13
+  rotate: true
+  xy: 978, 435
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi14
+  rotate: false
+  xy: 996, 320
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi15
+  rotate: false
+  xy: 880, 349
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi16
+  rotate: false
+  xy: 627, 219
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi17
+  rotate: true
+  xy: 472, 121
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi18
+  rotate: false
+  xy: 943, 431
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi19
+  rotate: false
+  xy: 529, 250
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_3/zhuazi9
+  rotate: true
+  xy: 364, 156
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/1
+  rotate: true
+  xy: 363, 36
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/Shadow
+  rotate: false
+  xy: 331, 316
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/arminnerdown
+  rotate: true
+  xy: 690, 152
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/arminnerup
+  rotate: false
+  xy: 760, 280
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/armoutdown
+  rotate: true
+  xy: 611, 28
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/armoutup
+  rotate: false
+  xy: 627, 145
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/bodyup
+  rotate: false
+  xy: 329, 245
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/eyebrow
+  rotate: false
+  xy: 741, 445
+  size: 83, 14
+  orig: 83, 14
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/eyehard
+  rotate: false
+  xy: 509, 381
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/eyehard1
+  rotate: false
+  xy: 589, 368
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/eyehard2
+  rotate: false
+  xy: 153, 109
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/eyehard3
+  rotate: false
+  xy: 329, 228
+  size: 73, 15
+  orig: 73, 15
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/eyesffuer
+  rotate: false
+  xy: 243, 228
+  size: 84, 31
+  orig: 84, 31
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/eyeyun
+  rotate: false
+  xy: 590, 392
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/face
+  rotate: false
+  xy: 2, 222
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/hair1
+  rotate: false
+  xy: 2, 56
+  size: 60, 164
+  orig: 60, 164
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/hair2
+  rotate: true
+  xy: 461, 470
+  size: 40, 146
+  orig: 40, 146
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/hair3
+  rotate: false
+  xy: 153, 130
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/hair4
+  rotate: false
+  xy: 145, 348
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/hair5
+  rotate: false
+  xy: 144, 236
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/handinner
+  rotate: true
+  xy: 611, 2
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/handinner1
+  rotate: true
+  xy: 676, 398
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/handinner2
+  rotate: false
+  xy: 798, 351
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/handout
+  rotate: false
+  xy: 958, 317
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/handout1
+  rotate: false
+  xy: 727, 188
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/jixiebi1
+  rotate: true
+  xy: 298, 100
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/jixiebi2
+  rotate: false
+  xy: 509, 405
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/jixiebi3
+  rotate: false
+  xy: 331, 343
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/jixiebi4
+  rotate: false
+  xy: 331, 399
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/jixiebi5
+  rotate: false
+  xy: 484, 195
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/leginnerdown
+  rotate: true
+  xy: 698, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/leginnerup
+  rotate: false
+  xy: 594, 81
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/legoutdown
+  rotate: false
+  xy: 688, 97
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/legoutup
+  rotate: false
+  xy: 492, 61
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/mouth
+  rotate: true
+  xy: 694, 377
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/mouth02
+  rotate: false
+  xy: 411, 100
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/mouth04
+  rotate: false
+  xy: 627, 140
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/piaodai1
+  rotate: false
+  xy: 405, 172
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/piaodai2
+  rotate: true
+  xy: 863, 442
+  size: 21, 78
+  orig: 21, 78
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/pifeng1
+  rotate: false
+  xy: 856, 379
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/pifeng2
+  rotate: false
+  xy: 529, 78
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/pifeng3
+  rotate: false
+  xy: 263, 341
+  size: 66, 107
+  orig: 66, 107
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/pifeng4
+  rotate: true
+  xy: 590, 424
+  size: 30, 107
+  orig: 30, 107
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/toushi
+  rotate: false
+  xy: 584, 138
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/xiabai1
+  rotate: true
+  xy: 421, 342
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/xiabai2
+  rotate: true
+  xy: 64, 109
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/xiongshi
+  rotate: false
+  xy: 839, 323
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/yuanpan1
+  rotate: true
+  xy: 494, 2
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/yuanpan2
+  rotate: false
+  xy: 582, 265
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/yuanpan3
+  rotate: false
+  xy: 482, 283
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/yuanpan4
+  rotate: false
+  xy: 648, 95
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi1
+  rotate: true
+  xy: 196, 2
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi10
+  rotate: false
+  xy: 429, 181
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi11
+  rotate: false
+  xy: 727, 163
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi12
+  rotate: false
+  xy: 719, 118
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi13
+  rotate: false
+  xy: 507, 336
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi14
+  rotate: false
+  xy: 996, 295
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi15
+  rotate: false
+  xy: 879, 319
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi16
+  rotate: false
+  xy: 585, 211
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi17
+  rotate: false
+  xy: 537, 195
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi18
+  rotate: true
+  xy: 919, 318
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi19
+  rotate: false
+  xy: 755, 348
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi2
+  rotate: false
+  xy: 666, 144
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi20
+  rotate: false
+  xy: 542, 2
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi21
+  rotate: true
+  xy: 759, 239
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi22
+  rotate: true
+  xy: 50, 38
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi23
+  rotate: true
+  xy: 455, 34
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi24
+  rotate: true
+  xy: 472, 34
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi25
+  rotate: false
+  xy: 590, 456
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi26
+  rotate: false
+  xy: 683, 199
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi27
+  rotate: false
+  xy: 755, 324
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi3
+  rotate: true
+  xy: 140, 2
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi4
+  rotate: false
+  xy: 719, 97
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi5
+  rotate: false
+  xy: 742, 121
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi6
+  rotate: false
+  xy: 720, 76
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi7
+  rotate: false
+  xy: 692, 261
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi8
+  rotate: true
+  xy: 798, 331
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Consul/Consul_Scientist/Consul_Scientist_4/zhuazi9
+  rotate: true
+  xy: 392, 245
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1

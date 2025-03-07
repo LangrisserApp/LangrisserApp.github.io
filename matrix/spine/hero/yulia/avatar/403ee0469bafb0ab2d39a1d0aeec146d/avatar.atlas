@@ -1,0 +1,706 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 412, 309
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/arminnerdown
+  rotate: false
+  xy: 400, 92
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/arminnerup
+  rotate: true
+  xy: 453, 200
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/armoutdown
+  rotate: true
+  xy: 531, 291
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/armoutup
+  rotate: false
+  xy: 484, 250
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/armoutup
+  rotate: false
+  xy: 484, 250
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/body
+  rotate: true
+  xy: 125, 19
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/eyebrow
+  rotate: false
+  xy: 606, 324
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/eyehard
+  rotate: false
+  xy: 700, 328
+  size: 80, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/eyehard1
+  rotate: false
+  xy: 317, 201
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/eyehard1
+  rotate: false
+  xy: 317, 201
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/eyehard3
+  rotate: false
+  xy: 351, 385
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/eyehard3
+  rotate: false
+  xy: 351, 385
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/eyesffuer
+  rotate: true
+  xy: 797, 347
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/eyesffuer
+  rotate: true
+  xy: 797, 347
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/eyeyun
+  rotate: false
+  xy: 949, 387
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/eyeyun
+  rotate: false
+  xy: 949, 387
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/face
+  rotate: true
+  xy: 724, 410
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/face
+  rotate: true
+  xy: 724, 410
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/face1
+  rotate: true
+  xy: 952, 421
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/face1
+  rotate: true
+  xy: 952, 421
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hair1
+  rotate: true
+  xy: 189, 94
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hair1
+  rotate: true
+  xy: 189, 94
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hair2
+  rotate: false
+  xy: 211, 2
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hair2
+  rotate: false
+  xy: 211, 2
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hair3
+  rotate: false
+  xy: 332, 322
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hair3
+  rotate: false
+  xy: 332, 322
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hair4
+  rotate: false
+  xy: 312, 98
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hair4
+  rotate: false
+  xy: 312, 98
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hair5
+  rotate: false
+  xy: 125, 198
+  size: 79, 121
+  orig: 79, 121
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hair6
+  rotate: true
+  xy: 485, 409
+  size: 101, 119
+  orig: 101, 119
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/handinner
+  rotate: false
+  xy: 392, 157
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/handinner
+  rotate: false
+  xy: 392, 157
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/handinner1
+  rotate: false
+  xy: 729, 306
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/handinner1
+  rotate: false
+  xy: 729, 306
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/handout
+  rotate: true
+  xy: 375, 5
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/handout1
+  rotate: false
+  xy: 754, 306
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/handout1
+  rotate: false
+  xy: 754, 306
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hat
+  rotate: false
+  xy: 216, 403
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hat1
+  rotate: true
+  xy: 606, 367
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/hudang
+  rotate: false
+  xy: 348, 39
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/jianjiainner
+  rotate: false
+  xy: 484, 291
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/jianjiaout
+  rotate: true
+  xy: 408, 251
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/leginnerdown
+  rotate: false
+  xy: 586, 364
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/leginnerup
+  rotate: true
+  xy: 483, 199
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/legoutdown
+  rotate: true
+  xy: 484, 225
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/legoutup
+  rotate: false
+  xy: 408, 210
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/mouth01
+  rotate: true
+  xy: 1013, 401
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/mouth01
+  rotate: true
+  xy: 1013, 401
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/mouth02
+  rotate: false
+  xy: 189, 81
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/mouth02
+  rotate: false
+  xy: 189, 81
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/mouth04
+  rotate: true
+  xy: 402, 301
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/mouth04
+  rotate: true
+  xy: 402, 301
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/qunzi
+  rotate: false
+  xy: 702, 361
+  size: 93, 47
+  orig: 93, 47
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/shipin
+  rotate: true
+  xy: 189, 172
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/texiao
+  rotate: false
+  xy: 2, 172
+  size: 121, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/toushi
+  rotate: true
+  xy: 395, 210
+  size: 78, 11
+  orig: 78, 11
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/toushi1
+  rotate: true
+  xy: 606, 333
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/weapon
+  rotate: false
+  xy: 2, 321
+  size: 204, 87
+  orig: 204, 87
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/yaojiainner
+  rotate: true
+  xy: 484, 320
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_3/yaojiaout
+  rotate: true
+  xy: 317, 234
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/arminnerdown
+  rotate: false
+  xy: 393, 60
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/arminnerup
+  rotate: false
+  xy: 673, 303
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/armoutdown
+  rotate: false
+  xy: 700, 302
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/body
+  rotate: false
+  xy: 292, 9
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/erhuan
+  rotate: false
+  xy: 560, 324
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/erhuan1
+  rotate: false
+  xy: 513, 250
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/eyebrow
+  rotate: false
+  xy: 606, 316
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/eyehard
+  rotate: false
+  xy: 320, 290
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hair5
+  rotate: true
+  xy: 831, 432
+  size: 78, 119
+  orig: 78, 119
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hair6
+  rotate: true
+  xy: 606, 412
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/handout
+  rotate: true
+  xy: 400, 124
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hat
+  rotate: false
+  xy: 351, 404
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hat1
+  rotate: true
+  xy: 831, 388
+  size: 42, 116
+  orig: 42, 116
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/hudang
+  rotate: false
+  xy: 439, 269
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/jianjiainner
+  rotate: true
+  xy: 360, 97
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/jianjiaout
+  rotate: false
+  xy: 316, 157
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/leginnerdown
+  rotate: false
+  xy: 586, 320
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/leginnerup
+  rotate: false
+  xy: 348, 2
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/legoutdown
+  rotate: false
+  xy: 539, 252
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/legoutup
+  rotate: false
+  xy: 453, 228
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/qunzi
+  rotate: false
+  xy: 831, 341
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/shipin
+  rotate: false
+  xy: 170, 5
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/shipin1
+  rotate: false
+  xy: 485, 365
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/shipin2
+  rotate: true
+  xy: 395, 180
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/shipin3
+  rotate: true
+  xy: 439, 209
+  size: 58, 12
+  orig: 58, 12
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/shipin4
+  rotate: false
+  xy: 85, 2
+  size: 83, 15
+  orig: 83, 15
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/texiao
+  rotate: false
+  xy: 2, 23
+  size: 121, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/texiao1
+  rotate: false
+  xy: 208, 291
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/texiao2
+  rotate: true
+  xy: 125, 76
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/texiao3
+  rotate: false
+  xy: 208, 341
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/texiao4
+  rotate: false
+  xy: 206, 229
+  size: 109, 60
+  orig: 109, 60
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/texiao5
+  rotate: false
+  xy: 206, 167
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/toushi
+  rotate: true
+  xy: 286, 94
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/toushi1
+  rotate: false
+  xy: 256, 4
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/weapon
+  rotate: false
+  xy: 2, 410
+  size: 212, 100
+  orig: 212, 100
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/yaojiainner
+  rotate: false
+  xy: 439, 326
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+Yulia/Yulia_Blade/Yulia_Blade_4/yaojiaout
+  rotate: true
+  xy: 924, 330
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1

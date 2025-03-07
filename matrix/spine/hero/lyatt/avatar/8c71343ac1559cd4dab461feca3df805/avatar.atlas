@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner
+  rotate: false
+  xy: 438, 319
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner1
+  rotate: false
+  xy: 201, 2
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner2
+  rotate: true
+  xy: 315, 132
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner3
+  rotate: true
+  xy: 365, 132
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout
+  rotate: false
+  xy: 325, 83
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout1
+  rotate: false
+  xy: 145, 2
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout2
+  rotate: true
+  xy: 262, 175
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout3
+  rotate: true
+  xy: 370, 152
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_body
+  rotate: false
+  xy: 2, 277
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontleginner
+  rotate: false
+  xy: 315, 165
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontleginner1
+  rotate: false
+  xy: 156, 105
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontleginner2
+  rotate: false
+  xy: 293, 6
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontlegout
+  rotate: true
+  xy: 231, 98
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontlegout1
+  rotate: false
+  xy: 280, 306
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontlegout2
+  rotate: true
+  xy: 252, 2
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_jawbone
+  rotate: false
+  xy: 156, 165
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_saddle
+  rotate: true
+  xy: 187, 277
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_weiba
+  rotate: true
+  xy: 310, 214
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/Leon_3/AnimalBone_Neckguard
+  rotate: false
+  xy: 404, 384
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/Leon_3/AnimalBone_head
+  rotate: false
+  xy: 2, 135
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/Leon_3/weapon
+  rotate: false
+  xy: 2, 453
+  size: 480, 57
+  orig: 480, 57
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 392
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/body
+  rotate: true
+  xy: 220, 39
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/handinner
+  rotate: true
+  xy: 355, 89
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/handout
+  rotate: false
+  xy: 290, 127
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/hatout
+  rotate: false
+  xy: 2, 13
+  size: 141, 120
+  orig: 141, 120
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/jianjiainner
+  rotate: true
+  xy: 262, 210
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/jianjiaout
+  rotate: false
+  xy: 145, 40
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/legoutdown
+  rotate: true
+  xy: 290, 41
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_GrandKnight_2/yaojia
+  rotate: false
+  xy: 361, 232
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/arminnerup
+  rotate: false
+  xy: 399, 324
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/armoutup
+  rotate: false
+  xy: 370, 173
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+Lyatt/Lyatt_Knight/Lyatt_Knight_1/legoutup
+  rotate: true
+  xy: 356, 279
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Lyatt/eyebrow
+  rotate: false
+  xy: 361, 214
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard
+  rotate: true
+  xy: 290, 67
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard1
+  rotate: false
+  xy: 404, 365
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard2
+  rotate: true
+  xy: 309, 67
+  size: 58, 14
+  orig: 58, 14
+  offset: 0, 0
+  index: -1
+Lyatt/eyehard3
+  rotate: true
+  xy: 268, 396
+  size: 55, 6
+  orig: 55, 6
+  offset: 0, 0
+  index: -1
+Lyatt/eyesffuer
+  rotate: true
+  xy: 476, 386
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+Lyatt/eyeyun
+  rotate: true
+  xy: 484, 449
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+Lyatt/face
+  rotate: false
+  xy: 280, 378
+  size: 122, 73
+  orig: 122, 73
+  offset: 0, 0
+  index: -1
+Lyatt/mouth01
+  rotate: true
+  xy: 145, 119
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Lyatt/mouth02
+  rotate: true
+  xy: 399, 306
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Lyatt/mouth03
+  rotate: false
+  xy: 325, 68
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Lyatt/mouth04
+  rotate: true
+  xy: 464, 365
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 280, 279
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

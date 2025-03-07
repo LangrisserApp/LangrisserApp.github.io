@@ -1,0 +1,265 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Erma/Saber/Erma_Saber03/arminnerdown
+  rotate: true
+  xy: 351, 351
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/arminnerup
+  rotate: false
+  xy: 108, 125
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/armoutdown
+  rotate: true
+  xy: 344, 388
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/armoutup
+  rotate: false
+  xy: 315, 351
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/body
+  rotate: false
+  xy: 232, 328
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/eyebrow
+  rotate: false
+  xy: 172, 311
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/eyehard
+  rotate: false
+  xy: 2, 2
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/eyehard1
+  rotate: true
+  xy: 143, 305
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/eyehard2
+  rotate: true
+  xy: 159, 166
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/eyehard3
+  rotate: true
+  xy: 79, 44
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/eyesffuer
+  rotate: true
+  xy: 143, 237
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/eyeyun
+  rotate: false
+  xy: 276, 388
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/face
+  rotate: false
+  xy: 2, 376
+  size: 161, 130
+  orig: 161, 130
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/fx_1
+  rotate: false
+  xy: 109, 164
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/fx_2
+  rotate: false
+  xy: 2, 31
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/fx_3
+  rotate: true
+  xy: 299, 426
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/fx_4
+  rotate: true
+  xy: 399, 464
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/hair1
+  rotate: true
+  xy: 165, 388
+  size: 51, 109
+  orig: 51, 109
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/hair2
+  rotate: true
+  xy: 299, 475
+  size: 31, 98
+  orig: 31, 98
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/hair3
+  rotate: false
+  xy: 172, 326
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/hand1
+  rotate: false
+  xy: 181, 241
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/handinner
+  rotate: false
+  xy: 208, 252
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/handout
+  rotate: true
+  xy: 208, 277
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/jianjiainner
+  rotate: false
+  xy: 398, 441
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/jianjiaout
+  rotate: true
+  xy: 376, 436
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/leginnerdown
+  rotate: false
+  xy: 286, 339
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/leginnerup
+  rotate: false
+  xy: 181, 270
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/legoutdown
+  rotate: false
+  xy: 76, 114
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/legoutup
+  rotate: false
+  xy: 472, 464
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/maozi
+  rotate: false
+  xy: 165, 441
+  size: 132, 65
+  orig: 132, 65
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/mouth01
+  rotate: false
+  xy: 376, 426
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/mouth02
+  rotate: false
+  xy: 276, 432
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/mouth04
+  rotate: true
+  xy: 73, 11
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/piaodai
+  rotate: false
+  xy: 2, 107
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/qunzi
+  rotate: false
+  xy: 2, 166
+  size: 105, 68
+  orig: 105, 68
+  offset: 0, 0
+  index: -1
+Erma/Saber/Erma_Saber03/weapom
+  rotate: false
+  xy: 2, 236
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 52, 31
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,538 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/arminnerdown
+  rotate: false
+  xy: 122, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/arminnerup
+  rotate: false
+  xy: 236, 204
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/armoutdown
+  rotate: true
+  xy: 430, 3
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/armoutup
+  rotate: false
+  xy: 296, 205
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/body
+  rotate: true
+  xy: 406, 108
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/eyebrow
+  rotate: false
+  xy: 97, 64
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/eyehard
+  rotate: true
+  xy: 211, 4
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/eyehard1
+  rotate: true
+  xy: 237, 6
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/eyehard1
+  rotate: true
+  xy: 237, 6
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/eyehard2
+  rotate: true
+  xy: 288, 6
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/eyehard2
+  rotate: true
+  xy: 288, 6
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/eyehard3
+  rotate: true
+  xy: 218, 275
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/eyehard3
+  rotate: true
+  xy: 218, 275
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/eyesffuer
+  rotate: true
+  xy: 480, 204
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/eyesffuer
+  rotate: true
+  xy: 480, 204
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/eyeyun
+  rotate: true
+  xy: 483, 441
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/eyeyun
+  rotate: true
+  xy: 483, 441
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/face
+  rotate: false
+  xy: 219, 86
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/face
+  rotate: false
+  xy: 219, 86
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/handinner
+  rotate: false
+  xy: 463, 4
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/handout
+  rotate: true
+  xy: 454, 49
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/hat
+  rotate: false
+  xy: 320, 270
+  size: 158, 132
+  orig: 158, 132
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/hat
+  rotate: false
+  xy: 320, 270
+  size: 158, 132
+  orig: 158, 132
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/hatout
+  rotate: false
+  xy: 2, 206
+  size: 115, 62
+  orig: 115, 62
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/jianjiainner
+  rotate: true
+  xy: 47, 6
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/jianjiaout
+  rotate: true
+  xy: 171, 2
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/leginnerdown
+  rotate: true
+  xy: 337, 59
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/leginnerup
+  rotate: false
+  xy: 480, 348
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/legoutdown
+  rotate: true
+  xy: 461, 114
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/legoutup
+  rotate: false
+  xy: 364, 14
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/mouth01
+  rotate: false
+  xy: 151, 17
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/mouth02
+  rotate: true
+  xy: 151, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/mouth02
+  rotate: true
+  xy: 151, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/mouth03
+  rotate: false
+  xy: 219, 75
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/mouth03
+  rotate: false
+  xy: 219, 75
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/mouth04
+  rotate: false
+  xy: 218, 342
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/mouth04
+  rotate: false
+  xy: 218, 342
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/pifeng
+  rotate: true
+  xy: 2, 64
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/qunzi
+  rotate: true
+  xy: 357, 182
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/qunzi1
+  rotate: false
+  xy: 461, 76
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/qunziinner
+  rotate: true
+  xy: 475, 147
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/shield
+  rotate: true
+  xy: 94, 275
+  size: 81, 122
+  orig: 81, 122
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_3/weapon
+  rotate: false
+  xy: 2, 358
+  size: 316, 75
+  orig: 316, 75
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/arminnerdown
+  rotate: true
+  xy: 331, 206
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/arminnerup
+  rotate: false
+  xy: 266, 204
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/armoutdown
+  rotate: true
+  xy: 480, 275
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/armoutup
+  rotate: true
+  xy: 318, 235
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/body
+  rotate: true
+  xy: 337, 87
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/eyebrow
+  rotate: false
+  xy: 235, 76
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/eyehard
+  rotate: true
+  xy: 263, 6
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/hair1
+  rotate: false
+  xy: 56, 274
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/hair2
+  rotate: false
+  xy: 173, 74
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/hair3
+  rotate: false
+  xy: 97, 74
+  size: 74, 128
+  orig: 74, 128
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/hair4
+  rotate: false
+  xy: 2, 270
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/handinner
+  rotate: false
+  xy: 478, 28
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/handout
+  rotate: false
+  xy: 478, 52
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/hatout
+  rotate: true
+  xy: 411, 153
+  size: 115, 62
+  orig: 115, 62
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/jianjiainner
+  rotate: true
+  xy: 2, 6
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/jianjiainner1
+  rotate: true
+  xy: 483, 396
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/jianjiaout
+  rotate: false
+  xy: 119, 204
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/jianjiaout1
+  rotate: true
+  xy: 198, 205
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/jianjiaout2
+  rotate: false
+  xy: 337, 178
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/leginnerdown
+  rotate: false
+  xy: 336, 11
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/leginnerup
+  rotate: false
+  xy: 480, 300
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/legoutdown
+  rotate: true
+  xy: 347, 237
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/legoutup
+  rotate: false
+  xy: 397, 25
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/mouth01
+  rotate: false
+  xy: 218, 348
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/pifeng
+  rotate: false
+  xy: 321, 404
+  size: 160, 106
+  orig: 160, 106
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/qunzi
+  rotate: false
+  xy: 351, 132
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/qunzi1
+  rotate: false
+  xy: 392, 70
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/qunziinner
+  rotate: true
+  xy: 85, 6
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/shield
+  rotate: false
+  xy: 236, 234
+  size: 80, 122
+  orig: 80, 122
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/weapon
+  rotate: false
+  xy: 2, 435
+  size: 317, 75
+  orig: 317, 75
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/yaojiainner
+  rotate: false
+  xy: 430, 28
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Serena/RoyalGuardian/Serena_RoyalGuardian_4/yaojiaout
+  rotate: true
+  xy: 122, 28
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 309, 10
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

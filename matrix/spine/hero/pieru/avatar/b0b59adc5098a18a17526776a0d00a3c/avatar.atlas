@@ -1,0 +1,461 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: false
+  xy: 191, 47
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: false
+  xy: 357, 166
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 2, 310
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: true
+  xy: 133, 32
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: true
+  xy: 501, 171
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: true
+  xy: 146, 168
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_head
+  rotate: false
+  xy: 209, 286
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_kaijia
+  rotate: false
+  xy: 800, 396
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: true
+  xy: 906, 416
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: false
+  xy: 705, 371
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: true
+  xy: 523, 457
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_xiongshi
+  rotate: false
+  xy: 351, 308
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: false
+  xy: 630, 362
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: true
+  xy: 635, 280
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_backlegout
+  rotate: true
+  xy: 619, 169
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_frontlegout
+  rotate: false
+  xy: 447, 149
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_head
+  rotate: false
+  xy: 2, 180
+  size: 142, 128
+  orig: 142, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_weiba1
+  rotate: true
+  xy: 339, 450
+  size: 60, 182
+  orig: 60, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_xiongshi
+  rotate: false
+  xy: 205, 178
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/dd
+  rotate: false
+  xy: 351, 302
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/arminnerup
+  rotate: true
+  xy: 577, 137
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/armoutup
+  rotate: true
+  xy: 616, 133
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/body
+  rotate: true
+  xy: 528, 289
+  size: 66, 105
+  orig: 66, 105
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/daizi1
+  rotate: true
+  xy: 623, 219
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/daizi2
+  rotate: true
+  xy: 62, 2
+  size: 28, 91
+  orig: 28, 91
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/eyebrow
+  rotate: false
+  xy: 697, 287
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/eyehard
+  rotate: true
+  xy: 191, 102
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/eyehard1
+  rotate: false
+  xy: 351, 118
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/eyehard2
+  rotate: false
+  xy: 705, 351
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/eyehard3
+  rotate: false
+  xy: 818, 389
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/eyesffuer
+  rotate: false
+  xy: 212, 101
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/eyeyun
+  rotate: false
+  xy: 351, 139
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/face
+  rotate: false
+  xy: 2, 37
+  size: 129, 141
+  orig: 129, 141
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/hair1
+  rotate: false
+  xy: 454, 304
+  size: 72, 114
+  orig: 72, 114
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/hair2
+  rotate: false
+  xy: 311, 176
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/handinner
+  rotate: true
+  xy: 225, 2
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/handout
+  rotate: false
+  xy: 191, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/jianjiainner
+  rotate: true
+  xy: 311, 125
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/jianjiaout
+  rotate: false
+  xy: 212, 128
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/jianjiaoutinner
+  rotate: false
+  xy: 272, 2
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/legoutdown
+  rotate: true
+  xy: 155, 7
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/legoutup
+  rotate: false
+  xy: 707, 239
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/mouth01
+  rotate: false
+  xy: 415, 157
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/mouth02
+  rotate: false
+  xy: 771, 358
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/mouth04
+  rotate: false
+  xy: 62, 32
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/toushi
+  rotate: false
+  xy: 818, 450
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/weapon
+  rotate: false
+  xy: 440, 226
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/weapon1
+  rotate: false
+  xy: 339, 420
+  size: 181, 28
+  orig: 181, 28
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/yaodai
+  rotate: false
+  xy: 697, 324
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentKnight_2/yaojia
+  rotate: false
+  xy: 2, 2
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/arminnerup
+  rotate: false
+  xy: 655, 130
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/armoutup
+  rotate: false
+  xy: 275, 136
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/body
+  rotate: true
+  xy: 516, 224
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/daizi1
+  rotate: false
+  xy: 707, 429
+  size: 109, 47
+  orig: 109, 47
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/daizi2
+  rotate: false
+  xy: 528, 357
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/jianjiainner
+  rotate: true
+  xy: 579, 170
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/jianjiaout
+  rotate: false
+  xy: 818, 400
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/legoutdown
+  rotate: true
+  xy: 707, 214
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/legoutup
+  rotate: false
+  xy: 738, 239
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/weapon
+  rotate: false
+  xy: 357, 216
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/weapon1
+  rotate: false
+  xy: 707, 478
+  size: 197, 32
+  orig: 197, 32
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/yaodai
+  rotate: false
+  xy: 697, 298
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+Pieru/Pieru_Water/Pieru_SerpentMaster_3/yaojia
+  rotate: true
+  xy: 247, 40
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 501, 144
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

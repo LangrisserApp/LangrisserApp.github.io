@@ -1,0 +1,356 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/arminnerdown
+  rotate: false
+  xy: 90, 94
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/arminnerup
+  rotate: false
+  xy: 89, 43
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/armoutdown
+  rotate: false
+  xy: 199, 212
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/armoutup
+  rotate: true
+  xy: 199, 189
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/body
+  rotate: true
+  xy: 124, 370
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/eyebrow
+  rotate: false
+  xy: 435, 468
+  size: 69, 7
+  orig: 69, 7
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/eyehard
+  rotate: true
+  xy: 169, 189
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/eyehard1
+  rotate: true
+  xy: 60, 74
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/eyehard2
+  rotate: false
+  xy: 214, 293
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/eyehard3
+  rotate: false
+  xy: 313, 310
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/eyesffuer
+  rotate: false
+  xy: 2, 8
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/eyeyun
+  rotate: false
+  xy: 307, 381
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/face
+  rotate: false
+  xy: 2, 376
+  size: 120, 134
+  orig: 120, 134
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/hair1
+  rotate: true
+  xy: 313, 321
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/hair2
+  rotate: false
+  xy: 66, 175
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/hair3
+  rotate: true
+  xy: 90, 63
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/hair4
+  rotate: true
+  xy: 214, 320
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/hair5
+  rotate: false
+  xy: 2, 258
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/hair6
+  rotate: true
+  xy: 217, 437
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/handinner
+  rotate: false
+  xy: 82, 265
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/handout
+  rotate: false
+  xy: 60, 52
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/handout1
+  rotate: true
+  xy: 66, 147
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/leginnerdown
+  rotate: false
+  xy: 70, 2
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/leginnerup
+  rotate: false
+  xy: 204, 145
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/legoutdown
+  rotate: false
+  xy: 178, 91
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/legoutup
+  rotate: false
+  xy: 175, 44
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/mouth01
+  rotate: true
+  xy: 92, 153
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/mouth02
+  rotate: true
+  xy: 198, 299
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/mouth04
+  rotate: true
+  xy: 307, 420
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/piaodai
+  rotate: false
+  xy: 254, 251
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/piaodai1
+  rotate: false
+  xy: 435, 477
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/toushi
+  rotate: true
+  xy: 114, 318
+  size: 50, 98
+  orig: 50, 98
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/toushi1
+  rotate: false
+  xy: 164, 136
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/toushi2
+  rotate: true
+  xy: 198, 262
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/toushi3
+  rotate: true
+  xy: 389, 416
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/toushi4
+  rotate: false
+  xy: 89, 9
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/weapon
+  rotate: false
+  xy: 313, 445
+  size: 108, 28
+  orig: 108, 28
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/xiabaiinner
+  rotate: true
+  xy: 114, 262
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/xiabaiinner1
+  rotate: false
+  xy: 124, 428
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/xiabaiout
+  rotate: true
+  xy: 221, 370
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_3/yaojia
+  rotate: false
+  xy: 142, 49
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/jianjiainner
+  rotate: true
+  xy: 241, 220
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/jianjiainner1
+  rotate: true
+  xy: 82, 281
+  size: 93, 30
+  orig: 93, 30
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/jianjiaout
+  rotate: true
+  xy: 106, 135
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/pifenginner
+  rotate: false
+  xy: 106, 192
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/pifengout
+  rotate: true
+  xy: 2, 147
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/toushi
+  rotate: false
+  xy: 2, 46
+  size: 56, 99
+  orig: 56, 99
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/weapon
+  rotate: false
+  xy: 313, 475
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: -1
+Noemi/Noemi_WeavingWizard/Noemi_WeavingWizard_4/yaodai
+  rotate: true
+  xy: 141, 94
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 313, 418
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

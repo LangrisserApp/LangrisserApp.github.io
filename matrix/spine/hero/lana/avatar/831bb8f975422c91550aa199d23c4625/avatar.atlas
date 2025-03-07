@@ -1,0 +1,489 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/armout2
+  rotate: false
+  xy: 256, 312
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/daizi
+  rotate: true
+  xy: 320, 345
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/daizi2
+  rotate: true
+  xy: 384, 350
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/hand inner
+  rotate: true
+  xy: 68, 2
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handinner
+  rotate: true
+  xy: 68, 2
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/leginnerdown
+  rotate: false
+  xy: 287, 345
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/leginnerup
+  rotate: false
+  xy: 219, 342
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/legoutdown
+  rotate: true
+  xy: 429, 366
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/legoutup
+  rotate: false
+  xy: 252, 345
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/qunbaiinner
+  rotate: false
+  xy: 346, 339
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/shengziinner
+  rotate: false
+  xy: 221, 171
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/weapon
+  rotate: false
+  xy: 368, 446
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/xiongzhen
+  rotate: true
+  xy: 236, 290
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/yaodai
+  rotate: true
+  xy: 203, 174
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Pilgrim_3/yaoshi
+  rotate: true
+  xy: 221, 193
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/baoshi
+  rotate: false
+  xy: 318, 324
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/body
+  rotate: false
+  xy: 114, 101
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/leginnerdown
+  rotate: true
+  xy: 172, 223
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/legoutdown
+  rotate: true
+  xy: 465, 366
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/qunbaiinner
+  rotate: false
+  xy: 283, 322
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/qunbaiout
+  rotate: true
+  xy: 113, 223
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/yaodai
+  rotate: true
+  xy: 206, 3
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/yaoshi
+  rotate: false
+  xy: 223, 312
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/dd
+  rotate: false
+  xy: 281, 457
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handinner2
+  rotate: false
+  xy: 207, 283
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/handout
+  rotate: false
+  xy: 283, 300
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page1
+  rotate: true
+  xy: 342, 448
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page2
+  rotate: true
+  xy: 201, 313
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page3
+  rotate: false
+  xy: 346, 319
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page4
+  rotate: true
+  xy: 212, 223
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda_Pilgrim/page5
+  rotate: false
+  xy: 268, 457
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/eyebrow
+  rotate: false
+  xy: 268, 385
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/eyehard
+  rotate: true
+  xy: 88, 201
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/eyehard1
+  rotate: true
+  xy: 68, 115
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/eyehard2
+  rotate: true
+  xy: 93, 124
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/eyehard3
+  rotate: true
+  xy: 168, 313
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/eyesffuer
+  rotate: true
+  xy: 164, 157
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/eyeyun
+  rotate: true
+  xy: 164, 91
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/face
+  rotate: false
+  xy: 2, 278
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/hair1
+  rotate: false
+  xy: 114, 160
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/hair2
+  rotate: true
+  xy: 443, 438
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/hair3
+  rotate: false
+  xy: 201, 339
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/hair4
+  rotate: false
+  xy: 172, 257
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/hairinner
+  rotate: true
+  xy: 138, 479
+  size: 31, 147
+  orig: 31, 147
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/hairout
+  rotate: false
+  xy: 2, 365
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/mouth01
+  rotate: true
+  xy: 281, 463
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/mouth03
+  rotate: false
+  xy: 112, 2
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Lana/Lana_Magic/mouth04
+  rotate: false
+  xy: 93, 115
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/arminner1
+  rotate: false
+  xy: 342, 393
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/armout1
+  rotate: true
+  xy: 160, 55
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/body
+  rotate: false
+  xy: 2, 97
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/body1
+  rotate: false
+  xy: 138, 384
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/qunbaiout
+  rotate: false
+  xy: 95, 53
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/shengzi
+  rotate: false
+  xy: 346, 362
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/toushi
+  rotate: false
+  xy: 138, 368
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Pilgrim_2/toushi1
+  rotate: false
+  xy: 441, 393
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/arminner1
+  rotate: false
+  xy: 109, 291
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/armoutdown
+  rotate: true
+  xy: 112, 7
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/body1
+  rotate: false
+  xy: 268, 397
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/jianjiainner
+  rotate: true
+  xy: 384, 370
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/jianjiaout
+  rotate: false
+  xy: 167, 2
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/piaodai
+  rotate: false
+  xy: 205, 386
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/qunzi
+  rotate: false
+  xy: 287, 457
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/qunziinner
+  rotate: true
+  xy: 411, 393
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/toushi
+  rotate: true
+  xy: 2, 19
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/toushi1
+  rotate: false
+  xy: 207, 257
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Lana/Lana_Pilgrim/Lana_Saint_3/weapon
+  rotate: false
+  xy: 2, 192
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 68, 39
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

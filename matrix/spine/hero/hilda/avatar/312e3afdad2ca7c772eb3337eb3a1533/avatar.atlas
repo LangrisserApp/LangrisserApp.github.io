@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hilda/Hilda_Marshal/Hilda_Marshal03/arminnerdown
+  rotate: false
+  xy: 395, 60
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/arminnerup
+  rotate: false
+  xy: 443, 220
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/armoutdown
+  rotate: true
+  xy: 456, 295
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/armoutup
+  rotate: false
+  xy: 184, 111
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/body
+  rotate: false
+  xy: 290, 262
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/eyebrow
+  rotate: true
+  xy: 498, 311
+  size: 62, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/eyehard
+  rotate: false
+  xy: 386, 260
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/eyehard 1
+  rotate: true
+  xy: 350, 104
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/eyehard2
+  rotate: false
+  xy: 134, 5
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/eyehard3
+  rotate: true
+  xy: 380, 44
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/eyesffuer
+  rotate: true
+  xy: 350, 33
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/eyeyun
+  rotate: true
+  xy: 372, 113
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/face
+  rotate: false
+  xy: 2, 57
+  size: 122, 138
+  orig: 122, 138
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/hair1
+  rotate: true
+  xy: 48, 4
+  size: 51, 84
+  orig: 51, 84
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/hair2
+  rotate: true
+  xy: 403, 335
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/hair3
+  rotate: false
+  xy: 352, 261
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/hair4
+  rotate: false
+  xy: 126, 105
+  size: 56, 99
+  orig: 56, 99
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/hair5
+  rotate: false
+  xy: 78, 327
+  size: 189, 183
+  orig: 189, 183
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/handinner
+  rotate: false
+  xy: 195, 35
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/handout
+  rotate: false
+  xy: 395, 37
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/handout1
+  rotate: false
+  xy: 442, 195
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/hudang
+  rotate: false
+  xy: 378, 222
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/jianjiainner
+  rotate: false
+  xy: 134, 21
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/jianjiaout
+  rotate: false
+  xy: 126, 61
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/leginnerdown
+  rotate: true
+  xy: 460, 268
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/leginnerup
+  rotate: true
+  xy: 402, 98
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/legoutdown
+  rotate: true
+  xy: 350, 2
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/legoutup
+  rotate: false
+  xy: 188, 61
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/mouth01
+  rotate: true
+  xy: 434, 72
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/mouth02
+  rotate: true
+  xy: 498, 295
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/mouth04
+  rotate: true
+  xy: 395, 98
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/weapon1
+  rotate: false
+  xy: 230, 20
+  size: 58, 305
+  orig: 58, 305
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/weapon2
+  rotate: false
+  xy: 403, 375
+  size: 99, 135
+  orig: 99, 135
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/yaojiainner
+  rotate: true
+  xy: 290, 3
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/yaojiainner2
+  rotate: false
+  xy: 402, 128
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal03/yaojiaout
+  rotate: false
+  xy: 184, 151
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/body
+  rotate: false
+  xy: 290, 178
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/hudang
+  rotate: false
+  xy: 378, 184
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/jianjiainner
+  rotate: false
+  xy: 386, 282
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/jianjiaout
+  rotate: true
+  xy: 290, 28
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/pifeng
+  rotate: false
+  xy: 78, 206
+  size: 150, 119
+  orig: 150, 119
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/toushi
+  rotate: false
+  xy: 290, 100
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/weapon1
+  rotate: false
+  xy: 2, 197
+  size: 74, 313
+  orig: 74, 313
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/weapon2
+  rotate: false
+  xy: 269, 346
+  size: 132, 164
+  orig: 132, 164
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/yaojiainner
+  rotate: false
+  xy: 434, 128
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_Marshal/Hilda_Marshal04/yaojiaout
+  rotate: false
+  xy: 2, 2
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 351, 185
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

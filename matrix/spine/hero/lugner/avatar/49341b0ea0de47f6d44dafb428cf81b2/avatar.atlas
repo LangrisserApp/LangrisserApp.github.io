@@ -1,0 +1,503 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lugner_HighBishop/Lugner_HighBishop_2/huanguan
+  rotate: false
+  xy: 396, 185
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/jianjiainner
+  rotate: true
+  xy: 166, 205
+  size: 49, 119
+  orig: 49, 119
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/jianjiaout
+  rotate: true
+  xy: 605, 404
+  size: 44, 120
+  orig: 44, 120
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/tx1
+  rotate: false
+  xy: 577, 193
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/tx2
+  rotate: false
+  xy: 244, 96
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/tx3
+  rotate: false
+  xy: 261, 89
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/weapon
+  rotate: true
+  xy: 485, 450
+  size: 60, 250
+  orig: 60, 250
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/xiuziinner
+  rotate: true
+  xy: 287, 204
+  size: 50, 107
+  orig: 50, 107
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_2/xiuziout
+  rotate: false
+  xy: 630, 295
+  size: 60, 107
+  orig: 60, 107
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/huanguan
+  rotate: true
+  xy: 500, 270
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/jianjiainner
+  rotate: false
+  xy: 513, 150
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/jianjiainner1
+  rotate: true
+  xy: 580, 252
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/jianjiaout
+  rotate: true
+  xy: 129, 24
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/jianjiaout1
+  rotate: false
+  xy: 367, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/piaodaiinner
+  rotate: false
+  xy: 244, 114
+  size: 37, 89
+  orig: 37, 89
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/piaodaiout
+  rotate: true
+  xy: 805, 303
+  size: 39, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/weapon
+  rotate: false
+  xy: 166, 256
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/xiuziinner
+  rotate: false
+  xy: 580, 283
+  size: 48, 108
+  orig: 48, 108
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/xiuziout
+  rotate: false
+  xy: 129, 84
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_3/xiuziout1
+  rotate: true
+  xy: 402, 249
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/Shadow
+  rotate: true
+  xy: 367, 34
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/arminnerdown
+  rotate: false
+  xy: 302, 9
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/arminnerup
+  rotate: true
+  xy: 621, 243
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/armoutdown
+  rotate: false
+  xy: 615, 219
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/armoutup
+  rotate: false
+  xy: 577, 213
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/body
+  rotate: false
+  xy: 177, 28
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/eyebrow
+  rotate: false
+  xy: 738, 298
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/eyehard
+  rotate: false
+  xy: 394, 59
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/eyehard1
+  rotate: false
+  xy: 394, 34
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/eyehard2
+  rotate: false
+  xy: 103, 2
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/eyehard3
+  rotate: false
+  xy: 630, 278
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/eyesffuer
+  rotate: false
+  xy: 177, 2
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/eyeyun
+  rotate: true
+  xy: 235, 28
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/face
+  rotate: false
+  xy: 272, 256
+  size: 128, 135
+  orig: 128, 135
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hair
+  rotate: false
+  xy: 283, 120
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hair1
+  rotate: false
+  xy: 302, 35
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hair2
+  rotate: false
+  xy: 351, 110
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hair3
+  rotate: true
+  xy: 396, 138
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hair4
+  rotate: true
+  xy: 2, 4
+  size: 28, 99
+  orig: 28, 99
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hand1
+  rotate: true
+  xy: 336, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hand2
+  rotate: true
+  xy: 280, 91
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/handinner
+  rotate: false
+  xy: 788, 270
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/handout
+  rotate: false
+  xy: 817, 275
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/handout1
+  rotate: true
+  xy: 652, 219
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/huanguan
+  rotate: false
+  xy: 737, 414
+  size: 166, 96
+  orig: 166, 96
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/hudang
+  rotate: true
+  xy: 396, 89
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/jianjiainner
+  rotate: false
+  xy: 555, 149
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/jianjiaout
+  rotate: true
+  xy: 967, 306
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/leginnertdown
+  rotate: true
+  xy: 737, 271
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/leginnertup
+  rotate: true
+  xy: 401, 7
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/legoutdown
+  rotate: false
+  xy: 487, 137
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/legoutup
+  rotate: false
+  xy: 483, 90
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/lingjinginner
+  rotate: false
+  xy: 659, 241
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/lingjingout
+  rotate: true
+  xy: 689, 248
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/lingziinner
+  rotate: true
+  xy: 892, 314
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/lingziout
+  rotate: false
+  xy: 502, 192
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/mouth01
+  rotate: false
+  xy: 283, 114
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/mouth02
+  rotate: true
+  xy: 727, 433
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/mouth04
+  rotate: false
+  xy: 605, 398
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/piaodaiinner
+  rotate: false
+  xy: 738, 311
+  size: 65, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/piaodaiout
+  rotate: false
+  xy: 176, 96
+  size: 66, 107
+  orig: 66, 107
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/qunbai
+  rotate: false
+  xy: 805, 344
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/qunbaiinner
+  rotate: false
+  xy: 336, 25
+  size: 29, 83
+  orig: 29, 83
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/qungbaiout
+  rotate: false
+  xy: 261, 2
+  size: 39, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/weapon
+  rotate: false
+  xy: 2, 201
+  size: 162, 309
+  orig: 162, 309
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/weapon_tx
+  rotate: true
+  xy: 905, 367
+  size: 143, 113
+  orig: 143, 113
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/weapon_tx2
+  rotate: true
+  xy: 2, 34
+  size: 165, 125
+  orig: 165, 125
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/xiuziinner
+  rotate: false
+  xy: 692, 299
+  size: 44, 103
+  orig: 44, 103
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/xiuziout
+  rotate: true
+  xy: 485, 393
+  size: 55, 118
+  orig: 55, 118
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/xiuziout1
+  rotate: false
+  xy: 272, 393
+  size: 211, 117
+  orig: 211, 117
+  offset: 0, 0
+  index: -1
+Lugner_HighBishop/Lugner_HighBishop_4/yaodai
+  rotate: false
+  xy: 692, 275
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1

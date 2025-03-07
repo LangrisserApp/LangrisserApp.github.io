@@ -1,0 +1,363 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 484, 435
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/arminnerdown
+  rotate: true
+  xy: 119, 241
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/arminnerup
+  rotate: false
+  xy: 221, 259
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/armoutdown
+  rotate: false
+  xy: 336, 322
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/armoutdown1
+  rotate: false
+  xy: 128, 140
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/armoutup
+  rotate: true
+  xy: 332, 286
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/body
+  rotate: true
+  xy: 289, 390
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/body1
+  rotate: false
+  xy: 46, 6
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/eyebrow
+  rotate: true
+  xy: 455, 401
+  size: 46, 9
+  orig: 46, 9
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/eyehard
+  rotate: false
+  xy: 289, 359
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/eyehard1
+  rotate: true
+  xy: 103, 3
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/eyehard2
+  rotate: false
+  xy: 125, 353
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/eyehard3
+  rotate: true
+  xy: 202, 177
+  size: 65, 7
+  orig: 65, 7
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/eyesffuer
+  rotate: true
+  xy: 180, 288
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/eyeyun
+  rotate: false
+  xy: 272, 322
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/face
+  rotate: false
+  xy: 2, 372
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/hair1
+  rotate: false
+  xy: 2, 2
+  size: 42, 79
+  orig: 42, 79
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/hair2
+  rotate: true
+  xy: 45, 83
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/hair3
+  rotate: true
+  xy: 387, 449
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/hair4
+  rotate: false
+  xy: 101, 175
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/hair5
+  rotate: true
+  xy: 272, 286
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/hairinner
+  rotate: false
+  xy: 119, 286
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/handinner
+  rotate: true
+  xy: 101, 146
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/handout
+  rotate: false
+  xy: 301, 223
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/handout1
+  rotate: false
+  xy: 369, 322
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/leginnerdown
+  rotate: false
+  xy: 369, 347
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/leginnerup
+  rotate: false
+  xy: 331, 239
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/legoutdown
+  rotate: true
+  xy: 211, 166
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/legoutup
+  rotate: true
+  xy: 454, 354
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/mouth01
+  rotate: true
+  xy: 89, 236
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/mouth02
+  rotate: false
+  xy: 370, 306
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/mouth04
+  rotate: false
+  xy: 255, 252
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/weapon
+  rotate: true
+  xy: 89, 253
+  size: 117, 28
+  orig: 117, 28
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/weijin
+  rotate: false
+  xy: 219, 361
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/xiabaiinner
+  rotate: false
+  xy: 272, 244
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/xiabaiinner1
+  rotate: false
+  xy: 407, 354
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_2/yaodai
+  rotate: false
+  xy: 255, 210
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/arminnerdown
+  rotate: false
+  xy: 125, 380
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/leginnerdown
+  rotate: false
+  xy: 366, 397
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/leginnerup
+  rotate: false
+  xy: 259, 163
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/legoutdown
+  rotate: false
+  xy: 211, 209
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/legoutup
+  rotate: true
+  xy: 466, 394
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/weapon
+  rotate: true
+  xy: 2, 83
+  size: 151, 41
+  orig: 151, 41
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/weijin1
+  rotate: true
+  xy: 2, 236
+  size: 134, 85
+  orig: 134, 85
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/weijin2
+  rotate: false
+  xy: 289, 448
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/weijin3
+  rotate: true
+  xy: 153, 176
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/xiabaiinner
+  rotate: false
+  xy: 221, 303
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_3/xiabaiinner1
+  rotate: true
+  xy: 219, 405
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_4/jianjiainner
+  rotate: false
+  xy: 404, 401
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_4/toushi
+  rotate: true
+  xy: 45, 146
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+Tsubame/Tsubame_Shadow/Tsubame_Shadow_4/weapon
+  rotate: false
+  xy: 125, 463
+  size: 162, 46
+  orig: 162, 46
+  offset: 0, 0
+  index: -1

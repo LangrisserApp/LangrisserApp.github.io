@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/mouth02
+  rotate: false
+  xy: 127, 14
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Elwin/mouth03
+  rotate: false
+  xy: 329, 143
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Elwin/mouth04
+  rotate: false
+  xy: 194, 25
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/arminnerdown
+  rotate: true
+  xy: 105, 106
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/arminnerup
+  rotate: false
+  xy: 349, 148
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/armoutdown
+  rotate: true
+  xy: 446, 332
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/armoutup
+  rotate: true
+  xy: 398, 270
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/body
+  rotate: false
+  xy: 246, 157
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/eyebrow
+  rotate: true
+  xy: 176, 26
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/eyehard
+  rotate: true
+  xy: 487, 444
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/eyehard1
+  rotate: false
+  xy: 379, 342
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/eyehard2
+  rotate: true
+  xy: 194, 33
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/eyehard3
+  rotate: false
+  xy: 446, 360
+  size: 64, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/eyesffuer
+  rotate: false
+  xy: 319, 309
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/eyeyun
+  rotate: true
+  xy: 154, 24
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/face
+  rotate: false
+  xy: 2, 106
+  size: 101, 146
+  orig: 101, 146
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/hair
+  rotate: true
+  xy: 398, 246
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/hair1
+  rotate: false
+  xy: 306, 154
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/hair2
+  rotate: false
+  xy: 256, 235
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/hair3
+  rotate: false
+  xy: 107, 321
+  size: 156, 88
+  orig: 156, 88
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/hair4
+  rotate: true
+  xy: 155, 100
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/handout
+  rotate: false
+  xy: 485, 336
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/hudang
+  rotate: false
+  xy: 395, 309
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/jianjiainner
+  rotate: false
+  xy: 341, 245
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/jianjiaout
+  rotate: false
+  xy: 379, 367
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/jianjiaout1
+  rotate: true
+  xy: 218, 94
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/leginnerdown
+  rotate: false
+  xy: 215, 2
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/leginnerup
+  rotate: false
+  xy: 259, 107
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/legoutdown
+  rotate: false
+  xy: 294, 108
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/legoutup
+  rotate: true
+  xy: 323, 409
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/mouth01
+  rotate: false
+  xy: 487, 435
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/pifeng
+  rotate: false
+  xy: 105, 143
+  size: 139, 90
+  orig: 139, 90
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/shield
+  rotate: true
+  xy: 107, 235
+  size: 84, 147
+  orig: 84, 147
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/toushi
+  rotate: true
+  xy: 265, 309
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/weapon
+  rotate: false
+  xy: 2, 411
+  size: 319, 40
+  orig: 319, 40
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/yaojiainner
+  rotate: false
+  xy: 295, 66
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/Landius_Guardian_2/yaojiaout
+  rotate: false
+  xy: 215, 47
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/body
+  rotate: false
+  xy: 319, 331
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/jianjiainner
+  rotate: false
+  xy: 349, 181
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/jianjiaout
+  rotate: true
+  xy: 446, 368
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/jianjiaout1
+  rotate: false
+  xy: 260, 63
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/pifeng
+  rotate: false
+  xy: 373, 432
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/pifeng1
+  rotate: false
+  xy: 2, 12
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/shield
+  rotate: false
+  xy: 2, 254
+  size: 103, 155
+  orig: 103, 155
+  offset: 0, 0
+  index: -1
+Landius/Landius_Guardian/RoyalGuardian_3/weapon
+  rotate: false
+  xy: 2, 453
+  size: 369, 57
+  orig: 369, 57
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 127, 30
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

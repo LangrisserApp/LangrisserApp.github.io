@@ -1,0 +1,377 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/arminnerdown
+  rotate: false
+  xy: 231, 65
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/arminnerup
+  rotate: true
+  xy: 464, 305
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/armoutdown
+  rotate: true
+  xy: 206, 164
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/armoutup
+  rotate: true
+  xy: 153, 86
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/body
+  rotate: false
+  xy: 243, 226
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/eyebrow
+  rotate: true
+  xy: 115, 17
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/eyehard
+  rotate: false
+  xy: 243, 196
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/eyehard1
+  rotate: false
+  xy: 138, 169
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/eyehard2
+  rotate: true
+  xy: 130, 97
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/eyehard3
+  rotate: true
+  xy: 134, 31
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/eyesffuer
+  rotate: false
+  xy: 311, 189
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/eyeyun
+  rotate: true
+  xy: 88, 91
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/face
+  rotate: false
+  xy: 2, 348
+  size: 140, 162
+  orig: 140, 162
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/hair1
+  rotate: true
+  xy: 307, 374
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/hair2
+  rotate: false
+  xy: 453, 413
+  size: 49, 97
+  orig: 49, 97
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/hair3
+  rotate: true
+  xy: 152, 198
+  size: 38, 89
+  orig: 38, 89
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/hair4
+  rotate: true
+  xy: 321, 414
+  size: 96, 130
+  orig: 96, 130
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/hair5
+  rotate: false
+  xy: 152, 311
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/handinner
+  rotate: false
+  xy: 446, 233
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/handout
+  rotate: false
+  xy: 486, 283
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/hudang
+  rotate: true
+  xy: 134, 2
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/jianjiainner
+  rotate: true
+  xy: 454, 192
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/jianjiaout
+  rotate: false
+  xy: 385, 190
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/leginnerdown
+  rotate: true
+  xy: 471, 224
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/leginnerup
+  rotate: false
+  xy: 153, 124
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/legoutdown
+  rotate: true
+  xy: 441, 374
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/legoutup
+  rotate: true
+  xy: 243, 165
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/mouth01
+  rotate: true
+  xy: 486, 258
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/mouth02
+  rotate: false
+  xy: 171, 13
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/mouth04
+  rotate: false
+  xy: 292, 189
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/weapon
+  rotate: true
+  xy: 91, 207
+  size: 139, 59
+  orig: 139, 59
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/yaojiainner
+  rotate: true
+  xy: 231, 92
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_2/Olivo_HighMaster_2/yaojiaout
+  rotate: false
+  xy: 418, 333
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/body
+  rotate: false
+  xy: 310, 231
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/hudang
+  rotate: true
+  xy: 195, 128
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/jianjiainner
+  rotate: false
+  xy: 192, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/jianjiaout
+  rotate: false
+  xy: 349, 318
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/leginnerdown
+  rotate: false
+  xy: 196, 86
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/legoutdown
+  rotate: true
+  xy: 394, 374
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/pifeng
+  rotate: true
+  xy: 2, 6
+  size: 158, 84
+  orig: 158, 84
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/weapon
+  rotate: false
+  xy: 144, 373
+  size: 161, 63
+  orig: 161, 63
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_3/Olivo_HighMaster_3/yaojiaout
+  rotate: false
+  xy: 91, 165
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/body
+  rotate: false
+  xy: 378, 233
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/jianjiainner
+  rotate: true
+  xy: 464, 337
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/jianjiaout
+  rotate: false
+  xy: 264, 316
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/leginnerdown
+  rotate: false
+  xy: 192, 44
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/leginnerup
+  rotate: false
+  xy: 150, 41
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/legoutdown
+  rotate: false
+  xy: 446, 258
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/pifeng
+  rotate: true
+  xy: 2, 166
+  size: 180, 87
+  orig: 180, 87
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/toushi
+  rotate: false
+  xy: 152, 238
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/weapon
+  rotate: false
+  xy: 144, 438
+  size: 175, 72
+  orig: 175, 72
+  offset: 0, 0
+  index: -1
+Olivo/HighMaster/Olivo_HighMaster_4/Olivo_HighMaster_4/xiongshi
+  rotate: true
+  xy: 150, 31
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 88, 15
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

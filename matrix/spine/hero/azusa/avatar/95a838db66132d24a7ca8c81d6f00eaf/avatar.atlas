@@ -1,0 +1,650 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/arminnerdown
+  rotate: false
+  xy: 444, 423
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/arminnerup
+  rotate: false
+  xy: 309, 207
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/armoutdown
+  rotate: false
+  xy: 211, 111
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/armoutup
+  rotate: false
+  xy: 428, 384
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/body
+  rotate: false
+  xy: 243, 392
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/leginnerdown
+  rotate: false
+  xy: 402, 244
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/legoutdown
+  rotate: false
+  xy: 346, 242
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/legoutup
+  rotate: true
+  xy: 329, 392
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/qunzi1
+  rotate: false
+  xy: 307, 243
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/qunzi2
+  rotate: false
+  xy: 229, 188
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/qunzi4
+  rotate: false
+  xy: 166, 150
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/texiao1
+  rotate: false
+  xy: 173, 262
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/texiao2
+  rotate: false
+  xy: 378, 384
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/texiao3
+  rotate: false
+  xy: 72, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/texiao4
+  rotate: true
+  xy: 346, 203
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/weapon1
+  rotate: false
+  xy: 248, 182
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/weapon2
+  rotate: true
+  xy: 225, 262
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/weapon3
+  rotate: true
+  xy: 425, 238
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_2/weapon4
+  rotate: false
+  xy: 272, 103
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/arminnerdown
+  rotate: true
+  xy: 165, 47
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/arminnerup
+  rotate: true
+  xy: 389, 288
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/armoutup
+  rotate: true
+  xy: 467, 424
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/body
+  rotate: false
+  xy: 256, 243
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/handout
+  rotate: true
+  xy: 240, 111
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/handout1
+  rotate: true
+  xy: 193, 48
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/lingzi
+  rotate: true
+  xy: 72, 42
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/qunzi1
+  rotate: false
+  xy: 168, 371
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/qunzi2
+  rotate: true
+  xy: 2, 11
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/qunzi3
+  rotate: false
+  xy: 162, 198
+  size: 16, 57
+  orig: 16, 57
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/qunzi4
+  rotate: false
+  xy: 233, 455
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/toushi2
+  rotate: false
+  xy: 165, 70
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/toushi4
+  rotate: true
+  xy: 226, 221
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/weapon1
+  rotate: false
+  xy: 377, 346
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/weapon2
+  rotate: false
+  xy: 166, 114
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/weapon3
+  rotate: false
+  xy: 238, 141
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_3/weapon4
+  rotate: true
+  xy: 129, 257
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/arminnerdown
+  rotate: false
+  xy: 204, 24
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/arminnerup
+  rotate: false
+  xy: 425, 307
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/armoutdown
+  rotate: false
+  xy: 271, 74
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/armoutup
+  rotate: false
+  xy: 204, 72
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/body
+  rotate: false
+  xy: 326, 343
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/daizi1
+  rotate: false
+  xy: 214, 48
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/daizi2
+  rotate: true
+  xy: 294, 392
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/daizi3
+  rotate: true
+  xy: 326, 325
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/dang
+  rotate: true
+  xy: 425, 267
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/eyebrow
+  rotate: false
+  xy: 377, 451
+  size: 73, 10
+  orig: 73, 10
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/eyehard
+  rotate: true
+  xy: 219, 371
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/eyehard1
+  rotate: true
+  xy: 120, 182
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/eyehard2
+  rotate: true
+  xy: 144, 182
+  size: 73, 16
+  orig: 73, 16
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/eyehard3
+  rotate: true
+  xy: 307, 329
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/eyesffuer
+  rotate: true
+  xy: 133, 59
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/eyeyun
+  rotate: true
+  xy: 225, 302
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/face
+  rotate: false
+  xy: 2, 125
+  size: 116, 130
+  orig: 116, 130
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/hair1
+  rotate: false
+  xy: 256, 329
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/hair2
+  rotate: false
+  xy: 129, 357
+  size: 37, 87
+  orig: 37, 87
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/hair3
+  rotate: false
+  xy: 129, 286
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/hair4
+  rotate: true
+  xy: 180, 188
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/hair5
+  rotate: false
+  xy: 2, 257
+  size: 125, 253
+  orig: 125, 253
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/handinner
+  rotate: false
+  xy: 289, 194
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/handinner1
+  rotate: true
+  xy: 204, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/handout
+  rotate: true
+  xy: 425, 209
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/handout1
+  rotate: false
+  xy: 238, 56
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/handout3
+  rotate: false
+  xy: 181, 19
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/handout4
+  rotate: false
+  xy: 406, 209
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/leginnerdown
+  rotate: false
+  xy: 273, 138
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/leginnerup
+  rotate: true
+  xy: 256, 215
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/legoutdown
+  rotate: true
+  xy: 377, 325
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/legoutup
+  rotate: false
+  xy: 211, 139
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/lingzi
+  rotate: false
+  xy: 129, 446
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/mouth01
+  rotate: false
+  xy: 133, 49
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/mouth02
+  rotate: true
+  xy: 243, 376
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/mouth03
+  rotate: true
+  xy: 260, 61
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/mouth04
+  rotate: false
+  xy: 303, 455
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/qunzi1
+  rotate: true
+  xy: 303, 461
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/qunzi2
+  rotate: false
+  xy: 2, 61
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/qunzi3
+  rotate: true
+  xy: 377, 423
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/qunzi4
+  rotate: false
+  xy: 377, 463
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/texiao1
+  rotate: true
+  xy: 173, 307
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/texiao2
+  rotate: true
+  xy: 120, 128
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/texiao3
+  rotate: false
+  xy: 180, 216
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/texiao4
+  rotate: true
+  xy: 329, 420
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/toushi1
+  rotate: false
+  xy: 153, 20
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/toushi2
+  rotate: false
+  xy: 452, 456
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/toushi3
+  rotate: false
+  xy: 389, 205
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/toushi4
+  rotate: false
+  xy: 256, 293
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/weapon1
+  rotate: false
+  xy: 311, 287
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/weapon2
+  rotate: true
+  xy: 367, 242
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/weapon3
+  rotate: false
+  xy: 427, 343
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/weapon4
+  rotate: false
+  xy: 360, 287
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/xiuzi1
+  rotate: true
+  xy: 108, 2
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Tsuruya/Azusa_Tsuruya_4/xiuzi2
+  rotate: false
+  xy: 236, 77
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 106, 49
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

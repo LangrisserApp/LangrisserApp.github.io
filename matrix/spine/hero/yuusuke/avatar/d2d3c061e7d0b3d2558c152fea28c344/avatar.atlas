@@ -1,0 +1,328 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 327, 146
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/arminnerdown
+  rotate: false
+  xy: 308, 2
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/arminnerup
+  rotate: false
+  xy: 333, 34
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/armoutdown
+  rotate: true
+  xy: 494, 281
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/armoutup
+  rotate: true
+  xy: 371, 78
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/body
+  rotate: true
+  xy: 624, 347
+  size: 52, 89
+  orig: 52, 89
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/body1
+  rotate: false
+  xy: 327, 265
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/body2
+  rotate: true
+  xy: 715, 340
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/eyebrow
+  rotate: false
+  xy: 327, 173
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/eyehard
+  rotate: false
+  xy: 624, 320
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/eyehard1
+  rotate: false
+  xy: 327, 119
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 73, 18
+  orig: 73, 18
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/eyehard3
+  rotate: false
+  xy: 624, 292
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/eyesffuer
+  rotate: false
+  xy: 494, 306
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/eyeyun
+  rotate: false
+  xy: 327, 213
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/face
+  rotate: true
+  xy: 866, 363
+  size: 147, 150
+  orig: 147, 150
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/hair1
+  rotate: true
+  xy: 349, 264
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/hair2
+  rotate: false
+  xy: 482, 251
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handinner
+  rotate: false
+  xy: 806, 325
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handinner1
+  rotate: false
+  xy: 333, 77
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handinner2
+  rotate: false
+  xy: 482, 217
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handinner3
+  rotate: false
+  xy: 480, 188
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handinner4
+  rotate: false
+  xy: 837, 325
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handout
+  rotate: true
+  xy: 895, 338
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handout1
+  rotate: false
+  xy: 578, 275
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handout2
+  rotate: false
+  xy: 867, 333
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handout3
+  rotate: false
+  xy: 446, 201
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/handout4
+  rotate: true
+  xy: 926, 337
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/leginnerdown
+  rotate: false
+  xy: 411, 215
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/leginnerup
+  rotate: true
+  xy: 578, 305
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/legoutdown
+  rotate: false
+  xy: 446, 229
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/legoutdown1
+  rotate: false
+  xy: 434, 278
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/legoutup
+  rotate: false
+  xy: 806, 353
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/mouth01
+  rotate: true
+  xy: 479, 291
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/mouth02
+  rotate: false
+  xy: 956, 344
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/mouth03
+  rotate: false
+  xy: 116, 5
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/mouth04
+  rotate: false
+  xy: 77, 5
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/texiao1
+  rotate: false
+  xy: 349, 325
+  size: 143, 31
+  orig: 143, 31
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/texiao2
+  rotate: false
+  xy: 177, 22
+  size: 129, 76
+  orig: 129, 76
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/texiao3
+  rotate: true
+  xy: 308, 25
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_3/yaodai
+  rotate: true
+  xy: 536, 280
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_4/1
+  rotate: false
+  xy: 2, 23
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_4/2
+  rotate: false
+  xy: 624, 401
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Yuusuke/Yuusuke_Reincarnation/Yuusuke_Reincarnation_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1

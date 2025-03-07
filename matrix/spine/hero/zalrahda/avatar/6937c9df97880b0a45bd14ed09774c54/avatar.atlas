@@ -1,0 +1,440 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 110, 169
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/arminnerdown
+  rotate: false
+  xy: 307, 94
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/arminnerup
+  rotate: false
+  xy: 355, 128
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/armoutdown
+  rotate: true
+  xy: 137, 91
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/armoutup
+  rotate: false
+  xy: 439, 334
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/body
+  rotate: false
+  xy: 51, 166
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/face
+  rotate: false
+  xy: 51, 245
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair
+  rotate: false
+  xy: 132, 377
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair1
+  rotate: true
+  xy: 156, 36
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair2
+  rotate: false
+  xy: 439, 371
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair3
+  rotate: true
+  xy: 246, 346
+  size: 27, 134
+  orig: 27, 134
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair4
+  rotate: true
+  xy: 246, 312
+  size: 32, 122
+  orig: 32, 122
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hair5
+  rotate: true
+  xy: 139, 250
+  size: 39, 114
+  orig: 39, 114
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/hairinner
+  rotate: false
+  xy: 2, 358
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/handinner
+  rotate: true
+  xy: 481, 331
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/handout
+  rotate: true
+  xy: 173, 91
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/leginnerdown
+  rotate: false
+  xy: 119, 38
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/leginnerup
+  rotate: false
+  xy: 332, 166
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/legoutdoen
+  rotate: true
+  xy: 262, 169
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/legoutup
+  rotate: true
+  xy: 262, 136
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/qunbaiinner
+  rotate: false
+  xy: 228, 122
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/qunbaiinnerinner
+  rotate: true
+  xy: 481, 426
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/qunbaiout
+  rotate: true
+  xy: 333, 204
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/qunzi
+  rotate: true
+  xy: 333, 252
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/qunziout
+  rotate: false
+  xy: 262, 206
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/toushi
+  rotate: true
+  xy: 310, 205
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/weapon
+  rotate: true
+  xy: 2, 3
+  size: 139, 49
+  orig: 139, 49
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/xiabaiinner
+  rotate: true
+  xy: 262, 103
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda01_Assassin/xiabaiout
+  rotate: false
+  xy: 230, 146
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/arminnerdown
+  rotate: false
+  xy: 119, 2
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/arminnerup
+  rotate: true
+  xy: 224, 97
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/armoutdown
+  rotate: true
+  xy: 345, 94
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/armoutup
+  rotate: false
+  xy: 314, 129
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/body
+  rotate: true
+  xy: 255, 253
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/qunbaiinner
+  rotate: true
+  xy: 308, 170
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/qunbaiinnerinner
+  rotate: true
+  xy: 481, 393
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/qunbaiout
+  rotate: false
+  xy: 139, 291
+  size: 105, 84
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/qunzi
+  rotate: true
+  xy: 53, 12
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/toushi1
+  rotate: true
+  xy: 481, 354
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda02_Ninja/weapon
+  rotate: false
+  xy: 271, 471
+  size: 171, 39
+  orig: 171, 39
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/arminnerdown
+  rotate: false
+  xy: 158, 2
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/body
+  rotate: false
+  xy: 53, 88
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/daizi
+  rotate: true
+  xy: 382, 351
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/jianjiainner
+  rotate: false
+  xy: 196, 96
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/jianjiaout
+  rotate: true
+  xy: 230, 195
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/qunbaiinnerinner
+  rotate: false
+  xy: 178, 49
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/qunbaiout
+  rotate: false
+  xy: 271, 375
+  size: 109, 94
+  orig: 109, 94
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/toushi1
+  rotate: true
+  xy: 187, 186
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/weapon
+  rotate: true
+  xy: 2, 144
+  size: 212, 47
+  orig: 212, 47
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/xiabaiinner
+  rotate: false
+  xy: 444, 459
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/Zalrahda03_Shadow/xiabaiout
+  rotate: false
+  xy: 137, 186
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/dd
+  rotate: false
+  xy: 506, 387
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyebrow
+  rotate: false
+  xy: 382, 342
+  size: 48, 7
+  orig: 48, 7
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard
+  rotate: true
+  xy: 112, 103
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard1
+  rotate: true
+  xy: 94, 22
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard2
+  rotate: true
+  xy: 173, 120
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyehard3
+  rotate: false
+  xy: 139, 237
+  size: 68, 11
+  orig: 68, 11
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyesffuer
+  rotate: true
+  xy: 137, 125
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/eyesyun
+  rotate: true
+  xy: 194, 123
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/mouth01
+  rotate: false
+  xy: 196, 91
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/mouth02
+  rotate: false
+  xy: 94, 5
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Zalrahda/Ninjia/mouth04
+  rotate: true
+  xy: 507, 492
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1

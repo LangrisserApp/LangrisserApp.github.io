@@ -1,0 +1,475 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alia_Saint_3/book
+  rotate: false
+  xy: 179, 19
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+Alia_Saint_3/maozi1
+  rotate: false
+  xy: 384, 32
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Alia_Saint_3/toushi1
+  rotate: false
+  xy: 268, 328
+  size: 39, 91
+  orig: 39, 91
+  offset: 0, 0
+  index: -1
+Alia_Saint_3/toushi2
+  rotate: true
+  xy: 264, 4
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+Alia_Saint_3/toushi3
+  rotate: false
+  xy: 2, 302
+  size: 143, 106
+  orig: 143, 106
+  offset: 0, 0
+  index: -1
+Alia_Saint_3/xiabai3
+  rotate: false
+  xy: 407, 345
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+Alia_Saint_3/xiabai4
+  rotate: true
+  xy: 330, 99
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/Shadow
+  rotate: true
+  xy: 400, 254
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/arminnerdown
+  rotate: false
+  xy: 409, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/arminnerup
+  rotate: true
+  xy: 372, 2
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/arminnerup1
+  rotate: true
+  xy: 458, 253
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/arminnerup2
+  rotate: true
+  xy: 422, 172
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/armoutdown
+  rotate: false
+  xy: 469, 171
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/armoutup
+  rotate: false
+  xy: 457, 67
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/armoutup1
+  rotate: false
+  xy: 476, 313
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/body
+  rotate: false
+  xy: 447, 444
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/book
+  rotate: true
+  xy: 257, 226
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/daizi1
+  rotate: false
+  xy: 105, 165
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/daizi2
+  rotate: true
+  xy: 150, 196
+  size: 31, 105
+  orig: 31, 105
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/eyebrow
+  rotate: false
+  xy: 323, 131
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/eyehard
+  rotate: false
+  xy: 257, 195
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/eyehard1
+  rotate: true
+  xy: 427, 270
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/eyehard2
+  rotate: false
+  xy: 330, 74
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/eyehard3
+  rotate: true
+  xy: 409, 183
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/eyesffuer
+  rotate: false
+  xy: 253, 92
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/eyeyun
+  rotate: true
+  xy: 476, 367
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/face
+  rotate: false
+  xy: 150, 229
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair1
+  rotate: false
+  xy: 253, 125
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair2
+  rotate: true
+  xy: 332, 192
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair3
+  rotate: false
+  xy: 112, 30
+  size: 65, 133
+  orig: 65, 133
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair4
+  rotate: true
+  xy: 323, 36
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair5
+  rotate: true
+  xy: 422, 147
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair6
+  rotate: true
+  xy: 302, 428
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair7
+  rotate: false
+  xy: 2, 12
+  size: 108, 138
+  orig: 108, 138
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/hair8
+  rotate: true
+  xy: 157, 421
+  size: 89, 143
+  orig: 89, 143
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/handinner
+  rotate: true
+  xy: 457, 38
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/handinner1
+  rotate: true
+  xy: 470, 10
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/handinner4
+  rotate: false
+  xy: 397, 153
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/handout
+  rotate: false
+  xy: 439, 6
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/handout1
+  rotate: false
+  xy: 150, 168
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/leginnerdown
+  rotate: true
+  xy: 399, 122
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/leginnerup
+  rotate: true
+  xy: 112, 2
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/legoutdown
+  rotate: true
+  xy: 458, 282
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/legoutup
+  rotate: true
+  xy: 324, 2
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/maozi
+  rotate: false
+  xy: 2, 410
+  size: 153, 100
+  orig: 153, 100
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/maozi1
+  rotate: false
+  xy: 264, 35
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/mouth01
+  rotate: false
+  xy: 397, 147
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/mouth02
+  rotate: true
+  xy: 430, 32
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/mouth03
+  rotate: false
+  xy: 406, 74
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/page1
+  rotate: true
+  xy: 449, 138
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/page2
+  rotate: false
+  xy: 406, 81
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/page3
+  rotate: true
+  xy: 438, 86
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/page4
+  rotate: true
+  xy: 407, 330
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/page5
+  rotate: false
+  xy: 147, 393
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/pifeng
+  rotate: false
+  xy: 157, 328
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/toushi1
+  rotate: false
+  xy: 179, 86
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/toushi2
+  rotate: false
+  xy: 422, 197
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/toushi3
+  rotate: true
+  xy: 2, 152
+  size: 148, 101
+  orig: 148, 101
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/tx1
+  rotate: true
+  xy: 469, 132
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/tx2
+  rotate: true
+  xy: 486, 104
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/tx3
+  rotate: false
+  xy: 430, 46
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/tx4
+  rotate: false
+  xy: 457, 96
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/xiabai1
+  rotate: false
+  xy: 468, 206
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/xiabai2
+  rotate: true
+  xy: 398, 100
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/xiabai3
+  rotate: false
+  xy: 309, 330
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/xiabai4
+  rotate: true
+  xy: 323, 146
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+Alia_Saint_4/xiabai5
+  rotate: true
+  xy: 332, 244
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1

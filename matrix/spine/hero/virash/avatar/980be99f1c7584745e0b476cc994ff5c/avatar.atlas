@@ -1,0 +1,412 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 573, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Rivaas/Rivaas_Fighter/Rivaas_Fighter_2/handout2
+  rotate: false
+  xy: 587, 200
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 754, 298
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/arminnerdown
+  rotate: true
+  xy: 564, 227
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/arminnerup
+  rotate: true
+  xy: 711, 284
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/armoutdown
+  rotate: false
+  xy: 799, 264
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/armoutup
+  rotate: true
+  xy: 983, 232
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/body
+  rotate: false
+  xy: 431, 289
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/eyebrow
+  rotate: false
+  xy: 490, 284
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/eyehard
+  rotate: false
+  xy: 490, 235
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/eyehard 1
+  rotate: true
+  xy: 415, 70
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/eyehard2
+  rotate: false
+  xy: 435, 218
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/eyehard3
+  rotate: true
+  xy: 389, 72
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/eyesffuer
+  rotate: false
+  xy: 487, 355
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/eyeyun
+  rotate: true
+  xy: 350, 63
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/face
+  rotate: false
+  xy: 2, 115
+  size: 180, 148
+  orig: 180, 148
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/hair1
+  rotate: true
+  xy: 298, 352
+  size: 40, 112
+  orig: 40, 112
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/hair2
+  rotate: false
+  xy: 754, 325
+  size: 74, 124
+  orig: 74, 124
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/hair3
+  rotate: false
+  xy: 830, 236
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/handinner
+  rotate: false
+  xy: 958, 220
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/handout
+  rotate: false
+  xy: 559, 199
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/hudang
+  rotate: true
+  xy: 317, 83
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/hudanginner
+  rotate: true
+  xy: 293, 2
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/jianjiainner
+  rotate: false
+  xy: 564, 284
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/jianjiaout
+  rotate: true
+  xy: 389, 224
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/leginnerdown
+  rotate: true
+  xy: 615, 249
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/leginnerup
+  rotate: false
+  xy: 386, 144
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/legoutdown
+  rotate: true
+  xy: 753, 265
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/legoutup
+  rotate: true
+  xy: 389, 187
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/mouth01
+  rotate: true
+  xy: 557, 355
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/mouth02
+  rotate: false
+  xy: 557, 380
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/mouth04
+  rotate: true
+  xy: 175, 101
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/pifenginner3
+  rotate: false
+  xy: 830, 345
+  size: 152, 101
+  orig: 152, 101
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/weapon
+  rotate: false
+  xy: 298, 394
+  size: 273, 116
+  orig: 273, 116
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/yaojiainner
+  rotate: false
+  xy: 348, 3
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_2/yaojiaout
+  rotate: true
+  xy: 490, 303
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/body
+  rotate: false
+  xy: 372, 288
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/jianjiainner
+  rotate: false
+  xy: 435, 235
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/jianjiaout
+  rotate: true
+  xy: 317, 190
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/leginnerdown
+  rotate: true
+  xy: 509, 200
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/legoutdown
+  rotate: true
+  xy: 662, 285
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/pifenginner3
+  rotate: true
+  xy: 184, 83
+  size: 180, 131
+  orig: 180, 131
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/toushi1
+  rotate: false
+  xy: 984, 337
+  size: 33, 109
+  orig: 33, 109
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/toushi2
+  rotate: true
+  xy: 175, 16
+  size: 65, 116
+  orig: 65, 116
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/weapon
+  rotate: false
+  xy: 2, 265
+  size: 293, 117
+  orig: 293, 117
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/weijin1
+  rotate: false
+  xy: 412, 352
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/weijn
+  rotate: true
+  xy: 983, 266
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/yaodai
+  rotate: false
+  xy: 490, 257
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_3/yaodai1
+  rotate: false
+  xy: 435, 189
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/face1
+  rotate: true
+  xy: 958, 244
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/jianjiainner
+  rotate: false
+  xy: 317, 130
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/jianjiaout
+  rotate: true
+  xy: 297, 265
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/leginnerdown
+  rotate: true
+  xy: 613, 284
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/legoutdown
+  rotate: true
+  xy: 566, 250
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/pifenginner3
+  rotate: false
+  xy: 573, 319
+  size: 179, 130
+  orig: 179, 130
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/toushi1
+  rotate: true
+  xy: 2, 14
+  size: 99, 171
+  orig: 99, 171
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/toushi2
+  rotate: true
+  xy: 839, 448
+  size: 62, 182
+  orig: 62, 182
+  offset: 0, 0
+  index: -1
+Virash/Virash_SwordMaster/Virash_SwordMaster_4/weapon
+  rotate: false
+  xy: 2, 384
+  size: 294, 126
+  orig: 294, 126
+  offset: 0, 0
+  index: -1

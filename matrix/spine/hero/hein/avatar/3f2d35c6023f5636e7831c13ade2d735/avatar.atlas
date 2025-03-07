@@ -1,0 +1,384 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda_Pilgrim/Aimeeda_Saint_4/weapon
+  rotate: false
+  xy: 91, 306
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyebrow
+  rotate: false
+  xy: 267, 393
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard
+  rotate: false
+  xy: 445, 381
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard1
+  rotate: false
+  xy: 445, 413
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard2
+  rotate: false
+  xy: 337, 376
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyehard3
+  rotate: false
+  xy: 267, 408
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyesffuer
+  rotate: true
+  xy: 403, 385
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Hein/Hein02/eyeyun
+  rotate: false
+  xy: 337, 408
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+Hein/Hein02/face
+  rotate: false
+  xy: 2, 193
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair
+  rotate: false
+  xy: 150, 445
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair1
+  rotate: true
+  xy: 91, 175
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair2
+  rotate: false
+  xy: 2, 279
+  size: 87, 111
+  orig: 87, 111
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair3
+  rotate: false
+  xy: 91, 226
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Hein/Hein02/hair4
+  rotate: false
+  xy: 165, 178
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth01
+  rotate: true
+  xy: 353, 297
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth02
+  rotate: false
+  xy: 346, 317
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Hein/Hein02/mouth03
+  rotate: false
+  xy: 260, 248
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Hein/Hein03/leginnerdown
+  rotate: true
+  xy: 191, 101
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Hein/Hein03/legoutdown
+  rotate: true
+  xy: 260, 256
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Hein/Hein03/pifeng
+  rotate: false
+  xy: 2, 392
+  size: 146, 118
+  orig: 146, 118
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Hein_Saint_3/arminner
+  rotate: false
+  xy: 81, 103
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Hein_Saint_3/body
+  rotate: true
+  xy: 267, 448
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Hein_Saint_3/body1
+  rotate: true
+  xy: 360, 448
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Hein_Saint_3/hudang
+  rotate: true
+  xy: 318, 335
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Hein_Saint_3/shipin
+  rotate: true
+  xy: 177, 311
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Hein_Saint_3/shipin1
+  rotate: false
+  xy: 150, 392
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Hein_Saint_3/yaodai
+  rotate: true
+  xy: 374, 316
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/arminner1
+  rotate: false
+  xy: 260, 339
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/arminner2
+  rotate: true
+  xy: 260, 286
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/armout1
+  rotate: false
+  xy: 405, 329
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/armout2
+  rotate: false
+  xy: 191, 164
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/body
+  rotate: false
+  xy: 2, 2
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/body2
+  rotate: false
+  xy: 2, 97
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/bodyinner
+  rotate: true
+  xy: 296, 316
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/hand inner
+  rotate: false
+  xy: 230, 401
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/hand out
+  rotate: true
+  xy: 238, 291
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/handinner2
+  rotate: false
+  xy: 293, 287
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/leginnerdown
+  rotate: false
+  xy: 191, 201
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/leginnerup
+  rotate: false
+  xy: 442, 336
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/legoutdown
+  rotate: false
+  xy: 223, 204
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/legoutup
+  rotate: false
+  xy: 474, 340
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/page1
+  rotate: false
+  xy: 344, 294
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/page2
+  rotate: true
+  xy: 322, 291
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/page3
+  rotate: false
+  xy: 405, 309
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/page4
+  rotate: true
+  xy: 238, 257
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/page5
+  rotate: true
+  xy: 238, 244
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/qunbai inner
+  rotate: false
+  xy: 260, 316
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/qunbai out
+  rotate: true
+  xy: 187, 241
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/qunbai2
+  rotate: true
+  xy: 139, 102
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/qunbai2inner
+  rotate: true
+  xy: 191, 127
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/shengzi
+  rotate: false
+  xy: 318, 317
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/toushi
+  rotate: true
+  xy: 166, 225
+  size: 79, 19
+  orig: 79, 19
+  offset: 0, 0
+  index: -1
+Hein/Heinsaint/Heinsaint02/weapon
+  rotate: true
+  xy: 453, 445
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 233, 325
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

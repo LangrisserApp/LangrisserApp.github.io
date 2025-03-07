@@ -1,0 +1,195 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/arminnerdown
+  rotate: true
+  xy: 464, 159
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/arminnerup
+  rotate: false
+  xy: 327, 83
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/armoutdown
+  rotate: false
+  xy: 248, 75
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/armoutup
+  rotate: true
+  xy: 481, 218
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/body
+  rotate: false
+  xy: 240, 245
+  size: 239, 265
+  orig: 239, 265
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/eye
+  rotate: false
+  xy: 849, 354
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/eye1
+  rotate: false
+  xy: 804, 297
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/guanzi1
+  rotate: false
+  xy: 750, 213
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/handinner
+  rotate: false
+  xy: 455, 109
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/handout
+  rotate: false
+  xy: 376, 95
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/leginnerdown
+  rotate: false
+  xy: 929, 421
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/leginnerup
+  rotate: false
+  xy: 530, 166
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/legoutdown
+  rotate: true
+  xy: 572, 215
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/legoutup
+  rotate: false
+  xy: 804, 333
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/yaojiainner
+  rotate: false
+  xy: 178, 2
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_3/yaojiaout
+  rotate: false
+  xy: 805, 412
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/arminnerup
+  rotate: true
+  xy: 240, 173
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/armoutup
+  rotate: false
+  xy: 694, 396
+  size: 109, 114
+  orig: 109, 114
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/body
+  rotate: false
+  xy: 2, 170
+  size: 236, 340
+  orig: 236, 340
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/fx
+  rotate: false
+  xy: 481, 297
+  size: 211, 213
+  orig: 211, 213
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/guanzi1
+  rotate: false
+  xy: 662, 209
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/guanzi2
+  rotate: true
+  xy: 178, 69
+  size: 99, 68
+  orig: 99, 68
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/yaojiainner
+  rotate: false
+  xy: 694, 292
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/yaojiainner1
+  rotate: true
+  xy: 358, 174
+  size: 69, 104
+  orig: 69, 104
+  offset: 0, 0
+  index: -1
+Alice/Alice_RobotYellow/Alice_RobotYellow_4/yaojiaout
+  rotate: false
+  xy: 2, 18
+  size: 174, 150
+  orig: 174, 150
+  offset: 0, 0
+  index: -1
+Ogami/Ogami_RobotWhite/Ogami_RobotWhite/smoke
+  rotate: false
+  xy: 567, 167
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 805, 385
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

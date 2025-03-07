@@ -1,0 +1,440 @@
+
+avatar.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wandering/Fly/Wandering_Fly_3/Dragon_head
+  rotate: false
+  xy: 1275, 85
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_3/Dragon_legoutup
+  rotate: true
+  xy: 1156, 11
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_3/Dragon_xiongjia
+  rotate: true
+  xy: 1354, 17
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_3/mianju3
+  rotate: false
+  xy: 968, 15
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_3/weapon
+  rotate: true
+  xy: 1156, 435
+  size: 75, 501
+  orig: 75, 501
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_body
+  rotate: false
+  xy: 1659, 388
+  size: 209, 122
+  orig: 209, 122
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_eye
+  rotate: false
+  xy: 1275, 198
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_footout
+  rotate: false
+  xy: 620, 2
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_head
+  rotate: false
+  xy: 1156, 210
+  size: 144, 146
+  orig: 144, 146
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_legoutdown
+  rotate: false
+  xy: 1737, 267
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_legoutup
+  rotate: true
+  xy: 1783, 304
+  size: 82, 101
+  orig: 82, 101
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_neck
+  rotate: false
+  xy: 1646, 224
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_weiba1
+  rotate: true
+  xy: 1400, 85
+  size: 106, 57
+  orig: 106, 57
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_weiba2
+  rotate: false
+  xy: 1302, 193
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_winginner
+  rotate: false
+  xy: 620, 67
+  size: 266, 443
+  orig: 266, 443
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_winginner2
+  rotate: false
+  xy: 888, 67
+  size: 266, 443
+  orig: 266, 443
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_wingout
+  rotate: false
+  xy: 2, 40
+  size: 307, 470
+  orig: 307, 470
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_wingout2
+  rotate: false
+  xy: 311, 41
+  size: 307, 469
+  orig: 307, 469
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Dragon_xiongjia
+  rotate: true
+  xy: 1474, 174
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/Shadow
+  rotate: false
+  xy: 135, 13
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/arminnerdown
+  rotate: false
+  xy: 1591, 201
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/arminnerup
+  rotate: true
+  xy: 252, 2
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/armoutdown
+  rotate: false
+  xy: 1591, 230
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/armoutup
+  rotate: true
+  xy: 1527, 45
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/body
+  rotate: true
+  xy: 1040, 10
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/dang
+  rotate: true
+  xy: 1563, 89
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/eye
+  rotate: true
+  xy: 1454, 221
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/eyebrow
+  rotate: false
+  xy: 674, 2
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/eyehard
+  rotate: false
+  xy: 252, 20
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/eyehard2
+  rotate: true
+  xy: 1139, 31
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/eyehard3
+  rotate: true
+  xy: 2007, 362
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/eyesffuer
+  rotate: true
+  xy: 1591, 166
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/eyeyun
+  rotate: true
+  xy: 2024, 452
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/face
+  rotate: false
+  xy: 1156, 85
+  size: 117, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hair1
+  rotate: true
+  xy: 674, 15
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hair2
+  rotate: true
+  xy: 1259, 5
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hair3
+  rotate: true
+  xy: 867, 34
+  size: 31, 99
+  orig: 31, 99
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hair4
+  rotate: true
+  xy: 772, 17
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hair5
+  rotate: true
+  xy: 1474, 265
+  size: 91, 141
+  orig: 91, 141
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hair6
+  rotate: false
+  xy: 1617, 225
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hairinner1
+  rotate: false
+  xy: 1886, 306
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hairinner2
+  rotate: false
+  xy: 1459, 84
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/hairinner3
+  rotate: false
+  xy: 1870, 393
+  size: 152, 117
+  orig: 152, 117
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/handinner
+  rotate: false
+  xy: 1617, 203
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/handout
+  rotate: false
+  xy: 2024, 488
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/jianjiaout
+  rotate: false
+  xy: 1783, 248
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/legoutdown
+  rotate: true
+  xy: 211, 17
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/legoutup
+  rotate: false
+  xy: 931, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/mianju3
+  rotate: false
+  xy: 1454, 32
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/mouth01
+  rotate: true
+  xy: 1777, 252
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/mouth02
+  rotate: false
+  xy: 1354, 10
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/mouth04
+  rotate: false
+  xy: 1275, 193
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/pifeng
+  rotate: false
+  xy: 1659, 311
+  size: 122, 75
+  orig: 122, 75
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/pifeng1
+  rotate: false
+  xy: 1302, 257
+  size: 170, 99
+  orig: 170, 99
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/qunzi
+  rotate: true
+  xy: 1563, 126
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/suolian
+  rotate: false
+  xy: 2, 10
+  size: 131, 28
+  orig: 131, 28
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/suolian1
+  rotate: false
+  xy: 1617, 267
+  size: 27, 89
+  orig: 27, 89
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/suolian2
+  rotate: false
+  xy: 1845, 250
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/weapon
+  rotate: true
+  xy: 1156, 358
+  size: 75, 501
+  orig: 75, 501
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/weijin
+  rotate: false
+  xy: 867, 2
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/yaodai
+  rotate: false
+  xy: 1737, 238
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Wandering/Fly/Wandering_Fly_4/yaojia
+  rotate: false
+  xy: 1103, 7
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1

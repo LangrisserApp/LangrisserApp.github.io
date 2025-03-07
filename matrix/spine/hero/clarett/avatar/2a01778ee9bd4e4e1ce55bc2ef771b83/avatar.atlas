@@ -1,0 +1,405 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clarett/Sword/Clarett_SwardMaster_3/arminnerdown
+  rotate: false
+  xy: 222, 398
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/arminnerup
+  rotate: true
+  xy: 374, 66
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/armoutdown
+  rotate: true
+  xy: 408, 56
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/armoutup
+  rotate: true
+  xy: 409, 85
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/body
+  rotate: true
+  xy: 289, 209
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/body1
+  rotate: false
+  xy: 234, 143
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/eyebrow
+  rotate: true
+  xy: 498, 394
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/eyehard
+  rotate: false
+  xy: 282, 73
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/eyehard1
+  rotate: true
+  xy: 348, 72
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/eyehard2
+  rotate: true
+  xy: 364, 203
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/eyehard3
+  rotate: false
+  xy: 382, 203
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/eyesffuer
+  rotate: false
+  xy: 150, 135
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/eyeyun
+  rotate: true
+  xy: 229, 72
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/face
+  rotate: false
+  xy: 152, 263
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/hair1
+  rotate: true
+  xy: 387, 306
+  size: 133, 68
+  orig: 133, 68
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/hair2
+  rotate: false
+  xy: 282, 320
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/hair3
+  rotate: false
+  xy: 63, 140
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/hair6
+  rotate: false
+  xy: 457, 328
+  size: 39, 137
+  orig: 39, 137
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/hair7
+  rotate: true
+  xy: 152, 218
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/hairback
+  rotate: false
+  xy: 2, 2
+  size: 156, 128
+  orig: 156, 128
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/handinner
+  rotate: false
+  xy: 264, 46
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/handinner1
+  rotate: false
+  xy: 270, 23
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/handout
+  rotate: false
+  xy: 319, 49
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/jianjiainner
+  rotate: false
+  xy: 460, 259
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/jianjiaout
+  rotate: false
+  xy: 382, 218
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/jianjiaout1
+  rotate: true
+  xy: 247, 398
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/leginnerdown
+  rotate: true
+  xy: 460, 293
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/leginnerup
+  rotate: true
+  xy: 460, 225
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/legoutdown
+  rotate: false
+  xy: 213, 10
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/legoutup
+  rotate: false
+  xy: 415, 151
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/mouth01
+  rotate: false
+  xy: 240, 2
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/mouth02
+  rotate: true
+  xy: 403, 154
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/mouth04
+  rotate: true
+  xy: 342, 56
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/weapon
+  rotate: false
+  xy: 222, 441
+  size: 226, 69
+  orig: 226, 69
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/weapon1
+  rotate: true
+  xy: 211, 62
+  size: 71, 16
+  orig: 71, 16
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/yaodai
+  rotate: true
+  xy: 363, 269
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/yaojia
+  rotate: false
+  xy: 240, 46
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/yibai1
+  rotate: false
+  xy: 450, 467
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/yibaiinner
+  rotate: false
+  xy: 160, 4
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_3/yibaiout
+  rotate: false
+  xy: 374, 90
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/arminnerdown
+  rotate: true
+  xy: 364, 138
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/arminnerup
+  rotate: true
+  xy: 287, 46
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/armoutdown
+  rotate: true
+  xy: 240, 13
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/armoutup
+  rotate: false
+  xy: 409, 114
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/body
+  rotate: false
+  xy: 160, 62
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/body1
+  rotate: true
+  xy: 387, 255
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/guashi
+  rotate: false
+  xy: 264, 70
+  size: 16, 71
+  orig: 16, 71
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/jianjiainner
+  rotate: false
+  xy: 364, 169
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/jianjiaout
+  rotate: false
+  xy: 282, 99
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/pifeng
+  rotate: true
+  xy: 63, 221
+  size: 175, 87
+  orig: 175, 87
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/weapon
+  rotate: false
+  xy: 2, 398
+  size: 218, 112
+  orig: 218, 112
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/weapon1
+  rotate: false
+  xy: 288, 138
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/yibai1
+  rotate: false
+  xy: 282, 263
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/yibaiinner
+  rotate: true
+  xy: 288, 156
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+Clarett/Sword/Clarett_SwardMaster_4/yibaiout
+  rotate: true
+  xy: 150, 172
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: true
+  xy: 2, 132
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 123, 145
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

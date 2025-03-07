@@ -1,0 +1,510 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apotheosis_Sword_2/hairinner
+  rotate: false
+  xy: 666, 335
+  size: 159, 119
+  orig: 159, 119
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/head
+  rotate: false
+  xy: 227, 345
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/jianinner
+  rotate: true
+  xy: 901, 457
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/jianjiainner
+  rotate: false
+  xy: 968, 167
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/jianjiaout
+  rotate: false
+  xy: 783, 78
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/jianout
+  rotate: true
+  xy: 986, 203
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/pifeng
+  rotate: true
+  xy: 2, 13
+  size: 69, 120
+  orig: 69, 120
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/pifeng1
+  rotate: true
+  xy: 827, 305
+  size: 149, 104
+  orig: 149, 104
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/pifeng2
+  rotate: false
+  xy: 619, 68
+  size: 81, 105
+  orig: 81, 105
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/weapon
+  rotate: false
+  xy: 666, 456
+  size: 233, 54
+  orig: 233, 54
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_2/weapon2
+  rotate: false
+  xy: 901, 479
+  size: 121, 31
+  orig: 121, 31
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/hairinner
+  rotate: false
+  xy: 405, 29
+  size: 178, 127
+  orig: 178, 127
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/head
+  rotate: false
+  xy: 2, 84
+  size: 197, 189
+  orig: 197, 189
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/jianjiainner
+  rotate: true
+  xy: 860, 28
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/jianjiaout
+  rotate: false
+  xy: 783, 117
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/jianjiaout2
+  rotate: false
+  xy: 892, 95
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/jianout
+  rotate: true
+  xy: 894, 47
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/pifeng
+  rotate: true
+  xy: 619, 6
+  size: 60, 107
+  orig: 60, 107
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/pifeng1
+  rotate: false
+  xy: 227, 228
+  size: 162, 115
+  orig: 162, 115
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/pifeng2
+  rotate: true
+  xy: 292, 25
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/weapon
+  rotate: false
+  xy: 397, 388
+  size: 266, 56
+  orig: 266, 56
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_3/weapon2
+  rotate: true
+  xy: 585, 19
+  size: 137, 32
+  orig: 137, 32
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/arminnerdown
+  rotate: false
+  xy: 894, 14
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/arminnerup
+  rotate: false
+  xy: 941, 94
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/armoutdown
+  rotate: false
+  xy: 779, 305
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/armoutup
+  rotate: false
+  xy: 846, 78
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/body
+  rotate: false
+  xy: 124, 3
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/bodyinner
+  rotate: false
+  xy: 917, 212
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/chibang1
+  rotate: false
+  xy: 201, 2
+  size: 89, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/chibang2
+  rotate: false
+  xy: 397, 275
+  size: 217, 111
+  orig: 217, 111
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/chibang3
+  rotate: false
+  xy: 779, 221
+  size: 117, 82
+  orig: 117, 82
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/chibang4
+  rotate: false
+  xy: 933, 252
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/chibang5
+  rotate: true
+  xy: 933, 351
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/chibang6
+  rotate: true
+  xy: 702, 78
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/eyehard
+  rotate: false
+  xy: 479, 15
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/eyelight
+  rotate: false
+  xy: 292, 2
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/hair
+  rotate: true
+  xy: 917, 163
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/hair1
+  rotate: false
+  xy: 201, 228
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/hairinner
+  rotate: false
+  xy: 405, 158
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/handinner
+  rotate: false
+  xy: 933, 204
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/handinner1
+  rotate: false
+  xy: 970, 104
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/handout
+  rotate: false
+  xy: 856, 117
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/handout1
+  rotate: true
+  xy: 968, 137
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/handout2
+  rotate: false
+  xy: 974, 72
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/head
+  rotate: false
+  xy: 2, 275
+  size: 223, 235
+  orig: 223, 235
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/head1
+  rotate: true
+  xy: 898, 234
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/jianinner
+  rotate: false
+  xy: 759, 205
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/jianjiainner
+  rotate: true
+  xy: 728, 7
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/jianjiaout
+  rotate: false
+  xy: 783, 158
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/jianjiaout2
+  rotate: true
+  xy: 892, 126
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/jianout
+  rotate: false
+  xy: 917, 126
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/kua
+  rotate: false
+  xy: 932, 14
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/leginnerdown
+  rotate: false
+  xy: 727, 175
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/leginnerup
+  rotate: false
+  xy: 825, 23
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/legoutdown
+  rotate: false
+  xy: 877, 165
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/legoutup
+  rotate: false
+  xy: 784, 12
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/pifeng
+  rotate: true
+  xy: 612, 175
+  size: 57, 113
+  orig: 57, 113
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/pifeng1
+  rotate: false
+  xy: 201, 106
+  size: 202, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/pifeng2
+  rotate: false
+  xy: 655, 234
+  size: 122, 99
+  orig: 122, 99
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx1
+  rotate: false
+  xy: 479, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx2
+  rotate: false
+  xy: 495, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx3
+  rotate: false
+  xy: 898, 221
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx4
+  rotate: true
+  xy: 189, 68
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx5
+  rotate: false
+  xy: 2, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx6
+  rotate: true
+  xy: 815, 319
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx7
+  rotate: true
+  xy: 509, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/tx9
+  rotate: false
+  xy: 369, 9
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/weapon
+  rotate: false
+  xy: 397, 446
+  size: 267, 64
+  orig: 267, 64
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/weapon2
+  rotate: true
+  xy: 616, 248
+  size: 138, 37
+  orig: 138, 37
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/xionginner
+  rotate: false
+  xy: 976, 41
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Apotheosis_Sword_4/xiongout
+  rotate: true
+  xy: 932, 50
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 403, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

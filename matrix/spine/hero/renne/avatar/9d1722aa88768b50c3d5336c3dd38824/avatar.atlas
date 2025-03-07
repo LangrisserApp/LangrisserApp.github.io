@@ -1,0 +1,356 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyebrow
+  rotate: false
+  xy: 310, 74
+  size: 59, 9
+  orig: 59, 9
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard
+  rotate: true
+  xy: 436, 107
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard1
+  rotate: true
+  xy: 280, 16
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard2
+  rotate: false
+  xy: 375, 91
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard3
+  rotate: false
+  xy: 310, 111
+  size: 63, 12
+  orig: 63, 12
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyesffuer
+  rotate: true
+  xy: 224, 112
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyeyun
+  rotate: false
+  xy: 310, 85
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/face
+  rotate: false
+  xy: 2, 97
+  size: 119, 157
+  orig: 119, 157
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair1
+  rotate: true
+  xy: 310, 125
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair2
+  rotate: true
+  xy: 212, 65
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair3
+  rotate: true
+  xy: 123, 114
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair4
+  rotate: false
+  xy: 306, 20
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair5
+  rotate: false
+  xy: 343, 19
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hairinner1
+  rotate: true
+  xy: 393, 190
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hairinner2
+  rotate: true
+  xy: 277, 76
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hairinner3
+  rotate: true
+  xy: 174, 4
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth01
+  rotate: false
+  xy: 212, 55
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth02
+  rotate: true
+  xy: 483, 125
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth03
+  rotate: false
+  xy: 352, 8
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth04
+  rotate: false
+  xy: 89, 21
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/arminnerdown
+  rotate: false
+  xy: 461, 168
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/arminnerup
+  rotate: false
+  xy: 449, 37
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/armoutdown
+  rotate: false
+  xy: 53, 2
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/armoutup
+  rotate: true
+  xy: 452, 7
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/handinner
+  rotate: false
+  xy: 104, 79
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/handout1
+  rotate: false
+  xy: 369, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/handout2
+  rotate: false
+  xy: 104, 58
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/hudiejie
+  rotate: false
+  xy: 462, 95
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/leginnerdown
+  rotate: false
+  xy: 483, 139
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/leginnerup
+  rotate: true
+  xy: 460, 73
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/legoutdown
+  rotate: false
+  xy: 462, 125
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/legoutup
+  rotate: false
+  xy: 436, 71
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/lingzi
+  rotate: true
+  xy: 2, 2
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/qunzi
+  rotate: false
+  xy: 2, 26
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/tuzi1
+  rotate: false
+  xy: 369, 33
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/tuzi2
+  rotate: true
+  xy: 375, 71
+  size: 18, 56
+  orig: 18, 56
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/tuzi3
+  rotate: false
+  xy: 306, 2
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard3/tuzi4
+  rotate: false
+  xy: 230, 4
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/body
+  rotate: false
+  xy: 382, 113
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/hudiejie2
+  rotate: false
+  xy: 104, 2
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/hudiejie3
+  rotate: false
+  xy: 123, 55
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/pifeng1
+  rotate: true
+  xy: 270, 176
+  size: 37, 120
+  orig: 37, 120
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/pifeng2
+  rotate: true
+  xy: 270, 215
+  size: 39, 121
+  orig: 39, 121
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/pifeng3
+  rotate: false
+  xy: 123, 179
+  size: 145, 75
+  orig: 145, 75
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/tuzi1
+  rotate: false
+  xy: 409, 33
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/tuzi2
+  rotate: true
+  xy: 392, 167
+  size: 21, 67
+  orig: 21, 67
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/tuzi3
+  rotate: false
+  xy: 397, 12
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+Renne/Renne_Wizard/Renne_Wizard4/tuzi4
+  rotate: false
+  xy: 250, 112
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 485, 180
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 352, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

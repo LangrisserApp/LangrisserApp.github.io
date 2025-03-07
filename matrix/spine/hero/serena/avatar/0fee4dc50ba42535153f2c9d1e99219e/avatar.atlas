@@ -1,0 +1,454 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Serena/ForceShielder/Serena_ForceShielder_3/arminnerdown
+  rotate: false
+  xy: 308, 63
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/arminnerup
+  rotate: false
+  xy: 308, 89
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/armoutdown
+  rotate: false
+  xy: 191, 3
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/armoutup
+  rotate: true
+  xy: 436, 135
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/body
+  rotate: false
+  xy: 263, 94
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/eyebrow
+  rotate: false
+  xy: 438, 288
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/eyebrow
+  rotate: false
+  xy: 438, 288
+  size: 72, 8
+  orig: 72, 8
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/hair1
+  rotate: false
+  xy: 198, 64
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/hair1
+  rotate: false
+  xy: 198, 64
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/hair2
+  rotate: false
+  xy: 78, 2
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/hair2
+  rotate: false
+  xy: 78, 2
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/hair3
+  rotate: false
+  xy: 2, 2
+  size: 74, 128
+  orig: 74, 128
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/hair3
+  rotate: false
+  xy: 2, 2
+  size: 74, 128
+  orig: 74, 128
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/hair4
+  rotate: false
+  xy: 207, 200
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/hair4
+  rotate: false
+  xy: 207, 200
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/handinner
+  rotate: false
+  xy: 338, 104
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/handout1
+  rotate: false
+  xy: 363, 105
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/handout1
+  rotate: false
+  xy: 363, 105
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/hatout
+  rotate: true
+  xy: 375, 313
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/jianjiainner
+  rotate: false
+  xy: 379, 276
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/jianjiaout
+  rotate: false
+  xy: 261, 271
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/leginnerdown
+  rotate: true
+  xy: 331, 228
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/legoutdown
+  rotate: false
+  xy: 124, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/pifeng
+  rotate: true
+  xy: 162, 288
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/qunziinner
+  rotate: false
+  xy: 261, 150
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/shield
+  rotate: false
+  xy: 124, 52
+  size: 72, 99
+  orig: 72, 99
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_3/weapon
+  rotate: false
+  xy: 222, 430
+  size: 209, 80
+  orig: 209, 80
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/arminnerdown
+  rotate: true
+  xy: 338, 129
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/arminnerup
+  rotate: true
+  xy: 308, 119
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/armoutdown
+  rotate: false
+  xy: 404, 138
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/armoutup
+  rotate: true
+  xy: 198, 37
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/body
+  rotate: false
+  xy: 334, 256
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/eyehard
+  rotate: false
+  xy: 379, 250
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/eyehard1
+  rotate: false
+  xy: 440, 298
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/eyehard2
+  rotate: false
+  xy: 367, 172
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/eyehard3
+  rotate: true
+  xy: 498, 184
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/eyesffuer
+  rotate: false
+  xy: 379, 220
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/eyeyun
+  rotate: false
+  xy: 367, 191
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/face
+  rotate: false
+  xy: 257, 312
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/handinner
+  rotate: false
+  xy: 364, 128
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/hat
+  rotate: false
+  xy: 2, 294
+  size: 158, 132
+  orig: 158, 132
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/hatout
+  rotate: true
+  xy: 440, 324
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/jianjiainner
+  rotate: false
+  xy: 261, 188
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/jianjiainner1
+  rotate: false
+  xy: 263, 65
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/jianjiaout
+  rotate: false
+  xy: 433, 441
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/jianjiaout1
+  rotate: false
+  xy: 261, 232
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/jianjiaout2
+  rotate: false
+  xy: 389, 124
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/leginnerdown
+  rotate: true
+  xy: 438, 191
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/leginnerup
+  rotate: true
+  xy: 450, 219
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/legoutdown
+  rotate: false
+  xy: 158, 2
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/legoutup
+  rotate: true
+  xy: 320, 157
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/mouth01
+  rotate: true
+  xy: 111, 135
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/mouth02
+  rotate: true
+  xy: 486, 204
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/mouth03
+  rotate: true
+  xy: 222, 21
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/mouth04
+  rotate: false
+  xy: 111, 288
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/pifeng
+  rotate: true
+  xy: 2, 132
+  size: 160, 107
+  orig: 160, 107
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/qunzi
+  rotate: false
+  xy: 207, 148
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/qunzi1
+  rotate: false
+  xy: 319, 190
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/qunziinner
+  rotate: false
+  xy: 449, 251
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/shield
+  rotate: false
+  xy: 111, 153
+  size: 94, 133
+  orig: 94, 133
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/weapon
+  rotate: false
+  xy: 2, 428
+  size: 218, 82
+  orig: 218, 82
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/yaojiainner
+  rotate: true
+  xy: 365, 152
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+Serena/ForceShielder/Serena_ForceShielder_4/yaojiaout
+  rotate: true
+  xy: 437, 162
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 236, 72
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

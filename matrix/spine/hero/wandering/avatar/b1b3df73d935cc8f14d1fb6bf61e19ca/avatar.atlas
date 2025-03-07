@@ -1,0 +1,475 @@
+
+avatar.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 1390, 74
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/arminnerdown
+  rotate: false
+  xy: 924, 91
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/arminnerup
+  rotate: true
+  xy: 665, 69
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/armoutdown
+  rotate: false
+  xy: 1800, 112
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/armoutup
+  rotate: false
+  xy: 954, 95
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/body
+  rotate: true
+  xy: 1466, 42
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/eyebrow
+  rotate: true
+  xy: 2032, 217
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/eyehard
+  rotate: false
+  xy: 772, 101
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/eyehard1
+  rotate: false
+  xy: 811, 101
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/eyehard2
+  rotate: false
+  xy: 990, 105
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/eyehard3
+  rotate: true
+  xy: 2032, 183
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/eyesffuer
+  rotate: false
+  xy: 626, 71
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/eyeyun
+  rotate: false
+  xy: 586, 76
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/face
+  rotate: true
+  xy: 954, 124
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hair1
+  rotate: true
+  xy: 1391, 101
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hair2
+  rotate: true
+  xy: 1641, 168
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hair3
+  rotate: true
+  xy: 1094, 117
+  size: 34, 111
+  orig: 34, 111
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hair4
+  rotate: true
+  xy: 1500, 101
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hair5
+  rotate: true
+  xy: 1094, 153
+  size: 101, 157
+  orig: 101, 157
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hair6
+  rotate: true
+  xy: 1207, 121
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hairinner1
+  rotate: false
+  xy: 1391, 159
+  size: 132, 95
+  orig: 132, 95
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hairinner2
+  rotate: false
+  xy: 1525, 156
+  size: 114, 98
+  orig: 114, 98
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/hairinner3
+  rotate: false
+  xy: 782, 123
+  size: 170, 131
+  orig: 170, 131
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/handinner
+  rotate: false
+  xy: 1090, 94
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/handout
+  rotate: true
+  xy: 1061, 96
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/handout1
+  rotate: false
+  xy: 1114, 93
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/leginnerdown
+  rotate: true
+  xy: 479, 2
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/leginnerup
+  rotate: false
+  xy: 1606, 2
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/legoutdown
+  rotate: false
+  xy: 383, 70
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/legoutup
+  rotate: false
+  xy: 1641, 2
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/mianju3
+  rotate: false
+  xy: 1641, 110
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/mouth01
+  rotate: false
+  xy: 1680, 2
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/mouth02
+  rotate: true
+  xy: 1633, 32
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/pifeng
+  rotate: false
+  xy: 1958, 148
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/pifenginner
+  rotate: true
+  xy: 1857, 174
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/weapon
+  rotate: false
+  xy: 2, 7
+  size: 354, 115
+  orig: 354, 115
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/weijin
+  rotate: true
+  xy: 419, 2
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/weijin1
+  rotate: false
+  xy: 416, 79
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/weijin2
+  rotate: false
+  xy: 1680, 9
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/weijininner
+  rotate: false
+  xy: 586, 99
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/wejin3
+  rotate: true
+  xy: 1029, 98
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/yaodai
+  rotate: false
+  xy: 1751, 140
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_2/yaodai1
+  rotate: true
+  xy: 383, 2
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/jianjiainner
+  rotate: true
+  xy: 850, 94
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/leginnerdown
+  rotate: false
+  xy: 1722, 113
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/leginnerup
+  rotate: true
+  xy: 1751, 113
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/legoutdown
+  rotate: false
+  xy: 1607, 97
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/legoutup
+  rotate: true
+  xy: 1804, 138
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/mianju3
+  rotate: false
+  xy: 1641, 53
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/pifeng
+  rotate: true
+  xy: 1747, 172
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/pifenginner
+  rotate: false
+  xy: 1253, 140
+  size: 136, 114
+  orig: 136, 114
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/weapon
+  rotate: false
+  xy: 2, 124
+  size: 386, 130
+  orig: 386, 130
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/weijin
+  rotate: true
+  xy: 449, 2
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/weijininner
+  rotate: false
+  xy: 648, 99
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_3/yaojia
+  rotate: false
+  xy: 1606, 49
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/jianjiaout
+  rotate: false
+  xy: 479, 30
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/jianjiaout1
+  rotate: true
+  xy: 477, 79
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/mianju3
+  rotate: false
+  xy: 1253, 82
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/qunzi
+  rotate: false
+  xy: 1537, 35
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/qunzi1
+  rotate: false
+  xy: 1333, 70
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/suolian
+  rotate: true
+  xy: 358, 2
+  size: 120, 23
+  orig: 120, 23
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/suolian1
+  rotate: true
+  xy: 709, 105
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/suolian2
+  rotate: true
+  xy: 887, 93
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/weapon
+  rotate: false
+  xy: 390, 128
+  size: 390, 126
+  orig: 390, 126
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/xiongzhen
+  rotate: false
+  xy: 1839, 112
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+Wandering/Spear/Wandering_Spear_4/yaoshi1
+  rotate: false
+  xy: 529, 86
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,664 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archanfel_04/Shadow
+  rotate: true
+  xy: 413, 269
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Archanfel_04/arminnerdown
+  rotate: false
+  xy: 227, 15
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Archanfel_04/arminnerdown_fx
+  rotate: true
+  xy: 180, 2
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Archanfel_04/arminnerup
+  rotate: true
+  xy: 826, 695
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Archanfel_04/arminnerup_fx
+  rotate: true
+  xy: 440, 267
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+Archanfel_04/armoutdown
+  rotate: false
+  xy: 77, 2
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Archanfel_04/armoutdown_fx
+  rotate: false
+  xy: 494, 262
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Archanfel_04/armoutup
+  rotate: false
+  xy: 826, 727
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Archanfel_04/armoutup_fx
+  rotate: false
+  xy: 621, 518
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Archanfel_04/body
+  rotate: false
+  xy: 631, 680
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+Archanfel_04/body_fx
+  rotate: false
+  xy: 843, 921
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+Archanfel_04/eyehard
+  rotate: false
+  xy: 702, 682
+  size: 66, 14
+  orig: 66, 14
+  offset: 0, 0
+  index: -1
+Archanfel_04/eyehard2
+  rotate: false
+  xy: 157, 121
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+Archanfel_04/eyehard3
+  rotate: true
+  xy: 535, 371
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+Archanfel_04/eyesffuer
+  rotate: false
+  xy: 308, 138
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Archanfel_04/eyeyun
+  rotate: true
+  xy: 373, 150
+  size: 53, 14
+  orig: 53, 14
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx1
+  rotate: false
+  xy: 702, 698
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx1-1
+  rotate: false
+  xy: 823, 790
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx1-2
+  rotate: false
+  xy: 930, 928
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx10
+  rotate: false
+  xy: 266, 78
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx11
+  rotate: true
+  xy: 200, 47
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx12
+  rotate: false
+  xy: 227, 3
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx13
+  rotate: false
+  xy: 843, 855
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx14
+  rotate: false
+  xy: 439, 367
+  size: 94, 69
+  orig: 94, 69
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx15
+  rotate: false
+  xy: 310, 271
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx16
+  rotate: false
+  xy: 2, 39
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx17
+  rotate: false
+  xy: 631, 767
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx18
+  rotate: false
+  xy: 310, 345
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx19
+  rotate: false
+  xy: 310, 632
+  size: 319, 390
+  orig: 319, 390
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx2
+  rotate: false
+  xy: 752, 767
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx20
+  rotate: false
+  xy: 2, 618
+  size: 306, 404
+  orig: 306, 404
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx21
+  rotate: false
+  xy: 2, 213
+  size: 306, 403
+  orig: 306, 403
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx3
+  rotate: false
+  xy: 354, 83
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx4
+  rotate: true
+  xy: 233, 70
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx5
+  rotate: false
+  xy: 294, 81
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx6
+  rotate: true
+  xy: 547, 369
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx7
+  rotate: true
+  xy: 230, 46
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx8
+  rotate: false
+  xy: 205, 75
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Archanfel_04/fx9
+  rotate: true
+  xy: 621, 478
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner
+  rotate: false
+  xy: 266, 112
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner2
+  rotate: true
+  xy: 43, 2
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner2_fx
+  rotate: false
+  xy: 494, 212
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner3
+  rotate: true
+  xy: 301, 109
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner3_fx
+  rotate: false
+  xy: 492, 315
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner4
+  rotate: true
+  xy: 326, 80
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner4_fx
+  rotate: false
+  xy: 675, 476
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Archanfel_04/handinner_fx
+  rotate: false
+  xy: 154, 73
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout
+  rotate: false
+  xy: 670, 403
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout2
+  rotate: false
+  xy: 2, 2
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout2_fx
+  rotate: false
+  xy: 621, 575
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout3
+  rotate: false
+  xy: 256, 17
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout3_fx
+  rotate: false
+  xy: 537, 324
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout4
+  rotate: false
+  xy: 582, 330
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout4_fx
+  rotate: false
+  xy: 440, 315
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout5
+  rotate: true
+  xy: 595, 366
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout5_fx
+  rotate: true
+  xy: 440, 217
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Archanfel_04/handout_fx
+  rotate: false
+  xy: 865, 808
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+Archanfel_04/head
+  rotate: false
+  xy: 631, 854
+  size: 210, 168
+  orig: 210, 168
+  offset: 0, 0
+  index: -1
+Archanfel_04/head_fx
+  rotate: false
+  xy: 310, 438
+  size: 233, 192
+  orig: 233, 192
+  offset: 0, 0
+  index: -1
+Archanfel_04/leginnerdown
+  rotate: false
+  xy: 678, 574
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Archanfel_04/leginnerdown_fx
+  rotate: false
+  xy: 261, 144
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+Archanfel_04/leginnerup
+  rotate: false
+  xy: 547, 218
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+Archanfel_04/leginnerup_fx
+  rotate: true
+  xy: 110, 2
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+Archanfel_04/legoutdown
+  rotate: true
+  xy: 865, 780
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+Archanfel_04/legoutdown_fx
+  rotate: false
+  xy: 110, 47
+  size: 42, 72
+  orig: 42, 72
+  offset: 0, 0
+  index: -1
+Archanfel_04/legoutup
+  rotate: false
+  xy: 672, 520
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Archanfel_04/legoutup_fx
+  rotate: true
+  xy: 545, 442
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+Archanfel_04/mouth01
+  rotate: true
+  xy: 1016, 943
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Archanfel_04/mouth02
+  rotate: true
+  xy: 770, 682
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Archanfel_04/mouth03
+  rotate: true
+  xy: 1006, 939
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Archanfel_04/mouth04
+  rotate: false
+  xy: 930, 922
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi1
+  rotate: false
+  xy: 930, 960
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi10
+  rotate: false
+  xy: 308, 155
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi10_fx
+  rotate: false
+  xy: 310, 205
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi11
+  rotate: false
+  xy: 154, 47
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi11_fx
+  rotate: false
+  xy: 631, 628
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi1_fx
+  rotate: false
+  xy: 157, 133
+  size: 102, 78
+  orig: 102, 78
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi2
+  rotate: true
+  xy: 545, 493
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi2_fx
+  rotate: false
+  xy: 2, 121
+  size: 153, 90
+  orig: 153, 90
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi3
+  rotate: false
+  xy: 618, 330
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi3_fx
+  rotate: false
+  xy: 542, 272
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi4
+  rotate: true
+  xy: 337, 107
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi4_fx
+  rotate: false
+  xy: 547, 393
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi5
+  rotate: false
+  xy: 267, 46
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi5_fx
+  rotate: true
+  xy: 670, 434
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi6
+  rotate: false
+  xy: 415, 193
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi6_fx
+  rotate: false
+  xy: 634, 402
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi7
+  rotate: false
+  xy: 233, 95
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi7_fx
+  rotate: false
+  xy: 391, 215
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi8
+  rotate: false
+  xy: 391, 191
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi8_fx
+  rotate: false
+  xy: 594, 400
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi9
+  rotate: true
+  xy: 823, 768
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Archanfel_04/peishi9_fx
+  rotate: true
+  xy: 615, 440
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Archanfel_04/zhuzi1
+  rotate: true
+  xy: 785, 700
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1

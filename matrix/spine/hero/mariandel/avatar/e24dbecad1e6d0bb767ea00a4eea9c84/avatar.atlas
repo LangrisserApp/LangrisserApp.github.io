@@ -1,0 +1,531 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/arminnerdown
+  rotate: false
+  xy: 405, 109
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/arminnerup
+  rotate: false
+  xy: 372, 43
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/armoutdown
+  rotate: true
+  xy: 359, 2
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/armoutup
+  rotate: false
+  xy: 394, 44
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/leginnerdown
+  rotate: false
+  xy: 418, 44
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/leginnerup
+  rotate: false
+  xy: 346, 31
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/legoutdown
+  rotate: true
+  xy: 277, 2
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/legoutup
+  rotate: false
+  xy: 431, 195
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/qunzi1
+  rotate: true
+  xy: 233, 155
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/qunzi2
+  rotate: false
+  xy: 189, 2
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/qunzi3
+  rotate: true
+  xy: 149, 68
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_2/weapon
+  rotate: true
+  xy: 270, 457
+  size: 53, 176
+  orig: 53, 176
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/arminnerdown
+  rotate: true
+  xy: 426, 14
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/arminnerup
+  rotate: true
+  xy: 468, 351
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/armoutdown
+  rotate: true
+  xy: 438, 115
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/armoutup
+  rotate: true
+  xy: 461, 390
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/handout
+  rotate: false
+  xy: 244, 2
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/leginnerdown
+  rotate: false
+  xy: 470, 61
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/legoutdown
+  rotate: true
+  xy: 318, 2
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/legoutup
+  rotate: false
+  xy: 431, 145
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/qunzi
+  rotate: false
+  xy: 395, 16
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/qunzi1
+  rotate: true
+  xy: 285, 100
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/qunzi2
+  rotate: false
+  xy: 233, 191
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/qunzi3
+  rotate: true
+  xy: 395, 361
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/toushi
+  rotate: false
+  xy: 360, 141
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/weapon
+  rotate: false
+  xy: 2, 43
+  size: 78, 193
+  orig: 78, 193
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/weijin1
+  rotate: true
+  xy: 82, 65
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_3/weijin2
+  rotate: false
+  xy: 452, 246
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/arminnerdown
+  rotate: false
+  xy: 449, 38
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/arminnerup
+  rotate: true
+  xy: 468, 312
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/armoutdown
+  rotate: false
+  xy: 465, 125
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/armoutup
+  rotate: false
+  xy: 463, 196
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/body
+  rotate: false
+  xy: 145, 2
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/eyebrow
+  rotate: true
+  xy: 497, 124
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/eyehard
+  rotate: false
+  xy: 285, 74
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/eyehard1
+  rotate: false
+  xy: 277, 48
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/eyehard2
+  rotate: false
+  xy: 277, 30
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/eyehard3
+  rotate: true
+  xy: 439, 50
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/eyesffuer
+  rotate: false
+  xy: 2, 10
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/eyeyun
+  rotate: true
+  xy: 198, 81
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/face
+  rotate: false
+  xy: 107, 247
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/g
+  rotate: false
+  xy: 82, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/hair1
+  rotate: false
+  xy: 231, 87
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/hair2
+  rotate: true
+  xy: 379, 245
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/hair3
+  rotate: false
+  xy: 468, 430
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/hair4
+  rotate: true
+  xy: 270, 372
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/hair5
+  rotate: false
+  xy: 226, 259
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/hair6
+  rotate: false
+  xy: 107, 377
+  size: 161, 133
+  orig: 161, 133
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/handinner
+  rotate: false
+  xy: 479, 39
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/handout
+  rotate: true
+  xy: 448, 458
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/handout1(1)
+  rotate: false
+  xy: 449, 14
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/hudie
+  rotate: true
+  xy: 395, 80
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/leginnerdown
+  rotate: false
+  xy: 448, 61
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/leginnerup
+  rotate: true
+  xy: 468, 286
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/legoutdown
+  rotate: true
+  xy: 354, 80
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/legoutup
+  rotate: false
+  xy: 465, 151
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/mouth01
+  rotate: true
+  xy: 351, 119
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/mouth02
+  rotate: true
+  xy: 448, 97
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/mouth03
+  rotate: false
+  xy: 226, 372
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/mouth04
+  rotate: false
+  xy: 107, 238
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/qunzi
+  rotate: false
+  xy: 465, 97
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/qunzi1
+  rotate: false
+  xy: 244, 21
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/qunzi2
+  rotate: true
+  xy: 294, 195
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/qunzi3
+  rotate: true
+  xy: 82, 143
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/toushi
+  rotate: false
+  xy: 386, 283
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/weapon
+  rotate: false
+  xy: 2, 238
+  size: 103, 272
+  orig: 103, 272
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/weijin
+  rotate: true
+  xy: 198, 160
+  size: 85, 33
+  orig: 85, 33
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/weijin1
+  rotate: true
+  xy: 148, 155
+  size: 90, 48
+  orig: 90, 48
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/weijin2
+  rotate: true
+  xy: 301, 133
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/weijin3
+  rotate: false
+  xy: 448, 488
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/weijin4
+  rotate: true
+  xy: 362, 193
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/weijin5
+  rotate: false
+  xy: 303, 283
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/yaoshi
+  rotate: false
+  xy: 360, 110
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Mariandel/Mariandel_ManaSorceress/Mariandel_ManaSorceress_4/yaoshi1
+  rotate: false
+  xy: 413, 136
+  size: 16, 55
+  orig: 16, 55
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 303, 256
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

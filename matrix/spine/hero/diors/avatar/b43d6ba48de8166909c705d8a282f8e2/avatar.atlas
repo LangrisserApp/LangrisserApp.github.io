@@ -1,0 +1,342 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/eyebrow
+  rotate: false
+  xy: 2, 14
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/eyehard
+  rotate: false
+  xy: 275, 138
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/eyehard1
+  rotate: false
+  xy: 275, 116
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/eyehard2
+  rotate: true
+  xy: 189, 45
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/eyehard3
+  rotate: false
+  xy: 275, 94
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/eyesffuer
+  rotate: true
+  xy: 396, 305
+  size: 97, 30
+  orig: 97, 30
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/eyeyun
+  rotate: true
+  xy: 428, 305
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/face
+  rotate: false
+  xy: 2, 233
+  size: 144, 157
+  orig: 144, 157
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/handinner
+  rotate: true
+  xy: 267, 62
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/handout
+  rotate: true
+  xy: 484, 359
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/jianjiainner
+  rotate: true
+  xy: 409, 220
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/jianjiaout
+  rotate: false
+  xy: 348, 127
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/jianjiaout1
+  rotate: false
+  xy: 489, 444
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/toujin
+  rotate: false
+  xy: 268, 404
+  size: 164, 47
+  orig: 164, 47
+  offset: 0, 0
+  index: -1
+Diors/Diors_GrandKnight/Diors_GrandKnight_2/yaojia
+  rotate: true
+  xy: 141, 2
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/armoutup
+  rotate: true
+  xy: 347, 21
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/body
+  rotate: false
+  xy: 210, 159
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/handinnerup
+  rotate: false
+  xy: 100, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/leginnerdown
+  rotate: false
+  xy: 484, 466
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/leginnerup
+  rotate: true
+  xy: 261, 32
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/linziinner
+  rotate: false
+  xy: 208, 77
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/linziout
+  rotate: true
+  xy: 484, 315
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/mouth02
+  rotate: false
+  xy: 270, 222
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/mouth04
+  rotate: false
+  xy: 268, 396
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/mouth1
+  rotate: false
+  xy: 481, 302
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner
+  rotate: false
+  xy: 452, 259
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner1
+  rotate: false
+  xy: 349, 90
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner2
+  rotate: true
+  xy: 349, 57
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backleginner3
+  rotate: false
+  xy: 452, 221
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout
+  rotate: true
+  xy: 178, 2
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout1
+  rotate: true
+  xy: 412, 164
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout2
+  rotate: true
+  xy: 208, 42
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_backlegout3
+  rotate: false
+  xy: 489, 403
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_body
+  rotate: true
+  xy: 2, 48
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontleginner
+  rotate: false
+  xy: 434, 404
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontleginner1
+  rotate: false
+  xy: 270, 160
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontleginner2
+  rotate: false
+  xy: 318, 59
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontlegout
+  rotate: false
+  xy: 345, 161
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontlegout1
+  rotate: false
+  xy: 290, 220
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_frontlegout2
+  rotate: false
+  xy: 310, 18
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_jawbone
+  rotate: false
+  xy: 290, 292
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_saddle
+  rotate: true
+  xy: 117, 118
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/AnimalBone_weiba
+  rotate: false
+  xy: 210, 108
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/Leon_3/AnimalBone_Neckguard
+  rotate: false
+  xy: 117, 49
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/AnimalBone/Leon_3/AnimalBone_head
+  rotate: true
+  xy: 148, 238
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+Leon/Leon_AnimalBone/Leon_3/weapon
+  rotate: false
+  xy: 2, 453
+  size: 480, 57
+  orig: 480, 57
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: false
+  xy: 2, 392
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 457, 328
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

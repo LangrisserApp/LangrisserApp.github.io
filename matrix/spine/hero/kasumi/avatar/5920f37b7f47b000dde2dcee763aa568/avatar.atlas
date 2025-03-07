@@ -1,0 +1,468 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kasumi_Assassin_2/face
+  rotate: false
+  xy: 2, 367
+  size: 148, 143
+  orig: 148, 143
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_2/hair6
+  rotate: false
+  xy: 249, 355
+  size: 46, 155
+  orig: 46, 155
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_2/hair7
+  rotate: false
+  xy: 2, 56
+  size: 107, 164
+  orig: 107, 164
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/Shadow
+  rotate: true
+  xy: 293, 279
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/arminnerdown
+  rotate: true
+  xy: 320, 281
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/arminnerup
+  rotate: false
+  xy: 160, 145
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/arminnerup2
+  rotate: true
+  xy: 111, 56
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/armoutdown
+  rotate: false
+  xy: 174, 69
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/armoutup
+  rotate: true
+  xy: 205, 149
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/bodydown
+  rotate: false
+  xy: 353, 267
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/bodyup
+  rotate: false
+  xy: 297, 442
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/daizi1
+  rotate: true
+  xy: 2, 22
+  size: 32, 97
+  orig: 32, 97
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/daizi2
+  rotate: false
+  xy: 152, 236
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/daizi3
+  rotate: false
+  xy: 149, 106
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/eyebrow
+  rotate: true
+  xy: 149, 160
+  size: 60, 9
+  orig: 60, 9
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/eyehard
+  rotate: false
+  xy: 364, 438
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/eyehard1
+  rotate: true
+  xy: 237, 247
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/eyehard2
+  rotate: false
+  xy: 354, 351
+  size: 81, 23
+  orig: 81, 23
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/eyehard3
+  rotate: false
+  xy: 2, 8
+  size: 73, 12
+  orig: 73, 12
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/eyesffuer
+  rotate: false
+  xy: 443, 401
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/eyeyun
+  rotate: false
+  xy: 440, 372
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/face
+  rotate: false
+  xy: 2, 222
+  size: 148, 143
+  orig: 148, 143
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/hair1
+  rotate: true
+  xy: 364, 465
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/hair2
+  rotate: false
+  xy: 264, 276
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/hair3
+  rotate: true
+  xy: 437, 338
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/hair4
+  rotate: false
+  xy: 111, 106
+  size: 36, 114
+  orig: 36, 114
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/hair5
+  rotate: true
+  xy: 354, 376
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/hair6
+  rotate: false
+  xy: 152, 330
+  size: 95, 180
+  orig: 95, 180
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handinner
+  rotate: true
+  xy: 183, 38
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handinner1
+  rotate: false
+  xy: 264, 245
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handinner2
+  rotate: true
+  xy: 295, 245
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handinner3
+  rotate: false
+  xy: 350, 235
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handinner4
+  rotate: true
+  xy: 383, 235
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handinner5
+  rotate: true
+  xy: 326, 246
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handout
+  rotate: false
+  xy: 184, 106
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handout1
+  rotate: false
+  xy: 183, 7
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handout2
+  rotate: true
+  xy: 204, 75
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handout3
+  rotate: true
+  xy: 152, 23
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handout5
+  rotate: true
+  xy: 213, 112
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/handout7
+  rotate: false
+  xy: 151, 58
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban1
+  rotate: false
+  xy: 249, 342
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban10
+  rotate: false
+  xy: 454, 298
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban2
+  rotate: false
+  xy: 490, 308
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban3
+  rotate: true
+  xy: 209, 45
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban4
+  rotate: true
+  xy: 297, 358
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban5
+  rotate: false
+  xy: 122, 4
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban6
+  rotate: false
+  xy: 425, 297
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban7
+  rotate: true
+  xy: 98, 4
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban8
+  rotate: false
+  xy: 77, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/huaban9
+  rotate: false
+  xy: 437, 297
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/leginnerdown
+  rotate: true
+  xy: 101, 21
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/leginnerup
+  rotate: false
+  xy: 160, 187
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/legoutdown
+  rotate: false
+  xy: 205, 193
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/legoutdown1
+  rotate: false
+  xy: 320, 316
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/legoutup
+  rotate: true
+  xy: 353, 306
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/legoutup1
+  rotate: true
+  xy: 447, 431
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/mouth01
+  rotate: false
+  xy: 405, 303
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/mouth02
+  rotate: true
+  xy: 149, 145
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/mouth03
+  rotate: false
+  xy: 490, 325
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/weapon
+  rotate: true
+  xy: 204, 241
+  size: 87, 31
+  orig: 87, 31
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/weapon1
+  rotate: false
+  xy: 354, 405
+  size: 87, 31
+  orig: 87, 31
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/xiabai1
+  rotate: true
+  xy: 444, 466
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/xiabai2
+  rotate: true
+  xy: 297, 371
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/zhuangshi1
+  rotate: false
+  xy: 405, 313
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/zhuangshi2
+  rotate: true
+  xy: 437, 309
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Kasumi_Assassin_4/zhuangshi3
+  rotate: true
+  xy: 152, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

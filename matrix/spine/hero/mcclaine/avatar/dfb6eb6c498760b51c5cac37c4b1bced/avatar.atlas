@@ -1,0 +1,300 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 2, 391
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/arminnerdown
+  rotate: false
+  xy: 383, 417
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/arminnerup
+  rotate: true
+  xy: 153, 224
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/armoutdown
+  rotate: true
+  xy: 138, 157
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/armoutup
+  rotate: true
+  xy: 77, 2
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/body
+  rotate: false
+  xy: 153, 313
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/eyebrow
+  rotate: false
+  xy: 2, 6
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/eyehard
+  rotate: false
+  xy: 208, 251
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/eyehard1
+  rotate: true
+  xy: 190, 226
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/eyehard2
+  rotate: false
+  xy: 268, 391
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/eyehard3
+  rotate: false
+  xy: 444, 429
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/eyesffuer
+  rotate: false
+  xy: 105, 34
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/eyeyun
+  rotate: true
+  xy: 114, 4
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/face
+  rotate: false
+  xy: 2, 234
+  size: 149, 155
+  orig: 149, 155
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/hair1
+  rotate: false
+  xy: 2, 94
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/hair2
+  rotate: true
+  xy: 285, 458
+  size: 52, 115
+  orig: 52, 115
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/hair3
+  rotate: false
+  xy: 408, 429
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/hairback
+  rotate: true
+  xy: 96, 103
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/handinner
+  rotate: false
+  xy: 141, 133
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/handinner1
+  rotate: false
+  xy: 141, 109
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/handout
+  rotate: true
+  xy: 444, 442
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/hudang
+  rotate: false
+  xy: 350, 412
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/hudang1
+  rotate: true
+  xy: 213, 301
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/jianjiainner
+  rotate: true
+  xy: 105, 53
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/jianjiainner1
+  rotate: false
+  xy: 96, 154
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/jianjiainner2
+  rotate: true
+  xy: 213, 332
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/jianjiaout
+  rotate: true
+  xy: 153, 249
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/jianjiaout1
+  rotate: false
+  xy: 402, 468
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/jianjiaout2
+  rotate: false
+  xy: 2, 17
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/leginnerdown
+  rotate: true
+  xy: 468, 434
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/leginnerup
+  rotate: false
+  xy: 468, 460
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/legoutdown
+  rotate: false
+  xy: 268, 402
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/legoutup
+  rotate: false
+  xy: 303, 409
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/mouth01
+  rotate: false
+  xy: 261, 379
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/mouth02
+  rotate: false
+  xy: 172, 213
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/mouth03
+  rotate: false
+  xy: 408, 419
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/mouth04
+  rotate: true
+  xy: 507, 493
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/pifeng
+  rotate: true
+  xy: 77, 34
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/weapon
+  rotate: false
+  xy: 2, 452
+  size: 281, 58
+  orig: 281, 58
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/yaojiainner
+  rotate: false
+  xy: 138, 187
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+McClaine/McClaine_SwordMaster/McClaine_SwordMaster_3/yaojiaout
+  rotate: false
+  xy: 208, 264
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 50, 18
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bargas/Bargas_Shield/Bargas_King_3/arminnerdown
+  rotate: true
+  xy: 363, 105
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/armoutdown
+  rotate: true
+  xy: 148, 2
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/body
+  rotate: false
+  xy: 359, 308
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/jianjiainner
+  rotate: false
+  xy: 224, 36
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/jianjiaout
+  rotate: false
+  xy: 359, 242
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/leginnerdown
+  rotate: false
+  xy: 447, 263
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/legoutdown
+  rotate: false
+  xy: 277, 51
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/weapon1
+  rotate: false
+  xy: 2, 415
+  size: 246, 95
+  orig: 246, 95
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/weapon2
+  rotate: false
+  xy: 2, 208
+  size: 125, 205
+  orig: 125, 205
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/yaojiainner
+  rotate: false
+  xy: 452, 200
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_King_3/yaojiaout
+  rotate: false
+  xy: 260, 188
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/arminnerdown
+  rotate: true
+  xy: 318, 137
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/arminnerup
+  rotate: false
+  xy: 224, 168
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/armoutdown
+  rotate: false
+  xy: 320, 89
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/armoutup
+  rotate: false
+  xy: 274, 118
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/handinner
+  rotate: false
+  xy: 222, 239
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/handout
+  rotate: false
+  xy: 367, 68
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/hudang
+  rotate: true
+  xy: 388, 154
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/jianjiainner
+  rotate: false
+  xy: 224, 97
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/jianjiaout
+  rotate: false
+  xy: 148, 41
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/leginnerdown
+  rotate: false
+  xy: 355, 145
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/legoutdown
+  rotate: true
+  xy: 320, 53
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/weapon1
+  rotate: false
+  xy: 250, 427
+  size: 235, 83
+  orig: 235, 83
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/weapon2
+  rotate: false
+  xy: 252, 276
+  size: 105, 149
+  orig: 105, 149
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/yaojiainner
+  rotate: true
+  xy: 92, 6
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Shield/Bargas_Shield_2/yaojiaout
+  rotate: false
+  xy: 277, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_General_2/pifeng
+  rotate: true
+  xy: 2, 27
+  size: 179, 144
+  orig: 179, 144
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/body
+  rotate: false
+  xy: 148, 123
+  size: 74, 106
+  orig: 74, 106
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/handout
+  rotate: false
+  xy: 399, 117
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/leginnerup
+  rotate: true
+  xy: 388, 196
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Bargas/Bargas_Spear/Bargas_Sergeant_1/legoutup
+  rotate: true
+  xy: 322, 189
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+Bargas/dd
+  rotate: false
+  xy: 129, 225
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Bargas/eyebrow
+  rotate: false
+  xy: 2, 6
+  size: 88, 19
+  orig: 88, 19
+  offset: 0, 0
+  index: -1
+Bargas/eyehard
+  rotate: true
+  xy: 487, 359
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Bargas/eyehard1
+  rotate: true
+  xy: 490, 284
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Bargas/eyehard2
+  rotate: true
+  xy: 487, 434
+  size: 76, 18
+  orig: 76, 18
+  offset: 0, 0
+  index: -1
+Bargas/eyehard3
+  rotate: false
+  xy: 203, 22
+  size: 72, 12
+  orig: 72, 12
+  offset: 0, 0
+  index: -1
+Bargas/eyesffuer
+  rotate: false
+  xy: 129, 231
+  size: 91, 38
+  orig: 91, 38
+  offset: 0, 0
+  index: -1
+Bargas/eyeyun
+  rotate: true
+  xy: 447, 337
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+Bargas/face
+  rotate: false
+  xy: 129, 271
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+Bargas/mouth01
+  rotate: true
+  xy: 399, 74
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+Bargas/mouth02
+  rotate: false
+  xy: 203, 4
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+Bargas/mouth04
+  rotate: true
+  xy: 416, 73
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 252, 249
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

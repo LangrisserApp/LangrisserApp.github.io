@@ -1,0 +1,937 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tyrantel_Dragon_3/arminnerdown
+  rotate: true
+  xy: 883, 70
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/arminnerup
+  rotate: true
+  xy: 988, 142
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/armoutdown
+  rotate: false
+  xy: 939, 71
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/armoutup
+  rotate: false
+  xy: 806, 176
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/body
+  rotate: false
+  xy: 954, 540
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_arminnerdown
+  rotate: false
+  xy: 469, 2
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_arminnerdown2
+  rotate: false
+  xy: 657, 2
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_arminnerdown3
+  rotate: true
+  xy: 765, 59
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_armoutdown
+  rotate: false
+  xy: 548, 56
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_armoutdown2
+  rotate: true
+  xy: 1011, 413
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_armoutdown3
+  rotate: false
+  xy: 873, 262
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_armoutup
+  rotate: false
+  xy: 873, 290
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_body
+  rotate: false
+  xy: 108, 41
+  size: 176, 114
+  orig: 176, 114
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_body2
+  rotate: false
+  xy: 286, 40
+  size: 148, 104
+  orig: 148, 104
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_footinner
+  rotate: true
+  xy: 534, 14
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_footout
+  rotate: false
+  xy: 750, 310
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_handinner
+  rotate: false
+  xy: 760, 18
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_handout
+  rotate: false
+  xy: 919, 170
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_head
+  rotate: false
+  xy: 310, 251
+  size: 172, 146
+  orig: 172, 146
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_head2
+  rotate: false
+  xy: 643, 50
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_head3
+  rotate: true
+  xy: 1000, 982
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_leginnerdown
+  rotate: true
+  xy: 801, 15
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_leginnerup
+  rotate: true
+  xy: 784, 444
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_legoutdown
+  rotate: false
+  xy: 724, 113
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_legoutup
+  rotate: true
+  xy: 858, 729
+  size: 69, 122
+  orig: 69, 122
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_legoutup2
+  rotate: true
+  xy: 598, 2
+  size: 10, 57
+  orig: 10, 57
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_legoutup3
+  rotate: false
+  xy: 1000, 916
+  size: 16, 64
+  orig: 16, 64
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_neck
+  rotate: false
+  xy: 484, 140
+  size: 113, 106
+  orig: 113, 106
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/dragon_neck2
+  rotate: true
+  xy: 858, 502
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/eye
+  rotate: true
+  xy: 628, 274
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/handout
+  rotate: false
+  xy: 849, 416
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/hudang
+  rotate: false
+  xy: 823, 876
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/jianjiainner
+  rotate: true
+  xy: 724, 62
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/jianjiaout
+  rotate: true
+  xy: 954, 652
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/legoutdown
+  rotate: false
+  xy: 904, 72
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/legoutup
+  rotate: true
+  xy: 671, 140
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/pifeng2
+  rotate: true
+  xy: 705, 520
+  size: 103, 76
+  orig: 103, 76
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weapon
+  rotate: false
+  xy: 542, 456
+  size: 87, 256
+  orig: 87, 256
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba1
+  rotate: true
+  xy: 735, 194
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba2
+  rotate: true
+  xy: 659, 188
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba3
+  rotate: false
+  xy: 859, 175
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba4
+  rotate: false
+  xy: 321, 2
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba5
+  rotate: false
+  xy: 938, 484
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba6
+  rotate: false
+  xy: 542, 399
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba7
+  rotate: false
+  xy: 907, 143
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/weiba8
+  rotate: false
+  xy: 954, 617
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_3/yaojiaout
+  rotate: true
+  xy: 870, 567
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/Shadow
+  rotate: false
+  xy: 939, 287
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/arminnerdown
+  rotate: false
+  xy: 975, 121
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/arminnerup
+  rotate: false
+  xy: 620, 14
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/armoutdown
+  rotate: false
+  xy: 970, 71
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/armoutup
+  rotate: false
+  xy: 172, 2
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/body
+  rotate: true
+  xy: 856, 437
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dang
+  rotate: false
+  xy: 855, 138
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_arminnerdown
+  rotate: false
+  xy: 939, 314
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_arminnerdown2
+  rotate: false
+  xy: 696, 2
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_arminnerdown3
+  rotate: false
+  xy: 907, 113
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_arminnerup11
+  rotate: true
+  xy: 809, 267
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_armoutdown
+  rotate: true
+  xy: 693, 625
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_armoutdown2
+  rotate: true
+  xy: 1005, 449
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_armoutdown3
+  rotate: false
+  xy: 784, 415
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_armoutup
+  rotate: false
+  xy: 873, 363
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_body
+  rotate: false
+  xy: 823, 909
+  size: 175, 113
+  orig: 175, 113
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_body2
+  rotate: true
+  xy: 2, 2
+  size: 153, 104
+  orig: 153, 104
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_body3
+  rotate: false
+  xy: 310, 146
+  size: 172, 103
+  orig: 172, 103
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_footinner
+  rotate: false
+  xy: 982, 727
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_footout
+  rotate: false
+  xy: 722, 415
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_handinner
+  rotate: false
+  xy: 838, 30
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_handout
+  rotate: false
+  xy: 912, 212
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_head
+  rotate: false
+  xy: 654, 876
+  size: 167, 146
+  orig: 167, 146
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_head2
+  rotate: false
+  xy: 642, 401
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_head3
+  rotate: false
+  xy: 859, 212
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_head4
+  rotate: false
+  xy: 806, 215
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_leginnerdown
+  rotate: false
+  xy: 836, 71
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_leginnerup
+  rotate: true
+  xy: 939, 375
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_legoutdown
+  rotate: false
+  xy: 794, 61
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_legoutup
+  rotate: false
+  xy: 556, 274
+  size: 70, 123
+  orig: 70, 123
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_legoutup2
+  rotate: true
+  xy: 735, 176
+  size: 16, 64
+  orig: 16, 64
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_legoutup3
+  rotate: false
+  xy: 998, 843
+  size: 15, 64
+  orig: 15, 64
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_neck
+  rotate: false
+  xy: 858, 800
+  size: 113, 107
+  orig: 113, 107
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_neck2
+  rotate: false
+  xy: 809, 332
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_neck3
+  rotate: true
+  xy: 785, 580
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_winginner
+  rotate: false
+  xy: 310, 711
+  size: 230, 311
+  orig: 230, 311
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_winginner2
+  rotate: false
+  xy: 310, 399
+  size: 230, 310
+  orig: 230, 310
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_wingout1
+  rotate: false
+  xy: 2, 590
+  size: 306, 432
+  orig: 306, 432
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_wingout11
+  rotate: true
+  xy: 685, 295
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_wingout22
+  rotate: true
+  xy: 631, 603
+  size: 109, 60
+  orig: 109, 60
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/dragon_wingout33
+  rotate: false
+  xy: 2, 157
+  size: 306, 431
+  orig: 306, 431
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eye
+  rotate: false
+  xy: 436, 40
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eyebrow1
+  rotate: false
+  xy: 659, 171
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eyehard
+  rotate: true
+  xy: 1010, 223
+  size: 62, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eyehard1
+  rotate: false
+  xy: 731, 162
+  size: 62, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eyehard2
+  rotate: false
+  xy: 534, 2
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eyehard3
+  rotate: true
+  xy: 1015, 858
+  size: 56, 7
+  orig: 56, 7
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eyesffuer
+  rotate: false
+  xy: 599, 140
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/eyeyun
+  rotate: false
+  xy: 938, 254
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/face
+  rotate: false
+  xy: 654, 726
+  size: 131, 148
+  orig: 131, 148
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair1
+  rotate: false
+  xy: 967, 37
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair10
+  rotate: false
+  xy: 973, 812
+  size: 23, 95
+  orig: 23, 95
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair2
+  rotate: true
+  xy: 709, 22
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair3
+  rotate: false
+  xy: 952, 113
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair4
+  rotate: false
+  xy: 838, 12
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair5
+  rotate: true
+  xy: 783, 520
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair6
+  rotate: true
+  xy: 795, 110
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair7
+  rotate: true
+  xy: 750, 295
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair8
+  rotate: false
+  xy: 767, 105
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hair9
+  rotate: false
+  xy: 965, 219
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/handinner
+  rotate: true
+  xy: 964, 143
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/handout
+  rotate: true
+  xy: 998, 819
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/hudang
+  rotate: false
+  xy: 935, 36
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/jianjiainner
+  rotate: false
+  xy: 971, 173
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/jianjiaout
+  rotate: true
+  xy: 631, 492
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/legoutdown
+  rotate: false
+  xy: 901, 29
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/legoutup
+  rotate: true
+  xy: 846, 108
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/mouth02
+  rotate: true
+  xy: 879, 30
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/mouth03
+  rotate: true
+  xy: 784, 122
+  size: 38, 9
+  orig: 38, 9
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/mouth04
+  rotate: true
+  xy: 1016, 509
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/mouth1
+  rotate: false
+  xy: 654, 719
+  size: 31, 5
+  orig: 31, 5
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/pifeng1
+  rotate: true
+  xy: 484, 248
+  size: 149, 70
+  orig: 149, 70
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/pifeng2
+  rotate: false
+  xy: 226, 2
+  size: 93, 36
+  orig: 93, 36
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weapon3
+  rotate: false
+  xy: 542, 714
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba1
+  rotate: true
+  xy: 787, 729
+  size: 145, 69
+  orig: 145, 69
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba2
+  rotate: true
+  xy: 599, 171
+  size: 101, 58
+  orig: 101, 58
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba3
+  rotate: false
+  xy: 795, 139
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba4
+  rotate: false
+  xy: 395, 2
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba5
+  rotate: true
+  xy: 436, 56
+  size: 82, 110
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba6
+  rotate: true
+  xy: 628, 290
+  size: 107, 55
+  orig: 107, 55
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba7
+  rotate: false
+  xy: 652, 22
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba8
+  rotate: false
+  xy: 934, 449
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/weiba9
+  rotate: false
+  xy: 556, 248
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/yajiaout
+  rotate: false
+  xy: 876, 644
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/yiling1
+  rotate: false
+  xy: 787, 644
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+Tyrantel_Dragon_4/yiling2
+  rotate: true
+  xy: 108, 2
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 48, 5
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/Ears
+  rotate: false
+  xy: 235, 134
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyebrow
+  rotate: false
+  xy: 315, 45
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyehard
+  rotate: true
+  xy: 368, 61
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyehard0
+  rotate: false
+  xy: 415, 164
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyehard1
+  rotate: false
+  xy: 415, 130
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyehard2
+  rotate: false
+  xy: 240, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyehard3
+  rotate: false
+  xy: 304, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyesffuer
+  rotate: false
+  xy: 415, 198
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/eyeyun
+  rotate: true
+  xy: 381, 156
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/face
+  rotate: false
+  xy: 160, 92
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/hair1
+  rotate: true
+  xy: 393, 232
+  size: 22, 88
+  orig: 22, 88
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/hair2
+  rotate: true
+  xy: 235, 101
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/hair3
+  rotate: true
+  xy: 123, 168
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/hairinner
+  rotate: true
+  xy: 92, 32
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_Knight/Sonia01/hairinner1
+  rotate: false
+  xy: 2, 156
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/body
+  rotate: true
+  xy: 160, 34
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/handinner
+  rotate: true
+  xy: 408, 27
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/handinner1
+  rotate: false
+  xy: 483, 233
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/handout
+  rotate: false
+  xy: 408, 90
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/handout1
+  rotate: true
+  xy: 124, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/hudang
+  rotate: true
+  xy: 240, 45
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/jianjiainner
+  rotate: false
+  xy: 408, 62
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/jianjiaout
+  rotate: false
+  xy: 466, 83
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/legdowninner
+  rotate: true
+  xy: 2, 2
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/legdownout
+  rotate: false
+  xy: 368, 4
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/legupinner
+  rotate: false
+  xy: 323, 126
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/legupout
+  rotate: false
+  xy: 315, 61
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/toushi1
+  rotate: false
+  xy: 450, 48
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/toushi2
+  rotate: false
+  xy: 160, 2
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/weapon1
+  rotate: true
+  xy: 2, 32
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/weapon2
+  rotate: false
+  xy: 232, 183
+  size: 147, 39
+  orig: 147, 39
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/weijin
+  rotate: true
+  xy: 480, 139
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Sonia/Sonianinjia/Sonianinjia02/weijininner
+  rotate: false
+  xy: 232, 224
+  size: 159, 30
+  orig: 159, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,503 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/Pike
+  rotate: false
+  xy: 2, 135
+  size: 264, 53
+  orig: 264, 53
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/arminnerdown
+  rotate: false
+  xy: 632, 53
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/arminnerup
+  rotate: false
+  xy: 513, 46
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/armoutdown
+  rotate: true
+  xy: 68, 2
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/armoutup
+  rotate: true
+  xy: 444, 2
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/body
+  rotate: false
+  xy: 909, 119
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/eyebrow
+  rotate: false
+  xy: 471, 82
+  size: 58, 12
+  orig: 58, 12
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/eyehard
+  rotate: false
+  xy: 841, 89
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/eyehard1
+  rotate: false
+  xy: 392, 57
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/eyehard2
+  rotate: false
+  xy: 714, 86
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/eyehard3
+  rotate: true
+  xy: 386, 134
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/eyeyun
+  rotate: false
+  xy: 395, 30
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/face
+  rotate: false
+  xy: 161, 6
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/hair1
+  rotate: false
+  xy: 791, 100
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/hair2
+  rotate: false
+  xy: 676, 97
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/hair3
+  rotate: false
+  xy: 360, 56
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/hair4
+  rotate: true
+  xy: 928, 197
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/hair5
+  rotate: false
+  xy: 933, 357
+  size: 89, 153
+  orig: 89, 153
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/hair6
+  rotate: true
+  xy: 636, 376
+  size: 134, 167
+  orig: 134, 167
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_backlegdown
+  rotate: true
+  xy: 534, 86
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_backlegup
+  rotate: false
+  xy: 841, 110
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_body
+  rotate: false
+  xy: 2, 30
+  size: 157, 103
+  orig: 157, 103
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_frontlegdown
+  rotate: false
+  xy: 436, 78
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_frontlegup
+  rotate: true
+  xy: 401, 131
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_guajian1
+  rotate: false
+  xy: 491, 123
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_guajian2
+  rotate: true
+  xy: 471, 96
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_guajian3
+  rotate: false
+  xy: 714, 100
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_head
+  rotate: true
+  xy: 491, 280
+  size: 115, 130
+  orig: 115, 130
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_mana
+  rotate: false
+  xy: 584, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_neck
+  rotate: true
+  xy: 821, 198
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/horse_weiba
+  rotate: true
+  xy: 821, 274
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/hudang
+  rotate: false
+  xy: 118, 13
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/jianjiainner
+  rotate: false
+  xy: 395, 2
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/jianjiaout
+  rotate: false
+  xy: 832, 59
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/leginnerdown
+  rotate: true
+  xy: 297, 305
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/leginnerup
+  rotate: true
+  xy: 584, 64
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/mouth01
+  rotate: true
+  xy: 606, 257
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/mouth02
+  rotate: true
+  xy: 623, 382
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/mouth04
+  rotate: true
+  xy: 1017, 48
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/weapon1
+  rotate: false
+  xy: 344, 397
+  size: 290, 113
+  orig: 290, 113
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/weapon2
+  rotate: false
+  xy: 606, 186
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_02/yaojiaout
+  rotate: true
+  xy: 967, 27
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/arminnerdown
+  rotate: false
+  xy: 711, 45
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/armoutdown
+  rotate: true
+  xy: 782, 67
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/body
+  rotate: false
+  xy: 909, 42
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/horse_guajian2
+  rotate: true
+  xy: 491, 206
+  size: 72, 113
+  orig: 72, 113
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/horse_guajian3
+  rotate: true
+  xy: 967, 124
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/horse_head
+  rotate: true
+  xy: 623, 250
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/horse_neck
+  rotate: true
+  xy: 297, 205
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/hudang
+  rotate: false
+  xy: 471, 48
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/jianjiainner
+  rotate: true
+  xy: 316, 2
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/jianjiaout
+  rotate: true
+  xy: 275, 2
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/weapon1
+  rotate: false
+  xy: 2, 190
+  size: 293, 140
+  orig: 293, 140
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/weapon2
+  rotate: true
+  xy: 753, 249
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_03/yaojiaout
+  rotate: false
+  xy: 351, 2
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/body
+  rotate: false
+  xy: 275, 58
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/horse_guajian4
+  rotate: true
+  xy: 933, 251
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/horse_guajian5
+  rotate: true
+  xy: 720, 181
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/horse_head
+  rotate: false
+  xy: 805, 381
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/horse_neck
+  rotate: false
+  xy: 407, 181
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/hudang
+  rotate: true
+  xy: 547, 45
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/jianjiainner
+  rotate: true
+  xy: 335, 134
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/jianjiaout
+  rotate: false
+  xy: 268, 135
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/shiping
+  rotate: true
+  xy: 677, 49
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/shiping2
+  rotate: true
+  xy: 297, 198
+  size: 5, 96
+  orig: 5, 96
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/toushi
+  rotate: false
+  xy: 967, 61
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/weapon1
+  rotate: false
+  xy: 2, 332
+  size: 340, 178
+  orig: 340, 178
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/weapon2
+  rotate: false
+  xy: 344, 289
+  size: 145, 106
+  orig: 145, 106
+  offset: 0, 0
+  index: -1
+Hilda/Hilda_KnightMaster/Hilda_KnightMaster_04/yaojiaout
+  rotate: false
+  xy: 392, 78
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 333, 58
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

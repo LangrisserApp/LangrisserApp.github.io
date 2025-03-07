@@ -1,0 +1,251 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leonhardt/Shuro/Leonhardt_Shuro_3/arminnerdown
+  rotate: true
+  xy: 456, 53
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/arminnerup
+  rotate: false
+  xy: 466, 82
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/armoutdown
+  rotate: true
+  xy: 421, 12
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/armoutup
+  rotate: false
+  xy: 437, 82
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/eyebrow
+  rotate: false
+  xy: 380, 40
+  size: 71, 13
+  orig: 71, 13
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/eyehard
+  rotate: false
+  xy: 441, 209
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/eyehard1
+  rotate: false
+  xy: 441, 190
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/eyehard2
+  rotate: false
+  xy: 440, 175
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/eyehard3
+  rotate: false
+  xy: 440, 147
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/eyesffuer
+  rotate: false
+  xy: 273, 22
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/eyeyun
+  rotate: false
+  xy: 441, 228
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/face
+  rotate: false
+  xy: 2, 92
+  size: 177, 162
+  orig: 177, 162
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/hair1
+  rotate: true
+  xy: 2, 2
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/hair2
+  rotate: true
+  xy: 440, 156
+  size: 17, 59
+  orig: 17, 59
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/hair3
+  rotate: true
+  xy: 181, 106
+  size: 30, 105
+  orig: 30, 105
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/hairinner1
+  rotate: true
+  xy: 168, 2
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/hairinner2
+  rotate: true
+  xy: 273, 49
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/hairinner3
+  rotate: false
+  xy: 381, 82
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/handinner
+  rotate: true
+  xy: 349, 22
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/handout
+  rotate: false
+  xy: 458, 25
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/leginnerdown
+  rotate: true
+  xy: 378, 19
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/leginnerup
+  rotate: true
+  xy: 226, 18
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/legoutdown
+  rotate: true
+  xy: 440, 119
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/legoutup
+  rotate: false
+  xy: 350, 43
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/mouth01
+  rotate: true
+  xy: 168, 49
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/mouth02
+  rotate: false
+  xy: 226, 6
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/mouth03
+  rotate: true
+  xy: 168, 69
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/mouth04
+  rotate: true
+  xy: 490, 122
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_3/weapon
+  rotate: false
+  xy: 181, 138
+  size: 257, 55
+  orig: 257, 55
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_4/body
+  rotate: true
+  xy: 181, 42
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_4/pifenginner
+  rotate: true
+  xy: 107, 9
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_4/pifengout
+  rotate: false
+  xy: 288, 93
+  size: 91, 43
+  orig: 91, 43
+  offset: 0, 0
+  index: -1
+Leonhardt/Shuro/Leonhardt_Shuro_4/weapon
+  rotate: false
+  xy: 181, 195
+  size: 258, 59
+  orig: 258, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 380, 55
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 107, 3
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

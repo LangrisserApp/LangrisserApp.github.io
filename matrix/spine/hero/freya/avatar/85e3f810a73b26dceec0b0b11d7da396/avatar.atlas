@@ -1,0 +1,328 @@
+
+avatar.png
+size: 520,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freya/MagicKnight/Freya_UnicornKnight_2/arminnerdown
+  rotate: false
+  xy: 476, 239
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/armoutdown
+  rotate: true
+  xy: 196, 298
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/body
+  rotate: false
+  xy: 196, 60
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/eyebrow
+  rotate: true
+  xy: 434, 72
+  size: 61, 5
+  orig: 61, 5
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/eyehard
+  rotate: false
+  xy: 250, 2
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/eyehard1
+  rotate: true
+  xy: 413, 135
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/eyehard2
+  rotate: true
+  xy: 417, 71
+  size: 62, 15
+  orig: 62, 15
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/eyehard3
+  rotate: true
+  xy: 435, 135
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/eyesffuer
+  rotate: false
+  xy: 140, 7
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/eyeyun
+  rotate: false
+  xy: 250, 24
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/face
+  rotate: true
+  xy: 336, 338
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/hair
+  rotate: true
+  xy: 333, 129
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/hair1
+  rotate: false
+  xy: 399, 199
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/hair2
+  rotate: true
+  xy: 336, 277
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/hair3
+  rotate: false
+  xy: 2, 2
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/hair4
+  rotate: false
+  xy: 496, 482
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/hair5
+  rotate: false
+  xy: 63, 38
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/horse_guajian2
+  rotate: false
+  xy: 256, 127
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/horse_maan
+  rotate: false
+  xy: 196, 327
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/jianjiainner
+  rotate: true
+  xy: 436, 278
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/jianjiaout
+  rotate: true
+  xy: 475, 368
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/jianjiaout1
+  rotate: true
+  xy: 438, 202
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/legoutdown
+  rotate: true
+  xy: 476, 208
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/legoutup
+  rotate: true
+  xy: 475, 342
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/mouth01
+  rotate: false
+  xy: 417, 63
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/mouth02
+  rotate: false
+  xy: 399, 187
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/mouth03
+  rotate: true
+  xy: 165, 129
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/mouth04
+  rotate: false
+  xy: 80, 2
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/toushi
+  rotate: false
+  xy: 80, 7
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/weapon
+  rotate: false
+  xy: 2, 459
+  size: 492, 59
+  orig: 492, 59
+  offset: 0, 0
+  index: -1
+Freya/MagicKnight/Freya_UnicornKnight_2/yaojiaout
+  rotate: false
+  xy: 196, 14
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+Leon/Pike
+  rotate: true
+  xy: 2, 32
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_backlegdown
+  rotate: false
+  xy: 444, 153
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_backlegup
+  rotate: false
+  xy: 333, 185
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_body
+  rotate: true
+  xy: 63, 129
+  size: 167, 100
+  orig: 167, 100
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_frontlegdown
+  rotate: false
+  xy: 480, 281
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_frontlegup
+  rotate: false
+  xy: 340, 50
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_hair
+  rotate: true
+  xy: 250, 56
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_head
+  rotate: false
+  xy: 2, 298
+  size: 192, 159
+  orig: 192, 159
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_neck
+  rotate: false
+  xy: 256, 223
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_weiba
+  rotate: true
+  xy: 165, 144
+  size: 152, 89
+  orig: 152, 89
+  offset: 0, 0
+  index: -1
+Mount/dd
+  rotate: false
+  xy: 250, 138
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Sonia/dd
+  rotate: false
+  xy: 250, 138
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 390, 53
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handinner1
+  rotate: true
+  xy: 306, 26
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Sonia/Sonia_MagicKnight/Sonia_UnicornKnight_2/handout1
+  rotate: false
+  xy: 481, 174
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1

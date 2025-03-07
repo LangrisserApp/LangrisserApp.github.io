@@ -1,0 +1,384 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 832, 347
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/arminnerdown
+  rotate: true
+  xy: 290, 2
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/arminnerdown1
+  rotate: false
+  xy: 537, 276
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/arminnerup
+  rotate: false
+  xy: 230, 2
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/armoutdown
+  rotate: false
+  xy: 531, 130
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/armoutup
+  rotate: false
+  xy: 377, 59
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/body
+  rotate: false
+  xy: 310, 121
+  size: 114, 98
+  orig: 114, 98
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/dang
+  rotate: true
+  xy: 426, 133
+  size: 86, 49
+  orig: 86, 49
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/eyebrow
+  rotate: false
+  xy: 753, 343
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/eyehard
+  rotate: false
+  xy: 583, 302
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/eyehard1
+  rotate: true
+  xy: 332, 2
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/eyehard3
+  rotate: false
+  xy: 123, 11
+  size: 61, 9
+  orig: 61, 9
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/eyesffuer
+  rotate: false
+  xy: 64, 2
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/eyeyun
+  rotate: false
+  xy: 583, 280
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/face
+  rotate: true
+  xy: 583, 345
+  size: 165, 168
+  orig: 165, 168
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/handinner
+  rotate: false
+  xy: 972, 311
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/handinner1
+  rotate: false
+  xy: 630, 129
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/handout
+  rotate: false
+  xy: 637, 90
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/handout1
+  rotate: true
+  xy: 630, 162
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/huzi
+  rotate: false
+  xy: 972, 347
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/huzi1
+  rotate: true
+  xy: 554, 41
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/jianjia1
+  rotate: true
+  xy: 503, 18
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/jianjiainner
+  rotate: true
+  xy: 586, 167
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/jianjiaout
+  rotate: true
+  xy: 537, 316
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/leginnerdown
+  rotate: false
+  xy: 609, 85
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/leginnerup
+  rotate: false
+  xy: 474, 224
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/legoutdown
+  rotate: false
+  xy: 628, 203
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/legoutup
+  rotate: false
+  xy: 230, 54
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/mouth01
+  rotate: false
+  xy: 670, 319
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/mouth02
+  rotate: true
+  xy: 469, 4
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/mouth03
+  rotate: false
+  xy: 586, 246
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/weapon2
+  rotate: false
+  xy: 323, 294
+  size: 212, 71
+  orig: 212, 71
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/weapon3
+  rotate: false
+  xy: 908, 337
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/weapon4
+  rotate: true
+  xy: 909, 366
+  size: 144, 103
+  orig: 144, 103
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/xiabai
+  rotate: true
+  xy: 438, 67
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/xiabai1
+  rotate: true
+  xy: 585, 129
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_2/yaodai
+  rotate: false
+  xy: 583, 324
+  size: 85, 19
+  orig: 85, 19
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/arminnerup
+  rotate: true
+  xy: 354, 4
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/armoutdown
+  rotate: false
+  xy: 531, 80
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/armoutup
+  rotate: false
+  xy: 415, 3
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/jianjiaout
+  rotate: false
+  xy: 535, 223
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/jianjiaout1
+  rotate: false
+  xy: 531, 170
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/jianqiao
+  rotate: false
+  xy: 477, 144
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/jianqiao1
+  rotate: false
+  xy: 303, 62
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/leginnerdown1
+  rotate: false
+  xy: 574, 84
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/legoutdown1
+  rotate: false
+  xy: 586, 203
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/weapon
+  rotate: false
+  xy: 753, 374
+  size: 154, 136
+  orig: 154, 136
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_3/weapon1
+  rotate: true
+  xy: 497, 76
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_4/fx1
+  rotate: false
+  xy: 310, 221
+  size: 162, 71
+  orig: 162, 71
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_4/fx2
+  rotate: false
+  xy: 2, 22
+  size: 226, 103
+  orig: 226, 103
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_4/fx3
+  rotate: false
+  xy: 323, 367
+  size: 258, 143
+  orig: 258, 143
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_4/fx4
+  rotate: false
+  xy: 2, 127
+  size: 306, 176
+  orig: 306, 176
+  offset: 0, 0
+  index: -1
+Shibaruku/Shibaruku_Kensei/Shibaruku_Kensei_4/fx5
+  rotate: false
+  xy: 2, 305
+  size: 319, 205
+  orig: 319, 205
+  offset: 0, 0
+  index: -1

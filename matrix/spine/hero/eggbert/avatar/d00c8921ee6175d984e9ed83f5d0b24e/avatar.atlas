@@ -1,0 +1,223 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/Hair1
+  rotate: true
+  xy: 362, 118
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/Hair2
+  rotate: false
+  xy: 497, 195
+  size: 13, 59
+  orig: 13, 59
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/Hair3
+  rotate: true
+  xy: 296, 27
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyehard
+  rotate: false
+  xy: 360, 215
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyehard2
+  rotate: false
+  xy: 428, 220
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyesffuer
+  rotate: false
+  xy: 362, 86
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/eyeyun
+  rotate: false
+  xy: 424, 112
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/face
+  rotate: false
+  xy: 274, 115
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/mouth01
+  rotate: false
+  xy: 2, 4
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/mouth02
+  rotate: true
+  xy: 445, 3
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Eggbert/Eggber_Magic/Eggbert_ArcMage_2/mouth03
+  rotate: true
+  xy: 350, 93
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/arminner
+  rotate: true
+  xy: 385, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/armout
+  rotate: true
+  xy: 353, 2
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/armoutdown
+  rotate: true
+  xy: 136, 13
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/armoutup
+  rotate: false
+  xy: 362, 156
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/body
+  rotate: false
+  xy: 233, 5
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/handinner
+  rotate: true
+  xy: 417, 69
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/handout
+  rotate: true
+  xy: 426, 148
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/hatout
+  rotate: false
+  xy: 2, 11
+  size: 132, 194
+  orig: 132, 194
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/hudang
+  rotate: true
+  xy: 428, 184
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/jianjiainner
+  rotate: false
+  xy: 353, 39
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/leginnerdown
+  rotate: false
+  xy: 424, 2
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/leginnerup
+  rotate: true
+  xy: 408, 35
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/legoutdown
+  rotate: true
+  xy: 296, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/legoutup
+  rotate: false
+  xy: 465, 66
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/pifeng
+  rotate: false
+  xy: 136, 85
+  size: 136, 120
+  orig: 136, 120
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/weapon
+  rotate: false
+  xy: 2, 207
+  size: 356, 47
+  orig: 356, 47
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/yaojiainner
+  rotate: true
+  xy: 469, 14
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/Eggbert_2/yaojiaout
+  rotate: true
+  xy: 454, 37
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Eggbert/Eggbert_Spear/dd
+  rotate: false
+  xy: 417, 112
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 274, 88
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

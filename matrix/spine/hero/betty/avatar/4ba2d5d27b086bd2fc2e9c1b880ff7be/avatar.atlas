@@ -1,0 +1,377 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Betty/Betty_Queen/Betty_Queen_3/arminnerdown
+  rotate: false
+  xy: 340, 127
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/arminnerup
+  rotate: false
+  xy: 262, 20
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/armoutdown
+  rotate: false
+  xy: 127, 184
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/armoutup
+  rotate: true
+  xy: 252, 321
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/body
+  rotate: false
+  xy: 236, 57
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/dang
+  rotate: true
+  xy: 305, 16
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/eyebrow
+  rotate: false
+  xy: 86, 53
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/eyehard
+  rotate: false
+  xy: 295, 244
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/eyehard1
+  rotate: true
+  xy: 326, 156
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/eyehard2
+  rotate: false
+  xy: 295, 229
+  size: 71, 13
+  orig: 71, 13
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/eyehard3
+  rotate: true
+  xy: 350, 157
+  size: 70, 8
+  orig: 70, 8
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/eyesffuer
+  rotate: false
+  xy: 331, 390
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/eyeyun
+  rotate: true
+  xy: 478, 377
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/face
+  rotate: false
+  xy: 2, 180
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair1
+  rotate: true
+  xy: 390, 384
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair10
+  rotate: false
+  xy: 295, 295
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair2
+  rotate: true
+  xy: 253, 422
+  size: 88, 135
+  orig: 88, 135
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair3
+  rotate: false
+  xy: 229, 135
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair4
+  rotate: false
+  xy: 360, 155
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair5
+  rotate: false
+  xy: 287, 136
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair6
+  rotate: true
+  xy: 390, 435
+  size: 75, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair7
+  rotate: true
+  xy: 157, 22
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair8
+  rotate: false
+  xy: 79, 2
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/hair9
+  rotate: false
+  xy: 157, 61
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/handinner
+  rotate: false
+  xy: 331, 370
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/handout
+  rotate: false
+  xy: 340, 76
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/handout1
+  rotate: false
+  xy: 366, 101
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/leginnerdown
+  rotate: false
+  xy: 397, 142
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/leginnerup
+  rotate: false
+  xy: 368, 229
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/legoutdown
+  rotate: false
+  xy: 360, 183
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/legoutup
+  rotate: false
+  xy: 336, 18
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/mouth01
+  rotate: true
+  xy: 147, 35
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/mouth02
+  rotate: false
+  xy: 290, 8
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/mouth03
+  rotate: false
+  xy: 352, 379
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/mouth04
+  rotate: false
+  xy: 295, 223
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/pifeng
+  rotate: false
+  xy: 157, 132
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/pifeng1
+  rotate: false
+  xy: 288, 57
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/pifeng2
+  rotate: true
+  xy: 86, 64
+  size: 114, 69
+  orig: 114, 69
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/qunzi
+  rotate: true
+  xy: 116, 2
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/weapon
+  rotate: false
+  xy: 2, 417
+  size: 249, 93
+  orig: 249, 93
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/weapon1
+  rotate: false
+  xy: 222, 223
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/yaojiainner
+  rotate: true
+  xy: 262, 2
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_3/yaojiaout
+  rotate: false
+  xy: 366, 124
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/arminnerdown
+  rotate: false
+  xy: 340, 99
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/armoutdown
+  rotate: true
+  xy: 397, 113
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/body
+  rotate: true
+  xy: 253, 370
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/pifeng
+  rotate: false
+  xy: 127, 216
+  size: 93, 103
+  orig: 93, 103
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/pifeng1
+  rotate: true
+  xy: 2, 2
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/weapon
+  rotate: false
+  xy: 2, 321
+  size: 248, 94
+  orig: 248, 94
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/weapon1
+  rotate: false
+  xy: 2, 56
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/yaojiainner
+  rotate: false
+  xy: 391, 185
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Betty/Betty_Queen/Betty_Queen_4/yaojiaout
+  rotate: true
+  xy: 215, 13
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 295, 268
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

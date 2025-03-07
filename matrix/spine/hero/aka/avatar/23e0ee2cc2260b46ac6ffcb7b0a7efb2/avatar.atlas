@@ -1,0 +1,461 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/1
+  rotate: false
+  xy: 566, 255
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/2
+  rotate: false
+  xy: 685, 302
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/L1_shou1
+  rotate: true
+  xy: 273, 144
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/L1_shou2
+  rotate: true
+  xy: 858, 149
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/L1_shou3
+  rotate: false
+  xy: 286, 27
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/L_shou1
+  rotate: true
+  xy: 734, 170
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/L_shou2
+  rotate: false
+  xy: 311, 350
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/L_shou3
+  rotate: false
+  xy: 941, 341
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/Pike
+  rotate: false
+  xy: 312, 458
+  size: 264, 52
+  orig: 264, 52
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/Wolf_head
+  rotate: false
+  xy: 783, 402
+  size: 158, 108
+  orig: 158, 108
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/Wolf_jawbone
+  rotate: true
+  xy: 896, 343
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/arminnerdown
+  rotate: false
+  xy: 456, 187
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/arminnerup
+  rotate: false
+  xy: 888, 291
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/armoutup
+  rotate: true
+  xy: 328, 2
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/body
+  rotate: true
+  xy: 668, 184
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/body1
+  rotate: false
+  xy: 2, 209
+  size: 233, 139
+  orig: 233, 139
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/dang
+  rotate: true
+  xy: 422, 378
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/dao
+  rotate: false
+  xy: 916, 295
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/erduoinner
+  rotate: false
+  xy: 391, 350
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/erduoout
+  rotate: true
+  xy: 769, 156
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eye
+  rotate: false
+  xy: 937, 323
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eyebrow
+  rotate: true
+  xy: 668, 308
+  size: 49, 10
+  orig: 49, 10
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eyehard
+  rotate: true
+  xy: 834, 140
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eyehard1
+  rotate: false
+  xy: 668, 160
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eyehard2
+  rotate: true
+  xy: 344, 155
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eyehard3
+  rotate: false
+  xy: 360, 154
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eyesffuer
+  rotate: false
+  xy: 566, 225
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/eyeyun
+  rotate: true
+  xy: 638, 183
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/face
+  rotate: false
+  xy: 237, 221
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair1
+  rotate: true
+  xy: 312, 413
+  size: 43, 134
+  orig: 43, 134
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair10
+  rotate: true
+  xy: 774, 207
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair11
+  rotate: true
+  xy: 286, 80
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair2
+  rotate: true
+  xy: 787, 280
+  size: 50, 99
+  orig: 50, 99
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair3
+  rotate: true
+  xy: 220, 46
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair4
+  rotate: false
+  xy: 360, 174
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair5
+  rotate: true
+  xy: 962, 325
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair6
+  rotate: true
+  xy: 575, 359
+  size: 39, 108
+  orig: 39, 108
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair7
+  rotate: true
+  xy: 456, 246
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair8
+  rotate: false
+  xy: 216, 123
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/hair9
+  rotate: true
+  xy: 448, 368
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/handout
+  rotate: true
+  xy: 489, 195
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/legoutdown
+  rotate: true
+  xy: 896, 323
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/legoutup
+  rotate: false
+  xy: 427, 185
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/mianju
+  rotate: true
+  xy: 668, 234
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/mianju1
+  rotate: true
+  xy: 189, 12
+  size: 91, 29
+  orig: 91, 29
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/mouth01
+  rotate: true
+  xy: 16, 2
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/mouth03
+  rotate: false
+  xy: 1009, 385
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/mouth04
+  rotate: false
+  xy: 668, 302
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/qunzi
+  rotate: false
+  xy: 220, 8
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/sj
+  rotate: true
+  xy: 552, 222
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/weapon
+  rotate: false
+  xy: 2, 350
+  size: 307, 66
+  orig: 307, 66
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/weapon2
+  rotate: true
+  xy: 2, 13
+  size: 90, 185
+  orig: 90, 185
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/weib
+  rotate: false
+  xy: 578, 400
+  size: 203, 110
+  orig: 203, 110
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/yaodai
+  rotate: false
+  xy: 285, 2
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/yumao11
+  rotate: true
+  xy: 787, 332
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/yumao12
+  rotate: false
+  xy: 395, 174
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/yumao6
+  rotate: false
+  xy: 528, 195
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_3/yun
+  rotate: false
+  xy: 422, 359
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_4/mianju
+  rotate: false
+  xy: 943, 395
+  size: 71, 115
+  orig: 71, 115
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_4/mianju1
+  rotate: false
+  xy: 456, 219
+  size: 94, 25
+  orig: 94, 25
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_4/weapon
+  rotate: false
+  xy: 2, 418
+  size: 308, 92
+  orig: 308, 92
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_4/weapon2
+  rotate: true
+  xy: 2, 105
+  size: 102, 212
+  orig: 102, 212
+  offset: 0, 0
+  index: -1
+Aka/Aka_ShikaValkyrie/Aka_ShikaValkyrie_4/yumao11
+  rotate: false
+  xy: 349, 223
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 865, 204
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

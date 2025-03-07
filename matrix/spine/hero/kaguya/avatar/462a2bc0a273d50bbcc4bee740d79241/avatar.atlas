@@ -1,0 +1,615 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kaguya_Magic_2/Shadow
+  rotate: true
+  xy: 485, 372
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/arminnerdown
+  rotate: false
+  xy: 483, 277
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/arminnerup
+  rotate: true
+  xy: 284, 60
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/armoutdown
+  rotate: false
+  xy: 404, 49
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/armoutup
+  rotate: false
+  xy: 323, 69
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/body
+  rotate: false
+  xy: 134, 155
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/body1
+  rotate: true
+  xy: 385, 110
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/body1p
+  rotate: false
+  xy: 239, 92
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/eyebrow
+  rotate: true
+  xy: 313, 132
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/eyehard
+  rotate: false
+  xy: 435, 448
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/eyehard1
+  rotate: false
+  xy: 408, 420
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/eyehard2
+  rotate: false
+  xy: 315, 311
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/eyehard3
+  rotate: false
+  xy: 315, 335
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/eyesffuer
+  rotate: false
+  xy: 127, 60
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/eyeyun
+  rotate: true
+  xy: 386, 256
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/face
+  rotate: false
+  xy: 2, 178
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/g
+  rotate: false
+  xy: 127, 92
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hair
+  rotate: true
+  xy: 315, 366
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hair1
+  rotate: true
+  xy: 139, 312
+  size: 45, 102
+  orig: 45, 102
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hair2
+  rotate: true
+  xy: 139, 359
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hair3
+  rotate: false
+  xy: 483, 307
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hair4
+  rotate: true
+  xy: 416, 383
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hair5
+  rotate: false
+  xy: 2, 318
+  size: 135, 192
+  orig: 135, 192
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/handinner
+  rotate: true
+  xy: 458, 221
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/handout
+  rotate: true
+  xy: 486, 207
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/handout2
+  rotate: false
+  xy: 393, 312
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hu
+  rotate: true
+  xy: 459, 255
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/hu1
+  rotate: true
+  xy: 185, 65
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/jhuan
+  rotate: true
+  xy: 202, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/leginnerdown
+  rotate: true
+  xy: 263, 240
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/leginnerup
+  rotate: false
+  xy: 459, 278
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/legoutdown
+  rotate: true
+  xy: 193, 139
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/legoutup
+  rotate: true
+  xy: 231, 67
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/mouth01
+  rotate: false
+  xy: 25, 2
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/mouth02
+  rotate: false
+  xy: 311, 248
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/mouth04
+  rotate: false
+  xy: 284, 132
+  size: 22, 3
+  orig: 22, 3
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/toushi
+  rotate: false
+  xy: 416, 326
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/toushi1
+  rotate: true
+  xy: 2, 2
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/toushi2
+  rotate: false
+  xy: 323, 106
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/toushi3
+  rotate: true
+  xy: 364, 69
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/weapon
+  rotate: true
+  xy: 2, 19
+  size: 157, 52
+  orig: 157, 52
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiabaiinner
+  rotate: false
+  xy: 242, 240
+  size: 19, 70
+  orig: 19, 70
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiabaiinner1p
+  rotate: true
+  xy: 190, 92
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiabaiinnerp
+  rotate: false
+  xy: 395, 335
+  size: 19, 80
+  orig: 19, 80
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiabaiout
+  rotate: false
+  xy: 134, 212
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiuxiinner
+  rotate: false
+  xy: 434, 88
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiuxiinner1
+  rotate: false
+  xy: 246, 169
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiuxiout
+  rotate: true
+  xy: 460, 187
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/xiuxiout1
+  rotate: true
+  xy: 319, 417
+  size: 39, 87
+  orig: 39, 87
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_2/yaoshi
+  rotate: false
+  xy: 486, 174
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/arminnerup
+  rotate: false
+  xy: 400, 71
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/piguainner
+  rotate: true
+  xy: 259, 328
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/piguainner1
+  rotate: true
+  xy: 56, 20
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/piguaout
+  rotate: false
+  xy: 279, 169
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/toushi2
+  rotate: false
+  xy: 414, 271
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/toushi3
+  rotate: true
+  xy: 323, 48
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/weapon
+  rotate: false
+  xy: 139, 436
+  size: 178, 74
+  orig: 178, 74
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiabaiinner3
+  rotate: true
+  xy: 364, 49
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiabaiinner3p
+  rotate: false
+  xy: 433, 166
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiabaiout3
+  rotate: true
+  xy: 323, 140
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiabaiout3p
+  rotate: false
+  xy: 323, 198
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiuxiinner
+  rotate: false
+  xy: 415, 217
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiuxiinner1
+  rotate: false
+  xy: 263, 266
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiuxiout
+  rotate: false
+  xy: 385, 151
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiuxiout1
+  rotate: false
+  xy: 189, 232
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiuziinner3
+  rotate: true
+  xy: 460, 166
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiuziout3
+  rotate: true
+  xy: 202, 20
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/xiuzioutup
+  rotate: true
+  xy: 284, 94
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/yaoshi3
+  rotate: false
+  xy: 168, 3
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/yaoshi4
+  rotate: true
+  xy: 2, 12
+  size: 5, 47
+  orig: 5, 47
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/yoashi5
+  rotate: false
+  xy: 485, 232
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_3/yoashi5p
+  rotate: true
+  xy: 464, 92
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/linginner
+  rotate: false
+  xy: 384, 201
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/lingout
+  rotate: false
+  xy: 193, 161
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/lingoutp
+  rotate: false
+  xy: 126, 2
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/maoinner
+  rotate: true
+  xy: 315, 260
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/maoinner1
+  rotate: false
+  xy: 319, 458
+  size: 114, 52
+  orig: 114, 52
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/maoout
+  rotate: false
+  xy: 259, 360
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/s
+  rotate: true
+  xy: 437, 51
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/sui
+  rotate: false
+  xy: 483, 257
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/toinner
+  rotate: true
+  xy: 246, 137
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/toout
+  rotate: false
+  xy: 56, 86
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/toushii2
+  rotate: false
+  xy: 434, 116
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/toushii3
+  rotate: false
+  xy: 435, 476
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/weapon1
+  rotate: true
+  xy: 428, 75
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/weapon2
+  rotate: true
+  xy: 408, 448
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+Kaguya_Magic_4/weapon3
+  rotate: false
+  xy: 243, 319
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,426 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lightbringer/Shadow
+  rotate: false
+  xy: 382, 113
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/body
+  rotate: false
+  xy: 513, 113
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/huan
+  rotate: false
+  xy: 495, 369
+  size: 205, 141
+  orig: 205, 141
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/huan0
+  rotate: false
+  xy: 702, 375
+  size: 201, 135
+  orig: 201, 135
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/jianjiainner
+  rotate: true
+  xy: 481, 5
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/jianjiainner1
+  rotate: true
+  xy: 680, 56
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/jianjiaoout1
+  rotate: true
+  xy: 284, 290
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/jianjiaout
+  rotate: true
+  xy: 747, 276
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/qunzi
+  rotate: false
+  xy: 493, 284
+  size: 88, 53
+  orig: 88, 53
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/weapon0
+  rotate: true
+  xy: 495, 339
+  size: 28, 175
+  orig: 28, 175
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/weapon1
+  rotate: false
+  xy: 416, 140
+  size: 95, 142
+  orig: 95, 142
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/weapon2
+  rotate: false
+  xy: 198, 14
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_3/xiabaiinner1
+  rotate: true
+  xy: 513, 182
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/arminnerdown
+  rotate: false
+  xy: 447, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/arminnerup
+  rotate: true
+  xy: 745, 233
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/armoutdown
+  rotate: false
+  xy: 852, 338
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/armoutup
+  rotate: false
+  xy: 655, 26
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/body
+  rotate: false
+  xy: 566, 193
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/dang
+  rotate: false
+  xy: 372, 35
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/dang1
+  rotate: false
+  xy: 624, 54
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/eyebrow
+  rotate: false
+  xy: 198, 6
+  size: 70, 6
+  orig: 70, 6
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/eyehard
+  rotate: false
+  xy: 372, 9
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/eyehard1
+  rotate: false
+  xy: 702, 349
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/eyehard2
+  rotate: false
+  xy: 777, 351
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/eyehard3
+  rotate: true
+  xy: 681, 212
+  size: 63, 7
+  orig: 63, 7
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/eyesffuer
+  rotate: false
+  xy: 702, 318
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/eyeyun
+  rotate: false
+  xy: 624, 78
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/face
+  rotate: false
+  xy: 284, 142
+  size: 130, 140
+  orig: 130, 140
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/hair
+  rotate: false
+  xy: 631, 189
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/hair1
+  rotate: false
+  xy: 690, 222
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/hair2
+  rotate: false
+  xy: 283, 17
+  size: 47, 94
+  orig: 47, 94
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/hair3
+  rotate: false
+  xy: 332, 21
+  size: 38, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/hair4
+  rotate: false
+  xy: 580, 123
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/hair5
+  rotate: true
+  xy: 284, 113
+  size: 27, 96
+  orig: 27, 96
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/hairinner
+  rotate: false
+  xy: 300, 356
+  size: 193, 154
+  orig: 193, 154
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/handinner
+  rotate: false
+  xy: 741, 207
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/handout
+  rotate: true
+  xy: 767, 207
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/handout1
+  rotate: true
+  xy: 713, 211
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/huan
+  rotate: false
+  xy: 2, 309
+  size: 296, 201
+  orig: 296, 201
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/huan0
+  rotate: false
+  xy: 2, 132
+  size: 280, 175
+  orig: 280, 175
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/jianjiainner
+  rotate: true
+  xy: 713, 237
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/jianjiaout
+  rotate: true
+  xy: 582, 60
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/leginnerdown
+  rotate: false
+  xy: 671, 277
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/leginnerup
+  rotate: true
+  xy: 617, 25
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/legoutdown
+  rotate: true
+  xy: 700, 280
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/legoutup
+  rotate: false
+  xy: 672, 321
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/mouth01
+  rotate: true
+  xy: 897, 356
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/mouth02
+  rotate: false
+  xy: 566, 274
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/mouth04
+  rotate: true
+  xy: 451, 91
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/qunzi
+  rotate: false
+  xy: 513, 77
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/toushi
+  rotate: false
+  xy: 578, 29
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/toushi1
+  rotate: true
+  xy: 631, 109
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/weapon0
+  rotate: true
+  xy: 300, 284
+  size: 70, 191
+  orig: 70, 191
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/weapon1
+  rotate: true
+  xy: 2, 7
+  size: 123, 194
+  orig: 123, 194
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/weapon2
+  rotate: false
+  xy: 905, 340
+  size: 112, 170
+  orig: 112, 170
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/xiabaiinner1
+  rotate: false
+  xy: 583, 273
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/xiabaiout
+  rotate: false
+  xy: 409, 35
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/xiabbaiinner
+  rotate: true
+  xy: 509, 42
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/yaojiainner
+  rotate: true
+  xy: 451, 38
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+Lightbringer/Sword/Lingtbringer_Sword_4/yaojiaout
+  rotate: false
+  xy: 458, 80
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1

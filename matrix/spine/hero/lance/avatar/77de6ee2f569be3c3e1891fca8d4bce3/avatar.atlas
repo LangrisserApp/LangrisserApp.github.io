@@ -1,0 +1,342 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lance/Lance_Hawk
+  rotate: false
+  xy: 2, 271
+  size: 147, 182
+  orig: 147, 182
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/body
+  rotate: false
+  xy: 572, 249
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/handinner
+  rotate: false
+  xy: 262, 245
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/handinner1
+  rotate: false
+  xy: 960, 235
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/handout
+  rotate: true
+  xy: 975, 411
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/handout1
+  rotate: false
+  xy: 624, 225
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/jianjiainner
+  rotate: false
+  xy: 449, 56
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/jianjiaout
+  rotate: true
+  xy: 975, 440
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/legoutdown
+  rotate: true
+  xy: 338, 7
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/legoutup
+  rotate: true
+  xy: 779, 390
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/weapon
+  rotate: false
+  xy: 2, 455
+  size: 615, 55
+  orig: 615, 55
+  offset: 0, 0
+  index: -1
+Lance/Lance_HawkKnight/Lance_Hawkknight_1/yaojia
+  rotate: true
+  xy: 847, 248
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+Lance/dd
+  rotate: false
+  xy: 151, 273
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Lance/eyebrow
+  rotate: false
+  xy: 497, 241
+  size: 68, 15
+  orig: 68, 15
+  offset: 0, 0
+  index: -1
+Lance/eyehard
+  rotate: false
+  xy: 383, 31
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Lance/eyehard1
+  rotate: false
+  xy: 272, 12
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Lance/eyehard2
+  rotate: false
+  xy: 894, 254
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Lance/eyehard3
+  rotate: false
+  xy: 245, 2
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Lance/eyesffuer
+  rotate: false
+  xy: 707, 256
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Lance/eyeyun
+  rotate: false
+  xy: 624, 256
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Lance/face
+  rotate: false
+  xy: 262, 100
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+Lance/hair1
+  rotate: false
+  xy: 777, 247
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+Lance/hair2
+  rotate: false
+  xy: 449, 22
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Lance/hair3
+  rotate: false
+  xy: 497, 258
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+Lance/hair4
+  rotate: true
+  xy: 383, 51
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+Lance/hair5
+  rotate: true
+  xy: 975, 388
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+Lance/hairinner
+  rotate: false
+  xy: 157, 2
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+Lance/mouth01
+  rotate: true
+  xy: 148, 56
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+Lance/mouth02
+  rotate: false
+  xy: 63, 2
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Lance/mouth04
+  rotate: false
+  xy: 975, 383
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_body
+  rotate: true
+  xy: 157, 92
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_head
+  rotate: false
+  xy: 779, 291
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_leginner1
+  rotate: true
+  xy: 437, 235
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout1
+  rotate: false
+  xy: 63, 14
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_legout2
+  rotate: false
+  xy: 272, 32
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_neck
+  rotate: false
+  xy: 901, 271
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_weiba
+  rotate: false
+  xy: 295, 235
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner3
+  rotate: true
+  xy: 634, 304
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_winginner4
+  rotate: false
+  xy: 392, 94
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout1
+  rotate: true
+  xy: 295, 323
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout3
+  rotate: false
+  xy: 822, 383
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+Mount/eagle/Eagle_wingout4
+  rotate: false
+  xy: 473, 325
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+Mount/eagle/Feather
+  rotate: true
+  xy: 341, 32
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingdown
+  rotate: true
+  xy: 634, 417
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+Mount/eagle/winginnerup
+  rotate: false
+  xy: 63, 79
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+Mount/eagle/wingout2
+  rotate: false
+  xy: 151, 279
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 245, 16
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sherry/Pike
+  rotate: true
+  xy: 2, 5
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1

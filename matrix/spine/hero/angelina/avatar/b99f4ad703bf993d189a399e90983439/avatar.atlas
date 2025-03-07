@@ -1,0 +1,377 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/arminnerup
+  rotate: false
+  xy: 814, 252
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/armoutup
+  rotate: false
+  xy: 644, 382
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/body
+  rotate: true
+  xy: 483, 214
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/eyebrow
+  rotate: false
+  xy: 752, 217
+  size: 60, 7
+  orig: 60, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/eyehard
+  rotate: true
+  xy: 729, 207
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/eyehard01
+  rotate: false
+  xy: 752, 226
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/eyehard02
+  rotate: false
+  xy: 2, 2
+  size: 61, 13
+  orig: 61, 13
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/eyehard03
+  rotate: true
+  xy: 1007, 415
+  size: 61, 11
+  orig: 61, 11
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/eyesffuer
+  rotate: false
+  xy: 386, 2
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/eyeyun
+  rotate: false
+  xy: 752, 249
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/face
+  rotate: true
+  xy: 546, 405
+  size: 105, 146
+  orig: 105, 146
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/hair1
+  rotate: true
+  xy: 565, 203
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/hair2
+  rotate: true
+  xy: 853, 235
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/hair5
+  rotate: false
+  xy: 542, 270
+  size: 100, 133
+  orig: 100, 133
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/hairback
+  rotate: false
+  xy: 2, 49
+  size: 121, 252
+  orig: 121, 252
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/handinner
+  rotate: false
+  xy: 79, 18
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/handout
+  rotate: false
+  xy: 426, 124
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/jianjiainner
+  rotate: true
+  xy: 944, 226
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/jianjiaout
+  rotate: false
+  xy: 559, 150
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/legoutdown
+  rotate: true
+  xy: 247, 12
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/legoutup
+  rotate: true
+  xy: 980, 478
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/mouth01
+  rotate: true
+  xy: 116, 36
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/mouth02
+  rotate: true
+  xy: 65, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/mouth04
+  rotate: false
+  xy: 835, 269
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/pifeng
+  rotate: false
+  xy: 290, 292
+  size: 136, 112
+  orig: 136, 112
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/toushi
+  rotate: false
+  xy: 2, 17
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/weapon
+  rotate: true
+  xy: 125, 52
+  size: 249, 101
+  orig: 249, 101
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentKnight_2/yaojia
+  rotate: false
+  xy: 215, 2
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentMaster_3/jianjiaout
+  rotate: true
+  xy: 386, 28
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentMaster_3/pifeng
+  rotate: false
+  xy: 290, 178
+  size: 136, 112
+  orig: 136, 112
+  offset: 0, 0
+  index: -1
+Angelina/Angelina_Water/Angelina_SerpentMaster_3/weapon
+  rotate: false
+  xy: 2, 303
+  size: 286, 111
+  orig: 286, 111
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: true
+  xy: 428, 166
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: false
+  xy: 125, 2
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 339, 406
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: false
+  xy: 290, 120
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: true
+  xy: 651, 217
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: true
+  xy: 483, 264
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_head
+  rotate: false
+  xy: 838, 382
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_kaijia
+  rotate: false
+  xy: 448, 133
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: false
+  xy: 290, 2
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: true
+  xy: 928, 287
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: false
+  xy: 428, 222
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_xiongshi
+  rotate: false
+  xy: 644, 270
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: false
+  xy: 853, 287
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: true
+  xy: 228, 37
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_backlegout
+  rotate: true
+  xy: 651, 167
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_frontlegout
+  rotate: true
+  xy: 482, 160
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_head
+  rotate: false
+  xy: 694, 382
+  size: 142, 128
+  orig: 142, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_weiba1
+  rotate: false
+  xy: 228, 119
+  size: 60, 182
+  orig: 60, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/Dragon_xiongshi
+  rotate: false
+  xy: 747, 274
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentMaster_3/dd
+  rotate: false
+  xy: 542, 264
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 980, 402
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,482 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/Shadow
+  rotate: true
+  xy: 146, 74
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/arminnerdown
+  rotate: false
+  xy: 231, 292
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/arminnerup
+  rotate: false
+  xy: 223, 164
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/armoutdown
+  rotate: true
+  xy: 171, 164
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/armoutup
+  rotate: true
+  xy: 300, 253
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/body
+  rotate: true
+  xy: 152, 285
+  size: 49, 77
+  orig: 49, 77
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/eyeborw
+  rotate: true
+  xy: 496, 400
+  size: 59, 7
+  orig: 59, 7
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/eyehard
+  rotate: true
+  xy: 410, 373
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/eyehard1
+  rotate: false
+  xy: 273, 289
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/eyehard2
+  rotate: false
+  xy: 163, 198
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/eyehard3
+  rotate: false
+  xy: 2, 12
+  size: 67, 9
+  orig: 67, 9
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/eyesffuer
+  rotate: true
+  xy: 330, 367
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/eyeyun
+  rotate: true
+  xy: 107, 79
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/face
+  rotate: false
+  xy: 2, 150
+  size: 117, 133
+  orig: 117, 133
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hair1
+  rotate: false
+  xy: 121, 197
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hair2
+  rotate: true
+  xy: 2, 23
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hair3
+  rotate: false
+  xy: 2, 76
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hair4
+  rotate: false
+  xy: 368, 373
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hair5
+  rotate: false
+  xy: 243, 335
+  size: 28, 82
+  orig: 28, 82
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hair6
+  rotate: false
+  xy: 2, 285
+  size: 148, 225
+  orig: 148, 225
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hand1
+  rotate: false
+  xy: 71, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hand2
+  rotate: false
+  xy: 350, 286
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/hand3
+  rotate: false
+  xy: 265, 110
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/handinner
+  rotate: false
+  xy: 299, 107
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/handout
+  rotate: false
+  xy: 344, 229
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/jinglian2
+  rotate: false
+  xy: 121, 150
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/jinglian3
+  rotate: false
+  xy: 345, 249
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/jinglian4
+  rotate: false
+  xy: 220, 220
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/jinglian5
+  rotate: true
+  xy: 377, 284
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/leginnerdown
+  rotate: true
+  xy: 173, 77
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/leginnerup
+  rotate: false
+  xy: 263, 177
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/legoutdown
+  rotate: true
+  xy: 254, 221
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/legoutup
+  rotate: false
+  xy: 234, 115
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/mao
+  rotate: false
+  xy: 152, 336
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/mouth01
+  rotate: false
+  xy: 231, 285
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/mouth02
+  rotate: true
+  xy: 425, 300
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/mouth04
+  rotate: true
+  xy: 505, 444
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/page1
+  rotate: false
+  xy: 253, 198
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/page2
+  rotate: false
+  xy: 399, 297
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/page3
+  rotate: false
+  xy: 404, 319
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/page4
+  rotate: true
+  xy: 376, 250
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/page5
+  rotate: false
+  xy: 240, 198
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/qunziinner
+  rotate: false
+  xy: 163, 220
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/qunziout
+  rotate: true
+  xy: 273, 317
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/shiping2
+  rotate: true
+  xy: 2, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/texiao
+  rotate: false
+  xy: 152, 419
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/weapon
+  rotate: false
+  xy: 360, 451
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_3/yaodai
+  rotate: true
+  xy: 173, 109
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/arminnerdown
+  rotate: false
+  xy: 125, 31
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/arminnerup
+  rotate: true
+  xy: 299, 137
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/armoutdown
+  rotate: false
+  xy: 369, 321
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/armoutup
+  rotate: false
+  xy: 265, 133
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/body
+  rotate: true
+  xy: 431, 461
+  size: 49, 77
+  orig: 49, 77
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/jianjiainner
+  rotate: false
+  xy: 254, 253
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/jianjiaout
+  rotate: true
+  xy: 330, 318
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/jinglian1
+  rotate: false
+  xy: 439, 404
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/leginnerdown
+  rotate: false
+  xy: 94, 27
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/leginnerup
+  rotate: false
+  xy: 299, 177
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/legoutdown
+  rotate: true
+  xy: 299, 221
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/legoutup
+  rotate: true
+  xy: 439, 321
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/qunziinner
+  rotate: false
+  xy: 273, 369
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/qunziout
+  rotate: true
+  xy: 439, 352
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/weapon
+  rotate: false
+  xy: 264, 434
+  size: 94, 76
+  orig: 94, 76
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/yaodai
+  rotate: true
+  xy: 204, 109
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/yaodaiinner
+  rotate: true
+  xy: 404, 339
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/yaodaiinner2
+  rotate: false
+  xy: 94, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/yaodaiout
+  rotate: true
+  xy: 220, 238
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Lightborn/Lightborn_Saint/Lightborn_Saint_4/yaodaiout2
+  rotate: false
+  xy: 488, 327
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

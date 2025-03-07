@@ -1,0 +1,818 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 369, 761
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_arminnerdown
+  rotate: true
+  xy: 843, 440
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_arminnerup
+  rotate: false
+  xy: 799, 2
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_armoutdown
+  rotate: false
+  xy: 587, 610
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_armoutup
+  rotate: false
+  xy: 690, 601
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_body
+  rotate: false
+  xy: 396, 879
+  size: 312, 143
+  orig: 312, 143
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_eye
+  rotate: false
+  xy: 972, 212
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_footinner
+  rotate: true
+  xy: 872, 249
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_footout
+  rotate: false
+  xy: 637, 387
+  size: 65, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_footout1
+  rotate: true
+  xy: 819, 656
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_handinner
+  rotate: false
+  xy: 792, 167
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_handout
+  rotate: true
+  xy: 591, 385
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_head
+  rotate: false
+  xy: 163, 112
+  size: 142, 223
+  orig: 142, 223
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_head1
+  rotate: true
+  xy: 704, 387
+  size: 116, 71
+  orig: 116, 71
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_leginnerdown
+  rotate: false
+  xy: 310, 614
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_leginnerup
+  rotate: false
+  xy: 792, 211
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_legoutdown
+  rotate: false
+  xy: 941, 561
+  size: 81, 68
+  orig: 81, 68
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_legoutup
+  rotate: false
+  xy: 511, 482
+  size: 85, 126
+  orig: 85, 126
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_neck
+  rotate: true
+  xy: 307, 112
+  size: 103, 166
+  orig: 103, 166
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_weiba
+  rotate: false
+  xy: 310, 497
+  size: 199, 111
+  orig: 199, 111
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_weiba1
+  rotate: true
+  xy: 579, 17
+  size: 114, 93
+  orig: 114, 93
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_winginner
+  rotate: false
+  xy: 396, 711
+  size: 221, 166
+  orig: 221, 166
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_wingout
+  rotate: false
+  xy: 2, 662
+  size: 365, 173
+  orig: 365, 173
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_3/dragon_wingout1
+  rotate: false
+  xy: 619, 697
+  size: 124, 34
+  orig: 124, 34
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/arminnerdown
+  rotate: false
+  xy: 968, 186
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/arminnerup
+  rotate: false
+  xy: 413, 217
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/armoutdown
+  rotate: false
+  xy: 782, 701
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/armoutup
+  rotate: false
+  xy: 985, 254
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx1
+  rotate: true
+  xy: 183, 20
+  size: 44, 143
+  orig: 44, 143
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx1_0
+  rotate: false
+  xy: 413, 235
+  size: 49, 148
+  orig: 49, 148
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx2
+  rotate: false
+  xy: 163, 66
+  size: 172, 44
+  orig: 172, 44
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx2_0
+  rotate: true
+  xy: 794, 607
+  size: 91, 23
+  orig: 91, 23
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx3
+  rotate: true
+  xy: 369, 610
+  size: 99, 216
+  orig: 99, 216
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx3_0
+  rotate: false
+  xy: 734, 275
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx4
+  rotate: false
+  xy: 843, 406
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx4_0
+  rotate: true
+  xy: 901, 545
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx5
+  rotate: true
+  xy: 941, 233
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx5_0
+  rotate: false
+  xy: 874, 168
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx6
+  rotate: false
+  xy: 674, 22
+  size: 71, 109
+  orig: 71, 109
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx6_0
+  rotate: true
+  xy: 908, 171
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx7
+  rotate: true
+  xy: 2, 2
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/bjtx7_0
+  rotate: true
+  xy: 945, 700
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/body
+  rotate: true
+  xy: 328, 2
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_arminnerdown
+  rotate: false
+  xy: 941, 503
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_arminnerup
+  rotate: false
+  xy: 869, 632
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_armoutdown
+  rotate: true
+  xy: 475, 108
+  size: 125, 97
+  orig: 125, 97
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_armoutup
+  rotate: false
+  xy: 676, 505
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_body
+  rotate: false
+  xy: 2, 516
+  size: 306, 144
+  orig: 306, 144
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_body1
+  rotate: true
+  xy: 941, 263
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_body2
+  rotate: false
+  xy: 945, 778
+  size: 77, 112
+  orig: 77, 112
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_eye
+  rotate: false
+  xy: 941, 212
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_eye1
+  rotate: false
+  xy: 985, 233
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_footinner
+  rotate: false
+  xy: 924, 407
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_footinner1
+  rotate: false
+  xy: 841, 524
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_footout
+  rotate: false
+  xy: 723, 162
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_footout1
+  rotate: false
+  xy: 941, 453
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_handinner
+  rotate: true
+  xy: 869, 323
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_handout
+  rotate: true
+  xy: 779, 503
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_head
+  rotate: true
+  xy: 2, 78
+  size: 257, 159
+  orig: 257, 159
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_head1
+  rotate: true
+  xy: 661, 269
+  size: 116, 71
+  orig: 116, 71
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_leginnerdown
+  rotate: false
+  xy: 406, 8
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_leginnerup
+  rotate: false
+  xy: 777, 404
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_legoutdown
+  rotate: true
+  xy: 799, 81
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_legoutup
+  rotate: false
+  xy: 566, 257
+  size: 93, 126
+  orig: 93, 126
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_neck
+  rotate: false
+  xy: 307, 217
+  size: 104, 166
+  orig: 104, 166
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_weiba
+  rotate: false
+  xy: 254, 385
+  size: 199, 110
+  orig: 199, 110
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_weiba1
+  rotate: true
+  xy: 464, 235
+  size: 148, 100
+  orig: 148, 100
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_winginner
+  rotate: false
+  xy: 2, 337
+  size: 250, 177
+  orig: 250, 177
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_wingout
+  rotate: false
+  xy: 2, 837
+  size: 392, 185
+  orig: 392, 185
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/dragon_wingout1
+  rotate: true
+  xy: 686, 143
+  size: 124, 35
+  orig: 124, 35
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/eyebrow
+  rotate: true
+  xy: 1007, 960
+  size: 62, 11
+  orig: 62, 11
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/eyehard
+  rotate: true
+  xy: 913, 326
+  size: 78, 21
+  orig: 78, 21
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/eyehard1
+  rotate: true
+  xy: 918, 246
+  size: 78, 21
+  orig: 78, 21
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/eyehard2
+  rotate: true
+  xy: 870, 88
+  size: 77, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/eyehard3
+  rotate: false
+  xy: 80, 66
+  size: 71, 10
+  orig: 71, 10
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/eyesffuer
+  rotate: true
+  xy: 889, 105
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/eyeyun
+  rotate: true
+  xy: 986, 344
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair1
+  rotate: false
+  xy: 901, 475
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair2
+  rotate: false
+  xy: 747, 61
+  size: 50, 99
+  orig: 50, 99
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair3
+  rotate: false
+  xy: 874, 20
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair4
+  rotate: true
+  xy: 745, 697
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair5
+  rotate: false
+  xy: 998, 413
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair6
+  rotate: true
+  xy: 747, 16
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair7
+  rotate: true
+  xy: 747, 39
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair7 3
+  rotate: true
+  xy: 337, 56
+  size: 54, 129
+  orig: 54, 129
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair8
+  rotate: true
+  xy: 455, 385
+  size: 95, 134
+  orig: 95, 134
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/hair9
+  rotate: true
+  xy: 619, 733
+  size: 142, 187
+  orig: 142, 187
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/handinner
+  rotate: true
+  xy: 914, 212
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/handinner1
+  rotate: true
+  xy: 901, 453
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/handout
+  rotate: false
+  xy: 283, 497
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/handout1
+  rotate: false
+  xy: 254, 497
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/handrun
+  rotate: true
+  xy: 966, 20
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/handrun1
+  rotate: true
+  xy: 996, 186
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/head
+  rotate: true
+  xy: 808, 739
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/jianjiainnner
+  rotate: true
+  xy: 926, 47
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/jianjiaout
+  rotate: true
+  xy: 936, 335
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/leginnerdown
+  rotate: false
+  xy: 872, 215
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/leginnerup
+  rotate: true
+  xy: 369, 719
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/legoutdown
+  rotate: true
+  xy: 254, 337
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/legoutup
+  rotate: true
+  xy: 985, 288
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/mouth
+  rotate: false
+  xy: 598, 482
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/mouth02
+  rotate: true
+  xy: 566, 240
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/mouth04
+  rotate: true
+  xy: 461, 36
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/pifeng
+  rotate: false
+  xy: 574, 133
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/pifeng1
+  rotate: true
+  xy: 944, 631
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/pifeng2
+  rotate: true
+  xy: 80, 2
+  size: 62, 101
+  orig: 62, 101
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/pifeng3
+  rotate: true
+  xy: 919, 108
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/texiao_2a
+  rotate: true
+  xy: 468, 2
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/toushi1
+  rotate: true
+  xy: 787, 306
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/toushi2
+  rotate: false
+  xy: 874, 710
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/tx 2
+  rotate: true
+  xy: 674, 2
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/tx2
+  rotate: false
+  xy: 710, 877
+  size: 227, 145
+  orig: 227, 145
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/tx2_0
+  rotate: true
+  xy: 598, 491
+  size: 117, 76
+  orig: 117, 76
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/tx_0
+  rotate: true
+  xy: 926, 19
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/yaojia
+  rotate: true
+  xy: 819, 614
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+SovereignOfIceAbyss_Knight_4/zhuahen
+  rotate: false
+  xy: 939, 892
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1

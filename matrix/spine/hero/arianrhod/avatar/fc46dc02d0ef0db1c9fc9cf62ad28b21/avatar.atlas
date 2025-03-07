@@ -1,0 +1,412 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/Pike
+  rotate: false
+  xy: 289, 358
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/arminnerdown
+  rotate: true
+  xy: 549, 299
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/arminnerup
+  rotate: true
+  xy: 630, 315
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/armoutdown
+  rotate: false
+  xy: 596, 274
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/armoutup
+  rotate: false
+  xy: 480, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/body
+  rotate: false
+  xy: 276, 97
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/hand2
+  rotate: false
+  xy: 312, 187
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/handinner
+  rotate: false
+  xy: 988, 274
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/handinner3
+  rotate: false
+  xy: 663, 324
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/handout
+  rotate: false
+  xy: 629, 281
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/jianjiainner
+  rotate: true
+  xy: 900, 290
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/jianjiaout
+  rotate: false
+  xy: 952, 336
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/leginnerdown
+  rotate: false
+  xy: 559, 213
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/leginnerup
+  rotate: true
+  xy: 941, 274
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/legoutdown
+  rotate: false
+  xy: 476, 42
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/legoutup
+  rotate: true
+  xy: 507, 263
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/qunzi1
+  rotate: false
+  xy: 517, 202
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/qunzi2
+  rotate: false
+  xy: 479, 92
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/qunzi3
+  rotate: false
+  xy: 429, 298
+  size: 118, 58
+  orig: 118, 58
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/toukui
+  rotate: false
+  xy: 2, 150
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/weapon1
+  rotate: false
+  xy: 2, 327
+  size: 285, 90
+  orig: 285, 90
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/weapon2
+  rotate: false
+  xy: 312, 213
+  size: 127, 43
+  orig: 127, 43
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_2/yaojia
+  rotate: false
+  xy: 441, 208
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/body
+  rotate: false
+  xy: 270, 10
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/eyebrow
+  rotate: false
+  xy: 331, 2
+  size: 75, 9
+  orig: 75, 9
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/eyehard
+  rotate: true
+  xy: 394, 13
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/eyehard1
+  rotate: false
+  xy: 648, 353
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/eyehard2
+  rotate: true
+  xy: 555, 343
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/eyehard3
+  rotate: true
+  xy: 406, 142
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/eyesffuer
+  rotate: false
+  xy: 429, 263
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/eyeyun
+  rotate: false
+  xy: 417, 173
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/face
+  rotate: false
+  xy: 181, 184
+  size: 129, 141
+  orig: 129, 141
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/hair1
+  rotate: false
+  xy: 312, 258
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/hair2
+  rotate: false
+  xy: 952, 380
+  size: 57, 130
+  orig: 57, 130
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/hair3
+  rotate: true
+  xy: 417, 147
+  size: 24, 79
+  orig: 24, 79
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/hair4
+  rotate: true
+  xy: 773, 344
+  size: 166, 177
+  orig: 166, 177
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/hair5
+  rotate: true
+  xy: 941, 300
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/jianjiainner
+  rotate: false
+  xy: 331, 23
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/jianjiaout
+  rotate: false
+  xy: 337, 142
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/mouth01
+  rotate: false
+  xy: 181, 175
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/mouth02
+  rotate: false
+  xy: 289, 347
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/mouth04
+  rotate: false
+  xy: 572, 345
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/pifeng
+  rotate: false
+  xy: 576, 379
+  size: 195, 131
+  orig: 195, 131
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/qunzi1
+  rotate: false
+  xy: 773, 300
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/qunzi3
+  rotate: true
+  xy: 724, 335
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_3/weapon1
+  rotate: false
+  xy: 291, 419
+  size: 283, 91
+  orig: 283, 91
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/arminnerdown
+  rotate: false
+  xy: 586, 315
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/armoutdown
+  rotate: true
+  xy: 555, 264
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/jianjiainner
+  rotate: false
+  xy: 199, 16
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/jianjiaout
+  rotate: false
+  xy: 199, 97
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/linziinner
+  rotate: false
+  xy: 838, 299
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/linziout
+  rotate: false
+  xy: 419, 2
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/pifeng
+  rotate: false
+  xy: 2, 15
+  size: 195, 133
+  orig: 195, 133
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/qunzi1
+  rotate: false
+  xy: 337, 89
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/qunzi2
+  rotate: true
+  xy: 418, 95
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/qunzi3
+  rotate: false
+  xy: 419, 39
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Arianrhod/Arianrhod_SteelMaiden/Arianrhod_SteelMaiden_4/weapon1
+  rotate: false
+  xy: 2, 419
+  size: 287, 91
+  orig: 287, 91
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 572, 352
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

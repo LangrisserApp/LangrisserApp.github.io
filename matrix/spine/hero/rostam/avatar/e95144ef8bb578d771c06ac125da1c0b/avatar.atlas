@@ -1,0 +1,573 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rostam/Rostam_Assassin/Rostam_Assassin_3/arminnerdown
+  rotate: true
+  xy: 381, 93
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/arminnerdown1
+  rotate: true
+  xy: 336, 2
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/armoutdown
+  rotate: false
+  xy: 375, 273
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/armoutdown1
+  rotate: false
+  xy: 211, 86
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/armoutup
+  rotate: false
+  xy: 379, 219
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/body
+  rotate: false
+  xy: 333, 367
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/body1
+  rotate: true
+  xy: 242, 368
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/dang
+  rotate: false
+  xy: 232, 8
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/jianjiainner
+  rotate: true
+  xy: 468, 463
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/jianjiaout
+  rotate: true
+  xy: 340, 219
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/leginnerdown
+  rotate: false
+  xy: 296, 127
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/leginnerup
+  rotate: false
+  xy: 254, 44
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/legoutdown
+  rotate: true
+  xy: 211, 51
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/legoutup
+  rotate: true
+  xy: 246, 132
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/lingzi1
+  rotate: true
+  xy: 363, 2
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/lingzi2
+  rotate: false
+  xy: 410, 240
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/weapon2
+  rotate: false
+  xy: 458, 316
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/weapon4
+  rotate: false
+  xy: 138, 185
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/weapon5
+  rotate: false
+  xy: 158, 385
+  size: 82, 125
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/weapon6
+  rotate: false
+  xy: 139, 237
+  size: 21, 118
+  orig: 21, 118
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/yaojia1
+  rotate: true
+  xy: 90, 243
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/yaojia2
+  rotate: false
+  xy: 326, 128
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/yaojia3
+  rotate: false
+  xy: 93, 52
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/yaojia4
+  rotate: true
+  xy: 154, 2
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/yaojia5
+  rotate: true
+  xy: 415, 175
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/yaojia6
+  rotate: false
+  xy: 146, 127
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_3/yaojia7
+  rotate: false
+  xy: 327, 82
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/Shadow
+  rotate: true
+  xy: 184, 51
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/arminnerdown
+  rotate: true
+  xy: 380, 173
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/arminnerdown1
+  rotate: true
+  xy: 390, 2
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/arminnerup
+  rotate: false
+  xy: 212, 191
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/arminnerup1
+  rotate: false
+  xy: 411, 273
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/armoutdown
+  rotate: false
+  xy: 416, 5
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/armoutdown1
+  rotate: false
+  xy: 381, 125
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/armoutup
+  rotate: true
+  xy: 326, 173
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/armoutup1
+  rotate: false
+  xy: 327, 272
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/body
+  rotate: false
+  xy: 162, 219
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/body1
+  rotate: false
+  xy: 423, 368
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/dang
+  rotate: true
+  xy: 404, 46
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/dang1
+  rotate: false
+  xy: 327, 45
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/eyebrow
+  rotate: false
+  xy: 423, 346
+  size: 84, 20
+  orig: 84, 20
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/eyehard
+  rotate: true
+  xy: 321, 206
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/eyehard1
+  rotate: false
+  xy: 332, 314
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/eyehard2
+  rotate: false
+  xy: 340, 204
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/eyehard3
+  rotate: true
+  xy: 373, 109
+  size: 62, 6
+  orig: 62, 6
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/eyesffuer
+  rotate: false
+  xy: 252, 175
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/eyeyun
+  rotate: false
+  xy: 332, 333
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/face
+  rotate: false
+  xy: 2, 357
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/hair1
+  rotate: true
+  xy: 2, 2
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/hair2
+  rotate: false
+  xy: 92, 110
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/handinner
+  rotate: false
+  xy: 457, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/handinner1
+  rotate: false
+  xy: 458, 292
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/handout
+  rotate: true
+  xy: 279, 21
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/handout1
+  rotate: false
+  xy: 449, 246
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/jianjiainner
+  rotate: false
+  xy: 252, 272
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/jianjiaout
+  rotate: false
+  xy: 252, 206
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/leginnerdown
+  rotate: false
+  xy: 374, 45
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/leginnerup
+  rotate: false
+  xy: 411, 301
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/legoutdown
+  rotate: false
+  xy: 301, 2
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/legoutup
+  rotate: true
+  xy: 245, 89
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/legoutup1
+  rotate: false
+  xy: 203, 134
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/lingzi1
+  rotate: true
+  xy: 301, 45
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/lingzi2
+  rotate: true
+  xy: 295, 89
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/mouth01
+  rotate: true
+  xy: 240, 310
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/mouth02
+  rotate: true
+  xy: 407, 350
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/mouth03
+  rotate: false
+  xy: 279, 11
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/mouth04
+  rotate: false
+  xy: 232, 44
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/piaodai1
+  rotate: false
+  xy: 240, 332
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/piaodai2
+  rotate: true
+  xy: 2, 85
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/toushi
+  rotate: true
+  xy: 372, 459
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/weapon1
+  rotate: true
+  xy: 138, 219
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/weapon2
+  rotate: false
+  xy: 410, 210
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/weapon3
+  rotate: true
+  xy: 92, 175
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/weapon4
+  rotate: true
+  xy: 150, 54
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/weapon5
+  rotate: false
+  xy: 2, 210
+  size: 86, 145
+  orig: 86, 145
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/weapon6
+  rotate: false
+  xy: 67, 88
+  size: 23, 120
+  orig: 23, 120
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/yaojia1
+  rotate: false
+  xy: 242, 457
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/yaojia2
+  rotate: false
+  xy: 93, 2
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/yaojia3
+  rotate: false
+  xy: 162, 309
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/yaojia4
+  rotate: true
+  xy: 193, 2
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Rostam/Rostam_Assassin/Rostam_Assassin_4/yaojia5
+  rotate: true
+  xy: 415, 140
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1

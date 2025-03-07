@@ -1,0 +1,503 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sagny_Saint_3/arminnerdown
+  rotate: false
+  xy: 241, 87
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/armoutdown
+  rotate: false
+  xy: 612, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/body
+  rotate: true
+  xy: 326, 275
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/body1
+  rotate: false
+  xy: 482, 308
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/doumao
+  rotate: false
+  xy: 827, 431
+  size: 116, 79
+  orig: 116, 79
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/doupeng
+  rotate: true
+  xy: 576, 441
+  size: 69, 127
+  orig: 69, 127
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/doupeng1
+  rotate: false
+  xy: 182, 151
+  size: 50, 108
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/doupeng2
+  rotate: false
+  xy: 83, 261
+  size: 137, 105
+  orig: 137, 105
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/fashi
+  rotate: false
+  xy: 403, 282
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/fazheng1
+  rotate: false
+  xy: 2, 79
+  size: 60, 184
+  orig: 60, 184
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/fazheng2
+  rotate: true
+  xy: 398, 391
+  size: 50, 132
+  orig: 50, 132
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/fazheng3
+  rotate: true
+  xy: 482, 284
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/leginnerdown
+  rotate: true
+  xy: 427, 167
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/legoutdown
+  rotate: true
+  xy: 472, 202
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/mofashu
+  rotate: true
+  xy: 295, 169
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/texiao_shu1
+  rotate: false
+  xy: 524, 240
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/texiao_shu2
+  rotate: true
+  xy: 532, 391
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/texiao_shu3
+  rotate: false
+  xy: 279, 85
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Sagny_Saint_3/texiao_shu4
+  rotate: true
+  xy: 576, 384
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/arminnerdown
+  rotate: true
+  xy: 663, 346
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/arminnerup
+  rotate: true
+  xy: 479, 163
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/armoutdown
+  rotate: false
+  xy: 612, 317
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/armoutup
+  rotate: false
+  xy: 616, 355
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/body
+  rotate: true
+  xy: 164, 87
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/body1
+  rotate: false
+  xy: 561, 361
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/body2
+  rotate: true
+  xy: 216, 38
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/doumao
+  rotate: false
+  xy: 64, 180
+  size: 116, 79
+  orig: 116, 79
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/doupeng1
+  rotate: true
+  xy: 705, 426
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/doupeng2
+  rotate: true
+  xy: 232, 339
+  size: 61, 115
+  orig: 61, 115
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/doupeng3
+  rotate: false
+  xy: 232, 402
+  size: 164, 108
+  orig: 164, 108
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/eyebrow
+  rotate: true
+  xy: 467, 284
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/eyehard
+  rotate: false
+  xy: 147, 13
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/eyehard1
+  rotate: false
+  xy: 348, 167
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/eyehard2
+  rotate: false
+  xy: 834, 383
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/eyehard3
+  rotate: false
+  xy: 694, 381
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/eyesffuer
+  rotate: false
+  xy: 486, 359
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/eyeyun
+  rotate: false
+  xy: 694, 395
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/face
+  rotate: false
+  xy: 83, 368
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/fashiout
+  rotate: false
+  xy: 945, 419
+  size: 74, 91
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/fazheng1
+  rotate: false
+  xy: 2, 265
+  size: 79, 245
+  orig: 79, 245
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/fazheng2
+  rotate: true
+  xy: 398, 443
+  size: 67, 176
+  orig: 67, 176
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/fazheng3
+  rotate: true
+  xy: 395, 360
+  size: 29, 89
+  orig: 29, 89
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/hair1
+  rotate: true
+  xy: 348, 191
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/hair2
+  rotate: false
+  xy: 64, 99
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/hair3
+  rotate: false
+  xy: 76, 14
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/hair4
+  rotate: false
+  xy: 234, 172
+  size: 59, 99
+  orig: 59, 99
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/handinner
+  rotate: false
+  xy: 720, 358
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/handinner1
+  rotate: true
+  xy: 348, 142
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/handout
+  rotate: false
+  xy: 990, 380
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/handrun_inner
+  rotate: false
+  xy: 693, 354
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/handrun_out
+  rotate: true
+  xy: 321, 141
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/leginnerdown
+  rotate: false
+  xy: 913, 379
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/leginnerup
+  rotate: true
+  xy: 945, 382
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/legoutdown
+  rotate: false
+  xy: 241, 117
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/legoutup
+  rotate: false
+  xy: 279, 122
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/mofabi
+  rotate: false
+  xy: 417, 199
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/mofashu
+  rotate: false
+  xy: 222, 273
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/mofashu1
+  rotate: true
+  xy: 537, 310
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/mouth01
+  rotate: false
+  xy: 164, 174
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/mouth02
+  rotate: false
+  xy: 147, 90
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/mouth04
+  rotate: false
+  xy: 257, 82
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/piaodai
+  rotate: false
+  xy: 349, 339
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/piaodai1
+  rotate: false
+  xy: 2, 2
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/texiao_shu1
+  rotate: true
+  xy: 569, 295
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/texiao_shu2
+  rotate: false
+  xy: 472, 240
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/texiao_shu3
+  rotate: false
+  xy: 569, 323
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/texiao_shu4
+  rotate: true
+  xy: 635, 384
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/yaojia
+  rotate: false
+  xy: 527, 185
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/yaojia1
+  rotate: true
+  xy: 769, 385
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+Sagny_Saint_4/yaojia2
+  rotate: false
+  xy: 147, 37
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 834, 404
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

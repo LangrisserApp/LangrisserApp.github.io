@@ -1,0 +1,580 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/Shadow
+  rotate: false
+  xy: 817, 333
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/arminnerdown
+  rotate: false
+  xy: 646, 274
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/arminnerup
+  rotate: true
+  xy: 733, 92
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/armoutdown
+  rotate: false
+  xy: 304, 123
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/armoutup
+  rotate: false
+  xy: 986, 357
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/body
+  rotate: false
+  xy: 586, 10
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/eyebrow
+  rotate: false
+  xy: 198, 8
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/eyehard
+  rotate: true
+  xy: 418, 4
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/eyehard1
+  rotate: false
+  xy: 918, 336
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/eyehard2
+  rotate: false
+  xy: 954, 339
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/eyehard3
+  rotate: true
+  xy: 344, 364
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/eyesffuer
+  rotate: true
+  xy: 389, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/eyeyun
+  rotate: true
+  xy: 834, 268
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/face
+  rotate: false
+  xy: 527, 375
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_12
+  rotate: true
+  xy: 690, 101
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_13
+  rotate: true
+  xy: 919, 357
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_14
+  rotate: false
+  xy: 650, 304
+  size: 95, 24
+  orig: 95, 24
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_15
+  rotate: false
+  xy: 356, 349
+  size: 169, 161
+  orig: 169, 161
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_2
+  rotate: false
+  xy: 2, 9
+  size: 173, 52
+  orig: 173, 52
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_3
+  rotate: true
+  xy: 236, 110
+  size: 170, 66
+  orig: 170, 66
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_4
+  rotate: false
+  xy: 817, 385
+  size: 167, 58
+  orig: 167, 58
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_5
+  rotate: false
+  xy: 646, 441
+  size: 166, 69
+  orig: 166, 69
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_6
+  rotate: false
+  xy: 814, 445
+  size: 166, 65
+  orig: 166, 65
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/fx_7
+  rotate: false
+  xy: 646, 378
+  size: 169, 61
+  orig: 169, 61
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/hair1
+  rotate: true
+  xy: 982, 464
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/hair2
+  rotate: false
+  xy: 442, 55
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/hair3
+  rotate: true
+  xy: 344, 270
+  size: 77, 118
+  orig: 77, 118
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/hair4
+  rotate: false
+  xy: 331, 41
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/hair5
+  rotate: true
+  xy: 421, 158
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/hair6
+  rotate: false
+  xy: 442, 2
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/hair7
+  rotate: false
+  xy: 464, 273
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/handinner
+  rotate: true
+  xy: 177, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/handout
+  rotate: true
+  xy: 893, 308
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/handout1
+  rotate: false
+  xy: 868, 308
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/jianjiainner
+  rotate: false
+  xy: 694, 8
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/jianjiaout
+  rotate: true
+  xy: 733, 122
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/leginnerdown
+  rotate: false
+  xy: 732, 43
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/leginnerup
+  rotate: false
+  xy: 782, 328
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/legoutdown
+  rotate: false
+  xy: 764, 43
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/legoutup
+  rotate: true
+  xy: 736, 15
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/mouth01
+  rotate: false
+  xy: 586, 2
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/mouth02
+  rotate: false
+  xy: 304, 271
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/mouth03
+  rotate: true
+  xy: 576, 56
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/mouth04
+  rotate: false
+  xy: 747, 304
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/piaodaiinner
+  rotate: false
+  xy: 672, 233
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/piaodaiout1
+  rotate: true
+  xy: 770, 204
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/pifenginner
+  rotate: true
+  xy: 236, 2
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/pifenginner
+  rotate: true
+  xy: 236, 2
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/pifenginner3
+  rotate: false
+  xy: 471, 156
+  size: 65, 115
+  orig: 65, 115
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/pifenginner3
+  rotate: false
+  xy: 471, 156
+  size: 65, 115
+  orig: 65, 115
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/pifengout
+  rotate: false
+  xy: 511, 54
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/weapon
+  rotate: false
+  xy: 2, 282
+  size: 340, 118
+  orig: 340, 118
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_3/yaojia
+  rotate: false
+  xy: 331, 2
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/arminnerdown
+  rotate: false
+  xy: 893, 330
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/arminnerup
+  rotate: true
+  xy: 770, 298
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/armoutdown
+  rotate: true
+  xy: 921, 309
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/armoutup
+  rotate: false
+  xy: 802, 258
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/body
+  rotate: false
+  xy: 628, 90
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/fx_11
+  rotate: true
+  xy: 177, 22
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/fx_12
+  rotate: false
+  xy: 817, 360
+  size: 100, 23
+  orig: 100, 23
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/fx_13
+  rotate: false
+  xy: 576, 75
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/fx_14
+  rotate: false
+  xy: 527, 324
+  size: 121, 49
+  orig: 121, 49
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/fx_15
+  rotate: false
+  xy: 2, 63
+  size: 232, 217
+  orig: 232, 217
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/fx_16
+  rotate: false
+  xy: 304, 154
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/fx_17
+  rotate: true
+  xy: 641, 36
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/handinner
+  rotate: false
+  xy: 747, 309
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/handout
+  rotate: true
+  xy: 990, 335
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/jianjiainner
+  rotate: true
+  xy: 986, 397
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/jianjiaout
+  rotate: false
+  xy: 672, 175
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/leginnerdown
+  rotate: true
+  xy: 641, 2
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/leginnerup
+  rotate: false
+  xy: 770, 254
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/legoutdown
+  rotate: false
+  xy: 739, 248
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/legoutup
+  rotate: false
+  xy: 741, 192
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/piaodaiinner
+  rotate: false
+  xy: 622, 166
+  size: 48, 106
+  orig: 48, 106
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/piaodaiout
+  rotate: true
+  xy: 527, 274
+  size: 48, 117
+  orig: 48, 117
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/piaodaiout1
+  rotate: false
+  xy: 817, 307
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/pifenginner1
+  rotate: false
+  xy: 650, 330
+  size: 130, 46
+  orig: 130, 46
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/pifenginner2
+  rotate: true
+  xy: 483, 2
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/pifengout
+  rotate: false
+  xy: 538, 157
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/pifengout1
+  rotate: false
+  xy: 530, 3
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/weapon
+  rotate: false
+  xy: 2, 402
+  size: 352, 108
+  orig: 352, 108
+  offset: 0, 0
+  index: -1
+LordOfCrimson/LordOfCrimson_CrimsonDominator/LordOfCrimson_CrimsonDominator_4/yaojia
+  rotate: true
+  xy: 691, 40
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1

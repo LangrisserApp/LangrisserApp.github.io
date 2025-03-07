@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alice/Alice_Hana/Alice_Hana_2/armoutup
+  rotate: true
+  xy: 435, 397
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana/Alice_Hana_2/qunzi
+  rotate: false
+  xy: 358, 429
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/Shadow
+  rotate: false
+  xy: 214, 359
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/arminnerup
+  rotate: false
+  xy: 103, 25
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/eyebrow
+  rotate: true
+  xy: 151, 184
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/eyehard
+  rotate: false
+  xy: 290, 356
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/eyehard1
+  rotate: false
+  xy: 209, 296
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/eyehard2
+  rotate: false
+  xy: 209, 272
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/eyehard3
+  rotate: false
+  xy: 282, 346
+  size: 68, 8
+  orig: 68, 8
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/eyesffuer
+  rotate: true
+  xy: 472, 439
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/eyeyun
+  rotate: false
+  xy: 209, 326
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/face
+  rotate: true
+  xy: 214, 386
+  size: 124, 142
+  orig: 124, 142
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/hair1
+  rotate: false
+  xy: 2, 118
+  size: 91, 137
+  orig: 91, 137
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/hair2
+  rotate: false
+  xy: 95, 126
+  size: 54, 129
+  orig: 54, 129
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/hair3
+  rotate: false
+  xy: 2, 18
+  size: 27, 98
+  orig: 27, 98
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/hair4
+  rotate: false
+  xy: 155, 278
+  size: 52, 98
+  orig: 52, 98
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/hair5
+  rotate: true
+  xy: 358, 394
+  size: 33, 75
+  orig: 33, 75
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/hair6
+  rotate: false
+  xy: 2, 257
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/handinner
+  rotate: false
+  xy: 312, 304
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/handinner1
+  rotate: false
+  xy: 320, 324
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/handout
+  rotate: false
+  xy: 281, 272
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/leginnerdown
+  rotate: true
+  xy: 155, 260
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/leginnerup
+  rotate: true
+  xy: 282, 324
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/legoutdown
+  rotate: false
+  xy: 412, 353
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/legoutup
+  rotate: true
+  xy: 472, 414
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/mouth01
+  rotate: true
+  xy: 352, 342
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/mouth02
+  rotate: false
+  xy: 2, 7
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/mouth03
+  rotate: true
+  xy: 341, 329
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/mouth04
+  rotate: true
+  xy: 209, 363
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/xiong
+  rotate: false
+  xy: 361, 346
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_2/xiong1
+  rotate: true
+  xy: 84, 61
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_3/arminnerdown
+  rotate: true
+  xy: 103, 3
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_3/body
+  rotate: false
+  xy: 31, 61
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_4/armoutdown
+  rotate: false
+  xy: 281, 296
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_4/pijianinner
+  rotate: false
+  xy: 162, 206
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_4/toushi
+  rotate: false
+  xy: 2, 378
+  size: 210, 132
+  orig: 210, 132
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_4/yaoshi
+  rotate: false
+  xy: 162, 232
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_4/yaoshi1
+  rotate: true
+  xy: 76, 2
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+Alice/Alice_Hana_备份/Alice_Hana_4/yaoshi2
+  rotate: true
+  xy: 31, 2
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1

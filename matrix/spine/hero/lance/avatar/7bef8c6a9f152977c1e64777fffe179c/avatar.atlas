@@ -1,0 +1,286 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: true
+  xy: 2, 152
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/arm_inner
+  rotate: true
+  xy: 161, 158
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/arm_out
+  rotate: false
+  xy: 318, 182
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/arm_out1
+  rotate: false
+  xy: 312, 276
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/body
+  rotate: false
+  xy: 207, 330
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/hudang
+  rotate: false
+  xy: 316, 211
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/jianjiainner
+  rotate: true
+  xy: 161, 185
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/jianjiaout
+  rotate: true
+  xy: 2, 58
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/jianjiaoutinner
+  rotate: false
+  xy: 281, 181
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/leginnerdown
+  rotate: false
+  xy: 287, 203
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/leginnerup
+  rotate: false
+  xy: 100, 84
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/legoutdown
+  rotate: false
+  xy: 254, 206
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/legoutup
+  rotate: true
+  xy: 257, 252
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/pifeng
+  rotate: false
+  xy: 266, 392
+  size: 169, 111
+  orig: 169, 111
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/toushi
+  rotate: false
+  xy: 437, 386
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/toushi2
+  rotate: true
+  xy: 41, 17
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/weapon
+  rotate: false
+  xy: 2, 418
+  size: 262, 85
+  orig: 262, 85
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/yaojiainner
+  rotate: false
+  xy: 2, 2
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/Lance_SwardMan_2/yaojiaout
+  rotate: false
+  xy: 62, 82
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/hand_out
+  rotate: true
+  xy: 254, 180
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/handinner
+  rotate: false
+  xy: 307, 252
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lance/Lance_Sword/handinner1
+  rotate: false
+  xy: 332, 252
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Lance/eyebrow
+  rotate: false
+  xy: 63, 149
+  size: 76, 17
+  orig: 76, 17
+  offset: 0, 0
+  index: -1
+Lance/eyehard
+  rotate: false
+  xy: 427, 338
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Lance/eyehard1
+  rotate: false
+  xy: 261, 319
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+Lance/eyehard2
+  rotate: false
+  xy: 62, 131
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+Lance/eyehard3
+  rotate: true
+  xy: 51, 81
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Lance/eyesffuer
+  rotate: false
+  xy: 261, 340
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+Lance/eyeyun
+  rotate: false
+  xy: 344, 344
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+Lance/face
+  rotate: false
+  xy: 63, 268
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+Lance/hair1
+  rotate: true
+  xy: 207, 253
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+Lance/hair2
+  rotate: false
+  xy: 257, 283
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+Lance/hair3
+  rotate: true
+  xy: 437, 421
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+Lance/hair4
+  rotate: false
+  xy: 206, 180
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+Lance/hair5
+  rotate: true
+  xy: 205, 155
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+Lance/hairinner
+  rotate: false
+  xy: 63, 168
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+Lance/mouth01
+  rotate: false
+  xy: 256, 170
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+Lance/mouth02
+  rotate: false
+  xy: 141, 156
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Lance/mouth04
+  rotate: true
+  xy: 261, 398
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 427, 359
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

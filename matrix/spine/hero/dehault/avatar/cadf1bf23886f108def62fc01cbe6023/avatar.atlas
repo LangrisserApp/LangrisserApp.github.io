@@ -1,0 +1,307 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dehault/Dehault_Sword/Dehault_SwardMan_2/arminnerup
+  rotate: false
+  xy: 371, 337
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/armoutdown
+  rotate: false
+  xy: 408, 396
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/armoutdown1
+  rotate: false
+  xy: 293, 254
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/armoutup
+  rotate: true
+  xy: 53, 2
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/body
+  rotate: false
+  xy: 202, 209
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/eyebrow
+  rotate: false
+  xy: 259, 334
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/eyehard
+  rotate: false
+  xy: 341, 380
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/eyehard1
+  rotate: false
+  xy: 259, 313
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/eyehard2
+  rotate: false
+  xy: 264, 299
+  size: 62, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/eyehard3
+  rotate: false
+  xy: 440, 405
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/eyesffuer
+  rotate: false
+  xy: 341, 401
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/eyeyun
+  rotate: false
+  xy: 98, 51
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/face
+  rotate: false
+  xy: 63, 291
+  size: 161, 132
+  orig: 161, 132
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/hair
+  rotate: false
+  xy: 226, 317
+  size: 31, 106
+  orig: 31, 106
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/handinner
+  rotate: false
+  xy: 295, 229
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/handinner1
+  rotate: false
+  xy: 295, 206
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/handout
+  rotate: false
+  xy: 226, 292
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/hudang
+  rotate: false
+  xy: 334, 335
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/jianjiainner
+  rotate: false
+  xy: 2, 2
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/jianjiainner1
+  rotate: false
+  xy: 286, 384
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/jianjiaout
+  rotate: true
+  xy: 160, 86
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/jianjiaout1
+  rotate: false
+  xy: 100, 2
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/jianjiaout2
+  rotate: false
+  xy: 164, 43
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/jianjiaout3
+  rotate: true
+  xy: 185, 2
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/leginnerdown
+  rotate: false
+  xy: 264, 253
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/leginnerup
+  rotate: false
+  xy: 147, 2
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/legoutdown
+  rotate: false
+  xy: 218, 2
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/legoutup
+  rotate: true
+  xy: 202, 176
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/mouth01
+  rotate: false
+  xy: 63, 162
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/mouth02
+  rotate: true
+  xy: 246, 187
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/mouth03
+  rotate: false
+  xy: 407, 383
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/mouth04
+  rotate: true
+  xy: 507, 492
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/toushi
+  rotate: true
+  xy: 221, 97
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/weapon
+  rotate: false
+  xy: 2, 425
+  size: 259, 85
+  orig: 259, 85
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/weijininner
+  rotate: true
+  xy: 2, 44
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/yaojiainner
+  rotate: false
+  xy: 264, 210
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+Dehault/Dehault_Sword/Dehault_SwardMan_2/yaojiaout
+  rotate: true
+  xy: 286, 349
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Dehault/hair1
+  rotate: false
+  xy: 98, 82
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Dehault/hair2
+  rotate: false
+  xy: 63, 176
+  size: 137, 113
+  orig: 137, 113
+  offset: 0, 0
+  index: -1
+Dehault/hair3
+  rotate: false
+  xy: 441, 414
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+Dehault/hair4
+  rotate: false
+  xy: 263, 428
+  size: 176, 82
+  orig: 176, 82
+  offset: 0, 0
+  index: -1
+Elwin/Pike
+  rotate: true
+  xy: 2, 159
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 259, 349
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

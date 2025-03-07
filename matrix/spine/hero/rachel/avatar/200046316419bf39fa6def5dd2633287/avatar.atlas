@@ -1,0 +1,314 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anna/Bishop/Anna_Bishop_2/dd
+  rotate: false
+  xy: 291, 417
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/dd
+  rotate: false
+  xy: 291, 417
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/body
+  rotate: false
+  xy: 92, 252
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/eyebrow
+  rotate: false
+  xy: 291, 302
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/eyehard
+  rotate: false
+  xy: 274, 181
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/eyehard1
+  rotate: false
+  xy: 101, 61
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/eyehard2
+  rotate: true
+  xy: 493, 445
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/eyehard3
+  rotate: true
+  xy: 275, 65
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/eyesffuer
+  rotate: true
+  xy: 386, 244
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/eyeyun
+  rotate: false
+  xy: 417, 280
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/face
+  rotate: false
+  xy: 186, 302
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/fushi
+  rotate: true
+  xy: 212, 131
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hair1
+  rotate: true
+  xy: 274, 207
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hair2
+  rotate: true
+  xy: 186, 83
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hair3
+  rotate: false
+  xy: 212, 181
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hair4
+  rotate: true
+  xy: 2, 13
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hair5
+  rotate: true
+  xy: 186, 42
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hairback
+  rotate: false
+  xy: 2, 386
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hatinner
+  rotate: true
+  xy: 101, 87
+  size: 163, 66
+  orig: 163, 66
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/hatout
+  rotate: true
+  xy: 2, 224
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/mouth01
+  rotate: false
+  xy: 442, 411
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/mouth02
+  rotate: false
+  xy: 361, 302
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/mouth04
+  rotate: true
+  xy: 92, 234
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/pijian
+  rotate: true
+  xy: 442, 419
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/pijianinner
+  rotate: true
+  xy: 294, 82
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/toushi
+  rotate: true
+  xy: 417, 237
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/weapon
+  rotate: true
+  xy: 169, 78
+  size: 172, 15
+  orig: 172, 15
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/weapon1
+  rotate: false
+  xy: 419, 311
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/yaodai
+  rotate: false
+  xy: 214, 4
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_2/yaodaipeijian
+  rotate: false
+  xy: 294, 63
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/body
+  rotate: true
+  xy: 297, 411
+  size: 99, 143
+  orig: 99, 143
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/handinner
+  rotate: true
+  xy: 135, 386
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/handinner1
+  rotate: true
+  xy: 472, 233
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/handout
+  rotate: false
+  xy: 185, 2
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/handout1
+  rotate: false
+  xy: 159, 2
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/hatout
+  rotate: false
+  xy: 135, 423
+  size: 160, 87
+  orig: 160, 87
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/jianjiainner
+  rotate: false
+  xy: 338, 55
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/jianjiaout
+  rotate: false
+  xy: 98, 20
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/pifeng
+  rotate: true
+  xy: 2, 73
+  size: 149, 97
+  orig: 149, 97
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/shipin
+  rotate: true
+  xy: 336, 87
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/toushi
+  rotate: true
+  xy: 289, 135
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/weapon
+  rotate: true
+  xy: 186, 132
+  size: 168, 24
+  orig: 168, 24
+  offset: 0, 0
+  index: -1
+Rachel/Rachel_Bishop/Rachel_Avatar_3/weapon1
+  rotate: true
+  xy: 291, 314
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 359, 226
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

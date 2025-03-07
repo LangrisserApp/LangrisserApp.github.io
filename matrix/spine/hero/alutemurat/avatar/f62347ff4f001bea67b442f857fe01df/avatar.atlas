@@ -1,0 +1,356 @@
+
+avatar.png
+size: 521,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/arminnerdown
+  rotate: true
+  xy: 443, 152
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/arminnerup
+  rotate: false
+  xy: 400, 18
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/armoutdown
+  rotate: true
+  xy: 281, 6
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/armoutup
+  rotate: true
+  xy: 360, 20
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/body
+  rotate: false
+  xy: 323, 85
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyebrow
+  rotate: false
+  xy: 372, 161
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard
+  rotate: false
+  xy: 376, 72
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard1
+  rotate: true
+  xy: 498, 276
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard2
+  rotate: false
+  xy: 360, 57
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyehard3
+  rotate: true
+  xy: 500, 211
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyesffuer
+  rotate: false
+  xy: 376, 90
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/eyeyun
+  rotate: true
+  xy: 469, 271
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/face
+  rotate: false
+  xy: 2, 42
+  size: 118, 140
+  orig: 118, 140
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hair1
+  rotate: true
+  xy: 132, 259
+  size: 77, 186
+  orig: 77, 186
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hair2
+  rotate: false
+  xy: 283, 156
+  size: 43, 101
+  orig: 43, 101
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hair3
+  rotate: false
+  xy: 328, 152
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hairinner
+  rotate: false
+  xy: 2, 184
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/handinner
+  rotate: false
+  xy: 433, 37
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/handout
+  rotate: false
+  xy: 442, 59
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/hudang
+  rotate: true
+  xy: 417, 178
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/jianjiainner
+  rotate: false
+  xy: 312, 51
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/jianjiainner1
+  rotate: false
+  xy: 417, 209
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/jianjiainner1beimian
+  rotate: false
+  xy: 272, 86
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/jianjiaout
+  rotate: false
+  xy: 376, 120
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/jianjiaout1
+  rotate: true
+  xy: 122, 2
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/jianjiaout1beimian
+  rotate: true
+  xy: 312, 16
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/leginnerdown
+  rotate: false
+  xy: 447, 81
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/leginnerup
+  rotate: false
+  xy: 466, 218
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/legoutdown
+  rotate: true
+  xy: 479, 342
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/legoutup
+  rotate: true
+  xy: 2, 2
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/mouth01
+  rotate: true
+  xy: 500, 189
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/mouth02
+  rotate: false
+  xy: 433, 25
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/pifeng
+  rotate: false
+  xy: 122, 63
+  size: 148, 96
+  orig: 148, 96
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/weapon
+  rotate: false
+  xy: 2, 429
+  size: 399, 90
+  orig: 399, 90
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/yaojiainner
+  rotate: false
+  xy: 475, 100
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_General_2/yaojiaout
+  rotate: true
+  xy: 57, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/arminnerdown
+  rotate: true
+  xy: 475, 74
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/armoutdown
+  rotate: false
+  xy: 96, 12
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/body
+  rotate: false
+  xy: 416, 274
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/hudang
+  rotate: false
+  xy: 281, 32
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/jianjiainner
+  rotate: false
+  xy: 472, 173
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/jianjiainner1
+  rotate: true
+  xy: 210, 4
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/jianjiaout
+  rotate: true
+  xy: 372, 178
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/jianjiaout1
+  rotate: true
+  xy: 320, 264
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/leginnerdowm
+  rotate: false
+  xy: 474, 136
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/legoutdown
+  rotate: true
+  xy: 438, 120
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/pifeng
+  rotate: false
+  xy: 132, 161
+  size: 149, 96
+  orig: 149, 96
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_Marshal_3/weapon
+  rotate: false
+  xy: 2, 338
+  size: 399, 89
+  orig: 399, 89
+  offset: 0, 0
+  index: -1
+Alutemurat/Alutemurat_Spear/Alutemurat_toukui/hatout
+  rotate: true
+  xy: 403, 369
+  size: 150, 107
+  orig: 150, 107
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 403, 342
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

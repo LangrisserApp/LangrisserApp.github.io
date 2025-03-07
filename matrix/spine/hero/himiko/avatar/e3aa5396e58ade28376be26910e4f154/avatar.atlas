@@ -1,0 +1,272 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/arminnerdown
+  rotate: false
+  xy: 945, 168
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/arminnerup
+  rotate: false
+  xy: 285, 2
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/armoutdown
+  rotate: false
+  xy: 813, 138
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/armoutup
+  rotate: true
+  xy: 327, 3
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/beijia
+  rotate: true
+  xy: 848, 289
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/beijia2
+  rotate: false
+  xy: 346, 220
+  size: 177, 290
+  orig: 177, 290
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/beijia3
+  rotate: true
+  xy: 2, 79
+  size: 88, 289
+  orig: 88, 289
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/body
+  rotate: false
+  xy: 525, 329
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/eye
+  rotate: true
+  xy: 791, 235
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/handinner
+  rotate: false
+  xy: 388, 14
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/handinner1
+  rotate: false
+  xy: 293, 108
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/handout
+  rotate: true
+  xy: 970, 239
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/head
+  rotate: false
+  xy: 711, 337
+  size: 135, 173
+  orig: 135, 173
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/jianjiainner
+  rotate: false
+  xy: 630, 118
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/jianjiainner1
+  rotate: false
+  xy: 630, 39
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/jianjiaout
+  rotate: false
+  xy: 346, 123
+  size: 156, 95
+  orig: 156, 95
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/jianjiaout2
+  rotate: true
+  xy: 948, 99
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/jianjiaout3
+  rotate: false
+  xy: 525, 234
+  size: 165, 93
+  orig: 165, 93
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/leginnerdown
+  rotate: true
+  xy: 738, 38
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/leginnerdown1
+  rotate: false
+  xy: 345, 62
+  size: 103, 59
+  orig: 103, 59
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/leginnerup
+  rotate: false
+  xy: 732, 136
+  size: 79, 97
+  orig: 79, 97
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/leginnerup1
+  rotate: false
+  xy: 450, 2
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutdown
+  rotate: false
+  xy: 514, 4
+  size: 78, 96
+  orig: 78, 96
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutdown1
+  rotate: true
+  xy: 970, 297
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutdown2
+  rotate: false
+  xy: 692, 235
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutdown3
+  rotate: true
+  xy: 821, 55
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutup
+  rotate: true
+  xy: 830, 223
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutup1
+  rotate: false
+  xy: 877, 142
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutup2
+  rotate: true
+  xy: 184, 8
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/legoutup3
+  rotate: false
+  xy: 882, 64
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/texiao
+  rotate: false
+  xy: 848, 368
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/weapon
+  rotate: true
+  xy: 2, 9
+  size: 68, 180
+  orig: 68, 180
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/weapon1
+  rotate: true
+  xy: 525, 209
+  size: 23, 205
+  orig: 23, 205
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/weapon2
+  rotate: false
+  xy: 2, 169
+  size: 342, 341
+  orig: 342, 341
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/xiabai
+  rotate: false
+  xy: 791, 269
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+Himiko/Himiko_Genoumaru/Himiko_Genoumaru_4/xiabai1
+  rotate: true
+  xy: 450, 89
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 992, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Ryuoumaru/Wataru_Ryuoumaru_3/yy
+  rotate: false
+  xy: 504, 102
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1

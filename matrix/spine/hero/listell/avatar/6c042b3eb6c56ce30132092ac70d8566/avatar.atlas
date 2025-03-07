@@ -1,0 +1,307 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Listell/Listell_Death/Listel_death_2/arminnerdown
+  rotate: true
+  xy: 253, 252
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/arminnerup
+  rotate: false
+  xy: 468, 383
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/armoutdown
+  rotate: false
+  xy: 201, 147
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/armoutup
+  rotate: false
+  xy: 345, 321
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/body
+  rotate: true
+  xy: 125, 103
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/earinner
+  rotate: false
+  xy: 190, 219
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/earout
+  rotate: false
+  xy: 121, 65
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/eyebrow
+  rotate: false
+  xy: 2, 12
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/eyehard
+  rotate: true
+  xy: 96, 43
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/eyehard1
+  rotate: false
+  xy: 121, 40
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/eyehard2
+  rotate: false
+  xy: 255, 363
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/eyehard3
+  rotate: true
+  xy: 187, 150
+  size: 67, 12
+  orig: 67, 12
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/eyesffuer
+  rotate: false
+  xy: 121, 220
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/eyeyun
+  rotate: false
+  xy: 184, 253
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/face
+  rotate: false
+  xy: 2, 215
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hair1
+  rotate: false
+  xy: 184, 283
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hair2
+  rotate: true
+  xy: 384, 377
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hair3
+  rotate: false
+  xy: 384, 424
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hair4
+  rotate: false
+  xy: 2, 111
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hair5
+  rotate: true
+  xy: 329, 361
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hair6
+  rotate: false
+  xy: 243, 314
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hair7
+  rotate: false
+  xy: 468, 439
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/hairback
+  rotate: false
+  xy: 255, 382
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/handinner
+  rotate: false
+  xy: 289, 265
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/handout
+  rotate: false
+  xy: 288, 287
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/jianjiainner
+  rotate: true
+  xy: 216, 115
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/jianjiaout
+  rotate: false
+  xy: 243, 283
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/leginnerdown
+  rotate: false
+  xy: 201, 168
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/leginnerup
+  rotate: true
+  xy: 468, 418
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/legoutdown
+  rotate: false
+  xy: 321, 310
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/legoutup
+  rotate: false
+  xy: 295, 309
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/mouth01
+  rotate: false
+  xy: 345, 310
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/mouth02
+  rotate: false
+  xy: 69, 23
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/mouth03
+  rotate: false
+  xy: 96, 36
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/pifeng
+  rotate: true
+  xy: 86, 117
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/qunzi
+  rotate: false
+  xy: 125, 150
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/qunzi1
+  rotate: true
+  xy: 2, 22
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/shipin
+  rotate: true
+  xy: 456, 379
+  size: 43, 10
+  orig: 43, 10
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/toushi
+  rotate: false
+  xy: 121, 251
+  size: 61, 114
+  orig: 61, 114
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/toushi1
+  rotate: true
+  xy: 244, 227
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/toushi2
+  rotate: false
+  xy: 194, 112
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Listell/Listell_Death/Listel_death_2/weapon
+  rotate: false
+  xy: 2, 367
+  size: 251, 143
+  orig: 251, 143
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 69, 35
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

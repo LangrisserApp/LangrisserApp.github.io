@@ -1,0 +1,440 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Carolian/Rider/Carolian_Rider_3/arminnerdown
+  rotate: false
+  xy: 216, 59
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/arminnerup
+  rotate: true
+  xy: 184, 69
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/armoutdown
+  rotate: true
+  xy: 269, 162
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/armoutup
+  rotate: false
+  xy: 198, 156
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/body
+  rotate: false
+  xy: 769, 328
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/face
+  rotate: false
+  xy: 417, 376
+  size: 171, 132
+  orig: 171, 132
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/hair1
+  rotate: true
+  xy: 769, 298
+  size: 28, 76
+  orig: 28, 76
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/hair2
+  rotate: true
+  xy: 556, 299
+  size: 75, 105
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/hair3
+  rotate: true
+  xy: 98, 19
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/handinner
+  rotate: false
+  xy: 184, 43
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/handout
+  rotate: false
+  xy: 227, 125
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/jianjia1
+  rotate: false
+  xy: 622, 222
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/jianjia2
+  rotate: false
+  xy: 362, 164
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/jianjia3
+  rotate: false
+  xy: 520, 212
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/legoutdown
+  rotate: true
+  xy: 298, 168
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/legoutup
+  rotate: true
+  xy: 407, 156
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/motou1
+  rotate: true
+  xy: 358, 247
+  size: 122, 72
+  orig: 122, 72
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/motou3
+  rotate: false
+  xy: 2, 55
+  size: 180, 128
+  orig: 180, 128
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/motou4
+  rotate: false
+  xy: 432, 311
+  size: 122, 63
+  orig: 122, 63
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/motuo2
+  rotate: false
+  xy: 2, 185
+  size: 194, 153
+  orig: 194, 153
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_3/yaojia1
+  rotate: false
+  xy: 297, 213
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/arminnerdown
+  rotate: false
+  xy: 993, 372
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/arminnerup
+  rotate: true
+  xy: 452, 155
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/armoutdown
+  rotate: false
+  xy: 257, 126
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/armoutup
+  rotate: false
+  xy: 195, 114
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/body
+  rotate: false
+  xy: 841, 329
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/eyehard
+  rotate: true
+  xy: 198, 265
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/eyehard1
+  rotate: false
+  xy: 223, 190
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/eyehard2
+  rotate: true
+  xy: 184, 114
+  size: 69, 9
+  orig: 69, 9
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/eyehard3
+  rotate: true
+  xy: 198, 190
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/eyesffuer
+  rotate: false
+  xy: 223, 213
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/eyeyun
+  rotate: false
+  xy: 847, 296
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/face
+  rotate: false
+  xy: 590, 376
+  size: 171, 132
+  orig: 171, 132
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/hair1
+  rotate: true
+  xy: 766, 268
+  size: 28, 76
+  orig: 28, 76
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/hair2
+  rotate: true
+  xy: 663, 299
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/hair3
+  rotate: true
+  xy: 692, 264
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/hair4
+  rotate: true
+  xy: 552, 242
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/hand bujian
+  rotate: false
+  xy: 407, 191
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/handinner
+  rotate: false
+  xy: 172, 17
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/handout
+  rotate: false
+  xy: 490, 205
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/jianjia1
+  rotate: false
+  xy: 913, 347
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/jianjia2
+  rotate: false
+  xy: 362, 205
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/jianjia3
+  rotate: false
+  xy: 216, 85
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/legoutdown
+  rotate: false
+  xy: 979, 296
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/legoutup
+  rotate: true
+  xy: 445, 199
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motou1
+  rotate: false
+  xy: 763, 404
+  size: 188, 104
+  orig: 188, 104
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motou1a
+  rotate: false
+  xy: 921, 299
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motou3
+  rotate: false
+  xy: 224, 246
+  size: 132, 123
+  orig: 132, 123
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motou3a
+  rotate: false
+  xy: 2, 12
+  size: 94, 41
+  orig: 94, 41
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motou4
+  rotate: false
+  xy: 224, 371
+  size: 191, 137
+  orig: 191, 137
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motou4a
+  rotate: true
+  xy: 230, 155
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motuo2
+  rotate: false
+  xy: 2, 340
+  size: 220, 168
+  orig: 220, 168
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/motuo2a
+  rotate: true
+  xy: 345, 195
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/mouth01
+  rotate: true
+  xy: 993, 347
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/mouth02
+  rotate: false
+  xy: 993, 363
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/mouth04
+  rotate: false
+  xy: 269, 155
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/pifeng1
+  rotate: true
+  xy: 432, 235
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/pifeng2
+  rotate: true
+  xy: 953, 404
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/yaojia1
+  rotate: true
+  xy: 510, 241
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Carolian_Rider_4/yaojia2
+  rotate: true
+  xy: 622, 259
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+Carolian/Rider/Shadow
+  rotate: false
+  xy: 844, 269
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

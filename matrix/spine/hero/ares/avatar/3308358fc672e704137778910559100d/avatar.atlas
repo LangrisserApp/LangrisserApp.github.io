@@ -1,0 +1,517 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ares/King/Ares_King_2/arminnerdown
+  rotate: true
+  xy: 327, 64
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/armoutdown
+  rotate: true
+  xy: 445, 298
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/body
+  rotate: true
+  xy: 404, 363
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/jianjiainner
+  rotate: true
+  xy: 474, 243
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/jianjiainner1
+  rotate: false
+  xy: 282, 201
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/jianjiaout
+  rotate: false
+  xy: 378, 220
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/leginnerdown
+  rotate: true
+  xy: 292, 127
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/legoutdown
+  rotate: false
+  xy: 295, 226
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/pifeng
+  rotate: false
+  xy: 260, 319
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/weapon
+  rotate: false
+  xy: 75, 201
+  size: 164, 28
+  orig: 164, 28
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/weapon1
+  rotate: false
+  xy: 385, 302
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/weijing
+  rotate: true
+  xy: 221, 120
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/yaojia
+  rotate: false
+  xy: 241, 201
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_2/yaojia2
+  rotate: false
+  xy: 289, 103
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/hudang
+  rotate: true
+  xy: 429, 262
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/jianjiainner1
+  rotate: true
+  xy: 316, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/jianjiaout
+  rotate: false
+  xy: 379, 261
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/leginnerup
+  rotate: true
+  xy: 426, 218
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/legoutup
+  rotate: true
+  xy: 328, 221
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/pifeng
+  rotate: false
+  xy: 197, 378
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/pifeng1
+  rotate: false
+  xy: 221, 314
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/weapon
+  rotate: true
+  xy: 2, 177
+  size: 195, 71
+  orig: 195, 71
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_3/weapon1
+  rotate: true
+  xy: 194, 232
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/arminnerdown
+  rotate: true
+  xy: 474, 216
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/arminnerup
+  rotate: false
+  xy: 293, 34
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/armoutdown
+  rotate: false
+  xy: 333, 116
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/armoutup
+  rotate: true
+  xy: 375, 187
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/body
+  rotate: false
+  xy: 345, 352
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/eyebrow
+  rotate: true
+  xy: 279, 143
+  size: 56, 11
+  orig: 56, 11
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/eyeffuer
+  rotate: true
+  xy: 476, 345
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/eyehard
+  rotate: false
+  xy: 222, 2
+  size: 66, 17
+  orig: 66, 17
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/eyehard1
+  rotate: false
+  xy: 221, 101
+  size: 66, 17
+  orig: 66, 17
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/eyehard2
+  rotate: false
+  xy: 221, 231
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/eyehard3
+  rotate: false
+  xy: 156, 2
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/eyeyun
+  rotate: false
+  xy: 404, 328
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/face
+  rotate: false
+  xy: 75, 231
+  size: 117, 141
+  orig: 117, 141
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hair1
+  rotate: true
+  xy: 252, 139
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hair2
+  rotate: false
+  xy: 212, 21
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hair3
+  rotate: false
+  xy: 405, 416
+  size: 104, 94
+  orig: 104, 94
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hair4
+  rotate: false
+  xy: 156, 14
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hair5
+  rotate: true
+  xy: 2, 37
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hair6
+  rotate: true
+  xy: 335, 149
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hair7
+  rotate: false
+  xy: 250, 25
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/handinner
+  rotate: true
+  xy: 271, 245
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/handinner1
+  rotate: false
+  xy: 290, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/handout
+  rotate: true
+  xy: 356, 91
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/hudang
+  rotate: false
+  xy: 476, 280
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/jianjiainner
+  rotate: true
+  xy: 293, 67
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/jianjiainner1
+  rotate: false
+  xy: 335, 182
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/jianjiaout
+  rotate: false
+  xy: 271, 266
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/leginnerdown
+  rotate: true
+  xy: 419, 191
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/leginnerup
+  rotate: false
+  xy: 292, 153
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/legoutdown
+  rotate: true
+  xy: 421, 158
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/legoutup
+  rotate: true
+  xy: 328, 262
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/mouth01
+  rotate: true
+  xy: 460, 201
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/mouth02
+  rotate: true
+  xy: 329, 356
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/mouth03
+  rotate: false
+  xy: 385, 340
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/mouth04
+  rotate: true
+  xy: 312, 205
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/pifeng
+  rotate: false
+  xy: 81, 116
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/pifeng1
+  rotate: true
+  xy: 264, 374
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/pifenginner
+  rotate: false
+  xy: 268, 424
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/toushi
+  rotate: true
+  xy: 81, 37
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/weapon
+  rotate: false
+  xy: 2, 374
+  size: 193, 75
+  orig: 193, 75
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/weapon1
+  rotate: false
+  xy: 83, 2
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/weijing
+  rotate: false
+  xy: 2, 2
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/weijing1
+  rotate: false
+  xy: 327, 86
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/xiabai
+  rotate: true
+  xy: 221, 245
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/xiabai1
+  rotate: true
+  xy: 329, 304
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/xiaobaiinner
+  rotate: true
+  xy: 163, 101
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/yaojia
+  rotate: false
+  xy: 378, 153
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+Ares/King/Ares_King_4/yaojia2
+  rotate: false
+  xy: 321, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Ares/Pike
+  rotate: false
+  xy: 2, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 194, 298
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

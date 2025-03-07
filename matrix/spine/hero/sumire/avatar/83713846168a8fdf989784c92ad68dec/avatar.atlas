@@ -1,0 +1,265 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 129, 244
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/arminnerdown
+  rotate: false
+  xy: 2, 2
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/arminnerup
+  rotate: false
+  xy: 240, 297
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/armoutdown
+  rotate: true
+  xy: 142, 325
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/armoutup
+  rotate: false
+  xy: 208, 293
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/body
+  rotate: true
+  xy: 442, 463
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/eyebrow
+  rotate: true
+  xy: 156, 249
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/eyehard
+  rotate: false
+  xy: 198, 351
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/eyehard1
+  rotate: false
+  xy: 352, 398
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/eyehard2
+  rotate: false
+  xy: 197, 332
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/eyehard3
+  rotate: true
+  xy: 171, 252
+  size: 71, 8
+  orig: 71, 8
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/eyesffuer
+  rotate: false
+  xy: 429, 434
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/eyeyun
+  rotate: false
+  xy: 429, 405
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/face
+  rotate: false
+  xy: 2, 320
+  size: 138, 152
+  orig: 138, 152
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/hair1
+  rotate: true
+  xy: 62, 215
+  size: 103, 65
+  orig: 103, 65
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/hair2
+  rotate: false
+  xy: 2, 168
+  size: 58, 150
+  orig: 58, 150
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/hair3
+  rotate: false
+  xy: 2, 54
+  size: 42, 112
+  orig: 42, 112
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/hair4
+  rotate: false
+  xy: 142, 355
+  size: 54, 117
+  orig: 54, 117
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/handinner
+  rotate: false
+  xy: 129, 217
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/handout
+  rotate: false
+  xy: 275, 355
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/leginnerdown
+  rotate: false
+  xy: 181, 279
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/leginnerup
+  rotate: true
+  xy: 304, 369
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/legoutdown
+  rotate: false
+  xy: 112, 106
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/legoutup
+  rotate: true
+  xy: 351, 368
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/mouth01
+  rotate: false
+  xy: 112, 94
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/pifenginner
+  rotate: false
+  xy: 352, 423
+  size: 75, 52
+  orig: 75, 52
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/pifengout
+  rotate: false
+  xy: 350, 477
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/qunziinner
+  rotate: true
+  xy: 62, 155
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/qunziout
+  rotate: false
+  xy: 198, 403
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/shanzi
+  rotate: false
+  xy: 33, 10
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/shipin
+  rotate: false
+  xy: 46, 94
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/shipin2
+  rotate: false
+  xy: 275, 403
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_2/toushi
+  rotate: false
+  xy: 198, 376
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_3/mouth02
+  rotate: true
+  xy: 429, 463
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_3/mouth04
+  rotate: false
+  xy: 46, 163
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_3/qunziinner1
+  rotate: false
+  xy: 46, 55
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+Sumire/Sumire_SuperStar/Sumire_SuperStar_3/weapon
+  rotate: false
+  xy: 2, 474
+  size: 346, 35
+  orig: 346, 35
+  offset: 0, 0
+  index: -1

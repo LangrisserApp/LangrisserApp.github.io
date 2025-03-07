@@ -1,0 +1,713 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EvilMaster/KreugerTheWicked_EvilMaster_4/Shadow
+  rotate: true
+  xy: 298, 183
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/arminnerdown
+  rotate: true
+  xy: 721, 145
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/arminnerup
+  rotate: false
+  xy: 681, 103
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/armoutdown
+  rotate: false
+  xy: 229, 69
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/armoutup
+  rotate: true
+  xy: 538, 161
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/body
+  rotate: true
+  xy: 324, 55
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/dang
+  rotate: true
+  xy: 916, 145
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/eyehard
+  rotate: true
+  xy: 806, 97
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/eyehard1
+  rotate: false
+  xy: 721, 70
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/eyehard2
+  rotate: false
+  xy: 180, 247
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/eyehard3
+  rotate: true
+  xy: 1015, 265
+  size: 34, 7
+  orig: 34, 7
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/eyesffuer
+  rotate: false
+  xy: 721, 117
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/eyeyun
+  rotate: false
+  xy: 721, 89
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/face
+  rotate: false
+  xy: 322, 369
+  size: 152, 141
+  orig: 152, 141
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/hair1
+  rotate: true
+  xy: 623, 421
+  size: 89, 129
+  orig: 89, 129
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/hair2
+  rotate: true
+  xy: 855, 247
+  size: 29, 82
+  orig: 29, 82
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/hair3
+  rotate: false
+  xy: 390, 117
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/handinner
+  rotate: true
+  xy: 604, 4
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/handinner1
+  rotate: true
+  xy: 581, 2
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/handout
+  rotate: true
+  xy: 388, 55
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/handout1
+  rotate: true
+  xy: 756, 91
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/jianjiainner
+  rotate: false
+  xy: 631, 101
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/jianjiaout
+  rotate: true
+  xy: 229, 121
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/leginnerdown
+  rotate: true
+  xy: 981, 186
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/leginnerup
+  rotate: false
+  xy: 408, 2
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/legoutdown
+  rotate: true
+  xy: 580, 87
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/legoutup
+  rotate: true
+  xy: 537, 98
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/lingzi
+  rotate: false
+  xy: 229, 192
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/lingzi1
+  rotate: false
+  xy: 345, 2
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/lingzi2
+  rotate: false
+  xy: 581, 41
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/mianju
+  rotate: false
+  xy: 431, 55
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/mouth01
+  rotate: true
+  xy: 460, 125
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/mouth02
+  rotate: true
+  xy: 32, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/mouth03
+  rotate: true
+  xy: 390, 149
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/mouth04
+  rotate: false
+  xy: 820, 150
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/pifeng
+  rotate: true
+  xy: 582, 259
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/pifeng1
+  rotate: true
+  xy: 580, 192
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/pifeng2
+  rotate: false
+  xy: 853, 185
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/pifeng3
+  rotate: true
+  xy: 467, 204
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/pifeng4
+  rotate: false
+  xy: 754, 416
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/pifeng5
+  rotate: false
+  xy: 400, 206
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/suolian1
+  rotate: false
+  xy: 629, 68
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/suolian2
+  rotate: true
+  xy: 849, 330
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/suolian3
+  rotate: true
+  xy: 432, 3
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/suolian4
+  rotate: false
+  xy: 746, 329
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/suolian5
+  rotate: true
+  xy: 325, 168
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/suolian6
+  rotate: true
+  xy: 466, 151
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/texiao1
+  rotate: false
+  xy: 476, 362
+  size: 144, 43
+  orig: 144, 43
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/texiao2
+  rotate: false
+  xy: 180, 259
+  size: 143, 56
+  orig: 143, 56
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/texiao3
+  rotate: false
+  xy: 322, 318
+  size: 141, 49
+  orig: 141, 49
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/texiao4
+  rotate: false
+  xy: 875, 451
+  size: 141, 59
+  orig: 141, 59
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/texiao5
+  rotate: false
+  xy: 325, 261
+  size: 140, 55
+  orig: 140, 55
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/texiao6
+  rotate: false
+  xy: 875, 396
+  size: 142, 53
+  orig: 142, 53
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/weapon
+  rotate: false
+  xy: 2, 247
+  size: 176, 263
+  orig: 176, 263
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/xiabai
+  rotate: false
+  xy: 167, 94
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/xiabai1
+  rotate: true
+  xy: 651, 150
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/xiabai2
+  rotate: true
+  xy: 167, 18
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+EvilMaster/KreugerTheWicked_EvilMaster_4/xinzang
+  rotate: false
+  xy: 756, 65
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/arminnerdown
+  rotate: false
+  xy: 538, 125
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/armoutdown
+  rotate: true
+  xy: 296, 2
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/body
+  rotate: true
+  xy: 400, 149
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/dang
+  rotate: false
+  xy: 976, 153
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/jianjiainner
+  rotate: true
+  xy: 623, 378
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/jianjiaout
+  rotate: true
+  xy: 937, 189
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/jianjiaout1
+  rotate: false
+  xy: 681, 77
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/leginnerdown
+  rotate: true
+  xy: 628, 39
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/leginnerup
+  rotate: true
+  xy: 477, 2
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/legoutup
+  rotate: false
+  xy: 949, 145
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/lingziinner
+  rotate: false
+  xy: 325, 204
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/lingziout
+  rotate: false
+  xy: 227, 12
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/pifeng1
+  rotate: true
+  xy: 764, 253
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/pifeng2
+  rotate: true
+  xy: 855, 278
+  size: 50, 94
+  orig: 50, 94
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/pifeng3
+  rotate: false
+  xy: 476, 407
+  size: 145, 103
+  orig: 145, 103
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/suolian1
+  rotate: false
+  xy: 628, 17
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/suolian2
+  rotate: false
+  xy: 383, 2
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/suolian3
+  rotate: true
+  xy: 783, 64
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/weapon
+  rotate: false
+  xy: 180, 317
+  size: 140, 193
+  orig: 140, 193
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/xiabai
+  rotate: true
+  xy: 580, 108
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/xiabai1
+  rotate: false
+  xy: 293, 70
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_2/xiabai2
+  rotate: false
+  xy: 951, 250
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/arminnerdown
+  rotate: false
+  xy: 981, 214
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/armoutdown
+  rotate: false
+  xy: 959, 343
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/body
+  rotate: true
+  xy: 324, 111
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/fx
+  rotate: false
+  xy: 474, 88
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/jianjiainner
+  rotate: false
+  xy: 535, 32
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/jianjiaout
+  rotate: true
+  xy: 477, 27
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/pifeng
+  rotate: false
+  xy: 756, 155
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/pifeng1
+  rotate: false
+  xy: 959, 301
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/pifeng2
+  rotate: true
+  xy: 467, 276
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/pifeng3
+  rotate: true
+  xy: 660, 262
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/pifeng4
+  rotate: false
+  xy: 662, 187
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/pifeng5
+  rotate: true
+  xy: 660, 315
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/suolian1
+  rotate: false
+  xy: 537, 81
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/suolian2
+  rotate: true
+  xy: 756, 202
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/suolian3
+  rotate: true
+  xy: 839, 149
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/suolian4
+  rotate: false
+  xy: 291, 122
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/suolian5
+  rotate: true
+  xy: 756, 132
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/weapon
+  rotate: false
+  xy: 2, 18
+  size: 163, 227
+  orig: 163, 227
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/xiabai
+  rotate: false
+  xy: 167, 170
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+EvilMaster/Kreuger_EvilMaster_3/xiabai1
+  rotate: true
+  xy: 580, 154
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1

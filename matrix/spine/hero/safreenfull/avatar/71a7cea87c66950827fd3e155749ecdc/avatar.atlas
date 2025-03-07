@@ -1,0 +1,531 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Safreenfull_Monk_3/fx10
+  rotate: false
+  xy: 432, 344
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/fx12
+  rotate: false
+  xy: 662, 302
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/fx13
+  rotate: true
+  xy: 1012, 403
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/fx14
+  rotate: false
+  xy: 820, 313
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/fx8
+  rotate: false
+  xy: 294, 5
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/fx9
+  rotate: true
+  xy: 531, 420
+  size: 90, 193
+  orig: 90, 193
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/qunziinner
+  rotate: false
+  xy: 448, 344
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/qunziout1
+  rotate: true
+  xy: 532, 304
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/qunziout2
+  rotate: false
+  xy: 542, 352
+  size: 101, 66
+  orig: 101, 66
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/toushi
+  rotate: true
+  xy: 645, 367
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_3/weapon
+  rotate: true
+  xy: 303, 414
+  size: 96, 226
+  orig: 96, 226
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/Shadow
+  rotate: false
+  xy: 724, 353
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/arminnerdown
+  rotate: true
+  xy: 616, 319
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/arminnerup
+  rotate: false
+  xy: 229, 2
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/armoutdown
+  rotate: true
+  xy: 589, 302
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/armoutup
+  rotate: false
+  xy: 168, 2
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/body
+  rotate: false
+  xy: 218, 130
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/dang
+  rotate: false
+  xy: 975, 466
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/eyebrow
+  rotate: false
+  xy: 542, 339
+  size: 72, 11
+  orig: 72, 11
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/eyehard
+  rotate: true
+  xy: 975, 382
+  size: 82, 35
+  orig: 82, 35
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/eyehard1
+  rotate: true
+  xy: 221, 46
+  size: 82, 35
+  orig: 82, 35
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/eyehard2
+  rotate: true
+  xy: 258, 46
+  size: 82, 24
+  orig: 82, 24
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/eyehard3
+  rotate: false
+  xy: 645, 346
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/eyesffuer
+  rotate: false
+  xy: 307, 321
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/eyeyun
+  rotate: false
+  xy: 307, 285
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx1
+  rotate: false
+  xy: 1012, 432
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx10
+  rotate: false
+  xy: 1012, 390
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx11
+  rotate: false
+  xy: 921, 361
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx12
+  rotate: false
+  xy: 1009, 368
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx13
+  rotate: false
+  xy: 284, 46
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx14
+  rotate: true
+  xy: 200, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx15
+  rotate: false
+  xy: 758, 316
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx16
+  rotate: true
+  xy: 693, 314
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx2
+  rotate: true
+  xy: 89, 36
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx3
+  rotate: true
+  xy: 803, 313
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx4
+  rotate: false
+  xy: 789, 310
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx5
+  rotate: false
+  xy: 991, 366
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx6
+  rotate: false
+  xy: 973, 362
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx7
+  rotate: false
+  xy: 953, 359
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx8
+  rotate: false
+  xy: 485, 296
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/fx9
+  rotate: false
+  xy: 2, 45
+  size: 108, 230
+  orig: 108, 230
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/hair1
+  rotate: false
+  xy: 892, 383
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/hair2
+  rotate: false
+  xy: 726, 380
+  size: 164, 130
+  orig: 164, 130
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/hair3
+  rotate: true
+  xy: 800, 353
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/hair4
+  rotate: true
+  xy: 89, 2
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/hair5
+  rotate: true
+  xy: 303, 357
+  size: 55, 143
+  orig: 55, 143
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/hair6
+  rotate: false
+  xy: 238, 188
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/handinner
+  rotate: false
+  xy: 862, 353
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/handinner1
+  rotate: true
+  xy: 803, 323
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/handinner2
+  rotate: false
+  xy: 871, 327
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/handout
+  rotate: false
+  xy: 893, 356
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/handout1
+  rotate: false
+  xy: 896, 329
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/head
+  rotate: false
+  xy: 117, 351
+  size: 184, 159
+  orig: 184, 159
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/jiandaiinner
+  rotate: false
+  xy: 112, 110
+  size: 104, 79
+  orig: 104, 79
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/leginnerdown
+  rotate: true
+  xy: 758, 330
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/leginnerup
+  rotate: false
+  xy: 283, 130
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/legoutdown
+  rotate: true
+  xy: 645, 314
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/legoutup
+  rotate: false
+  xy: 284, 74
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/mouth01
+  rotate: false
+  xy: 531, 414
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/mouth02
+  rotate: false
+  xy: 645, 300
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/mouth03
+  rotate: true
+  xy: 1012, 448
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/mouth04
+  rotate: false
+  xy: 384, 290
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/qunziinner
+  rotate: false
+  xy: 112, 191
+  size: 124, 83
+  orig: 124, 83
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/qunziout1
+  rotate: true
+  xy: 2, 3
+  size: 40, 85
+  orig: 40, 85
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/qunziout2
+  rotate: false
+  xy: 112, 36
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/shuye1
+  rotate: true
+  xy: 616, 300
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/shuye2
+  rotate: false
+  xy: 1012, 416
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/toushi
+  rotate: true
+  xy: 117, 276
+  size: 73, 160
+  orig: 73, 160
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/weapon
+  rotate: false
+  xy: 2, 277
+  size: 113, 233
+  orig: 113, 233
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/xiongzhen
+  rotate: false
+  xy: 723, 316
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/xiuziinner
+  rotate: false
+  xy: 384, 297
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/xiuziout1
+  rotate: true
+  xy: 838, 329
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/xiuziout2
+  rotate: true
+  xy: 255, 3
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/yaodai
+  rotate: true
+  xy: 279, 281
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+Safreenfull_Monk_4/yifu
+  rotate: false
+  xy: 432, 296
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,594 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 324, 243
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/jianjiaout
+  rotate: false
+  xy: 236, 112
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/jianjiaout1
+  rotate: false
+  xy: 359, 107
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/leginnerdown
+  rotate: true
+  xy: 68, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/legoutdown
+  rotate: false
+  xy: 187, 63
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/pifeng
+  rotate: false
+  xy: 435, 426
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/pifeng1
+  rotate: false
+  xy: 746, 427
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/qunzi1
+  rotate: false
+  xy: 644, 382
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/weapon
+  rotate: false
+  xy: 2, 14
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/weapon1
+  rotate: true
+  xy: 229, 254
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_2/weijin
+  rotate: false
+  xy: 153, 336
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/body
+  rotate: true
+  xy: 238, 324
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/body1
+  rotate: true
+  xy: 143, 190
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/jianjiainner
+  rotate: true
+  xy: 369, 158
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/jianjiainner1
+  rotate: true
+  xy: 321, 162
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/leginnerdown
+  rotate: true
+  xy: 644, 351
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/leginnerdup
+  rotate: false
+  xy: 945, 383
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/legoutdown
+  rotate: true
+  xy: 737, 341
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/legoutup
+  rotate: false
+  xy: 875, 327
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/paidai
+  rotate: false
+  xy: 242, 409
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/paidai1
+  rotate: false
+  xy: 646, 432
+  size: 98, 78
+  orig: 98, 78
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/paidai2
+  rotate: false
+  xy: 153, 391
+  size: 87, 119
+  orig: 87, 119
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/qunzi1
+  rotate: false
+  xy: 737, 377
+  size: 90, 48
+  orig: 90, 48
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/weapon
+  rotate: false
+  xy: 76, 115
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/weapon1
+  rotate: true
+  xy: 145, 255
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/yao
+  rotate: true
+  xy: 369, 186
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/yao1
+  rotate: true
+  xy: 411, 354
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/yaodai
+  rotate: false
+  xy: 321, 136
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/yaodai1
+  rotate: false
+  xy: 367, 131
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/yaojia
+  rotate: true
+  xy: 284, 109
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_3/yaojia1
+  rotate: false
+  xy: 786, 339
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/arminnerdown
+  rotate: true
+  xy: 947, 312
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/arminnerdown1
+  rotate: false
+  xy: 987, 401
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/arminnerup
+  rotate: false
+  xy: 694, 352
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/armoutdown
+  rotate: true
+  xy: 612, 356
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/armoutdown1
+  rotate: true
+  xy: 270, 77
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/armoutup
+  rotate: true
+  xy: 985, 349
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/body
+  rotate: true
+  xy: 225, 191
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/body1
+  rotate: true
+  xy: 334, 359
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/eyebrow
+  rotate: false
+  xy: 125, 54
+  size: 58, 13
+  orig: 58, 13
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/eyehard
+  rotate: false
+  xy: 242, 386
+  size: 77, 21
+  orig: 77, 21
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/eyehard1
+  rotate: true
+  xy: 301, 246
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/eyehard2
+  rotate: true
+  xy: 68, 34
+  size: 75, 14
+  orig: 75, 14
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/eyehard3
+  rotate: true
+  xy: 220, 115
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/eyesffuer
+  rotate: false
+  xy: 539, 358
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/eyeyun
+  rotate: false
+  xy: 451, 352
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/face
+  rotate: false
+  xy: 2, 367
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/hair
+  rotate: true
+  xy: 301, 189
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/hair1
+  rotate: false
+  xy: 324, 270
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/hair2
+  rotate: true
+  xy: 929, 427
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/hair3
+  rotate: true
+  xy: 71, 212
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/hair4
+  rotate: true
+  xy: 519, 361
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/handinner
+  rotate: false
+  xy: 985, 322
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/handout
+  rotate: false
+  xy: 387, 104
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/handout1
+  rotate: false
+  xy: 405, 131
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/jianjiainner
+  rotate: false
+  xy: 118, 2
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/jianjiainner1
+  rotate: false
+  xy: 151, 2
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/jianjiaout
+  rotate: false
+  xy: 828, 339
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/jianjiaout1
+  rotate: true
+  xy: 412, 103
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/kua
+  rotate: false
+  xy: 317, 111
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/leginnerdown
+  rotate: false
+  xy: 915, 374
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/leginnerdup
+  rotate: false
+  xy: 223, 69
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/legoutdown
+  rotate: false
+  xy: 916, 326
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/legoutup
+  rotate: false
+  xy: 236, 143
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/mianzhao
+  rotate: false
+  xy: 316, 327
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/mouth01
+  rotate: true
+  xy: 1017, 493
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/mouth02
+  rotate: true
+  xy: 321, 392
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/mouth03
+  rotate: true
+  xy: 392, 337
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/mouth04
+  rotate: false
+  xy: 125, 48
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/paidai
+  rotate: false
+  xy: 539, 386
+  size: 103, 49
+  orig: 103, 49
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/paidai1
+  rotate: false
+  xy: 142, 112
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/paidai2
+  rotate: false
+  xy: 334, 421
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/paidai3
+  rotate: true
+  xy: 2, 209
+  size: 156, 67
+  orig: 156, 67
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/qunzi
+  rotate: true
+  xy: 84, 48
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/qunzi1
+  rotate: true
+  xy: 71, 258
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/qunzi2
+  rotate: true
+  xy: 2, 111
+  size: 96, 72
+  orig: 96, 72
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/weapon
+  rotate: true
+  xy: 539, 437
+  size: 73, 105
+  orig: 73, 105
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/weapon1
+  rotate: false
+  xy: 839, 425
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/weijin
+  rotate: false
+  xy: 829, 371
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/yao
+  rotate: false
+  xy: 125, 69
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/yao1
+  rotate: false
+  xy: 451, 384
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/yao2
+  rotate: false
+  xy: 985, 299
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/yaojia
+  rotate: true
+  xy: 947, 341
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+Zion/Zion_Assassin/Zion_Assassin_4/yaojia1
+  rotate: false
+  xy: 279, 151
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1

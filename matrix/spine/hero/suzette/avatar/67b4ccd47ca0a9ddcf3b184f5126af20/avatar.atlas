@@ -1,0 +1,300 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 388, 241
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/arminnerdown
+  rotate: false
+  xy: 229, 175
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/arminnerup
+  rotate: false
+  xy: 245, 67
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/armoutdown
+  rotate: false
+  xy: 280, 111
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/armoutup
+  rotate: false
+  xy: 218, 4
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/body
+  rotate: true
+  xy: 387, 325
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/body1
+  rotate: true
+  xy: 387, 268
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 80, 12
+  orig: 80, 12
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/eyehard
+  rotate: false
+  xy: 310, 240
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/eyehard1
+  rotate: false
+  xy: 311, 213
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/eyehard2
+  rotate: false
+  xy: 311, 191
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/eyehard3
+  rotate: false
+  xy: 389, 222
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/eyesffuer
+  rotate: true
+  xy: 354, 314
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/eyeyun
+  rotate: true
+  xy: 222, 205
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/face
+  rotate: true
+  xy: 2, 16
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hair
+  rotate: false
+  xy: 464, 298
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hair1
+  rotate: false
+  xy: 139, 43
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hair2
+  rotate: true
+  xy: 388, 383
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hair3
+  rotate: true
+  xy: 139, 2
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hair4
+  rotate: false
+  xy: 464, 232
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hair5
+  rotate: true
+  xy: 389, 190
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hairinner
+  rotate: true
+  xy: 161, 186
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/handinner
+  rotate: false
+  xy: 229, 155
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/handout
+  rotate: false
+  xy: 367, 166
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hat
+  rotate: false
+  xy: 2, 135
+  size: 157, 148
+  orig: 157, 148
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/hatinner
+  rotate: false
+  xy: 253, 178
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/leginnerdown
+  rotate: true
+  xy: 189, 43
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/leginnerup
+  rotate: true
+  xy: 253, 143
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/legoutdown
+  rotate: true
+  xy: 459, 198
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/legoutup
+  rotate: false
+  xy: 245, 99
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/mouth01
+  rotate: false
+  xy: 443, 218
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/mouth02
+  rotate: true
+  xy: 236, 63
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/mouth04
+  rotate: true
+  xy: 236, 43
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/pifenginner
+  rotate: false
+  xy: 189, 79
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/pifenginner1
+  rotate: false
+  xy: 242, 303
+  size: 110, 89
+  orig: 110, 89
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/pifenginner2
+  rotate: false
+  xy: 253, 234
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/pifenginner3
+  rotate: false
+  xy: 388, 421
+  size: 110, 89
+  orig: 110, 89
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/pifengout
+  rotate: false
+  xy: 161, 147
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/pifengout1
+  rotate: false
+  xy: 310, 267
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/weapon
+  rotate: false
+  xy: 2, 285
+  size: 238, 225
+  orig: 238, 225
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/weapon1
+  rotate: false
+  xy: 242, 394
+  size: 144, 116
+  orig: 144, 116
+  offset: 0, 0
+  index: -1
+Suzette/Ranger/Suzette_Ranger_3/yaodai
+  rotate: false
+  xy: 311, 169
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1

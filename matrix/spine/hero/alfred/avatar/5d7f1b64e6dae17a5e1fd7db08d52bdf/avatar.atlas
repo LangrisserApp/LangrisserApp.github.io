@@ -1,0 +1,398 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/Dragon_head
+  rotate: false
+  xy: 275, 163
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/Dragon_tuijia
+  rotate: true
+  xy: 275, 2
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/Dragon_xiongshi
+  rotate: true
+  xy: 249, 293
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/arminnerup
+  rotate: false
+  xy: 537, 54
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/armoutup
+  rotate: false
+  xy: 731, 349
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/body
+  rotate: true
+  xy: 571, 389
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/eyebrow
+  rotate: false
+  xy: 209, 234
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/eyehard
+  rotate: false
+  xy: 655, 335
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/eyehard1
+  rotate: false
+  xy: 489, 89
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/eyehard2
+  rotate: true
+  xy: 553, 167
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/eyehard3
+  rotate: false
+  xy: 649, 321
+  size: 65, 12
+  orig: 65, 12
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/eyesffuer
+  rotate: true
+  xy: 322, 2
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/eyeyun
+  rotate: true
+  xy: 353, 2
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/face
+  rotate: false
+  xy: 2, 58
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/hair1
+  rotate: true
+  xy: 668, 386
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/hair2
+  rotate: false
+  xy: 393, 74
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/handinner
+  rotate: true
+  xy: 381, 2
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/handout
+  rotate: false
+  xy: 553, 113
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/jianjiainner
+  rotate: true
+  xy: 487, 50
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/jianjiaout
+  rotate: true
+  xy: 2, 2
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/legoutdown
+  rotate: false
+  xy: 446, 2
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/legoutup
+  rotate: true
+  xy: 476, 19
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/mouth01
+  rotate: true
+  xy: 263, 215
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/mouth02
+  rotate: true
+  xy: 381, 51
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/mouth04
+  rotate: false
+  xy: 417, 171
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_3/weapon
+  rotate: false
+  xy: 339, 416
+  size: 230, 94
+  orig: 230, 94
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/Dragon_head
+  rotate: true
+  xy: 145, 54
+  size: 145, 128
+  orig: 145, 128
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/Dragon_tuijia
+  rotate: false
+  xy: 209, 246
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/Dragon_tuijia1
+  rotate: false
+  xy: 595, 336
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/Dragon_weiba1
+  rotate: true
+  xy: 571, 450
+  size: 60, 182
+  orig: 60, 182
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/Dragon_xiongshi
+  rotate: true
+  xy: 399, 293
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/arminnerup
+  rotate: true
+  xy: 649, 293
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/armoutup
+  rotate: true
+  xy: 815, 348
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/body
+  rotate: false
+  xy: 860, 363
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/body1
+  rotate: false
+  xy: 549, 391
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/handinner
+  rotate: false
+  xy: 765, 348
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/handout
+  rotate: true
+  xy: 595, 309
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/jianjiainner
+  rotate: true
+  xy: 436, 51
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/jianjiaout
+  rotate: false
+  xy: 489, 113
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/legoutdown
+  rotate: false
+  xy: 415, 2
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/legoutup
+  rotate: true
+  xy: 209, 202
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SerpentMaster/Alfred_SerpentMaster_4/weapon
+  rotate: false
+  xy: 2, 307
+  size: 245, 107
+  orig: 245, 107
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: true
+  xy: 65, 2
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: false
+  xy: 921, 342
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 2, 201
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner
+  rotate: false
+  xy: 549, 318
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: false
+  xy: 417, 176
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: false
+  xy: 436, 98
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: false
+  xy: 417, 234
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: true
+  xy: 275, 67
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: false
+  xy: 921, 392
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: true
+  xy: 755, 457
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: true
+  xy: 765, 382
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: false
+  xy: 939, 450
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 655, 359
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

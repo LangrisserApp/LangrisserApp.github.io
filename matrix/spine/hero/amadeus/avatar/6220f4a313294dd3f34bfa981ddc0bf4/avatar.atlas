@@ -1,0 +1,510 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Amadeus_AxeKnight_3/deer xiongjia
+  rotate: false
+  xy: 890, 772
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/ershi1
+  rotate: true
+  xy: 341, 75
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/ershi2
+  rotate: false
+  xy: 993, 747
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/hair4
+  rotate: false
+  xy: 692, 759
+  size: 145, 100
+  orig: 145, 100
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/hair5
+  rotate: false
+  xy: 280, 306
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/hair6
+  rotate: false
+  xy: 632, 473
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/jianjiainner
+  rotate: true
+  xy: 980, 786
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/jianjiaout
+  rotate: true
+  xy: 220, 116
+  size: 115, 52
+  orig: 115, 52
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/leghou outdown
+  rotate: true
+  xy: 417, 273
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/legqian outdown
+  rotate: true
+  xy: 571, 411
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/maan
+  rotate: false
+  xy: 866, 621
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/maan2
+  rotate: false
+  xy: 715, 463
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/pifeng4
+  rotate: false
+  xy: 236, 387
+  size: 179, 163
+  orig: 179, 163
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/pifeng5
+  rotate: true
+  xy: 596, 551
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/pifeng7
+  rotate: false
+  xy: 784, 623
+  size: 80, 134
+  orig: 80, 134
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/wangguan
+  rotate: false
+  xy: 2, 228
+  size: 210, 142
+  orig: 210, 142
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/weapon
+  rotate: false
+  xy: 2, 552
+  size: 434, 226
+  orig: 434, 226
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_3/weapon tx
+  rotate: false
+  xy: 692, 861
+  size: 196, 161
+  orig: 196, 161
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/Shadow
+  rotate: true
+  xy: 995, 948
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/arminnerdown
+  rotate: false
+  xy: 993, 708
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/arminnerup
+  rotate: true
+  xy: 415, 230
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/armoutdown
+  rotate: true
+  xy: 461, 238
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/armoutup
+  rotate: true
+  xy: 220, 78
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/body
+  rotate: true
+  xy: 862, 555
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/deer body
+  rotate: false
+  xy: 2, 3
+  size: 171, 101
+  orig: 171, 101
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/deer xiongjia
+  rotate: false
+  xy: 274, 133
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/deer xiongjia2
+  rotate: false
+  xy: 558, 300
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/ershi1
+  rotate: false
+  xy: 274, 80
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/ershi2
+  rotate: false
+  xy: 652, 764
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/eyebrow
+  rotate: true
+  xy: 392, 309
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/eyehard1
+  rotate: true
+  xy: 995, 876
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/eyehard2
+  rotate: true
+  xy: 993, 636
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/eyehard3
+  rotate: false
+  xy: 632, 455
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/eyesuffer
+  rotate: true
+  xy: 956, 698
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/eyeyun
+  rotate: true
+  xy: 956, 624
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/face
+  rotate: true
+  xy: 652, 631
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/hair1
+  rotate: false
+  xy: 839, 777
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/hair2
+  rotate: true
+  xy: 865, 465
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/hair3
+  rotate: true
+  xy: 417, 324
+  size: 109, 139
+  orig: 109, 139
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/hair4
+  rotate: false
+  xy: 2, 106
+  size: 177, 120
+  orig: 177, 120
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/hair5
+  rotate: false
+  xy: 417, 435
+  size: 152, 111
+  orig: 152, 111
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/hair6
+  rotate: false
+  xy: 774, 542
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/handinner
+  rotate: false
+  xy: 945, 500
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/handinner2
+  rotate: false
+  xy: 945, 525
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/handout
+  rotate: true
+  xy: 383, 277
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/handout2
+  rotate: true
+  xy: 505, 238
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/jianjiainner
+  rotate: true
+  xy: 571, 452
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/jianjiainner2
+  rotate: true
+  xy: 383, 229
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/jianjiaout
+  rotate: true
+  xy: 214, 233
+  size: 137, 64
+  orig: 137, 64
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/jianjiaout2
+  rotate: false
+  xy: 558, 343
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/leghou outdown
+  rotate: true
+  xy: 482, 273
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/leghou outup
+  rotate: false
+  xy: 793, 460
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/legqian outdown
+  rotate: true
+  xy: 634, 414
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/legqian outup
+  rotate: true
+  xy: 963, 572
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/maan
+  rotate: false
+  xy: 866, 685
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/maan2
+  rotate: false
+  xy: 280, 218
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/mouth01
+  rotate: true
+  xy: 686, 789
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/mouth02
+  rotate: true
+  xy: 262, 372
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/mouth03
+  rotate: false
+  xy: 236, 373
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/mouth04
+  rotate: false
+  xy: 839, 767
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/mouth05
+  rotate: true
+  xy: 1016, 685
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/pifeng4
+  rotate: false
+  xy: 2, 372
+  size: 232, 178
+  orig: 232, 178
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/pifeng5
+  rotate: true
+  xy: 732, 541
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/pifeng6
+  rotate: true
+  xy: 890, 856
+  size: 166, 103
+  orig: 166, 103
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/pifeng7
+  rotate: true
+  xy: 438, 548
+  size: 84, 156
+  orig: 84, 156
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/tail
+  rotate: false
+  xy: 643, 546
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/wangguan
+  rotate: false
+  xy: 438, 634
+  size: 212, 175
+  orig: 212, 175
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/wangguan1
+  rotate: true
+  xy: 181, 109
+  size: 117, 37
+  orig: 117, 37
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/wangguan2
+  rotate: false
+  xy: 558, 378
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/weapon
+  rotate: false
+  xy: 2, 780
+  size: 434, 242
+  orig: 434, 242
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/weapon tx
+  rotate: false
+  xy: 438, 811
+  size: 252, 211
+  orig: 252, 211
+  offset: 0, 0
+  index: -1
+Amadeus_AxeKnight_4/weapon tx2
+  rotate: false
+  xy: 865, 498
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1

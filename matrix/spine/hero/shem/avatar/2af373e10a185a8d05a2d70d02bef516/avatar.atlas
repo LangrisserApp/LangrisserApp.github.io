@@ -1,0 +1,587 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shem_Sword/Shem_Sword_2/armoutup
+  rotate: true
+  xy: 277, 100
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/body
+  rotate: false
+  xy: 936, 319
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/hair2
+  rotate: false
+  xy: 238, 197
+  size: 90, 172
+  orig: 90, 172
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/pifeng1
+  rotate: false
+  xy: 728, 336
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/pifeng2
+  rotate: true
+  xy: 619, 338
+  size: 80, 107
+  orig: 80, 107
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/toushi
+  rotate: false
+  xy: 330, 191
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/weapon6
+  rotate: true
+  xy: 388, 187
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/weijing1
+  rotate: false
+  xy: 933, 276
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/weijing2
+  rotate: true
+  xy: 796, 258
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/weijing3
+  rotate: true
+  xy: 980, 434
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/yaodai2
+  rotate: false
+  xy: 191, 80
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_2/yaodai3
+  rotate: true
+  xy: 478, 130
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/armoutdown
+  rotate: true
+  xy: 385, 106
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/body
+  rotate: true
+  xy: 497, 326
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/body2
+  rotate: true
+  xy: 494, 258
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/jianjiainner
+  rotate: false
+  xy: 841, 223
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/jianjiaout
+  rotate: true
+  xy: 2, 2
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/jianjiaout1
+  rotate: false
+  xy: 236, 139
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/leginnerdown
+  rotate: false
+  xy: 687, 232
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/legoutdown
+  rotate: true
+  xy: 436, 154
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/pifeng1
+  rotate: false
+  xy: 619, 420
+  size: 137, 90
+  orig: 137, 90
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/pifeng2
+  rotate: true
+  xy: 758, 419
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/toushi
+  rotate: false
+  xy: 841, 270
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/weapon1
+  rotate: false
+  xy: 146, 4
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/weapon2
+  rotate: false
+  xy: 2, 363
+  size: 234, 147
+  orig: 234, 147
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/weapon3
+  rotate: true
+  xy: 1003, 268
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/weapon5
+  rotate: false
+  xy: 277, 137
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/weapon6
+  rotate: true
+  xy: 870, 414
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/yaodai2
+  rotate: true
+  xy: 386, 141
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/yaodai3
+  rotate: true
+  xy: 841, 255
+  size: 13, 61
+  orig: 13, 61
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_3/yaodai6
+  rotate: false
+  xy: 785, 228
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/Shadow
+  rotate: true
+  xy: 592, 318
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/arminnerdown
+  rotate: true
+  xy: 904, 238
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/arminnerup
+  rotate: true
+  xy: 386, 158
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/armoutdown
+  rotate: true
+  xy: 713, 229
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/armoutup
+  rotate: false
+  xy: 349, 148
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/body1
+  rotate: true
+  xy: 483, 190
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/body2
+  rotate: true
+  xy: 619, 270
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/dang
+  rotate: true
+  xy: 200, 115
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/eyebrow
+  rotate: true
+  xy: 578, 186
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/eyehard
+  rotate: true
+  xy: 595, 199
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/eyehard1
+  rotate: false
+  xy: 614, 196
+  size: 72, 17
+  orig: 72, 17
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/eyehard2
+  rotate: false
+  xy: 483, 175
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/eyehard3
+  rotate: false
+  xy: 238, 183
+  size: 73, 12
+  orig: 73, 12
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/eyesffuer
+  rotate: false
+  xy: 614, 243
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/eyeyun
+  rotate: true
+  xy: 904, 268
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/hair1
+  rotate: false
+  xy: 2, 184
+  size: 138, 177
+  orig: 138, 177
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/hair2
+  rotate: false
+  xy: 142, 189
+  size: 94, 172
+  orig: 94, 172
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/hair3
+  rotate: true
+  xy: 830, 341
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/hair4
+  rotate: false
+  xy: 330, 253
+  size: 55, 116
+  orig: 55, 116
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/handinner
+  rotate: false
+  xy: 933, 234
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/handout
+  rotate: false
+  xy: 966, 232
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/handout1
+  rotate: false
+  xy: 872, 224
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/handout2
+  rotate: true
+  xy: 353, 110
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/head
+  rotate: false
+  xy: 238, 371
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/jianjiainner
+  rotate: true
+  xy: 236, 100
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/jianjiaout
+  rotate: false
+  xy: 140, 55
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/leginnerdown
+  rotate: true
+  xy: 422, 106
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/leginnerup
+  rotate: false
+  xy: 316, 140
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/legoutdown
+  rotate: false
+  xy: 320, 97
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/legoutup
+  rotate: true
+  xy: 93, 10
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/mouth01
+  rotate: true
+  xy: 994, 244
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/mouth02
+  rotate: true
+  xy: 682, 215
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/mouth03
+  rotate: true
+  xy: 1013, 393
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/mouth04
+  rotate: false
+  xy: 217, 183
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/pifeng1
+  rotate: false
+  xy: 2, 50
+  size: 136, 132
+  orig: 136, 132
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/pifeng2
+  rotate: false
+  xy: 497, 394
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/toushi
+  rotate: true
+  xy: 714, 263
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/weapon1
+  rotate: false
+  xy: 614, 215
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/weapon2
+  rotate: false
+  xy: 387, 269
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/weapon3
+  rotate: false
+  xy: 140, 114
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/weapon4
+  rotate: true
+  xy: 142, 166
+  size: 21, 73
+  orig: 21, 73
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/weapon5
+  rotate: false
+  xy: 52, 2
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/weapon6
+  rotate: false
+  xy: 378, 379
+  size: 117, 131
+  orig: 117, 131
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/weapon7
+  rotate: true
+  xy: 589, 273
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/xiongshi1
+  rotate: false
+  xy: 998, 227
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/xiongshi2
+  rotate: true
+  xy: 436, 136
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/yaodai1
+  rotate: true
+  xy: 819, 221
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/yaodai2
+  rotate: true
+  xy: 479, 153
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/yaodai3
+  rotate: true
+  xy: 933, 260
+  size: 14, 63
+  orig: 14, 63
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/yaodai4
+  rotate: false
+  xy: 557, 175
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/yaodai5
+  rotate: false
+  xy: 980, 414
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+Shem_Sword/Shem_Sword_4/yaodai6
+  rotate: false
+  xy: 750, 231
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1

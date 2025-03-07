@@ -1,0 +1,370 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vireli_Wizard_3/arminnerdown
+  rotate: true
+  xy: 702, 195
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/armoutdown
+  rotate: true
+  xy: 935, 250
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/erhuaninner
+  rotate: false
+  xy: 1010, 406
+  size: 11, 39
+  orig: 11, 39
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/erhuanout
+  rotate: true
+  xy: 408, 178
+  size: 11, 39
+  orig: 11, 39
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/legoutdown
+  rotate: true
+  xy: 756, 198
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/legoutup
+  rotate: true
+  xy: 802, 199
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/tousha
+  rotate: false
+  xy: 185, 306
+  size: 203, 204
+  orig: 203, 204
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/toushaback
+  rotate: false
+  xy: 390, 307
+  size: 181, 203
+  orig: 181, 203
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/weapon2
+  rotate: false
+  xy: 156, 106
+  size: 167, 107
+  orig: 167, 107
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_3/weapon3
+  rotate: false
+  xy: 935, 366
+  size: 73, 144
+  orig: 73, 144
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/Shadow
+  rotate: true
+  xy: 997, 290
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/arminnerdown
+  rotate: false
+  xy: 403, 226
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/arminnerup
+  rotate: true
+  xy: 380, 130
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/armoutdown
+  rotate: false
+  xy: 333, 49
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/armoutup
+  rotate: false
+  xy: 408, 191
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/body
+  rotate: false
+  xy: 935, 281
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/erhuaninner
+  rotate: false
+  xy: 361, 2
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/erhuanout
+  rotate: true
+  xy: 444, 196
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/eyebrow
+  rotate: true
+  xy: 325, 116
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/eyehard
+  rotate: true
+  xy: 359, 216
+  size: 88, 24
+  orig: 88, 24
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/eyehard1
+  rotate: false
+  xy: 759, 227
+  size: 88, 24
+  orig: 88, 24
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/eyehard2
+  rotate: true
+  xy: 385, 216
+  size: 88, 16
+  orig: 88, 16
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/eyehard3
+  rotate: false
+  xy: 444, 282
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/eyesffuer
+  rotate: false
+  xy: 444, 251
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/eyeyun
+  rotate: false
+  xy: 444, 220
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/face
+  rotate: false
+  xy: 756, 351
+  size: 177, 159
+  orig: 177, 159
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/hand1
+  rotate: false
+  xy: 511, 252
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/handinner
+  rotate: false
+  xy: 410, 147
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/handinner1
+  rotate: true
+  xy: 410, 118
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/handinner2
+  rotate: false
+  xy: 407, 93
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/handout
+  rotate: false
+  xy: 377, 47
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/handout1
+  rotate: false
+  xy: 489, 195
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/handout2
+  rotate: false
+  xy: 156, 215
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/leginnerdown
+  rotate: false
+  xy: 384, 6
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/leginnerup
+  rotate: true
+  xy: 522, 280
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/legoutdown
+  rotate: false
+  xy: 380, 170
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/legoutup
+  rotate: false
+  xy: 333, 2
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/mouth01
+  rotate: true
+  xy: 1010, 447
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/mouth02
+  rotate: true
+  xy: 1010, 390
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/mouth04
+  rotate: false
+  xy: 997, 284
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/qunsa
+  rotate: true
+  xy: 702, 236
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/qunziback
+  rotate: true
+  xy: 853, 255
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/qunziinner
+  rotate: false
+  xy: 325, 131
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/qunziout
+  rotate: true
+  xy: 250, 6
+  size: 98, 81
+  orig: 98, 81
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/tousha
+  rotate: false
+  xy: 573, 334
+  size: 181, 176
+  orig: 181, 176
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/tousha1
+  rotate: true
+  xy: 185, 215
+  size: 89, 172
+  orig: 89, 172
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/toushaback
+  rotate: false
+  xy: 2, 239
+  size: 181, 271
+  orig: 181, 271
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/tx1
+  rotate: false
+  xy: 759, 253
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/weapon2
+  rotate: true
+  xy: 2, 3
+  size: 234, 152
+  orig: 234, 152
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/weapon3
+  rotate: false
+  xy: 156, 5
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/weapon5-1
+  rotate: true
+  xy: 573, 210
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+Vireli_Wizard_4/yaodai
+  rotate: true
+  xy: 377, 88
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1

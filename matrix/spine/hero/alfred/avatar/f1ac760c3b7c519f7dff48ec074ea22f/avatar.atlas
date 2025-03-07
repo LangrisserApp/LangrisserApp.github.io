@@ -1,0 +1,643 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/Pike
+  rotate: false
+  xy: 2, 177
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/Pike
+  rotate: false
+  xy: 2, 177
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/Pike
+  rotate: false
+  xy: 2, 177
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/arm_inner
+  rotate: true
+  xy: 310, 50
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/arm_inner1
+  rotate: false
+  xy: 389, 252
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/arm_out
+  rotate: false
+  xy: 296, 9
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/arm_out1
+  rotate: false
+  xy: 420, 251
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/body
+  rotate: false
+  xy: 285, 290
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/eyebrow
+  rotate: true
+  xy: 297, 53
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/eyebrow
+  rotate: true
+  xy: 297, 53
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/eyebrow
+  rotate: true
+  xy: 297, 53
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/eyehard
+  rotate: false
+  xy: 78, 5
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/eyehard
+  rotate: false
+  xy: 78, 5
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/eyehard
+  rotate: false
+  xy: 78, 5
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/eyehard1
+  rotate: true
+  xy: 258, 52
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/eyehard1
+  rotate: true
+  xy: 258, 52
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/eyehard1
+  rotate: true
+  xy: 258, 52
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/eyehard2
+  rotate: true
+  xy: 282, 52
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/eyehard2
+  rotate: true
+  xy: 282, 52
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/eyehard2
+  rotate: true
+  xy: 282, 52
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/eyehard3
+  rotate: false
+  xy: 147, 3
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/eyehard3
+  rotate: false
+  xy: 147, 3
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/eyehard3
+  rotate: false
+  xy: 147, 3
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/eyesffuer
+  rotate: false
+  xy: 436, 379
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/eyesffuer
+  rotate: false
+  xy: 436, 379
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/eyesffuer
+  rotate: false
+  xy: 436, 379
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/eyeyun
+  rotate: true
+  xy: 342, 313
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/eyeyun
+  rotate: true
+  xy: 342, 313
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/eyeyun
+  rotate: true
+  xy: 342, 313
+  size: 68, 28
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/face
+  rotate: false
+  xy: 2, 29
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/face
+  rotate: false
+  xy: 2, 29
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/face
+  rotate: false
+  xy: 2, 29
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/hair1
+  rotate: false
+  xy: 436, 411
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/hair1
+  rotate: false
+  xy: 436, 411
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/hair1
+  rotate: false
+  xy: 436, 411
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/hair2
+  rotate: true
+  xy: 268, 176
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/hair2
+  rotate: true
+  xy: 268, 176
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/hair2
+  rotate: true
+  xy: 268, 176
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/hand_inner
+  rotate: true
+  xy: 389, 229
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/hand_inner
+  rotate: true
+  xy: 389, 229
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/hand_out
+  rotate: false
+  xy: 379, 154
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/hand_out
+  rotate: false
+  xy: 379, 154
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/handinner1
+  rotate: true
+  xy: 379, 128
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/handinner1
+  rotate: true
+  xy: 379, 128
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/handinner1
+  rotate: true
+  xy: 379, 128
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/jianjiainner
+  rotate: true
+  xy: 332, 6
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/jianjiaout
+  rotate: true
+  xy: 376, 290
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/leginnerdown
+  rotate: false
+  xy: 348, 82
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/leginnerup1
+  rotate: false
+  xy: 372, 330
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/legoutdown
+  rotate: false
+  xy: 310, 75
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/legoutup1
+  rotate: false
+  xy: 410, 288
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/legoutup1
+  rotate: false
+  xy: 410, 288
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/legoutup1
+  rotate: false
+  xy: 410, 288
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/mouth01
+  rotate: true
+  xy: 490, 360
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/mouth01
+  rotate: true
+  xy: 490, 360
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/mouth01
+  rotate: true
+  xy: 490, 360
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/mouth02
+  rotate: false
+  xy: 216, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/mouth02
+  rotate: false
+  xy: 216, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/mouth02
+  rotate: false
+  xy: 216, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/mouth04
+  rotate: true
+  xy: 351, 220
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/mouth04
+  rotate: true
+  xy: 351, 220
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/mouth04
+  rotate: true
+  xy: 351, 220
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_2/weapon
+  rotate: false
+  xy: 2, 419
+  size: 283, 91
+  orig: 283, 91
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/arm_inner
+  rotate: true
+  xy: 342, 290
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/arm_inner
+  rotate: true
+  xy: 342, 290
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/arm_inner1
+  rotate: true
+  xy: 349, 50
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/arm_inner1
+  rotate: true
+  xy: 349, 50
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/arm_out
+  rotate: false
+  xy: 453, 291
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/arm_out
+  rotate: false
+  xy: 453, 291
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/arm_out1
+  rotate: false
+  xy: 359, 205
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/arm_out1
+  rotate: false
+  xy: 359, 205
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/body
+  rotate: true
+  xy: 287, 383
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/body
+  rotate: true
+  xy: 287, 383
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/hand_inner
+  rotate: false
+  xy: 387, 206
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/jianjiainner
+  rotate: false
+  xy: 306, 124
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/jianjiaout
+  rotate: false
+  xy: 382, 377
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/leginnerdown
+  rotate: false
+  xy: 414, 329
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/leginnerup1
+  rotate: false
+  xy: 448, 332
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/legoutdown
+  rotate: false
+  xy: 258, 2
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/pifeng
+  rotate: false
+  xy: 287, 440
+  size: 147, 70
+  orig: 147, 70
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_3/weapon
+  rotate: false
+  xy: 2, 328
+  size: 281, 89
+  orig: 281, 89
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/hand_out
+  rotate: false
+  xy: 381, 102
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/jianjiainner
+  rotate: false
+  xy: 258, 121
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/jianjiaout
+  rotate: false
+  xy: 285, 220
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/leginnerdown
+  rotate: false
+  xy: 346, 128
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/legoutdown
+  rotate: false
+  xy: 351, 241
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/pifeng
+  rotate: true
+  xy: 150, 18
+  size: 157, 106
+  orig: 157, 106
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/weapon
+  rotate: false
+  xy: 2, 238
+  size: 281, 88
+  orig: 281, 88
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/yaojiainner
+  rotate: true
+  xy: 359, 180
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Alfred/Alfred_SwordMaster/Alfred_SwordMaster_4/yaojiaout
+  rotate: false
+  xy: 361, 7
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

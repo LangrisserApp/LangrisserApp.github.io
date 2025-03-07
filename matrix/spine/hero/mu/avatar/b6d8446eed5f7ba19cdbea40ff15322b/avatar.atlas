@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mu/Mu_Magic/Mu_Magic_2/arminnerdown
+  rotate: false
+  xy: 328, 183
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/armoutdown
+  rotate: true
+  xy: 421, 284
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/bao
+  rotate: false
+  xy: 122, 16
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/body
+  rotate: false
+  xy: 855, 417
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/leginnerup
+  rotate: true
+  xy: 502, 263
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/legoutup
+  rotate: true
+  xy: 526, 379
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/lingje
+  rotate: false
+  xy: 419, 201
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/pijian3
+  rotate: true
+  xy: 274, 289
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/pijianinner
+  rotate: false
+  xy: 417, 164
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/pijianout
+  rotate: false
+  xy: 455, 343
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_2/weapon
+  rotate: true
+  xy: 441, 411
+  size: 98, 140
+  orig: 98, 140
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/arminnerdown
+  rotate: false
+  xy: 643, 313
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/arminnerup
+  rotate: false
+  xy: 708, 327
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/armoutdown
+  rotate: false
+  xy: 455, 306
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/armoutup
+  rotate: true
+  xy: 456, 202
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/bao
+  rotate: false
+  xy: 366, 326
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/baozi3
+  rotate: false
+  xy: 155, 388
+  size: 135, 121
+  orig: 135, 121
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/body
+  rotate: false
+  xy: 155, 294
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/eyebrow
+  rotate: false
+  xy: 580, 379
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/eyehard
+  rotate: true
+  xy: 179, 17
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/eyehard1
+  rotate: true
+  xy: 250, 18
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/eyehard2
+  rotate: false
+  xy: 513, 357
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/eyehard3
+  rotate: false
+  xy: 584, 355
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/eyesffuer
+  rotate: true
+  xy: 328, 218
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/eyeyun
+  rotate: false
+  xy: 207, 89
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/face
+  rotate: true
+  xy: 583, 393
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/fx01
+  rotate: false
+  xy: 503, 292
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/fx02
+  rotate: false
+  xy: 368, 239
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/fx03
+  rotate: true
+  xy: 550, 292
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/fx04
+  rotate: false
+  xy: 596, 308
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/hair1
+  rotate: false
+  xy: 127, 194
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/hair2
+  rotate: true
+  xy: 707, 362
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/hair3
+  rotate: true
+  xy: 127, 88
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/hair4
+  rotate: true
+  xy: 547, 262
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/handinner1
+  rotate: false
+  xy: 830, 401
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/handinner2
+  rotate: false
+  xy: 500, 237
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/handout
+  rotate: false
+  xy: 497, 209
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/handout2
+  rotate: false
+  xy: 596, 283
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/jiao1
+  rotate: false
+  xy: 513, 339
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/jiao2
+  rotate: false
+  xy: 974, 417
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/jiao3
+  rotate: false
+  xy: 314, 312
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/leginnerdown
+  rotate: true
+  xy: 368, 205
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/leginnerup
+  rotate: true
+  xy: 454, 240
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/legoutdown
+  rotate: true
+  xy: 455, 274
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/legoutup
+  rotate: true
+  xy: 653, 354
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/lingje
+  rotate: false
+  xy: 457, 165
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/maozi1
+  rotate: true
+  xy: 292, 405
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/maozi2
+  rotate: true
+  xy: 711, 427
+  size: 82, 142
+  orig: 82, 142
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/maozi3
+  rotate: false
+  xy: 769, 359
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/mouth01
+  rotate: false
+  xy: 127, 301
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/mouth02
+  rotate: false
+  xy: 292, 388
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/mouth04
+  rotate: false
+  xy: 2, 2
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/pijian3
+  rotate: true
+  xy: 232, 187
+  size: 105, 40
+  orig: 105, 40
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/pijianinner
+  rotate: true
+  xy: 417, 240
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/pijianout
+  rotate: true
+  xy: 209, 18
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/qunzi
+  rotate: false
+  xy: 711, 389
+  size: 117, 36
+  orig: 117, 36
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_3/weapon
+  rotate: false
+  xy: 2, 110
+  size: 123, 193
+  orig: 123, 193
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/bao
+  rotate: false
+  xy: 370, 286
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/bao2
+  rotate: true
+  xy: 314, 289
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/bao3
+  rotate: false
+  xy: 687, 313
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/body
+  rotate: false
+  xy: 2, 9
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/jiao1
+  rotate: false
+  xy: 455, 381
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/pifeng1
+  rotate: true
+  xy: 127, 130
+  size: 62, 93
+  orig: 62, 93
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/pifeng2
+  rotate: false
+  xy: 274, 193
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/pijianinner
+  rotate: false
+  xy: 368, 166
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/pijianout
+  rotate: true
+  xy: 222, 130
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+Mu/Mu_Magic/Mu_Magic_4/weapon
+  rotate: false
+  xy: 2, 305
+  size: 151, 204
+  orig: 151, 204
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 428, 329
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

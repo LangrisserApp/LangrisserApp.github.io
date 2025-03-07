@@ -1,0 +1,447 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/Shadow
+  rotate: false
+  xy: 151, 119
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/arminnerdown
+  rotate: true
+  xy: 247, 162
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/arminnerup
+  rotate: false
+  xy: 494, 308
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/armoutdown
+  rotate: true
+  xy: 571, 317
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/armoutup
+  rotate: false
+  xy: 258, 84
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/body
+  rotate: false
+  xy: 236, 272
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/eyebrow
+  rotate: true
+  xy: 1013, 439
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/eyehard
+  rotate: true
+  xy: 221, 162
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/eyehard 2
+  rotate: false
+  xy: 905, 353
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/eyehard1
+  rotate: false
+  xy: 905, 370
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/eyehard3
+  rotate: false
+  xy: 762, 342
+  size: 70, 14
+  orig: 70, 14
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/eyesffuer
+  rotate: true
+  xy: 405, 274
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/eyeyun
+  rotate: false
+  xy: 633, 333
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/face
+  rotate: false
+  xy: 633, 362
+  size: 131, 148
+  orig: 131, 148
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/g
+  rotate: false
+  xy: 342, 286
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/hair1
+  rotate: false
+  xy: 906, 447
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/hair2
+  rotate: true
+  xy: 242, 341
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/hair3
+  rotate: true
+  xy: 340, 349
+  size: 25, 92
+  orig: 25, 92
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/hair4
+  rotate: false
+  xy: 458, 347
+  size: 173, 163
+  orig: 173, 163
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/handinner
+  rotate: true
+  xy: 190, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/handinner2
+  rotate: false
+  xy: 810, 317
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/handinner3
+  rotate: true
+  xy: 608, 243
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/handout
+  rotate: true
+  xy: 258, 57
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/hudiejie
+  rotate: true
+  xy: 863, 356
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/leginnerdown
+  rotate: false
+  xy: 228, 85
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/leginnerup
+  rotate: true
+  xy: 143, 2
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/legoutdown
+  rotate: false
+  xy: 435, 327
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/legoutup
+  rotate: true
+  xy: 236, 240
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/lingjie1
+  rotate: false
+  xy: 197, 29
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/lingjie2
+  rotate: false
+  xy: 532, 254
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/mouth01
+  rotate: true
+  xy: 282, 255
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/mouth02
+  rotate: false
+  xy: 613, 331
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/mouth04
+  rotate: true
+  xy: 236, 343
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/qunzi
+  rotate: false
+  xy: 766, 358
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/texiao1
+  rotate: false
+  xy: 528, 317
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/texiao2
+  rotate: false
+  xy: 711, 321
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/texiao3
+  rotate: false
+  xy: 200, 47
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/toushi
+  rotate: true
+  xy: 151, 236
+  size: 123, 83
+  orig: 123, 83
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/weapon
+  rotate: false
+  xy: 242, 376
+  size: 214, 134
+  orig: 214, 134
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_2/weiqun
+  rotate: true
+  xy: 247, 191
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/arminnerdown
+  rotate: false
+  xy: 502, 270
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/arminnerup
+  rotate: false
+  xy: 532, 278
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/armoutdown
+  rotate: true
+  xy: 570, 247
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/armoutup
+  rotate: true
+  xy: 342, 262
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/hudiejie
+  rotate: false
+  xy: 143, 67
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/leginnerdown
+  rotate: true
+  xy: 459, 281
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/leginnerup
+  rotate: false
+  xy: 435, 280
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/legoutdown
+  rotate: true
+  xy: 762, 321
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/legoutup
+  rotate: true
+  xy: 227, 130
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/qunzi
+  rotate: false
+  xy: 906, 396
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/toushi
+  rotate: false
+  xy: 2, 9
+  size: 139, 108
+  orig: 139, 108
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/weapon
+  rotate: false
+  xy: 2, 361
+  size: 238, 149
+  orig: 238, 149
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_3/weiqun
+  rotate: false
+  xy: 143, 27
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/arminnerdown
+  rotate: false
+  xy: 228, 48
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/arminnerup
+  rotate: false
+  xy: 566, 278
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/armoutdown
+  rotate: false
+  xy: 459, 308
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/armoutup
+  rotate: false
+  xy: 200, 72
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/hudiejie1
+  rotate: false
+  xy: 151, 146
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/hudiejie2
+  rotate: false
+  xy: 979, 349
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/lingjie1
+  rotate: true
+  xy: 600, 278
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/toushi1
+  rotate: false
+  xy: 766, 402
+  size: 138, 108
+  orig: 138, 108
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/toushi2
+  rotate: false
+  xy: 296, 263
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+Maiya/Maiya_RoyalMaiden/Maiya_RoyalMaiden_4/weapon
+  rotate: true
+  xy: 2, 119
+  size: 240, 147
+  orig: 240, 147
+  offset: 0, 0
+  index: -1

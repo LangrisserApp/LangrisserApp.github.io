@@ -1,0 +1,272 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Elwin/Pike
+  rotate: false
+  xy: 2, 364
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/arminnerdown
+  rotate: false
+  xy: 46, 2
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/arminnerup
+  rotate: false
+  xy: 469, 424
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/armoutdown
+  rotate: false
+  xy: 228, 199
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/armoutup
+  rotate: false
+  xy: 259, 206
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/body
+  rotate: false
+  xy: 311, 278
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/handinner
+  rotate: false
+  xy: 153, 104
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/handout
+  rotate: true
+  xy: 116, 83
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/jianjiaout
+  rotate: false
+  xy: 268, 364
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/leginnerdown
+  rotate: false
+  xy: 153, 175
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/leginnerup
+  rotate: true
+  xy: 2, 2
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/legoutdown
+  rotate: false
+  xy: 153, 123
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/legoutup
+  rotate: false
+  xy: 192, 185
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/pifeng2
+  rotate: false
+  xy: 282, 422
+  size: 148, 88
+  orig: 148, 88
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/pifenginner
+  rotate: false
+  xy: 226, 274
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/pifengout
+  rotate: false
+  xy: 432, 423
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/qunzi1
+  rotate: false
+  xy: 311, 347
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/qunzi2
+  rotate: true
+  xy: 64, 5
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Bow/Leafani_Sniper_2/qunzi3
+  rotate: false
+  xy: 381, 350
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_ArcMage_2/toujin
+  rotate: true
+  xy: 116, 104
+  size: 112, 35
+  orig: 112, 35
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyebrow
+  rotate: true
+  xy: 501, 443
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard
+  rotate: true
+  xy: 359, 277
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard1
+  rotate: true
+  xy: 414, 280
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard2
+  rotate: false
+  xy: 226, 252
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyehard3
+  rotate: false
+  xy: 225, 238
+  size: 68, 12
+  orig: 68, 12
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyesffuer
+  rotate: true
+  xy: 469, 443
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/eyeyun
+  rotate: true
+  xy: 384, 281
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/face
+  rotate: false
+  xy: 2, 218
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/hair1
+  rotate: true
+  xy: 2, 30
+  size: 50, 102
+  orig: 50, 102
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/hair2
+  rotate: false
+  xy: 149, 257
+  size: 75, 105
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/hair4
+  rotate: false
+  xy: 2, 82
+  size: 112, 134
+  orig: 112, 134
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/mouth1
+  rotate: true
+  xy: 446, 380
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Leafani/Leafani_Magic/Leafani_Magician_1/mouth2
+  rotate: false
+  xy: 296, 266
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/Mathew_3/jianjiainner
+  rotate: false
+  xy: 140, 82
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Mathew/Mathew_gj/mouth04
+  rotate: true
+  xy: 106, 61
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Archer_1/weapon1
+  rotate: false
+  xy: 268, 395
+  size: 189, 25
+  orig: 189, 25
+  offset: 0, 0
+  index: -1
+Norm/Norm_Bow/Norm_Sniper_2/weapon
+  rotate: false
+  xy: 2, 425
+  size: 278, 85
+  orig: 278, 85
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 149, 230
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

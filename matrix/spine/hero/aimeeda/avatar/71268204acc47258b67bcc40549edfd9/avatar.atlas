@@ -1,0 +1,349 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aimeeda/Aimeeda _fs/Aimeeda01/body
+  rotate: false
+  xy: 226, 189
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/handinner
+  rotate: false
+  xy: 464, 258
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/handinner1
+  rotate: false
+  xy: 158, 2
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/handout
+  rotate: false
+  xy: 277, 44
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/handout1
+  rotate: false
+  xy: 315, 259
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/handout2
+  rotate: false
+  xy: 315, 221
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/leginnerdown
+  rotate: true
+  xy: 226, 375
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/leginnerup
+  rotate: false
+  xy: 194, 81
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/legoutdown
+  rotate: false
+  xy: 278, 76
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/legoutup
+  rotate: false
+  xy: 240, 6
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/toushi
+  rotate: false
+  xy: 309, 297
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/weapon
+  rotate: false
+  xy: 2, 396
+  size: 271, 114
+  orig: 271, 114
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda01/yaodai
+  rotate: false
+  xy: 225, 80
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/body
+  rotate: false
+  xy: 376, 298
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/handinner
+  rotate: false
+  xy: 275, 5
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/handinner1
+  rotate: true
+  xy: 186, 38
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/handout
+  rotate: true
+  xy: 203, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/handout1
+  rotate: false
+  xy: 316, 159
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/handout2
+  rotate: false
+  xy: 316, 121
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/leginnerdown
+  rotate: true
+  xy: 412, 244
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/legoutdown
+  rotate: false
+  xy: 307, 81
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/qunzi
+  rotate: false
+  xy: 124, 81
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/toushi
+  rotate: false
+  xy: 226, 116
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/weapon
+  rotate: true
+  xy: 2, 122
+  size: 272, 112
+  orig: 272, 112
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda02/yaodai
+  rotate: false
+  xy: 224, 49
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda03/body
+  rotate: true
+  xy: 424, 357
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda03/pifeng
+  rotate: true
+  xy: 2, 4
+  size: 116, 93
+  orig: 116, 93
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda03/toushi
+  rotate: true
+  xy: 420, 295
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda03/weapon
+  rotate: true
+  xy: 116, 123
+  size: 271, 108
+  orig: 271, 108
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda03/xiongjia
+  rotate: false
+  xy: 335, 101
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Aimeeda03/yaodai
+  rotate: false
+  xy: 412, 264
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Hair2
+  rotate: true
+  xy: 393, 247
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Hair3
+  rotate: false
+  xy: 373, 238
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Hair4
+  rotate: false
+  xy: 289, 197
+  size: 24, 80
+  orig: 24, 80
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/Hairinner
+  rotate: false
+  xy: 424, 400
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/dd
+  rotate: false
+  xy: 309, 291
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/eyebrow
+  rotate: true
+  xy: 487, 296
+  size: 59, 6
+  orig: 59, 6
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/eyehard
+  rotate: true
+  xy: 292, 127
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/eyehard1
+  rotate: false
+  xy: 315, 197
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/eyehard2
+  rotate: true
+  xy: 370, 127
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/eyehard3
+  rotate: true
+  xy: 496, 448
+  size: 62, 8
+  orig: 62, 8
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/eyesffuer
+  rotate: false
+  xy: 97, 9
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/eyeyun
+  rotate: false
+  xy: 124, 46
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/face
+  rotate: false
+  xy: 226, 279
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/hairout
+  rotate: false
+  xy: 275, 370
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/mouth01
+  rotate: false
+  xy: 244, 370
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/mouth02
+  rotate: true
+  xy: 373, 221
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Aimeeda/Aimeeda _fs/mouth04
+  rotate: false
+  xy: 226, 370
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 97, 46
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

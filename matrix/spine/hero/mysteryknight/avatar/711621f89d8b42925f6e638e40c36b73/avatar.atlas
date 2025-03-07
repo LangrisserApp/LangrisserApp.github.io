@@ -1,0 +1,944 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/arminnerdown
+  rotate: true
+  xy: 459, 339
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/arminnerup
+  rotate: false
+  xy: 468, 308
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/armoutdown
+  rotate: false
+  xy: 630, 705
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/armoutup
+  rotate: true
+  xy: 701, 680
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/body
+  rotate: false
+  xy: 385, 505
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/face
+  rotate: false
+  xy: 2, 508
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/face
+  rotate: false
+  xy: 2, 508
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/face
+  rotate: false
+  xy: 2, 508
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair1
+  rotate: false
+  xy: 765, 844
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair1
+  rotate: false
+  xy: 765, 844
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair1
+  rotate: false
+  xy: 765, 844
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair2
+  rotate: true
+  xy: 394, 738
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair2
+  rotate: true
+  xy: 394, 738
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair2
+  rotate: true
+  xy: 394, 738
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair3
+  rotate: true
+  xy: 277, 373
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair3
+  rotate: true
+  xy: 277, 373
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair3
+  rotate: true
+  xy: 277, 373
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair4
+  rotate: true
+  xy: 930, 730
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair4
+  rotate: true
+  xy: 930, 730
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair4
+  rotate: true
+  xy: 930, 730
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair5
+  rotate: true
+  xy: 468, 739
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair5
+  rotate: true
+  xy: 468, 739
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair5
+  rotate: true
+  xy: 468, 739
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair6
+  rotate: false
+  xy: 542, 705
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair6
+  rotate: false
+  xy: 542, 705
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair6
+  rotate: false
+  xy: 542, 705
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair7
+  rotate: true
+  xy: 250, 547
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair7
+  rotate: true
+  xy: 250, 547
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair7
+  rotate: true
+  xy: 250, 547
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair8
+  rotate: false
+  xy: 2, 238
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair8
+  rotate: false
+  xy: 2, 238
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair8
+  rotate: false
+  xy: 2, 238
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/hair9
+  rotate: true
+  xy: 2, 362
+  size: 144, 102
+  orig: 144, 102
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/hair9
+  rotate: true
+  xy: 2, 362
+  size: 144, 102
+  orig: 144, 102
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/hair9
+  rotate: true
+  xy: 2, 362
+  size: 144, 102
+  orig: 144, 102
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_backlegdown
+  rotate: true
+  xy: 735, 692
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_backlegdown
+  rotate: true
+  xy: 735, 692
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_backlegup
+  rotate: false
+  xy: 399, 650
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_backlegup
+  rotate: false
+  xy: 399, 650
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_backlegup
+  rotate: false
+  xy: 399, 650
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_body
+  rotate: false
+  xy: 2, 637
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_body
+  rotate: false
+  xy: 2, 637
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_body
+  rotate: false
+  xy: 2, 637
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_ear
+  rotate: false
+  xy: 814, 935
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_frontlegdown
+  rotate: false
+  xy: 701, 711
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_frontlegdown
+  rotate: false
+  xy: 701, 711
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_frontlegup
+  rotate: false
+  xy: 299, 301
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_frontlegup
+  rotate: false
+  xy: 299, 301
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_frontlegup
+  rotate: false
+  xy: 299, 301
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_guajian2
+  rotate: true
+  xy: 788, 725
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_hair up
+  rotate: true
+  xy: 661, 847
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_hair up
+  rotate: true
+  xy: 661, 847
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_hair up
+  rotate: true
+  xy: 661, 847
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_head
+  rotate: false
+  xy: 160, 625
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_head
+  rotate: false
+  xy: 160, 625
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_head
+  rotate: false
+  xy: 160, 625
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_maan
+  rotate: false
+  xy: 747, 758
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_tunjia
+  rotate: true
+  xy: 376, 582
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_weiba
+  rotate: false
+  xy: 268, 735
+  size: 124, 56
+  orig: 124, 56
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horse_xiongjia2
+  rotate: true
+  xy: 277, 405
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/horsetoushi
+  rotate: false
+  xy: 830, 854
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/legoutdown
+  rotate: true
+  xy: 387, 306
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/legoutup
+  rotate: true
+  xy: 441, 379
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/mianju
+  rotate: false
+  xy: 930, 779
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/mianju
+  rotate: false
+  xy: 930, 779
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/mianju
+  rotate: false
+  xy: 930, 779
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/mouth01
+  rotate: true
+  xy: 436, 894
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/mouth01
+  rotate: true
+  xy: 436, 894
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/mouth01
+  rotate: true
+  xy: 436, 894
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/mouth02
+  rotate: false
+  xy: 2, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/mouth02
+  rotate: false
+  xy: 2, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/mouth02
+  rotate: false
+  xy: 2, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/mouth03
+  rotate: true
+  xy: 338, 406
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/mouth03
+  rotate: true
+  xy: 338, 406
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/mouth03
+  rotate: true
+  xy: 338, 406
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/mouth04
+  rotate: false
+  xy: 106, 503
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/mouth04
+  rotate: false
+  xy: 106, 503
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/mouth04
+  rotate: false
+  xy: 106, 503
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/weapon
+  rotate: false
+  xy: 443, 932
+  size: 369, 90
+  orig: 369, 90
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/yaojia
+  rotate: true
+  xy: 250, 591
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_2/yaoshi
+  rotate: true
+  xy: 117, 97
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/arminnerdown
+  rotate: true
+  xy: 117, 57
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/arminnerup
+  rotate: false
+  xy: 180, 150
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/armoutdown
+  rotate: true
+  xy: 735, 726
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/armoutup
+  rotate: false
+  xy: 153, 183
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/body
+  rotate: false
+  xy: 391, 428
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_ear
+  rotate: false
+  xy: 274, 646
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_maan
+  rotate: false
+  xy: 839, 767
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_neck
+  rotate: true
+  xy: 436, 794
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_tunjia
+  rotate: true
+  xy: 645, 761
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_tunjia1
+  rotate: true
+  xy: 153, 148
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_tunjia1
+  rotate: true
+  xy: 153, 148
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_weiba
+  rotate: false
+  xy: 125, 478
+  size: 124, 56
+  orig: 124, 56
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_weiba
+  rotate: false
+  xy: 125, 478
+  size: 124, 56
+  orig: 124, 56
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_xiongjia
+  rotate: false
+  xy: 106, 363
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horse_xiongjia2
+  rotate: false
+  xy: 251, 485
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/horsetoushi
+  rotate: true
+  xy: 119, 248
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/jianjiainner
+  rotate: false
+  xy: 423, 339
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/legoutdown
+  rotate: false
+  xy: 184, 181
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/legoutup
+  rotate: true
+  xy: 782, 688
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/pifeng
+  rotate: false
+  xy: 2, 126
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/pifenginner
+  rotate: false
+  xy: 299, 249
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/pijianout
+  rotate: true
+  xy: 399, 379
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/weapon
+  rotate: false
+  xy: 2, 793
+  size: 432, 114
+  orig: 432, 114
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/yaojia
+  rotate: true
+  xy: 117, 141
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_3/yaoshi
+  rotate: false
+  xy: 423, 310
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/Pike
+  rotate: false
+  xy: 2, 732
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/arminnerdown
+  rotate: false
+  xy: 445, 414
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/arminnerup
+  rotate: true
+  xy: 839, 739
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/armoutdown
+  rotate: false
+  xy: 353, 314
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/armoutup
+  rotate: true
+  xy: 164, 217
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/body
+  rotate: false
+  xy: 338, 425
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_backlegdown
+  rotate: false
+  xy: 445, 443
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_daizi
+  rotate: false
+  xy: 443, 871
+  size: 111, 59
+  orig: 111, 59
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_daizi1
+  rotate: false
+  xy: 274, 582
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_ear
+  rotate: false
+  xy: 125, 536
+  size: 123, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_frontlegdown
+  rotate: false
+  xy: 661, 710
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_maan
+  rotate: true
+  xy: 542, 758
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_tunjia
+  rotate: false
+  xy: 202, 256
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_xiongjia
+  rotate: false
+  xy: 198, 364
+  size: 77, 112
+  orig: 77, 112
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_xiongjia1
+  rotate: false
+  xy: 117, 16
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horse_xiongjia2
+  rotate: true
+  xy: 331, 503
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/horsetoushi
+  rotate: true
+  xy: 939, 916
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/jianjiainner
+  rotate: false
+  xy: 117, 179
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/legoutdown
+  rotate: true
+  xy: 735, 673
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/legoutup
+  rotate: false
+  xy: 387, 326
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/pifeng
+  rotate: false
+  xy: 2, 14
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/pifenginner
+  rotate: false
+  xy: 930, 853
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/pijianout
+  rotate: true
+  xy: 422, 589
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/toushi
+  rotate: false
+  xy: 556, 851
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/weapon
+  rotate: false
+  xy: 2, 909
+  size: 439, 113
+  orig: 439, 113
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/yaojia
+  rotate: false
+  xy: 348, 373
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_MagicKnight/MysteryKnight_MagicKnight_4/yaoshi
+  rotate: false
+  xy: 119, 219
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 439, 513
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

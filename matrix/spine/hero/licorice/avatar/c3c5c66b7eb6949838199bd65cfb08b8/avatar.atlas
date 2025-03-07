@@ -1,0 +1,293 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Licorice/Licorice_Summoner/Licorice_Summoner_03/arminnerdown
+  rotate: true
+  xy: 144, 156
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/arminnerup
+  rotate: false
+  xy: 244, 364
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/armoutdown
+  rotate: false
+  xy: 191, 216
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/armoutup
+  rotate: true
+  xy: 188, 252
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/body
+  rotate: false
+  xy: 207, 412
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/eyehard
+  rotate: true
+  xy: 67, 25
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/eyehard01
+  rotate: true
+  xy: 188, 288
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/eyehard02
+  rotate: false
+  xy: 287, 397
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/eyehard03
+  rotate: false
+  xy: 207, 402
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/eyesffuer
+  rotate: false
+  xy: 81, 154
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/eyeyun
+  rotate: true
+  xy: 218, 299
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/face
+  rotate: false
+  xy: 2, 373
+  size: 120, 137
+  orig: 120, 137
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/fx
+  rotate: false
+  xy: 115, 290
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair1
+  rotate: true
+  xy: 2, 11
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair2
+  rotate: false
+  xy: 83, 194
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair3
+  rotate: false
+  xy: 83, 251
+  size: 30, 120
+  orig: 30, 120
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair4
+  rotate: true
+  xy: 287, 419
+  size: 39, 103
+  orig: 39, 103
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair5
+  rotate: true
+  xy: 287, 460
+  size: 50, 109
+  orig: 50, 109
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair6
+  rotate: true
+  xy: 124, 363
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair7
+  rotate: true
+  xy: 81, 106
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair8
+  rotate: false
+  xy: 124, 406
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/hair9
+  rotate: false
+  xy: 2, 100
+  size: 77, 108
+  orig: 77, 108
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/handinner
+  rotate: true
+  xy: 164, 164
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/handinner02
+  rotate: false
+  xy: 392, 387
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/handout
+  rotate: true
+  xy: 362, 392
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/handout1a
+  rotate: false
+  xy: 474, 436
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/handout1b
+  rotate: false
+  xy: 97, 70
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/handout2
+  rotate: false
+  xy: 418, 389
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/leginnerdown
+  rotate: false
+  xy: 164, 201
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/leginnerup
+  rotate: false
+  xy: 97, 25
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/legoutdown
+  rotate: false
+  xy: 474, 472
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/legoutup
+  rotate: true
+  xy: 201, 363
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/mouth01
+  rotate: true
+  xy: 392, 445
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/mouth02
+  rotate: false
+  xy: 67, 17
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/mouth04
+  rotate: false
+  xy: 81, 100
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/piaodai1
+  rotate: false
+  xy: 398, 440
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/piaodai2
+  rotate: true
+  xy: 115, 248
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/toushi
+  rotate: true
+  xy: 2, 210
+  size: 161, 79
+  orig: 161, 79
+  offset: 0, 0
+  index: -1
+Licorice/Licorice_Summoner/Licorice_Summoner_03/weapon
+  rotate: false
+  xy: 113, 194
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 392, 413
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

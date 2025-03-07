@@ -1,0 +1,643 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Celica_Magic/Celica_Magic02/arminnerdown
+  rotate: false
+  xy: 468, 71
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/arminnerup
+  rotate: false
+  xy: 360, 62
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/armoutdown
+  rotate: true
+  xy: 494, 167
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/armoutup
+  rotate: true
+  xy: 462, 205
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/bodyup
+  rotate: true
+  xy: 199, 122
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/leginnerdown
+  rotate: true
+  xy: 426, 71
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/leginnerup
+  rotate: true
+  xy: 313, 79
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/legoutdown
+  rotate: true
+  xy: 159, 35
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/legoutup
+  rotate: true
+  xy: 203, 32
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/qunzi1
+  rotate: true
+  xy: 321, 173
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/qunzi2
+  rotate: false
+  xy: 426, 166
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/qunzi3
+  rotate: false
+  xy: 298, 230
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/weapon1
+  rotate: true
+  xy: 226, 346
+  size: 29, 167
+  orig: 29, 167
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/yaodai1
+  rotate: true
+  xy: 250, 43
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/yaodai2
+  rotate: true
+  xy: 493, 222
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic02/yaodai31
+  rotate: false
+  xy: 70, 2
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic03/weapon1
+  rotate: true
+  xy: 226, 467
+  size: 43, 244
+  orig: 43, 244
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/Shadow
+  rotate: false
+  xy: 199, 95
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/arminnerdown
+  rotate: false
+  xy: 358, 38
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/arminnerup
+  rotate: true
+  xy: 231, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/arminnerup1
+  rotate: false
+  xy: 354, 13
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/arminnerup22
+  rotate: true
+  xy: 404, 13
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/armoutdown
+  rotate: false
+  xy: 457, 237
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/armoutup
+  rotate: false
+  xy: 163, 2
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/armoutup1
+  rotate: false
+  xy: 462, 171
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/armoutup2
+  rotate: true
+  xy: 459, 44
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/backhair
+  rotate: false
+  xy: 2, 347
+  size: 222, 163
+  orig: 222, 163
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/baoshi1
+  rotate: false
+  xy: 447, 10
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/baoshi2
+  rotate: false
+  xy: 494, 98
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/bodyup
+  rotate: true
+  xy: 321, 114
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/elf1
+  rotate: true
+  xy: 472, 330
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/elf2
+  rotate: false
+  xy: 267, 2
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/elf3
+  rotate: true
+  xy: 193, 2
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/elf4
+  rotate: true
+  xy: 122, 2
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/elf5
+  rotate: false
+  xy: 318, 15
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/erhuan
+  rotate: false
+  xy: 494, 108
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/erhuan1
+  rotate: false
+  xy: 476, 19
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/eyebrow
+  rotate: true
+  xy: 146, 33
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/eyehard
+  rotate: true
+  xy: 70, 28
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/eyehard1
+  rotate: true
+  xy: 98, 32
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/eyehard2
+  rotate: true
+  xy: 126, 32
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/eyehard3
+  rotate: false
+  xy: 321, 105
+  size: 64, 7
+  orig: 64, 7
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/eyesffuer
+  rotate: false
+  xy: 386, 235
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/eyeyun
+  rotate: true
+  xy: 426, 95
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/face
+  rotate: false
+  xy: 79, 208
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair1
+  rotate: false
+  xy: 152, 107
+  size: 45, 99
+  orig: 45, 99
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair2
+  rotate: false
+  xy: 79, 105
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair3
+  rotate: false
+  xy: 159, 64
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair4
+  rotate: false
+  xy: 385, 378
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair5
+  rotate: false
+  xy: 456, 285
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair6
+  rotate: false
+  xy: 468, 388
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair7
+  rotate: true
+  xy: 395, 331
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/hair8
+  rotate: true
+  xy: 393, 272
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/handinner
+  rotate: false
+  xy: 400, 94
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/handout
+  rotate: true
+  xy: 463, 95
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/handout1
+  rotate: false
+  xy: 388, 60
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/handout2
+  rotate: false
+  xy: 426, 20
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/jianjia1
+  rotate: true
+  xy: 472, 475
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/jianjia2
+  rotate: true
+  xy: 278, 43
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/jianjia3
+  rotate: true
+  xy: 386, 38
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/leginnerdown
+  rotate: false
+  xy: 294, 3
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/leginnerup
+  rotate: true
+  xy: 313, 52
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/legoutdown
+  rotate: false
+  xy: 463, 127
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/legoutup
+  rotate: false
+  xy: 278, 65
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/mouth
+  rotate: false
+  xy: 472, 467
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/mouth2
+  rotate: false
+  xy: 354, 5
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/mouth4
+  rotate: true
+  xy: 418, 45
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/pifeng1
+  rotate: false
+  xy: 226, 377
+  size: 157, 88
+  orig: 157, 88
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/pifeng2
+  rotate: true
+  xy: 202, 223
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/pifeng3
+  rotate: true
+  xy: 2, 6
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/pifeng44
+  rotate: false
+  xy: 202, 278
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/qunzi1
+  rotate: false
+  xy: 278, 112
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/qunzi2
+  rotate: false
+  xy: 389, 173
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/qunzi3
+  rotate: false
+  xy: 297, 283
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/qunzi4
+  rotate: false
+  xy: 462, 258
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/qunzi5
+  rotate: false
+  xy: 424, 44
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao1
+  rotate: false
+  xy: 379, 13
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao2
+  rotate: false
+  xy: 202, 182
+  size: 117, 39
+  orig: 117, 39
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao21
+  rotate: true
+  xy: 492, 467
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao22
+  rotate: false
+  xy: 388, 94
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao23
+  rotate: true
+  xy: 342, 7
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao24
+  rotate: true
+  xy: 493, 197
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao25
+  rotate: true
+  xy: 426, 10
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao26
+  rotate: true
+  xy: 250, 34
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao3
+  rotate: true
+  xy: 496, 73
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao4
+  rotate: false
+  xy: 451, 20
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/texiao5
+  rotate: false
+  xy: 318, 4
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/weapon1
+  rotate: false
+  xy: 2, 101
+  size: 75, 244
+  orig: 75, 244
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/yaodai1
+  rotate: false
+  xy: 198, 66
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/yaodai2
+  rotate: true
+  xy: 492, 133
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+Celica_Magic/Celica_Magic04/yaodai33
+  rotate: true
+  xy: 400, 119
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1

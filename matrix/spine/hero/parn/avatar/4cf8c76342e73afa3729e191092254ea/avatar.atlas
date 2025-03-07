@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Parn/Parn_Skin/Parn_Skin01_2/arminnerup
+  rotate: false
+  xy: 179, 177
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/armoutdown
+  rotate: false
+  xy: 76, 117
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/armoutup
+  rotate: false
+  xy: 179, 215
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/body
+  rotate: true
+  xy: 211, 830
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/handinner
+  rotate: true
+  xy: 164, 521
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/jianjiainner
+  rotate: false
+  xy: 155, 260
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/jianjiainner1
+  rotate: false
+  xy: 310, 681
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/jianjiaout
+  rotate: true
+  xy: 155, 417
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/kouzi
+  rotate: true
+  xy: 337, 761
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/legoutdown
+  rotate: true
+  xy: 155, 391
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/legoutup
+  rotate: false
+  xy: 206, 661
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/pifenginner1
+  rotate: true
+  xy: 308, 719
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/pifenginner2
+  rotate: true
+  xy: 2, 259
+  size: 124, 36
+  orig: 124, 36
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/pifengout1
+  rotate: true
+  xy: 239, 719
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/pifengout2
+  rotate: true
+  xy: 134, 709
+  size: 162, 57
+  orig: 162, 57
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/pifengout3
+  rotate: true
+  xy: 62, 171
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/shanguang
+  rotate: false
+  xy: 152, 349
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/weapon
+  rotate: false
+  xy: 211, 895
+  size: 220, 127
+  orig: 220, 127
+  offset: 0, 0
+  index: -1
+Parn/Parn_Skin/Parn_Skin01_2/yaojiaout
+  rotate: false
+  xy: 2, 2
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/body
+  rotate: false
+  xy: 88, 260
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/eyebrow
+  rotate: true
+  xy: 1007, 950
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/eyehard
+  rotate: false
+  xy: 941, 886
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/eyehard1
+  rotate: true
+  xy: 285, 729
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/eyehard2
+  rotate: true
+  xy: 193, 807
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/eyehard3
+  rotate: true
+  xy: 1007, 888
+  size: 60, 6
+  orig: 60, 6
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/eyesffuer
+  rotate: false
+  xy: 211, 795
+  size: 80, 33
+  orig: 80, 33
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/eyeyun
+  rotate: true
+  xy: 164, 569
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/face
+  rotate: true
+  xy: 433, 896
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/hair1
+  rotate: false
+  xy: 193, 714
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/hair2
+  rotate: false
+  xy: 187, 300
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/hair3
+  rotate: false
+  xy: 134, 651
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/hair4
+  rotate: true
+  xy: 733, 881
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/hair5
+  rotate: false
+  xy: 40, 259
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/hairinner
+  rotate: true
+  xy: 341, 735
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/handinner
+  rotate: true
+  xy: 155, 300
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/handout
+  rotate: false
+  xy: 76, 65
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_backlegdown
+  rotate: false
+  xy: 184, 253
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_backlegup
+  rotate: false
+  xy: 112, 172
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_body
+  rotate: false
+  xy: 577, 929
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_frontlegdown
+  rotate: false
+  xy: 276, 669
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_frontlegup
+  rotate: false
+  xy: 377, 823
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_guajian1
+  rotate: false
+  xy: 803, 881
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_guajian2
+  rotate: false
+  xy: 57, 348
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_guajian3
+  rotate: true
+  xy: 2, 150
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_head
+  rotate: true
+  xy: 876, 909
+  size: 113, 129
+  orig: 113, 129
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_mana
+  rotate: true
+  xy: 57, 526
+  size: 123, 105
+  orig: 123, 105
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_neck
+  rotate: false
+  xy: 2, 46
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/horse_weiba
+  rotate: true
+  xy: 735, 915
+  size: 107, 139
+  orig: 107, 139
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/jianguang
+  rotate: false
+  xy: 2, 873
+  size: 207, 149
+  orig: 207, 149
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/jianjiainner
+  rotate: false
+  xy: 308, 755
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/jianjiaout
+  rotate: false
+  xy: 677, 882
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/kouzi
+  rotate: true
+  xy: 354, 799
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/legoutdown
+  rotate: false
+  xy: 180, 653
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/legoutup
+  rotate: false
+  xy: 240, 667
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/mouth01
+  rotate: true
+  xy: 1015, 931
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/mouth02
+  rotate: true
+  xy: 76, 46
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/mouth03
+  rotate: true
+  xy: 40, 365
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/mouth04
+  rotate: true
+  xy: 62, 150
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/pifenginner
+  rotate: false
+  xy: 293, 795
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/pifenginner1
+  rotate: false
+  xy: 319, 799
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/pifenginner3
+  rotate: false
+  xy: 577, 891
+  size: 98, 36
+  orig: 98, 36
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/pifengout
+  rotate: true
+  xy: 51, 2
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/pifengout1
+  rotate: false
+  xy: 297, 835
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/pifengout2
+  rotate: true
+  xy: 57, 407
+  size: 117, 96
+  orig: 117, 96
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/weapon
+  rotate: true
+  xy: 2, 651
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: -1
+Parn/parn_Knight/Parn_StrikeKnight_4/yaojiaout
+  rotate: true
+  xy: 155, 466
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+Pike
+  rotate: true
+  xy: 2, 385
+  size: 264, 53
+  orig: 264, 53
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 865, 882
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kertesz/Kertesz_General/Kertesz_General_3/arminnerdown
+  rotate: true
+  xy: 267, 235
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/arminnerup
+  rotate: false
+  xy: 85, 2
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/armoutdown
+  rotate: false
+  xy: 211, 184
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/armoutup
+  rotate: false
+  xy: 85, 43
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/body
+  rotate: false
+  xy: 214, 280
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/body1
+  rotate: true
+  xy: 131, 221
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/eyebrow
+  rotate: false
+  xy: 214, 270
+  size: 71, 8
+  orig: 71, 8
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/eyehard
+  rotate: true
+  xy: 85, 89
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/eyehard1
+  rotate: true
+  xy: 111, 89
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/eyehard2
+  rotate: false
+  xy: 379, 355
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/eyehard3
+  rotate: false
+  xy: 368, 309
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/eyesffuer
+  rotate: false
+  xy: 140, 193
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/eyeyun
+  rotate: false
+  xy: 140, 166
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/face
+  rotate: false
+  xy: 2, 221
+  size: 127, 143
+  orig: 127, 143
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/hair1
+  rotate: false
+  xy: 85, 165
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/hair2
+  rotate: false
+  xy: 461, 429
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/hair3
+  rotate: false
+  xy: 2, 13
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/hairinner
+  rotate: false
+  xy: 328, 323
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/handinner
+  rotate: true
+  xy: 436, 329
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/handout
+  rotate: false
+  xy: 58, 15
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/jianjiaout
+  rotate: false
+  xy: 273, 316
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/leginnerdown
+  rotate: true
+  xy: 273, 280
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/leginnerup
+  rotate: true
+  xy: 461, 399
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/legoutdown
+  rotate: false
+  xy: 199, 223
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/legoutup
+  rotate: false
+  xy: 234, 223
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/lingziinner
+  rotate: false
+  xy: 328, 292
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/mouth01
+  rotate: true
+  xy: 124, 70
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/mouth04
+  rotate: true
+  xy: 455, 355
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/piaodai
+  rotate: false
+  xy: 2, 115
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/weapon
+  rotate: false
+  xy: 2, 366
+  size: 375, 144
+  orig: 375, 144
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/xiabaiinner
+  rotate: true
+  xy: 461, 370
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/xiabaiinner1
+  rotate: true
+  xy: 379, 377
+  size: 133, 80
+  orig: 133, 80
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/xiabaiout
+  rotate: false
+  xy: 131, 276
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+Kertesz/Kertesz_General/Kertesz_General_3/yaodai
+  rotate: false
+  xy: 368, 327
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 58, 39
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,412 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enya_Magic_3/toushi2
+  rotate: false
+  xy: 335, 288
+  size: 140, 78
+  orig: 140, 78
+  offset: 0, 0
+  index: -1
+Enya_Magic_3/weapon
+  rotate: false
+  xy: 90, 227
+  size: 73, 283
+  orig: 73, 283
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/Shadow
+  rotate: false
+  xy: 398, 81
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/arminnerdown
+  rotate: true
+  xy: 745, 321
+  size: 35, 99
+  orig: 35, 99
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/arminnerup
+  rotate: true
+  xy: 63, 55
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/armoutdown
+  rotate: true
+  xy: 713, 294
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/armoutup
+  rotate: false
+  xy: 61, 17
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/body
+  rotate: false
+  xy: 517, 224
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/eyebrow
+  rotate: false
+  xy: 642, 230
+  size: 45, 8
+  orig: 45, 8
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/eyehard
+  rotate: true
+  xy: 477, 288
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/eyehard1
+  rotate: false
+  xy: 100, 78
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/eyehard2
+  rotate: true
+  xy: 577, 213
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/eyehard3
+  rotate: true
+  xy: 630, 228
+  size: 71, 10
+  orig: 71, 10
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/eyesffuer
+  rotate: false
+  xy: 642, 271
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/eyeyun
+  rotate: false
+  xy: 642, 240
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/face
+  rotate: false
+  xy: 335, 368
+  size: 180, 142
+  orig: 180, 142
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair1
+  rotate: false
+  xy: 484, 196
+  size: 31, 90
+  orig: 31, 90
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair2
+  rotate: true
+  xy: 745, 358
+  size: 39, 116
+  orig: 39, 116
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair3
+  rotate: true
+  xy: 501, 293
+  size: 37, 90
+  orig: 37, 90
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair4
+  rotate: true
+  xy: 517, 332
+  size: 63, 128
+  orig: 63, 128
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair5
+  rotate: false
+  xy: 63, 93
+  size: 35, 127
+  orig: 35, 127
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair6
+  rotate: true
+  xy: 188, 89
+  size: 16, 114
+  orig: 16, 114
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair7
+  rotate: false
+  xy: 2, 56
+  size: 59, 164
+  orig: 59, 164
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair8
+  rotate: true
+  xy: 517, 397
+  size: 113, 204
+  orig: 113, 204
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/hair9
+  rotate: false
+  xy: 165, 333
+  size: 168, 177
+  orig: 168, 177
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/handinner
+  rotate: false
+  xy: 819, 293
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/handout
+  rotate: true
+  xy: 152, 48
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/handout1
+  rotate: true
+  xy: 136, 22
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/leginnerdown
+  rotate: true
+  xy: 93, 24
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/leginnerup
+  rotate: true
+  xy: 95, 48
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/legoutdown
+  rotate: true
+  xy: 593, 301
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/legoutup
+  rotate: false
+  xy: 2, 2
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/mouth01
+  rotate: false
+  xy: 863, 390
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/mouth02
+  rotate: true
+  xy: 180, 89
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/mouth03
+  rotate: false
+  xy: 165, 227
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/pifeng1
+  rotate: true
+  xy: 307, 199
+  size: 87, 128
+  orig: 87, 128
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/pifeng2
+  rotate: true
+  xy: 304, 77
+  size: 29, 92
+  orig: 29, 92
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/pifeng3
+  rotate: false
+  xy: 599, 230
+  size: 29, 69
+  orig: 29, 69
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/toushi1
+  rotate: true
+  xy: 474, 77
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/toushi2
+  rotate: false
+  xy: 723, 399
+  size: 156, 111
+  orig: 156, 111
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/toushi3
+  rotate: true
+  xy: 474, 126
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/toushi4
+  rotate: true
+  xy: 783, 289
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/toushi5
+  rotate: false
+  xy: 647, 325
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/tx10
+  rotate: false
+  xy: 165, 232
+  size: 140, 99
+  orig: 140, 99
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/tx8
+  rotate: true
+  xy: 100, 102
+  size: 123, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/tx9
+  rotate: false
+  xy: 527, 141
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/weapon
+  rotate: false
+  xy: 2, 222
+  size: 86, 288
+  orig: 86, 288
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/weapon1
+  rotate: true
+  xy: 745, 292
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/weapon2
+  rotate: true
+  xy: 307, 301
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/weapon3
+  rotate: false
+  xy: 543, 85
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/xiabai1
+  rotate: false
+  xy: 437, 197
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/xiabai2
+  rotate: false
+  xy: 411, 108
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/xiabai3
+  rotate: true
+  xy: 640, 303
+  size: 20, 71
+  orig: 20, 71
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/xiabai4
+  rotate: false
+  xy: 300, 108
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/xiabai5
+  rotate: true
+  xy: 881, 380
+  size: 130, 134
+  orig: 130, 134
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/xiabai6
+  rotate: true
+  xy: 188, 107
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/zhuangshi
+  rotate: true
+  xy: 517, 198
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+Enya_Magic_4/zhuangshi1
+  rotate: false
+  xy: 37, 7
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1

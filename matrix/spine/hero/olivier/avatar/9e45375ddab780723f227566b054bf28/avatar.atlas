@@ -1,0 +1,461 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Olivier/Olivier_Prince/Olivier_Prince2/arminnerdown
+  rotate: false
+  xy: 451, 364
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/arminnerup
+  rotate: true
+  xy: 365, 247
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/armoutdown
+  rotate: true
+  xy: 216, 181
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/armoutup
+  rotate: false
+  xy: 71, 59
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/body
+  rotate: true
+  xy: 382, 358
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/face
+  rotate: false
+  xy: 124, 371
+  size: 128, 139
+  orig: 128, 139
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/hair4
+  rotate: false
+  xy: 192, 184
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/hairbcak
+  rotate: false
+  xy: 2, 348
+  size: 120, 162
+  orig: 120, 162
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/hudang
+  rotate: false
+  xy: 64, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/leginnerdown
+  rotate: true
+  xy: 215, 152
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/leginnerup
+  rotate: true
+  xy: 163, 122
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/legoutdown
+  rotate: false
+  xy: 306, 190
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/legoutup
+  rotate: true
+  xy: 252, 118
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/lingzi
+  rotate: false
+  xy: 452, 397
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/mouth02
+  rotate: false
+  xy: 71, 47
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/mouth03
+  rotate: true
+  xy: 124, 348
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/mouth04
+  rotate: false
+  xy: 487, 412
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/qunziinner
+  rotate: false
+  xy: 2, 3
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/weapon
+  rotate: false
+  xy: 2, 249
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/yaojiainner
+  rotate: true
+  xy: 140, 247
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince2/yaojiaout
+  rotate: false
+  xy: 129, 184
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/arminnerdown
+  rotate: false
+  xy: 438, 242
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/arminnerup
+  rotate: true
+  xy: 372, 275
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/armoutdown
+  rotate: false
+  xy: 210, 113
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/armoutup
+  rotate: false
+  xy: 109, 99
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/body
+  rotate: true
+  xy: 381, 303
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/eyebrow
+  rotate: false
+  xy: 90, 173
+  size: 70, 9
+  orig: 70, 9
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/eyehard
+  rotate: false
+  xy: 253, 231
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/eyehard1
+  rotate: false
+  xy: 94, 154
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/eyehard2
+  rotate: false
+  xy: 94, 139
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/eyehard3
+  rotate: false
+  xy: 253, 250
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/eyesffuer
+  rotate: false
+  xy: 253, 267
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/eyeyun
+  rotate: true
+  xy: 65, 176
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/face
+  rotate: false
+  xy: 254, 371
+  size: 126, 139
+  orig: 126, 139
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/hair1
+  rotate: false
+  xy: 72, 251
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/hair2
+  rotate: false
+  xy: 452, 423
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/hair3
+  rotate: false
+  xy: 2, 145
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/hairback
+  rotate: true
+  xy: 255, 192
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/handinner
+  rotate: true
+  xy: 483, 353
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/handinner1
+  rotate: true
+  xy: 285, 88
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/handout
+  rotate: true
+  xy: 403, 248
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/handout1
+  rotate: true
+  xy: 252, 88
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/hudang
+  rotate: false
+  xy: 71, 98
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/leginnerdown
+  rotate: true
+  xy: 411, 275
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/leginnerup
+  rotate: false
+  xy: 299, 118
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/legoutdown
+  rotate: true
+  xy: 326, 254
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/legoutup
+  rotate: false
+  xy: 299, 153
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/lingzi
+  rotate: true
+  xy: 330, 155
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/mouth01
+  rotate: false
+  xy: 143, 128
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/qunziinner
+  rotate: false
+  xy: 199, 264
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/shipin
+  rotate: false
+  xy: 216, 225
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/weapon
+  rotate: false
+  xy: 2, 47
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/yaojiainner
+  rotate: true
+  xy: 163, 153
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince3/yaojiaout
+  rotate: false
+  xy: 332, 307
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/body
+  rotate: false
+  xy: 140, 287
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/hudang
+  rotate: true
+  xy: 255, 150
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/jianjiainner
+  rotate: true
+  xy: 65, 147
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/jianjiaout
+  rotate: false
+  xy: 483, 375
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/lingzi
+  rotate: true
+  xy: 331, 120
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/qunziinner
+  rotate: false
+  xy: 253, 320
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/weapon
+  rotate: false
+  xy: 382, 413
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/weapon1
+  rotate: true
+  xy: 329, 282
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/yaojiainner
+  rotate: false
+  xy: 90, 184
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+Olivier/Olivier_Prince/Olivier_Prince4/yaojiaout
+  rotate: false
+  xy: 194, 298
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 253, 293
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

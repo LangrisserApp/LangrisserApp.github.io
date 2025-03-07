@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/arminnerup
+  rotate: false
+  xy: 351, 56
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/armoutup
+  rotate: false
+  xy: 350, 13
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/armoutup1
+  rotate: true
+  xy: 333, 302
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/body
+  rotate: true
+  xy: 119, 10
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/handinner
+  rotate: false
+  xy: 285, 5
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/handout
+  rotate: false
+  xy: 457, 339
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/handout1
+  rotate: true
+  xy: 421, 338
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/jianjiainner
+  rotate: false
+  xy: 202, 2
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/jianjiaout
+  rotate: true
+  xy: 242, 96
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/legoutdown
+  rotate: true
+  xy: 242, 2
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/legoutup
+  rotate: true
+  xy: 421, 387
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_BowKnight/EmmaLink_BowKnihgt_2/yaojiaout
+  rotate: false
+  xy: 202, 27
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyebrow
+  rotate: false
+  xy: 362, 302
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard
+  rotate: true
+  xy: 332, 38
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard1
+  rotate: true
+  xy: 332, 6
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard2
+  rotate: true
+  xy: 127, 165
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyehard3
+  rotate: false
+  xy: 119, 2
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyesffuer
+  rotate: false
+  xy: 360, 275
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/eyeyun
+  rotate: true
+  xy: 333, 268
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/face
+  rotate: false
+  xy: 2, 197
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair
+  rotate: false
+  xy: 251, 166
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair1
+  rotate: true
+  xy: 2, 5
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair2
+  rotate: false
+  xy: 459, 378
+  size: 50, 132
+  orig: 50, 132
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/hair3
+  rotate: false
+  xy: 159, 268
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth01
+  rotate: false
+  xy: 397, 330
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth02
+  rotate: false
+  xy: 397, 318
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth03
+  rotate: false
+  xy: 166, 66
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+EmmaLink/EmmaLink_Spear/EmmaLink_General_2/mouth04
+  rotate: true
+  xy: 279, 6
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_guajian1
+  rotate: true
+  xy: 242, 78
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_guajian2
+  rotate: true
+  xy: 127, 65
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_mana
+  rotate: false
+  xy: 159, 177
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_neck1
+  rotate: true
+  xy: 291, 70
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/horse_tunjia1
+  rotate: false
+  xy: 362, 315
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/weapon
+  rotate: false
+  xy: 2, 341
+  size: 180, 169
+  orig: 180, 169
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/weapon1
+  rotate: true
+  xy: 141, 163
+  size: 176, 16
+  orig: 176, 16
+  offset: 0, 0
+  index: -1
+Grenier/Grenier_qb/Grenier_3/weapon2
+  rotate: true
+  xy: 184, 340
+  size: 75, 125
+  orig: 75, 125
+  offset: 0, 0
+  index: -1
+Horse/Ornament/Taupe/horse_tunjia
+  rotate: false
+  xy: 166, 76
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Horse/Ornament/Taupe/horse_xiongjia
+  rotate: true
+  xy: 342, 421
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegdown
+  rotate: true
+  xy: 285, 35
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_backlegup
+  rotate: true
+  xy: 299, 93
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_body
+  rotate: false
+  xy: 184, 417
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegdown
+  rotate: false
+  xy: 251, 27
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_frontlegup
+  rotate: false
+  xy: 279, 268
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_head
+  rotate: false
+  xy: 2, 71
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_neck
+  rotate: false
+  xy: 342, 342
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Horse/grayhorse/grayhorse_2/grayhorse_2_cut/horse_weiba
+  rotate: true
+  xy: 299, 154
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 311, 341
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monster/Apotheosis_Monster_3/chibang
+  rotate: true
+  xy: 2, 3
+  size: 76, 143
+  orig: 76, 143
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_3/head
+  rotate: false
+  xy: 2, 81
+  size: 198, 191
+  orig: 198, 191
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_3/jianjiainner
+  rotate: false
+  xy: 747, 313
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_3/jianjiaout
+  rotate: false
+  xy: 671, 344
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_3/jianout
+  rotate: false
+  xy: 380, 78
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_3/pifeng
+  rotate: true
+  xy: 797, 359
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_3/pifeng1
+  rotate: false
+  xy: 229, 227
+  size: 155, 110
+  orig: 155, 110
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_3/pifeng2
+  rotate: true
+  xy: 202, 42
+  size: 75, 105
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/arminnerdown
+  rotate: false
+  xy: 619, 285
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/arminnerup
+  rotate: false
+  xy: 577, 166
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/armoutdown
+  rotate: false
+  xy: 619, 254
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/armoutup
+  rotate: true
+  xy: 506, 159
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/body
+  rotate: false
+  xy: 612, 316
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/bodyinner
+  rotate: true
+  xy: 984, 420
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/eyehard
+  rotate: true
+  xy: 605, 264
+  size: 49, 12
+  orig: 49, 12
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/eyelight
+  rotate: false
+  xy: 386, 170
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/hair
+  rotate: true
+  xy: 385, 140
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/hair1
+  rotate: false
+  xy: 202, 227
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/hairinner
+  rotate: false
+  xy: 616, 382
+  size: 179, 128
+  orig: 179, 128
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/handinner
+  rotate: false
+  xy: 309, 2
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/handinner1
+  rotate: false
+  xy: 343, 175
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/handout
+  rotate: true
+  xy: 343, 126
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/handout1
+  rotate: true
+  xy: 147, 2
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/head
+  rotate: false
+  xy: 2, 274
+  size: 225, 236
+  orig: 225, 236
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/head1
+  rotate: true
+  xy: 309, 47
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/jianinner
+  rotate: false
+  xy: 386, 310
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/jianjiainner
+  rotate: true
+  xy: 556, 315
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/jianjiaout
+  rotate: false
+  xy: 901, 362
+  size: 97, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/jianout
+  rotate: false
+  xy: 742, 346
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/kua
+  rotate: false
+  xy: 464, 158
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/leginnerdown
+  rotate: false
+  xy: 344, 75
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/leginnerup
+  rotate: true
+  xy: 241, 10
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/legoutdown
+  rotate: true
+  xy: 385, 112
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/legoutup
+  rotate: true
+  xy: 147, 43
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/pifeng
+  rotate: false
+  xy: 509, 192
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/pifeng1
+  rotate: false
+  xy: 411, 386
+  size: 203, 124
+  orig: 203, 124
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/pifeng2
+  rotate: true
+  xy: 386, 193
+  size: 113, 121
+  orig: 113, 121
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx1
+  rotate: true
+  xy: 605, 249
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx2
+  rotate: false
+  xy: 445, 158
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx3
+  rotate: false
+  xy: 344, 62
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx4
+  rotate: false
+  xy: 293, 30
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx5
+  rotate: false
+  xy: 655, 306
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx6
+  rotate: false
+  xy: 293, 18
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx7
+  rotate: true
+  xy: 428, 98
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/tx8
+  rotate: false
+  xy: 445, 146
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/txinner
+  rotate: true
+  xy: 797, 417
+  size: 93, 185
+  orig: 93, 185
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/txinnera
+  rotate: true
+  xy: 411, 308
+  size: 76, 143
+  orig: 76, 143
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/txout1
+  rotate: false
+  xy: 202, 119
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/txout2
+  rotate: false
+  xy: 229, 339
+  size: 180, 171
+  orig: 180, 171
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/txout3
+  rotate: true
+  xy: 984, 435
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/txout4
+  rotate: true
+  xy: 568, 247
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/txout5
+  rotate: false
+  xy: 568, 196
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/xionginner
+  rotate: false
+  xy: 547, 161
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Monster/Apotheosis_Monster_4/xiongout
+  rotate: false
+  xy: 193, 5
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+Monster/Shadow
+  rotate: false
+  xy: 671, 317
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,412 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/arminnerdown
+  rotate: false
+  xy: 485, 308
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/armoutdown
+  rotate: false
+  xy: 437, 146
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/chibang1
+  rotate: true
+  xy: 429, 333
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/chibang2
+  rotate: true
+  xy: 2, 2
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/chibang3
+  rotate: false
+  xy: 263, 93
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/chibang4
+  rotate: false
+  xy: 114, 38
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/chibang5
+  rotate: false
+  xy: 458, 219
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/chibang6
+  rotate: false
+  xy: 405, 219
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/handinner
+  rotate: false
+  xy: 316, 311
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_2/handout
+  rotate: false
+  xy: 483, 196
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/arminnerdown
+  rotate: true
+  xy: 483, 174
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/arminnerup
+  rotate: false
+  xy: 376, 220
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/armoutdown
+  rotate: false
+  xy: 77, 41
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/armoutup
+  rotate: true
+  xy: 322, 97
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/body
+  rotate: true
+  xy: 110, 103
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/chibang1
+  rotate: false
+  xy: 253, 37
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/chibang2
+  rotate: true
+  xy: 176, 38
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/chibang3
+  rotate: false
+  xy: 332, 291
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/chibang4
+  rotate: true
+  xy: 177, 102
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/chibang5
+  rotate: true
+  xy: 334, 43
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/chibang6
+  rotate: false
+  xy: 334, 2
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/eyebrow
+  rotate: false
+  xy: 149, 29
+  size: 69, 7
+  orig: 69, 7
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/eyehard
+  rotate: false
+  xy: 409, 280
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/eyehard1
+  rotate: false
+  xy: 334, 265
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/eyehard2
+  rotate: false
+  xy: 409, 258
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/eyehard3
+  rotate: false
+  xy: 149, 19
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/eyesffuer
+  rotate: false
+  xy: 304, 235
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/eyeyun
+  rotate: false
+  xy: 77, 9
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/face
+  rotate: true
+  xy: 364, 390
+  size: 120, 138
+  orig: 120, 138
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/hair1
+  rotate: false
+  xy: 110, 156
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/hair2
+  rotate: true
+  xy: 174, 218
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/hair3
+  rotate: true
+  xy: 174, 162
+  size: 54, 136
+  orig: 54, 136
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/hair4
+  rotate: true
+  xy: 368, 129
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/hair5
+  rotate: false
+  xy: 2, 320
+  size: 153, 190
+  orig: 153, 190
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/handinner
+  rotate: true
+  xy: 316, 282
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/handout
+  rotate: true
+  xy: 461, 150
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/handout1
+  rotate: false
+  xy: 332, 390
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/jiao
+  rotate: false
+  xy: 332, 342
+  size: 95, 46
+  orig: 95, 46
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/jiao1
+  rotate: true
+  xy: 398, 185
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/mouth01
+  rotate: false
+  xy: 409, 333
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/mouth02
+  rotate: false
+  xy: 157, 327
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/mouth04
+  rotate: false
+  xy: 77, 2
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/qunzi
+  rotate: false
+  xy: 312, 182
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/qunzi1
+  rotate: true
+  xy: 387, 11
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_3/qunzi2
+  rotate: true
+  xy: 322, 126
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/1
+  rotate: false
+  xy: 2, 63
+  size: 110, 37
+  orig: 110, 37
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/2
+  rotate: false
+  xy: 174, 285
+  size: 140, 54
+  orig: 140, 54
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/3
+  rotate: false
+  xy: 157, 341
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/4
+  rotate: false
+  xy: 157, 418
+  size: 205, 92
+  orig: 205, 92
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/5
+  rotate: true
+  xy: 2, 102
+  size: 216, 106
+  orig: 216, 106
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/texiao1
+  rotate: false
+  xy: 439, 181
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/texiao2
+  rotate: true
+  xy: 372, 186
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/texiao3
+  rotate: true
+  xy: 416, 141
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/texiao4
+  rotate: true
+  xy: 375, 56
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/texiao5
+  rotate: false
+  xy: 373, 106
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/texiao6
+  rotate: false
+  xy: 149, 6
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Albedo/Albedo_MasterGuardian/Albedo_MasterGuardian_4/texiao7
+  rotate: false
+  xy: 177, 6
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 409, 306
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

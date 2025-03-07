@@ -1,0 +1,286 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_backlegout
+  rotate: false
+  xy: 416, 54
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_backlegout2
+  rotate: true
+  xy: 279, 85
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_body
+  rotate: false
+  xy: 161, 227
+  size: 205, 100
+  orig: 205, 100
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_frontleginner
+  rotate: false
+  xy: 467, 356
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_frontleginner1
+  rotate: false
+  xy: 368, 192
+  size: 97, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_frontlegout
+  rotate: false
+  xy: 421, 114
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_frontlegout1
+  rotate: false
+  xy: 339, 351
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_head
+  rotate: false
+  xy: 2, 58
+  size: 144, 107
+  orig: 144, 107
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_neck
+  rotate: true
+  xy: 367, 418
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_weiba
+  rotate: false
+  xy: 251, 27
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_weiba1
+  rotate: true
+  xy: 161, 176
+  size: 49, 164
+  orig: 49, 164
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/Dragon_xiongshi
+  rotate: true
+  xy: 2, 3
+  size: 53, 117
+  orig: 53, 117
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/an
+  rotate: true
+  xy: 347, 42
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/arminnerup
+  rotate: false
+  xy: 478, 83
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/armoutup
+  rotate: false
+  xy: 474, 173
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/beiqi
+  rotate: false
+  xy: 330, 127
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/body
+  rotate: true
+  xy: 148, 31
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/eyebrow
+  rotate: false
+  xy: 174, 9
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/eyehard
+  rotate: false
+  xy: 347, 25
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/eyehard1
+  rotate: false
+  xy: 242, 10
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/eyehard2
+  rotate: true
+  xy: 148, 106
+  size: 59, 11
+  orig: 59, 11
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/eyehard3
+  rotate: true
+  xy: 467, 54
+  size: 58, 9
+  orig: 58, 9
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/eyesffuer
+  rotate: false
+  xy: 416, 30
+  size: 55, 22
+  orig: 55, 22
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/eyeyun
+  rotate: false
+  xy: 408, 2
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/face
+  rotate: false
+  xy: 2, 167
+  size: 157, 160
+  orig: 157, 160
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/hair1
+  rotate: true
+  xy: 368, 247
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/hair2
+  rotate: true
+  xy: 161, 104
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/handinner
+  rotate: true
+  xy: 474, 126
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/handout
+  rotate: true
+  xy: 121, 2
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/jianjiainner
+  rotate: false
+  xy: 327, 198
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/jianjiaout
+  rotate: true
+  xy: 474, 306
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/legnnerdown
+  rotate: true
+  xy: 466, 276
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/legoutup
+  rotate: false
+  xy: 467, 223
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/mouth01
+  rotate: true
+  xy: 339, 329
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/mouth02
+  rotate: true
+  xy: 330, 107
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/mouth03
+  rotate: true
+  xy: 251, 85
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/mouth04
+  rotate: true
+  xy: 466, 330
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/shui
+  rotate: false
+  xy: 2, 329
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Omega/Omega_Serpent/Omega_Serpent_3/weapon
+  rotate: false
+  xy: 2, 425
+  size: 363, 85
+  orig: 363, 85
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 485, 436
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,356 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 706, 293
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/arminnerdown
+  rotate: false
+  xy: 404, 138
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/arminnerup
+  rotate: true
+  xy: 926, 375
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/armoutdown
+  rotate: false
+  xy: 553, 255
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/armoutup
+  rotate: false
+  xy: 926, 339
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/body
+  rotate: false
+  xy: 588, 292
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/eyebrow
+  rotate: true
+  xy: 313, 213
+  size: 82, 17
+  orig: 82, 17
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/eyehard
+  rotate: false
+  xy: 248, 2
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/eyehard1
+  rotate: false
+  xy: 429, 178
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/eyehard2
+  rotate: false
+  xy: 319, 2
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/eyehard3
+  rotate: false
+  xy: 2, 4
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/eyesffuer
+  rotate: true
+  xy: 553, 280
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/eyeyun
+  rotate: false
+  xy: 706, 320
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/handinner
+  rotate: true
+  xy: 462, 152
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/handout
+  rotate: false
+  xy: 432, 124
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/hudang
+  rotate: true
+  xy: 447, 205
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/jianjiainner
+  rotate: false
+  xy: 332, 211
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/jianjiainner1
+  rotate: false
+  xy: 330, 169
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/jianjiaout
+  rotate: false
+  xy: 645, 296
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/leginnerdown
+  rotate: true
+  xy: 330, 136
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/leginnerup
+  rotate: true
+  xy: 966, 338
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/legoutdown
+  rotate: true
+  xy: 590, 259
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/legoutup
+  rotate: true
+  xy: 382, 170
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/mouth01
+  rotate: true
+  xy: 782, 300
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/mouth02
+  rotate: true
+  xy: 1014, 351
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/mouth04
+  rotate: false
+  xy: 790, 344
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/weapon
+  rotate: false
+  xy: 2, 26
+  size: 244, 86
+  orig: 244, 86
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/weapon1
+  rotate: false
+  xy: 813, 410
+  size: 152, 26
+  orig: 152, 26
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/weapon2
+  rotate: false
+  xy: 2, 15
+  size: 189, 9
+  orig: 189, 9
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/yaojiainner
+  rotate: false
+  xy: 367, 46
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_02/yaojiaout
+  rotate: false
+  xy: 502, 209
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/arminnerdown
+  rotate: false
+  xy: 377, 136
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/face
+  rotate: true
+  xy: 248, 28
+  size: 84, 79
+  orig: 84, 79
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/handinner
+  rotate: false
+  xy: 193, 2
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/handinner1
+  rotate: false
+  xy: 432, 151
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/hatinner
+  rotate: false
+  xy: 813, 342
+  size: 111, 66
+  orig: 111, 66
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/hatout
+  rotate: true
+  xy: 600, 352
+  size: 158, 211
+  orig: 158, 211
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/jianjiainne1
+  rotate: true
+  xy: 391, 210
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/jianjiainner
+  rotate: false
+  xy: 967, 370
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/jianjiaout
+  rotate: true
+  xy: 981, 434
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/jianjiaout1
+  rotate: true
+  xy: 313, 145
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/leginnerdown
+  rotate: false
+  xy: 368, 89
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/leginnerup
+  rotate: false
+  xy: 329, 45
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/legoutdown
+  rotate: false
+  xy: 550, 208
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_03/legoutup
+  rotate: false
+  xy: 329, 89
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_04/1
+  rotate: false
+  xy: 813, 438
+  size: 166, 72
+  orig: 166, 72
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_04/2
+  rotate: false
+  xy: 335, 256
+  size: 216, 106
+  orig: 216, 106
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_04/3
+  rotate: false
+  xy: 335, 364
+  size: 263, 146
+  orig: 263, 146
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_04/4
+  rotate: false
+  xy: 2, 114
+  size: 309, 181
+  orig: 309, 181
+  offset: 0, 0
+  index: -1
+Touma/Sky/Touma_Sky_04/5
+  rotate: false
+  xy: 2, 297
+  size: 331, 213
+  orig: 331, 213
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 374, 217
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/arminnerdown
+  rotate: false
+  xy: 297, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/arminnerup
+  rotate: false
+  xy: 239, 9
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/armoutdown
+  rotate: false
+  xy: 297, 34
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/armoutup
+  rotate: true
+  xy: 68, 14
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/beishi
+  rotate: false
+  xy: 312, 126
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/body
+  rotate: true
+  xy: 401, 205
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/eyebrow
+  rotate: false
+  xy: 198, 68
+  size: 73, 16
+  orig: 73, 16
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/eyehard
+  rotate: false
+  xy: 126, 49
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/eyehard1
+  rotate: false
+  xy: 119, 18
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/eyehard2
+  rotate: false
+  xy: 197, 44
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/eyehard3
+  rotate: true
+  xy: 388, 155
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/eyesffuer
+  rotate: false
+  xy: 126, 80
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/eyeyun
+  rotate: true
+  xy: 374, 293
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/face
+  rotate: false
+  xy: 231, 217
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/hair1
+  rotate: true
+  xy: 2, 17
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/hair2
+  rotate: true
+  xy: 198, 155
+  size: 60, 112
+  orig: 60, 112
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/hair3
+  rotate: true
+  xy: 433, 273
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/hair4
+  rotate: false
+  xy: 198, 86
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/handinner
+  rotate: false
+  xy: 319, 12
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/handinner1
+  rotate: false
+  xy: 357, 39
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/handout
+  rotate: true
+  xy: 408, 283
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/jianjiainner
+  rotate: true
+  xy: 269, 10
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/jianjiainner1
+  rotate: true
+  xy: 273, 51
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/jianjiaout
+  rotate: true
+  xy: 483, 206
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/jianjiaout1
+  rotate: true
+  xy: 408, 310
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/leginnerdown
+  rotate: true
+  xy: 190, 11
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/leginnerup
+  rotate: false
+  xy: 398, 156
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/legoutdown
+  rotate: false
+  xy: 433, 157
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/legoutup
+  rotate: false
+  xy: 469, 160
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/mouth01
+  rotate: true
+  xy: 299, 133
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/mouth02
+  rotate: true
+  xy: 339, 17
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/mouth03
+  rotate: false
+  xy: 2, 3
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/mouth04
+  rotate: false
+  xy: 247, 358
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/toushi
+  rotate: false
+  xy: 299, 61
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/weapon
+  rotate: true
+  xy: 247, 365
+  size: 145, 184
+  orig: 145, 184
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_2/yaojia
+  rotate: false
+  xy: 337, 37
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_4/fx1
+  rotate: false
+  xy: 2, 59
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_4/fx2
+  rotate: true
+  xy: 433, 340
+  size: 170, 77
+  orig: 170, 77
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_4/fx3
+  rotate: false
+  xy: 2, 114
+  size: 194, 107
+  orig: 194, 107
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_4/fx4
+  rotate: false
+  xy: 2, 223
+  size: 227, 133
+  orig: 227, 133
+  offset: 0, 0
+  index: -1
+Wataru/Wataru_Hero/Wataru_Hero_4/fx5
+  rotate: false
+  xy: 2, 358
+  size: 243, 152
+  orig: 243, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,398 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Renne/Renne_DarkAngel/Renne_DarkAngel2/arminnerdown
+  rotate: false
+  xy: 201, 115
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/arminnerup
+  rotate: true
+  xy: 381, 98
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/armoutdown
+  rotate: false
+  xy: 104, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/armoutdown1
+  rotate: false
+  xy: 496, 250
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/armoutup
+  rotate: false
+  xy: 307, 165
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/body
+  rotate: false
+  xy: 136, 2
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyebrow
+  rotate: false
+  xy: 434, 207
+  size: 59, 9
+  orig: 59, 9
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard
+  rotate: false
+  xy: 434, 218
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard1
+  rotate: true
+  xy: 293, 105
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard2
+  rotate: true
+  xy: 319, 104
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyehard3
+  rotate: true
+  xy: 367, 98
+  size: 63, 12
+  orig: 63, 12
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyesffuer
+  rotate: false
+  xy: 37, 5
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/eyeyun
+  rotate: true
+  xy: 320, 205
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/face
+  rotate: true
+  xy: 353, 269
+  size: 119, 157
+  orig: 119, 157
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair1
+  rotate: true
+  xy: 136, 56
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair2
+  rotate: true
+  xy: 228, 118
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair3
+  rotate: false
+  xy: 136, 107
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair4
+  rotate: false
+  xy: 397, 215
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hair5
+  rotate: false
+  xy: 341, 108
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hairinner1
+  rotate: true
+  xy: 228, 204
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hairinner2
+  rotate: false
+  xy: 227, 60
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/hairinner3
+  rotate: false
+  xy: 346, 213
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/handinner
+  rotate: false
+  xy: 390, 165
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/handout1
+  rotate: false
+  xy: 390, 181
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/handout2
+  rotate: false
+  xy: 274, 96
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/leginnerdown
+  rotate: false
+  xy: 332, 165
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/leginnerup
+  rotate: true
+  xy: 234, 5
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/legoutdown
+  rotate: false
+  xy: 208, 56
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/legoutup
+  rotate: true
+  xy: 266, 8
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/lingziinner
+  rotate: true
+  xy: 263, 58
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth01
+  rotate: false
+  xy: 120, 267
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth02
+  rotate: false
+  xy: 293, 94
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth03
+  rotate: false
+  xy: 119, 32
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/mouth04
+  rotate: true
+  xy: 346, 330
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/qunzi
+  rotate: false
+  xy: 136, 208
+  size: 90, 67
+  orig: 90, 67
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/weapon1
+  rotate: false
+  xy: 120, 277
+  size: 106, 233
+  orig: 106, 233
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel2/weapon2
+  rotate: false
+  xy: 119, 43
+  size: 15, 220
+  orig: 15, 220
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/arminnerdown
+  rotate: false
+  xy: 208, 98
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/arminnerup
+  rotate: false
+  xy: 408, 183
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/armoutdown
+  rotate: true
+  xy: 234, 29
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/armoutdown1
+  rotate: false
+  xy: 496, 231
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/armoutup
+  rotate: true
+  xy: 235, 93
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/body
+  rotate: false
+  xy: 185, 2
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/face
+  rotate: true
+  xy: 353, 390
+  size: 120, 157
+  orig: 120, 157
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/lingziinner1
+  rotate: true
+  xy: 354, 163
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/lingziinner2
+  rotate: false
+  xy: 2, 2
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/qunzi
+  rotate: false
+  xy: 228, 270
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/weapon1
+  rotate: false
+  xy: 2, 31
+  size: 115, 232
+  orig: 115, 232
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel3/weiba
+  rotate: false
+  xy: 381, 118
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel4/face
+  rotate: false
+  xy: 228, 345
+  size: 123, 165
+  orig: 123, 165
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel4/hudiejie1
+  rotate: true
+  xy: 263, 30
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel4/hudiejie2
+  rotate: false
+  xy: 434, 244
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel4/hudiejie3
+  rotate: false
+  xy: 228, 165
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+Renne/Renne_DarkAngel/Renne_DarkAngel4/weapon1
+  rotate: false
+  xy: 2, 265
+  size: 116, 245
+  orig: 116, 245
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 201, 132
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 428, 209
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

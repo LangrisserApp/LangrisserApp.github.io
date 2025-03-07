@@ -1,0 +1,335 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shinpachi/Kensei/Shinpachi_Kensei_3/Shadow
+  rotate: false
+  xy: 763, 374
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/arminnerdown
+  rotate: true
+  xy: 327, 156
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/arminnerdown3
+  rotate: false
+  xy: 586, 185
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/arminnerup
+  rotate: true
+  xy: 363, 86
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/armoutdown
+  rotate: false
+  xy: 690, 367
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/armoutdown3
+  rotate: false
+  xy: 464, 131
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/armoutdown33
+  rotate: false
+  xy: 611, 245
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/armoutup
+  rotate: true
+  xy: 611, 216
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/armoutup3
+  rotate: true
+  xy: 611, 180
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/body
+  rotate: false
+  xy: 209, 30
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/body2
+  rotate: true
+  xy: 540, 228
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/dang
+  rotate: false
+  xy: 364, 8
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/eyebrow
+  rotate: true
+  xy: 1013, 381
+  size: 62, 9
+  orig: 62, 9
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/eyehard
+  rotate: false
+  xy: 690, 339
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/eyehard1
+  rotate: false
+  xy: 209, 2
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/eyehard2
+  rotate: true
+  xy: 327, 223
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/eyehard3
+  rotate: true
+  xy: 1013, 445
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/eyesffuer
+  rotate: true
+  xy: 327, 89
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/eyeyun
+  rotate: false
+  xy: 522, 191
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/hair1
+  rotate: true
+  xy: 624, 354
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/hair2
+  rotate: false
+  xy: 540, 283
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/hand
+  rotate: true
+  xy: 866, 376
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/handinner
+  rotate: false
+  xy: 839, 374
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/handinner1
+  rotate: false
+  xy: 362, 41
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/handinner2
+  rotate: true
+  xy: 522, 158
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/handout
+  rotate: false
+  xy: 557, 163
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/leginnerdown
+  rotate: false
+  xy: 414, 129
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/leginnerdown1
+  rotate: true
+  xy: 276, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/leginnerdown3
+  rotate: false
+  xy: 363, 125
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/leginnerup
+  rotate: false
+  xy: 467, 181
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/leginnerup3
+  rotate: false
+  xy: 317, 34
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/legoutdown
+  rotate: true
+  xy: 266, 34
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/legoutdown3
+  rotate: false
+  xy: 609, 300
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/legoutdwon1
+  rotate: true
+  xy: 322, 4
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/legoutup
+  rotate: false
+  xy: 356, 178
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/legoutup3
+  rotate: true
+  xy: 411, 181
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/mouth01
+  rotate: true
+  xy: 513, 160
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/mouth02
+  rotate: false
+  xy: 2, 11
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/mouth03
+  rotate: false
+  xy: 666, 344
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/mouth04
+  rotate: true
+  xy: 685, 335
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/weapon
+  rotate: false
+  xy: 349, 231
+  size: 189, 125
+  orig: 189, 125
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_3/yanjin
+  rotate: true
+  xy: 177, 2
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_4/1
+  rotate: false
+  xy: 2, 23
+  size: 173, 75
+  orig: 173, 75
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_4/2
+  rotate: false
+  xy: 624, 401
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_4/3
+  rotate: false
+  xy: 349, 358
+  size: 273, 152
+  orig: 273, 152
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_4/4
+  rotate: false
+  xy: 2, 100
+  size: 323, 187
+  orig: 323, 187
+  offset: 0, 0
+  index: -1
+Shinpachi/Kensei/Shinpachi_Kensei_4/5
+  rotate: false
+  xy: 2, 289
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1

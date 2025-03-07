@@ -1,0 +1,671 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Magic/Roland_Magic_2/pifenginner
+  rotate: true
+  xy: 354, 339
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/pifenginner1
+  rotate: false
+  xy: 418, 448
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/pifengout
+  rotate: false
+  xy: 177, 113
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/pijian
+  rotate: false
+  xy: 288, 125
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx
+  rotate: true
+  xy: 84, 53
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx1
+  rotate: false
+  xy: 491, 290
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx2
+  rotate: true
+  xy: 340, 233
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx3
+  rotate: false
+  xy: 473, 366
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx4
+  rotate: true
+  xy: 292, 338
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx5
+  rotate: false
+  xy: 401, 265
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx6
+  rotate: true
+  xy: 252, 303
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/tx7
+  rotate: true
+  xy: 274, 4
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/txq1
+  rotate: true
+  xy: 450, 314
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/txq2
+  rotate: false
+  xy: 277, 339
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/txq3
+  rotate: false
+  xy: 452, 259
+  size: 6, 28
+  orig: 6, 28
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/txq4
+  rotate: false
+  xy: 417, 286
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/txq5
+  rotate: false
+  xy: 355, 230
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/txq6
+  rotate: false
+  xy: 279, 226
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/txq8
+  rotate: true
+  xy: 288, 138
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_2/weijin
+  rotate: true
+  xy: 177, 48
+  size: 63, 34
+  orig: 63, 34
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/handinner1
+  rotate: true
+  xy: 391, 240
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/handout1
+  rotate: false
+  xy: 281, 198
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/pifeng
+  rotate: true
+  xy: 2, 53
+  size: 131, 80
+  orig: 131, 80
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/pifenginner
+  rotate: true
+  xy: 99, 224
+  size: 35, 103
+  orig: 35, 103
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/pifengout
+  rotate: true
+  xy: 151, 352
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/tx1
+  rotate: true
+  xy: 477, 261
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/tx2
+  rotate: false
+  xy: 297, 49
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/tx3
+  rotate: true
+  xy: 219, 4
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/tx4
+  rotate: false
+  xy: 84, 105
+  size: 32, 79
+  orig: 32, 79
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/tx5
+  rotate: true
+  xy: 411, 371
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/tx6
+  rotate: false
+  xy: 355, 273
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_3/tx7
+  rotate: true
+  xy: 254, 261
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/arminnerdown
+  rotate: false
+  xy: 468, 305
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/arminnerup
+  rotate: false
+  xy: 417, 257
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/armoutdown
+  rotate: false
+  xy: 464, 281
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/armoutup
+  rotate: true
+  xy: 277, 303
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/body
+  rotate: false
+  xy: 118, 115
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/dang
+  rotate: false
+  xy: 468, 332
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/eyebrow
+  rotate: false
+  xy: 418, 431
+  size: 76, 15
+  orig: 76, 15
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/eyehard
+  rotate: true
+  xy: 262, 125
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/eyehard01
+  rotate: false
+  xy: 292, 390
+  size: 71, 24
+  orig: 71, 24
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/eyehard02
+  rotate: false
+  xy: 292, 366
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/eyehard03
+  rotate: false
+  xy: 101, 3
+  size: 67, 7
+  orig: 67, 7
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/eyesffuer
+  rotate: false
+  xy: 101, 12
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/eyeyun
+  rotate: false
+  xy: 204, 225
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/face
+  rotate: false
+  xy: 2, 366
+  size: 147, 144
+  orig: 147, 144
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair1
+  rotate: true
+  xy: 417, 231
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair10
+  rotate: false
+  xy: 149, 303
+  size: 101, 47
+  orig: 101, 47
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair2
+  rotate: true
+  xy: 213, 49
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair3
+  rotate: false
+  xy: 177, 2
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair4
+  rotate: false
+  xy: 255, 353
+  size: 35, 81
+  orig: 35, 81
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair5
+  rotate: true
+  xy: 293, 439
+  size: 71, 123
+  orig: 71, 123
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair6
+  rotate: true
+  xy: 149, 261
+  size: 40, 103
+  orig: 40, 103
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair7
+  rotate: false
+  xy: 414, 344
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair8
+  rotate: false
+  xy: 365, 364
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/hair9
+  rotate: false
+  xy: 314, 297
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/handinner
+  rotate: false
+  xy: 312, 231
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/handout
+  rotate: true
+  xy: 288, 167
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/jianjiainner
+  rotate: false
+  xy: 306, 20
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/jianjiainner1
+  rotate: false
+  xy: 400, 297
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/jianjiaout
+  rotate: true
+  xy: 355, 296
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/jianjiaout1
+  rotate: true
+  xy: 355, 250
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/jianjiaouto
+  rotate: true
+  xy: 213, 87
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/leginnerdown
+  rotate: false
+  xy: 284, 263
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/leginnerup
+  rotate: true
+  xy: 417, 395
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/legoutdown
+  rotate: true
+  xy: 312, 264
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/legoutup
+  rotate: true
+  xy: 367, 401
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/mouth01
+  rotate: false
+  xy: 491, 281
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/mouth02
+  rotate: false
+  xy: 417, 223
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/mouth03
+  rotate: true
+  xy: 445, 237
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/pifeng
+  rotate: true
+  xy: 2, 186
+  size: 178, 95
+  orig: 178, 95
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/pifenginner
+  rotate: false
+  xy: 99, 261
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/pifengout
+  rotate: false
+  xy: 151, 436
+  size: 140, 74
+  orig: 140, 74
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx
+  rotate: false
+  xy: 37, 4
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx1
+  rotate: true
+  xy: 496, 403
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx10
+  rotate: false
+  xy: 405, 228
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx11
+  rotate: false
+  xy: 297, 94
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx2
+  rotate: true
+  xy: 474, 382
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx3
+  rotate: false
+  xy: 262, 87
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx4
+  rotate: true
+  xy: 293, 416
+  size: 21, 72
+  orig: 21, 72
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx5
+  rotate: true
+  xy: 99, 189
+  size: 33, 104
+  orig: 33, 104
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx6
+  rotate: false
+  xy: 210, 132
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx7
+  rotate: true
+  xy: 2, 2
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx8
+  rotate: true
+  xy: 450, 289
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/tx9
+  rotate: true
+  xy: 496, 366
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/txq
+  rotate: false
+  xy: 417, 310
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/weijin
+  rotate: true
+  xy: 129, 50
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/weijininner
+  rotate: false
+  xy: 388, 226
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/x
+  rotate: false
+  xy: 306, 5
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/yaoshi
+  rotate: false
+  xy: 297, 63
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/yaoshi1
+  rotate: false
+  xy: 492, 262
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/yaoshi2
+  rotate: false
+  xy: 460, 262
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/yaoshi3
+  rotate: false
+  xy: 293, 229
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+Magic/Roland_Magic_4/yaoshi4
+  rotate: true
+  xy: 266, 49
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 205, 198
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

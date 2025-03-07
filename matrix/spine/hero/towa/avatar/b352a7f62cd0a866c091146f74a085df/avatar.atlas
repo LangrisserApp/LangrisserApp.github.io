@@ -1,0 +1,573 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 991, 948
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_an
+  rotate: false
+  xy: 685, 713
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_body
+  rotate: false
+  xy: 841, 937
+  size: 148, 85
+  orig: 148, 85
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_body_TX
+  rotate: true
+  xy: 57, 389
+  size: 188, 117
+  orig: 188, 117
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_footout
+  rotate: true
+  xy: 306, 194
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_guajian
+  rotate: true
+  xy: 779, 778
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_head
+  rotate: false
+  xy: 201, 556
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_head_TX
+  rotate: true
+  xy: 301, 315
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_legoutdown
+  rotate: false
+  xy: 319, 66
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_legoutup
+  rotate: true
+  xy: 921, 812
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_legoutup_TX
+  rotate: false
+  xy: 847, 788
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_neck
+  rotate: false
+  xy: 698, 878
+  size: 115, 88
+  orig: 115, 88
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_neck_TX
+  rotate: false
+  xy: 57, 287
+  size: 125, 100
+  orig: 125, 100
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_weiba1
+  rotate: true
+  xy: 470, 560
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_weiba1_TX
+  rotate: false
+  xy: 187, 105
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_weiba2
+  rotate: false
+  xy: 921, 777
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_weiba2_TX
+  rotate: true
+  xy: 532, 572
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_weiba3
+  rotate: true
+  xy: 486, 672
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_weiba3_TX
+  rotate: true
+  xy: 49, 2
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner1
+  rotate: false
+  xy: 2, 55
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner10
+  rotate: false
+  xy: 596, 854
+  size: 100, 112
+  orig: 100, 112
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner10_TX
+  rotate: true
+  xy: 364, 803
+  size: 146, 157
+  orig: 146, 157
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner11
+  rotate: false
+  xy: 938, 863
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner11_TX
+  rotate: false
+  xy: 338, 568
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner12
+  rotate: false
+  xy: 596, 788
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner12_TX
+  rotate: false
+  xy: 176, 441
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner13
+  rotate: false
+  xy: 417, 463
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner2
+  rotate: false
+  xy: 336, 466
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner3
+  rotate: false
+  xy: 596, 572
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner4
+  rotate: false
+  xy: 311, 128
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner5
+  rotate: true
+  xy: 140, 105
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner6
+  rotate: false
+  xy: 165, 589
+  size: 34, 182
+  orig: 34, 182
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner7
+  rotate: false
+  xy: 698, 853
+  size: 115, 23
+  orig: 115, 23
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner8
+  rotate: false
+  xy: 815, 864
+  size: 121, 71
+  orig: 121, 71
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_winginner9
+  rotate: false
+  xy: 547, 951
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout1
+  rotate: false
+  xy: 275, 14
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout10
+  rotate: false
+  xy: 201, 673
+  size: 133, 129
+  orig: 133, 129
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout10 _TX
+  rotate: false
+  xy: 2, 773
+  size: 178, 176
+  orig: 178, 176
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout11
+  rotate: false
+  xy: 336, 688
+  size: 148, 113
+  orig: 148, 113
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout11 _TX
+  rotate: true
+  xy: 2, 579
+  size: 192, 161
+  orig: 192, 161
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout12
+  rotate: true
+  xy: 140, 4
+  size: 99, 133
+  orig: 99, 133
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout12 _TX
+  rotate: true
+  xy: 182, 804
+  size: 145, 180
+  orig: 145, 180
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout13
+  rotate: false
+  xy: 399, 536
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout13 _TX
+  rotate: false
+  xy: 580, 709
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout2
+  rotate: false
+  xy: 306, 248
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout3
+  rotate: false
+  xy: 523, 815
+  size: 71, 134
+  orig: 71, 134
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout4
+  rotate: false
+  xy: 596, 632
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout5
+  rotate: true
+  xy: 176, 565
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout6
+  rotate: false
+  xy: 547, 968
+  size: 292, 54
+  orig: 292, 54
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout7
+  rotate: true
+  xy: 2, 102
+  size: 211, 45
+  orig: 211, 45
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout8
+  rotate: true
+  xy: 147, 127
+  size: 158, 38
+  orig: 158, 38
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Dragon_wingiout9
+  rotate: false
+  xy: 2, 4
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/Pike
+  rotate: true
+  xy: 2, 315
+  size: 262, 53
+  orig: 262, 53
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/arminnerdown
+  rotate: false
+  xy: 376, 463
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/arminnerup
+  rotate: true
+  xy: 375, 429
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/armoutdown
+  rotate: true
+  xy: 397, 499
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/armoutup
+  rotate: true
+  xy: 336, 432
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/body
+  rotate: true
+  xy: 689, 784
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/body2
+  rotate: true
+  xy: 920, 735
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/eyebrow
+  rotate: true
+  xy: 674, 648
+  size: 59, 7
+  orig: 59, 7
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/eyehard
+  rotate: true
+  xy: 301, 370
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/eyehard1
+  rotate: false
+  xy: 532, 546
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/eyehard2
+  rotate: false
+  xy: 603, 550
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/eyehard3
+  rotate: false
+  xy: 770, 715
+  size: 58, 7
+  orig: 58, 7
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/eyesffuer
+  rotate: false
+  xy: 338, 538
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/eyeyun
+  rotate: false
+  xy: 336, 509
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/face
+  rotate: false
+  xy: 184, 315
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/hair1
+  rotate: false
+  xy: 770, 724
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/hair2
+  rotate: false
+  xy: 532, 681
+  size: 46, 132
+  orig: 46, 132
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/hair3
+  rotate: false
+  xy: 313, 454
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/hair4
+  rotate: false
+  xy: 187, 191
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/leginnerdown
+  rotate: false
+  xy: 999, 728
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/leginnerup
+  rotate: true
+  xy: 459, 524
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/mouth01
+  rotate: false
+  xy: 815, 853
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/mouth02
+  rotate: true
+  xy: 140, 129
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/mouth04
+  rotate: false
+  xy: 182, 799
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/pifengout
+  rotate: true
+  xy: 854, 727
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/weapon
+  rotate: false
+  xy: 2, 951
+  size: 543, 71
+  orig: 543, 71
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/weapon_TX
+  rotate: true
+  xy: 49, 141
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/yaodai
+  rotate: true
+  xy: 1001, 816
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+Towa/Towa_Dragon/Towa_Dragon3/yaodai2
+  rotate: false
+  xy: 319, 21
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,454 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mount/Sonia_UnicornKnight_2/horse_backlegup
+  rotate: true
+  xy: 691, 162
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_body
+  rotate: false
+  xy: 2, 27
+  size: 167, 100
+  orig: 167, 100
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_frontlegup
+  rotate: false
+  xy: 862, 157
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_hair
+  rotate: false
+  xy: 694, 228
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_neck
+  rotate: true
+  xy: 590, 241
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+Mount/Sonia_UnicornKnight_2/horse_weiba
+  rotate: false
+  xy: 436, 234
+  size: 152, 89
+  orig: 152, 89
+  offset: 0, 0
+  index: -1
+Mount/dd
+  rotate: false
+  xy: 713, 128
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/arminnerdown
+  rotate: true
+  xy: 636, 29
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/arminnerup
+  rotate: false
+  xy: 754, 130
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/armoutdown
+  rotate: false
+  xy: 992, 301
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/armoutup
+  rotate: true
+  xy: 678, 103
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/body
+  rotate: true
+  xy: 433, 7
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/face
+  rotate: false
+  xy: 763, 319
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair1
+  rotate: true
+  xy: 285, 17
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair2
+  rotate: false
+  xy: 636, 163
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair3
+  rotate: false
+  xy: 992, 354
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair4
+  rotate: false
+  xy: 235, 3
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair5
+  rotate: false
+  xy: 377, 8
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair6
+  rotate: false
+  xy: 436, 61
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair7
+  rotate: false
+  xy: 858, 236
+  size: 33, 81
+  orig: 33, 81
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair8
+  rotate: true
+  xy: 436, 115
+  size: 117, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/hair9
+  rotate: true
+  xy: 331, 168
+  size: 146, 103
+  orig: 146, 103
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/horse_backlegdown
+  rotate: true
+  xy: 282, 129
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/horse_frontlegdown
+  rotate: false
+  xy: 964, 191
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/horse_guajian2
+  rotate: true
+  xy: 186, 97
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/horse_head
+  rotate: false
+  xy: 2, 129
+  size: 182, 185
+  orig: 182, 185
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/horse_maan
+  rotate: true
+  xy: 622, 318
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/legoutdown
+  rotate: false
+  xy: 1004, 475
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/legoutup
+  rotate: false
+  xy: 599, 8
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/mianju
+  rotate: true
+  xy: 561, 140
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/mouth01
+  rotate: false
+  xy: 893, 236
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/mouth02
+  rotate: false
+  xy: 2, 15
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/mouth03
+  rotate: false
+  xy: 171, 119
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/mouth04
+  rotate: false
+  xy: 947, 247
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/pifeng
+  rotate: true
+  xy: 530, 52
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/pifenginner
+  rotate: true
+  xy: 912, 174
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/pijianout
+  rotate: true
+  xy: 511, 2
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/weapon
+  rotate: false
+  xy: 2, 414
+  size: 430, 96
+  orig: 430, 96
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/yaojia
+  rotate: false
+  xy: 636, 69
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_3/yaoshi
+  rotate: false
+  xy: 637, 134
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/Pike
+  rotate: false
+  xy: 622, 451
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/arminnerdown
+  rotate: false
+  xy: 637, 105
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/arminnerup
+  rotate: true
+  xy: 782, 128
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/armoutdown
+  rotate: true
+  xy: 912, 142
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/armoutup
+  rotate: true
+  xy: 719, 131
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/body
+  rotate: false
+  xy: 893, 244
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/horse_backlegdown
+  rotate: true
+  xy: 547, 11
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/horse_frontlegdown
+  rotate: false
+  xy: 596, 56
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/horse_guajian2
+  rotate: true
+  xy: 331, 83
+  size: 83, 103
+  orig: 83, 103
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/horse_head
+  rotate: false
+  xy: 434, 325
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/horse_maan
+  rotate: false
+  xy: 186, 166
+  size: 143, 148
+  orig: 143, 148
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/horse_tunjia
+  rotate: false
+  xy: 887, 322
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/horse_xiongjia
+  rotate: true
+  xy: 888, 426
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/jianjiainner
+  rotate: false
+  xy: 682, 134
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/legoutdown
+  rotate: false
+  xy: 1004, 439
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/legoutup
+  rotate: false
+  xy: 965, 144
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/pifeng
+  rotate: false
+  xy: 783, 156
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/pifenginner
+  rotate: true
+  xy: 171, 2
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/pijianout
+  rotate: true
+  xy: 947, 252
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/toushi
+  rotate: false
+  xy: 765, 232
+  size: 91, 85
+  orig: 91, 85
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/weapon
+  rotate: false
+  xy: 2, 316
+  size: 430, 96
+  orig: 430, 96
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/yaojia
+  rotate: false
+  xy: 285, 83
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+MysteryKnight/MysteryKnight_UnicornKnight/MysteryKnight_UnicornKnight_4/yaoshi
+  rotate: true
+  xy: 990, 255
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 561, 113
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

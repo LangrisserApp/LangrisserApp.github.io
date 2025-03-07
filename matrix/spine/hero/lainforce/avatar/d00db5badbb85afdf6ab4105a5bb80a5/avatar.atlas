@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lainforce/Lainforce_Blademaster/Lainforce_Blademaster_3/handout1
+  rotate: false
+  xy: 188, 152
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/eyebrow
+  rotate: true
+  xy: 318, 228
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/eyehard
+  rotate: true
+  xy: 491, 408
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/eyehard1
+  rotate: true
+  xy: 491, 373
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/eyehard2
+  rotate: true
+  xy: 161, 46
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/eyehard3
+  rotate: true
+  xy: 495, 338
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/eyesffuer
+  rotate: false
+  xy: 59, 6
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/eyeyun
+  rotate: true
+  xy: 151, 117
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/face
+  rotate: false
+  xy: 160, 278
+  size: 114, 137
+  orig: 114, 137
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hair1
+  rotate: false
+  xy: 268, 224
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hair2
+  rotate: false
+  xy: 276, 306
+  size: 56, 109
+  orig: 56, 109
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hair3
+  rotate: true
+  xy: 361, 419
+  size: 91, 119
+  orig: 91, 119
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hair4
+  rotate: false
+  xy: 2, 70
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hair5
+  rotate: false
+  xy: 362, 363
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hair7
+  rotate: false
+  xy: 147, 178
+  size: 31, 85
+  orig: 31, 85
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hair8
+  rotate: false
+  xy: 180, 201
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/hairinner
+  rotate: false
+  xy: 2, 265
+  size: 156, 150
+  orig: 156, 150
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/leginnerup1
+  rotate: false
+  xy: 469, 315
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/legoutup1
+  rotate: false
+  xy: 467, 364
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/mouth01
+  rotate: true
+  xy: 482, 426
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/mouth02
+  rotate: false
+  xy: 495, 326
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Prince/Lainforce_Prince_2/mouth04
+  rotate: true
+  xy: 505, 305
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/arminnerdown
+  rotate: false
+  xy: 161, 17
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/arminnerup
+  rotate: true
+  xy: 151, 81
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/armoutdown
+  rotate: true
+  xy: 482, 443
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/armoutup
+  rotate: false
+  xy: 469, 273
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/body
+  rotate: false
+  xy: 2, 2
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/daizi
+  rotate: true
+  xy: 236, 213
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/dang
+  rotate: true
+  xy: 482, 471
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/handinner
+  rotate: false
+  xy: 179, 131
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/handout
+  rotate: true
+  xy: 180, 180
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/leginnerdown
+  rotate: true
+  xy: 362, 220
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/leginnerup
+  rotate: true
+  xy: 59, 35
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/legoutdown
+  rotate: true
+  xy: 414, 201
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/legoutup
+  rotate: true
+  xy: 462, 238
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/lingzi
+  rotate: false
+  xy: 414, 232
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/pifengout1
+  rotate: false
+  xy: 2, 152
+  size: 143, 111
+  orig: 143, 111
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/pijianinner
+  rotate: false
+  xy: 268, 188
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/pijianinner1
+  rotate: true
+  xy: 362, 255
+  size: 106, 45
+  orig: 106, 45
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/pijianout
+  rotate: false
+  xy: 276, 266
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/weapon
+  rotate: false
+  xy: 2, 417
+  size: 357, 93
+  orig: 357, 93
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/weapon1
+  rotate: true
+  xy: 334, 223
+  size: 192, 26
+  orig: 192, 26
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/xiabaiinner
+  rotate: false
+  xy: 105, 75
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/xiabaiinner1
+  rotate: true
+  xy: 409, 273
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/xiabaiout
+  rotate: false
+  xy: 105, 2
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+Lainforce/Lainforce_Ranger/Lainforce_Ranger_3/yaodai
+  rotate: false
+  xy: 147, 155
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 209, 202
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

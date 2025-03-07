@@ -1,0 +1,419 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Isolde_Dragon02/weiba
+  rotate: false
+  xy: 290, 327
+  size: 264, 183
+  orig: 264, 183
+  offset: 0, 0
+  index: -1
+Isolde_Dragon02/weiba1
+  rotate: false
+  xy: 405, 224
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+Isolde_Dragon03/piao
+  rotate: false
+  xy: 366, 116
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+Isolde_Dragon03/piao1
+  rotate: true
+  xy: 635, 245
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Isolde_Dragon03/weiba
+  rotate: false
+  xy: 2, 316
+  size: 286, 194
+  orig: 286, 194
+  offset: 0, 0
+  index: -1
+Isolde_Dragon03/weiba1
+  rotate: false
+  xy: 181, 5
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/Shadow
+  rotate: true
+  xy: 526, 251
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/arminnerdown
+  rotate: false
+  xy: 413, 142
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/arminnerup
+  rotate: false
+  xy: 683, 239
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/arminnerupo
+  rotate: false
+  xy: 731, 265
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/armoutdown
+  rotate: false
+  xy: 985, 475
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/armoutdowno
+  rotate: false
+  xy: 818, 315
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/armoutup
+  rotate: true
+  xy: 985, 370
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/armoutupo
+  rotate: true
+  xy: 985, 340
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/body
+  rotate: false
+  xy: 465, 249
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/eyebrow
+  rotate: false
+  xy: 685, 302
+  size: 72, 13
+  orig: 72, 13
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/eyehard
+  rotate: false
+  xy: 85, 2
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/eyehard1
+  rotate: false
+  xy: 2, 2
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/eyehard2
+  rotate: false
+  xy: 553, 292
+  size: 80, 17
+  orig: 80, 17
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/eyehard3
+  rotate: true
+  xy: 401, 147
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/eyesuffer
+  rotate: false
+  xy: 685, 317
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/eyeyun
+  rotate: true
+  xy: 985, 400
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/face
+  rotate: false
+  xy: 556, 352
+  size: 228, 158
+  orig: 228, 158
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/guashi
+  rotate: false
+  xy: 343, 61
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/hair1
+  rotate: true
+  xy: 289, 121
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/hair2
+  rotate: false
+  xy: 294, 29
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/hair3
+  rotate: true
+  xy: 289, 164
+  size: 49, 110
+  orig: 49, 110
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/hair4
+  rotate: true
+  xy: 556, 311
+  size: 39, 127
+  orig: 39, 127
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/hair6
+  rotate: false
+  xy: 786, 347
+  size: 197, 163
+  orig: 197, 163
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/handinner
+  rotate: true
+  xy: 954, 323
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/handinner0
+  rotate: false
+  xy: 401, 120
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/handinner2
+  rotate: false
+  xy: 886, 322
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/handout
+  rotate: true
+  xy: 491, 193
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/handouto
+  rotate: false
+  xy: 425, 120
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/jianjiaout
+  rotate: false
+  xy: 851, 317
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/jianjiaout1
+  rotate: true
+  xy: 449, 199
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/leginnerdown
+  rotate: false
+  xy: 607, 244
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/leginnerdowno
+  rotate: true
+  xy: 294, 2
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/leginnerup
+  rotate: true
+  xy: 635, 278
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/leginnerupo
+  rotate: false
+  xy: 413, 176
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/legoutdown
+  rotate: true
+  xy: 553, 256
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/legoutdowno
+  rotate: true
+  xy: 465, 213
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/legoutup
+  rotate: true
+  xy: 361, 79
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/legoutupo
+  rotate: true
+  xy: 684, 268
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/mouth1
+  rotate: true
+  xy: 1018, 322
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/mouth2
+  rotate: true
+  xy: 759, 302
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/mouth4
+  rotate: true
+  xy: 519, 233
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/piao
+  rotate: true
+  xy: 782, 315
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/piao1
+  rotate: false
+  xy: 294, 80
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/qunbaiinner
+  rotate: false
+  xy: 2, 31
+  size: 177, 87
+  orig: 177, 87
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/toushi
+  rotate: true
+  xy: 984, 321
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/weiba
+  rotate: false
+  xy: 2, 120
+  size: 285, 194
+  orig: 285, 194
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/weiba1
+  rotate: true
+  xy: 290, 215
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/yaodai
+  rotate: false
+  xy: 727, 240
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/yaodai1
+  rotate: true
+  xy: 917, 328
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/yaodai1o
+  rotate: false
+  xy: 760, 317
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/yaodaio
+  rotate: false
+  xy: 462, 193
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/yaojiainner
+  rotate: false
+  xy: 167, 3
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Isolde_Dragon04/yaojiaout
+  rotate: false
+  xy: 342, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1

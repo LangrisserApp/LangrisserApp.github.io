@@ -1,0 +1,328 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diors/Diors_Water/Diors_SerpentKnight_2/armoutup
+  rotate: false
+  xy: 988, 466
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/body
+  rotate: true
+  xy: 434, 397
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/dd
+  rotate: false
+  xy: 1018, 460
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/eyebrow
+  rotate: false
+  xy: 2, 11
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/eyehard
+  rotate: true
+  xy: 290, 188
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/eyehard1
+  rotate: true
+  xy: 312, 191
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/eyehard2
+  rotate: true
+  xy: 298, 58
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/eyehard3
+  rotate: false
+  xy: 913, 395
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/eyesffuer
+  rotate: true
+  xy: 266, 32
+  size: 97, 30
+  orig: 97, 30
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/eyeyun
+  rotate: false
+  xy: 338, 308
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/face
+  rotate: false
+  xy: 2, 45
+  size: 144, 157
+  orig: 144, 157
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/handinner
+  rotate: false
+  xy: 988, 413
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/handinnerup
+  rotate: false
+  xy: 297, 264
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/handout
+  rotate: true
+  xy: 364, 207
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/jianjiainner
+  rotate: false
+  xy: 674, 422
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/jianjiainner1
+  rotate: true
+  xy: 131, 222
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/jianjiaout
+  rotate: true
+  xy: 290, 131
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/leginnerdown
+  rotate: true
+  xy: 100, 18
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/leginnerup
+  rotate: false
+  xy: 334, 205
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/linziinner
+  rotate: true
+  xy: 394, 249
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/linziout
+  rotate: false
+  xy: 437, 319
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/mouth02
+  rotate: false
+  xy: 298, 42
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/mouth03
+  rotate: true
+  xy: 498, 377
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/mouth04
+  rotate: true
+  xy: 425, 287
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/mouth1
+  rotate: false
+  xy: 100, 2
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/toujin
+  rotate: false
+  xy: 131, 261
+  size: 164, 47
+  orig: 164, 47
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/weapon1
+  rotate: false
+  xy: 2, 204
+  size: 127, 210
+  orig: 127, 210
+  offset: 0, 0
+  index: -1
+Diors/Diors_Water/Diors_SerpentKnight_2/yaojia
+  rotate: false
+  xy: 987, 372
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout
+  rotate: false
+  xy: 338, 254
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_backlegout2
+  rotate: false
+  xy: 513, 403
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_body
+  rotate: false
+  xy: 131, 310
+  size: 205, 104
+  orig: 205, 104
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner
+  rotate: true
+  xy: 603, 407
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontleginner1
+  rotate: false
+  xy: 665, 454
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout
+  rotate: true
+  xy: 420, 344
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_frontlegout1
+  rotate: false
+  xy: 523, 453
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_head
+  rotate: false
+  xy: 148, 131
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_kaijia
+  rotate: false
+  xy: 146, 2
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_neck
+  rotate: true
+  xy: 148, 35
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_tuijia
+  rotate: true
+  xy: 757, 416
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba
+  rotate: false
+  xy: 339, 399
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_weiba1
+  rotate: true
+  xy: 339, 457
+  size: 53, 182
+  orig: 53, 182
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/Dragon_xiongshi
+  rotate: true
+  xy: 801, 409
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/an
+  rotate: false
+  xy: 913, 417
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/beiqi
+  rotate: false
+  xy: 338, 337
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Lista/Lista_SerpentKnight_2/water
+  rotate: false
+  xy: 2, 416
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 674, 395
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,601 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Azusa/Azusa_Monk/Azusa_Monk_3/arminnerdown
+  rotate: true
+  xy: 373, 374
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/arminnerup
+  rotate: false
+  xy: 263, 175
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/armoutdown
+  rotate: false
+  xy: 392, 402
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/armoutup
+  rotate: false
+  xy: 301, 175
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/body
+  rotate: false
+  xy: 130, 269
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/dang
+  rotate: true
+  xy: 109, 2
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/leginnerdown
+  rotate: true
+  xy: 255, 40
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/leginnerup
+  rotate: false
+  xy: 120, 127
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/legoutdown
+  rotate: false
+  xy: 290, 217
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/legoutup
+  rotate: true
+  xy: 2, 2
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/lingziinner
+  rotate: true
+  xy: 281, 266
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/lingziinner1
+  rotate: false
+  xy: 214, 399
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/lingziout
+  rotate: true
+  xy: 472, 457
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/qunzi1
+  rotate: false
+  xy: 247, 266
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/qunzi2
+  rotate: true
+  xy: 400, 374
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/qunzi3
+  rotate: true
+  xy: 188, 178
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/qunzi4
+  rotate: false
+  xy: 147, 196
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/toushi2
+  rotate: false
+  xy: 328, 374
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/weapon
+  rotate: false
+  xy: 294, 136
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/weapon2
+  rotate: false
+  xy: 377, 341
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/weapon3
+  rotate: false
+  xy: 378, 403
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/weapon4
+  rotate: false
+  xy: 305, 103
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/weapon5
+  rotate: true
+  xy: 342, 27
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/xiuziinner1
+  rotate: false
+  xy: 442, 445
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/xiuziinner2
+  rotate: true
+  xy: 207, 341
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/xiuziout1
+  rotate: false
+  xy: 130, 342
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_3/xiuziout2
+  rotate: false
+  xy: 184, 24
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/Shadow
+  rotate: true
+  xy: 120, 179
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/arminnerdown
+  rotate: false
+  xy: 472, 395
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/arminnerup
+  rotate: true
+  xy: 147, 2
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/armoutdown
+  rotate: true
+  xy: 401, 339
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/armoutup
+  rotate: true
+  xy: 298, 39
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/body
+  rotate: false
+  xy: 71, 49
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/daizi1
+  rotate: true
+  xy: 332, 188
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/daizi2
+  rotate: false
+  xy: 184, 278
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/daizi3
+  rotate: false
+  xy: 246, 212
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/dang
+  rotate: false
+  xy: 296, 68
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/eyebrow
+  rotate: false
+  xy: 181, 123
+  size: 73, 10
+  orig: 73, 10
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/eyehard
+  rotate: true
+  xy: 125, 52
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/eyehard1
+  rotate: true
+  xy: 231, 48
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/eyehard2
+  rotate: false
+  xy: 303, 415
+  size: 73, 16
+  orig: 73, 16
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/eyehard3
+  rotate: true
+  xy: 316, 233
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/eyesffuer
+  rotate: true
+  xy: 149, 127
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/eyeyun
+  rotate: true
+  xy: 149, 58
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/face
+  rotate: false
+  xy: 2, 122
+  size: 116, 131
+  orig: 116, 131
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/fx1
+  rotate: false
+  xy: 316, 218
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/fx2
+  rotate: true
+  xy: 341, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/fx3
+  rotate: false
+  xy: 333, 137
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/fx4
+  rotate: false
+  xy: 149, 40
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/hair1
+  rotate: false
+  xy: 180, 61
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/hair2
+  rotate: true
+  xy: 214, 431
+  size: 37, 87
+  orig: 37, 87
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/hair3
+  rotate: true
+  xy: 181, 135
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/hair4
+  rotate: true
+  xy: 256, 108
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/hair5
+  rotate: false
+  xy: 2, 255
+  size: 126, 255
+  orig: 126, 255
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/handinner
+  rotate: false
+  xy: 333, 158
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/handinner1
+  rotate: false
+  xy: 184, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/handinner2
+  rotate: false
+  xy: 336, 107
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/handout
+  rotate: false
+  xy: 337, 77
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/handout1
+  rotate: false
+  xy: 472, 422
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/leginnerdown
+  rotate: true
+  xy: 392, 423
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/leginnerup
+  rotate: true
+  xy: 292, 12
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/legoutdown
+  rotate: true
+  xy: 393, 447
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/legoutup
+  rotate: true
+  xy: 328, 342
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/lingziinner
+  rotate: true
+  xy: 252, 136
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/lingziinner1
+  rotate: false
+  xy: 214, 470
+  size: 87, 40
+  orig: 87, 40
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/lingziout
+  rotate: true
+  xy: 188, 212
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/mouth01
+  rotate: false
+  xy: 226, 2
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/mouth02
+  rotate: false
+  xy: 130, 255
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/mouth03
+  rotate: false
+  xy: 167, 47
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/mouth04
+  rotate: true
+  xy: 290, 411
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/qunzi1
+  rotate: true
+  xy: 303, 433
+  size: 37, 87
+  orig: 37, 87
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/qunzi2
+  rotate: false
+  xy: 206, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/qunzi3
+  rotate: true
+  xy: 303, 472
+  size: 38, 88
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/qunzi4
+  rotate: true
+  xy: 393, 473
+  size: 37, 77
+  orig: 37, 77
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/toushi1
+  rotate: false
+  xy: 281, 296
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/toushi2
+  rotate: true
+  xy: 276, 341
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/weapon
+  rotate: false
+  xy: 255, 64
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/weapon2
+  rotate: false
+  xy: 226, 12
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/weapon3
+  rotate: false
+  xy: 54, 2
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/weapon4
+  rotate: true
+  xy: 436, 411
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/weapon5
+  rotate: false
+  xy: 342, 50
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/xiuziinner1
+  rotate: false
+  xy: 255, 6
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/xiuziinner2
+  rotate: false
+  xy: 2, 35
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/xiuziout1
+  rotate: false
+  xy: 130, 406
+  size: 82, 104
+  orig: 82, 104
+  offset: 0, 0
+  index: -1
+Azusa/Azusa_Monk/Azusa_Monk_4/xiuziout2
+  rotate: true
+  xy: 71, 2
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1

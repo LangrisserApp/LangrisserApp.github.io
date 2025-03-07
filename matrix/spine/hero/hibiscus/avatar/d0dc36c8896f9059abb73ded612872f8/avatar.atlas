@@ -1,0 +1,447 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hibiscus_Bow_2/arminnerdown
+  rotate: false
+  xy: 872, 378
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_2/arminnerdown1
+  rotate: false
+  xy: 171, 37
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_2/armoutdown
+  rotate: true
+  xy: 487, 151
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_2/weapon1
+  rotate: false
+  xy: 121, 247
+  size: 93, 263
+  orig: 93, 263
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_3/arminnerdown
+  rotate: true
+  xy: 627, 367
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_3/arminnerdown1
+  rotate: true
+  xy: 372, 150
+  size: 53, 113
+  orig: 53, 113
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_3/armoutdown
+  rotate: true
+  xy: 121, 180
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_3/body
+  rotate: true
+  xy: 939, 452
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_3/weapon1
+  rotate: true
+  xy: 368, 417
+  size: 93, 257
+  orig: 93, 257
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_3/weapon2
+  rotate: true
+  xy: 854, 469
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_3/zhuangshi
+  rotate: true
+  xy: 280, 46
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/arminnerdown
+  rotate: false
+  xy: 372, 205
+  size: 127, 123
+  orig: 127, 123
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/arminnerdown1
+  rotate: false
+  xy: 501, 192
+  size: 71, 136
+  orig: 71, 136
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/arminnerup
+  rotate: false
+  xy: 343, 6
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/armoutdown
+  rotate: true
+  xy: 731, 378
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/armoutup
+  rotate: false
+  xy: 333, 44
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/body
+  rotate: true
+  xy: 216, 101
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/ershi1
+  rotate: true
+  xy: 831, 381
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/ershi2
+  rotate: false
+  xy: 1002, 402
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/ershi3
+  rotate: false
+  xy: 1013, 402
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/ershi4
+  rotate: true
+  xy: 460, 99
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/ershi5
+  rotate: false
+  xy: 1015, 431
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/ershi6
+  rotate: true
+  xy: 189, 2
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/eyebrow
+  rotate: false
+  xy: 299, 96
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/eyehard
+  rotate: false
+  xy: 367, 124
+  size: 91, 24
+  orig: 91, 24
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/eyehard1
+  rotate: false
+  xy: 620, 341
+  size: 91, 24
+  orig: 91, 24
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/eyehard2
+  rotate: false
+  xy: 367, 102
+  size: 91, 20
+  orig: 91, 20
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 76, 10
+  orig: 76, 10
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/eyesffuer
+  rotate: false
+  xy: 930, 393
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/eyeyun
+  rotate: false
+  xy: 930, 361
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/face
+  rotate: false
+  xy: 216, 161
+  size: 154, 142
+  orig: 154, 142
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair1
+  rotate: true
+  xy: 497, 98
+  size: 15, 56
+  orig: 15, 56
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair10
+  rotate: false
+  xy: 216, 305
+  size: 150, 205
+  orig: 150, 205
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair2
+  rotate: true
+  xy: 216, 2
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair3
+  rotate: false
+  xy: 554, 133
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair4
+  rotate: true
+  xy: 874, 436
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair5
+  rotate: false
+  xy: 579, 331
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair6
+  rotate: false
+  xy: 279, 2
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair7
+  rotate: false
+  xy: 299, 108
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair8
+  rotate: true
+  xy: 368, 330
+  size: 85, 209
+  orig: 85, 209
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hair9
+  rotate: false
+  xy: 2, 15
+  size: 110, 181
+  orig: 110, 181
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/hand
+  rotate: true
+  xy: 189, 12
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/handinner
+  rotate: false
+  xy: 377, 10
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/handout
+  rotate: true
+  xy: 494, 69
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/jian
+  rotate: true
+  xy: 627, 468
+  size: 42, 225
+  orig: 42, 225
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/leginnerdown
+  rotate: true
+  xy: 497, 115
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/leginnerup
+  rotate: false
+  xy: 417, 49
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/legoutdown
+  rotate: false
+  xy: 216, 46
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/legoutup
+  rotate: false
+  xy: 372, 48
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/mouth02
+  rotate: false
+  xy: 487, 196
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/mouth03
+  rotate: false
+  xy: 620, 335
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/mouth1
+  rotate: true
+  xy: 132, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/weapon1
+  rotate: false
+  xy: 2, 198
+  size: 117, 312
+  orig: 117, 312
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/weapon2
+  rotate: false
+  xy: 114, 17
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/weapon3
+  rotate: false
+  xy: 455, 45
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/weapon4
+  rotate: false
+  xy: 171, 2
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/weapon5
+  rotate: false
+  xy: 319, 2
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/weapon6
+  rotate: false
+  xy: 478, 69
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/weapon7
+  rotate: true
+  xy: 627, 457
+  size: 9, 245
+  orig: 9, 245
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/zhuangshi
+  rotate: true
+  xy: 114, 108
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/zhuangshi1
+  rotate: false
+  xy: 554, 115
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Hibiscus_Bow_4/zhuangshi2
+  rotate: false
+  xy: 114, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 939, 425
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

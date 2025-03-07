@@ -1,0 +1,433 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/arminnerdown
+  rotate: false
+  xy: 971, 374
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/arminnerup
+  rotate: false
+  xy: 157, 64
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/armoutdown
+  rotate: false
+  xy: 815, 367
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/arnoutup
+  rotate: true
+  xy: 72, 2
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/body
+  rotate: true
+  xy: 779, 401
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/handinner
+  rotate: false
+  xy: 124, 56
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/handout
+  rotate: false
+  xy: 153, 146
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/hudang
+  rotate: false
+  xy: 312, 312
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/jianjiainner
+  rotate: false
+  xy: 609, 366
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/jianjiaout
+  rotate: true
+  xy: 197, 167
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/leginnerdown
+  rotate: true
+  xy: 267, 221
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/leginnerup
+  rotate: true
+  xy: 866, 413
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/legoutdown
+  rotate: false
+  xy: 656, 376
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/legoutup
+  rotate: false
+  xy: 72, 82
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/toushi
+  rotate: false
+  xy: 77, 171
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/weapon1
+  rotate: false
+  xy: 655, 422
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/weapon2
+  rotate: false
+  xy: 779, 471
+  size: 147, 39
+  orig: 147, 39
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/weijin
+  rotate: true
+  xy: 197, 217
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Ninja_2/weijin1
+  rotate: false
+  xy: 534, 412
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/arminnerdown
+  rotate: true
+  xy: 409, 294
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/arminnerup
+  rotate: false
+  xy: 251, 187
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/armoutdown
+  rotate: false
+  xy: 470, 301
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/armoutup
+  rotate: false
+  xy: 267, 258
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/body
+  rotate: true
+  xy: 928, 446
+  size: 64, 94
+  orig: 64, 94
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/daizi3
+  rotate: false
+  xy: 135, 14
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/daizi4
+  rotate: true
+  xy: 919, 388
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/guajian1
+  rotate: true
+  xy: 369, 307
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/guajian2
+  rotate: true
+  xy: 258, 303
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/handinner
+  rotate: false
+  xy: 124, 30
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/handout
+  rotate: false
+  xy: 157, 42
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/hudang
+  rotate: false
+  xy: 197, 293
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/jianjiainner
+  rotate: false
+  xy: 251, 154
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/jianjiaout
+  rotate: false
+  xy: 72, 29
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/leginnerdown
+  rotate: true
+  xy: 533, 343
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/leginnerup
+  rotate: false
+  xy: 409, 336
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/legoutdown
+  rotate: true
+  xy: 539, 303
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/legoutup
+  rotate: true
+  xy: 469, 340
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/toushi1
+  rotate: true
+  xy: 402, 399
+  size: 111, 130
+  orig: 111, 130
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/weapon
+  rotate: true
+  xy: 2, 156
+  size: 225, 73
+  orig: 225, 73
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/weapon1
+  rotate: false
+  xy: 2, 383
+  size: 206, 127
+  orig: 206, 127
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/weijin
+  rotate: true
+  xy: 129, 83
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/weijin1
+  rotate: false
+  xy: 210, 409
+  size: 190, 101
+  orig: 190, 101
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/yaodai
+  rotate: false
+  xy: 210, 375
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/yaodaiinner
+  rotate: true
+  xy: 117, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/yaojiainner
+  rotate: false
+  xy: 866, 387
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/yaojiaout
+  rotate: false
+  xy: 157, 101
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Kirikaze/Kirikaze_Ninjia/Kirikaze_Shadow_3/yaoshi
+  rotate: false
+  xy: 770, 366
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Kirikaze/eyebrow
+  rotate: false
+  xy: 308, 383
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard
+  rotate: false
+  xy: 701, 402
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard1
+  rotate: false
+  xy: 701, 382
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard2
+  rotate: true
+  xy: 250, 224
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+Kirikaze/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+Kirikaze/eyesffuer
+  rotate: false
+  xy: 534, 379
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+Kirikaze/eyeyun
+  rotate: false
+  xy: 928, 410
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Kirikaze/face
+  rotate: false
+  xy: 77, 234
+  size: 118, 147
+  orig: 118, 147
+  offset: 0, 0
+  index: -1
+Kirikaze/hair
+  rotate: false
+  xy: 2, 17
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth01
+  rotate: true
+  xy: 597, 349
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth02
+  rotate: true
+  xy: 300, 194
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth03
+  rotate: true
+  xy: 1009, 417
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+Kirikaze/mouth04
+  rotate: true
+  xy: 188, 146
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 77, 144
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

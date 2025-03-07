@@ -1,0 +1,321 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lugner/Lugner_Saint/Lugner_Saint_3/arminnerdown
+  rotate: false
+  xy: 177, 297
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/arminnerup
+  rotate: false
+  xy: 475, 471
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/armoutdown
+  rotate: false
+  xy: 172, 237
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/armoutup
+  rotate: true
+  xy: 83, 66
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/body
+  rotate: true
+  xy: 2, 5
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/eyebrow
+  rotate: false
+  xy: 243, 415
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/eyehard
+  rotate: false
+  xy: 132, 351
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/eyehard1
+  rotate: true
+  xy: 120, 125
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/eyehard2
+  rotate: true
+  xy: 199, 165
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/eyehard3
+  rotate: true
+  xy: 70, 2
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/eyesffuer
+  rotate: true
+  xy: 145, 152
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/eyeyun
+  rotate: true
+  xy: 172, 168
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/face1
+  rotate: false
+  xy: 2, 375
+  size: 128, 135
+  orig: 128, 135
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hair
+  rotate: false
+  xy: 315, 429
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hair1
+  rotate: false
+  xy: 87, 112
+  size: 31, 83
+  orig: 31, 83
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hair2
+  rotate: true
+  xy: 132, 381
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hair3
+  rotate: false
+  xy: 123, 198
+  size: 20, 97
+  orig: 20, 97
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hair4
+  rotate: false
+  xy: 92, 197
+  size: 29, 98
+  orig: 29, 98
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hand1
+  rotate: false
+  xy: 208, 357
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hand2
+  rotate: false
+  xy: 231, 360
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/handinner
+  rotate: false
+  xy: 426, 372
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/handinner2
+  rotate: false
+  xy: 145, 124
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/handout
+  rotate: false
+  xy: 276, 369
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/handout1
+  rotate: false
+  xy: 464, 435
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/handout3
+  rotate: false
+  xy: 486, 443
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/huanguan
+  rotate: false
+  xy: 2, 297
+  size: 124, 76
+  orig: 124, 76
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/hudang
+  rotate: false
+  xy: 2, 64
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/jianjiainner
+  rotate: false
+  xy: 128, 297
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/jianjiaout
+  rotate: true
+  xy: 87, 6
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/leginnertdown
+  rotate: true
+  xy: 381, 398
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/leginnertup
+  rotate: true
+  xy: 225, 382
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/legoutdown
+  rotate: false
+  xy: 350, 380
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/legoutup
+  rotate: false
+  xy: 316, 382
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/mouth01
+  rotate: false
+  xy: 225, 419
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/mouth02
+  rotate: false
+  xy: 316, 372
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/mouth04
+  rotate: false
+  xy: 208, 351
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/qunbai
+  rotate: false
+  xy: 2, 132
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/qunbaiinner
+  rotate: true
+  xy: 382, 426
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/qungbaiout
+  rotate: false
+  xy: 243, 428
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/weapon
+  rotate: false
+  xy: 2, 201
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/weijing
+  rotate: false
+  xy: 132, 426
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/xiuziinner
+  rotate: false
+  xy: 430, 395
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/xiuziout
+  rotate: false
+  xy: 382, 470
+  size: 91, 40
+  orig: 91, 40
+  offset: 0, 0
+  index: -1
+Lugner/Lugner_Saint/Lugner_Saint_3/yaodai
+  rotate: false
+  xy: 381, 374
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 145, 221
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

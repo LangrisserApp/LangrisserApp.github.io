@@ -1,0 +1,503 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gunn_monk_3/arminnerdown
+  rotate: true
+  xy: 391, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Gunn_monk_3/arminnerup
+  rotate: false
+  xy: 289, 85
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+Gunn_monk_3/armoutup
+  rotate: false
+  xy: 481, 220
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+Gunn_monk_3/body
+  rotate: true
+  xy: 271, 312
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/Shadow
+  rotate: true
+  xy: 402, 236
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/arminnerdown
+  rotate: true
+  xy: 377, 109
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/arminnerup
+  rotate: false
+  xy: 337, 33
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/armoutdown
+  rotate: false
+  xy: 657, 346
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/armoutup
+  rotate: false
+  xy: 530, 222
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/body
+  rotate: false
+  xy: 146, 225
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/erduo
+  rotate: false
+  xy: 221, 227
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/erduo1
+  rotate: false
+  xy: 133, 2
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/erhuan
+  rotate: true
+  xy: 888, 388
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/erhuan1
+  rotate: false
+  xy: 998, 413
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/eyebrow
+  rotate: true
+  xy: 462, 242
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/eyehard
+  rotate: false
+  xy: 207, 66
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/eyehard1
+  rotate: true
+  xy: 429, 241
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/eyehard2
+  rotate: false
+  xy: 468, 317
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/eyehard3
+  rotate: true
+  xy: 173, 2
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/eyesffuer
+  rotate: true
+  xy: 377, 146
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/eyeyun
+  rotate: true
+  xy: 206, 2
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/face
+  rotate: false
+  xy: 167, 388
+  size: 131, 122
+  orig: 131, 122
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair
+  rotate: true
+  xy: 568, 421
+  size: 89, 121
+  orig: 89, 121
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair1
+  rotate: false
+  xy: 223, 147
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair10
+  rotate: true
+  xy: 300, 384
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair2
+  rotate: true
+  xy: 679, 384
+  size: 27, 95
+  orig: 27, 95
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair3
+  rotate: true
+  xy: 146, 117
+  size: 27, 81
+  orig: 27, 81
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair4
+  rotate: false
+  xy: 333, 242
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair5
+  rotate: true
+  xy: 167, 314
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair6
+  rotate: false
+  xy: 146, 146
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair7
+  rotate: true
+  xy: 429, 431
+  size: 79, 137
+  orig: 79, 137
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair8
+  rotate: false
+  xy: 2, 123
+  size: 142, 196
+  orig: 142, 196
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/hair9
+  rotate: false
+  xy: 2, 321
+  size: 163, 189
+  orig: 163, 189
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/handinner
+  rotate: true
+  xy: 849, 370
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/handinner2
+  rotate: false
+  xy: 328, 2
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/handinner3
+  rotate: true
+  xy: 805, 370
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/handout
+  rotate: false
+  xy: 546, 317
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/handout2
+  rotate: true
+  xy: 361, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/handout3
+  rotate: true
+  xy: 287, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/jianjiaout1
+  rotate: true
+  xy: 229, 99
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/jianjiaout2
+  rotate: false
+  xy: 379, 35
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/kua
+  rotate: false
+  xy: 133, 66
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/leginnerdown
+  rotate: false
+  xy: 481, 265
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/leginnerup
+  rotate: true
+  xy: 235, 11
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/legoutdown
+  rotate: false
+  xy: 329, 155
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/legoutup
+  rotate: false
+  xy: 527, 269
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/lian1
+  rotate: true
+  xy: 235, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/lian2
+  rotate: false
+  xy: 2, 2
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/mao1
+  rotate: false
+  xy: 348, 312
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/mouth01
+  rotate: true
+  xy: 207, 99
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/mouth02
+  rotate: true
+  xy: 1016, 496
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/mouth04
+  rotate: false
+  xy: 146, 314
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/piaodai1
+  rotate: false
+  xy: 287, 33
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/piaodai2
+  rotate: false
+  xy: 468, 350
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/pifeng1
+  rotate: true
+  xy: 917, 401
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/pifeng2
+  rotate: true
+  xy: 807, 405
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/pifeng3
+  rotate: true
+  xy: 691, 413
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/pifeng4
+  rotate: true
+  xy: 2, 17
+  size: 104, 129
+  orig: 104, 129
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/texiao1
+  rotate: true
+  xy: 565, 381
+  size: 38, 112
+  orig: 38, 112
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/texiao2
+  rotate: false
+  xy: 290, 137
+  size: 37, 95
+  orig: 37, 95
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/texiao3
+  rotate: true
+  xy: 429, 385
+  size: 44, 134
+  orig: 44, 134
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/toujin
+  rotate: true
+  xy: 776, 378
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/toushi
+  rotate: true
+  xy: 998, 438
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/xiabai1
+  rotate: false
+  xy: 268, 234
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/xiabai2
+  rotate: false
+  xy: 546, 358
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/xiabai3
+  rotate: false
+  xy: 422, 312
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/xiabai4
+  rotate: true
+  xy: 338, 85
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/xiabai5
+  rotate: false
+  xy: 608, 349
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/xiabai6
+  rotate: false
+  xy: 402, 214
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/xiabai7
+  rotate: false
+  xy: 338, 109
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Gunn_monk_4/yaodai1
+  rotate: false
+  xy: 333, 209
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1

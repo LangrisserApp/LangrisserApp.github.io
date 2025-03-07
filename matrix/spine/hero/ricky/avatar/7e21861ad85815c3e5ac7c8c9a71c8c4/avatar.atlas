@@ -1,0 +1,335 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ricky/Shadow
+  rotate: true
+  xy: 205, 159
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/arminnerdown
+  rotate: false
+  xy: 484, 415
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/arminnerup
+  rotate: true
+  xy: 408, 336
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/armoutdown
+  rotate: false
+  xy: 392, 262
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/armoutup
+  rotate: true
+  xy: 232, 159
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/body
+  rotate: true
+  xy: 422, 452
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/eyebrow
+  rotate: true
+  xy: 391, 341
+  size: 78, 15
+  orig: 78, 15
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/eyehard
+  rotate: true
+  xy: 276, 212
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/eyehard1
+  rotate: true
+  xy: 218, 9
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/eyehard2
+  rotate: true
+  xy: 242, 9
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/eyehard3
+  rotate: true
+  xy: 298, 10
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/eyesffuer
+  rotate: false
+  xy: 87, 4
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/eyeyun
+  rotate: false
+  xy: 300, 208
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/face
+  rotate: false
+  xy: 2, 268
+  size: 131, 151
+  orig: 131, 151
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/hair1
+  rotate: false
+  xy: 232, 194
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/hair2
+  rotate: false
+  xy: 264, 2
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/hair3
+  rotate: false
+  xy: 252, 80
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/hair4
+  rotate: false
+  xy: 206, 79
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/hair5
+  rotate: true
+  xy: 300, 241
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/hairinner1
+  rotate: false
+  xy: 486, 361
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/hairinner2
+  rotate: true
+  xy: 313, 2
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/handinner
+  rotate: false
+  xy: 486, 337
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/handout
+  rotate: false
+  xy: 276, 188
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/jianjia
+  rotate: true
+  xy: 313, 23
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/leginnerdown
+  rotate: true
+  xy: 392, 421
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/leginnerup
+  rotate: true
+  xy: 440, 371
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/legoutdown
+  rotate: true
+  xy: 391, 307
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/legoutdown1
+  rotate: true
+  xy: 435, 309
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/legoutup
+  rotate: false
+  xy: 408, 367
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/mouth01
+  rotate: true
+  xy: 508, 493
+  size: 17, 2
+  orig: 17, 2
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/mouth02
+  rotate: false
+  xy: 392, 245
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/mouth04
+  rotate: false
+  xy: 218, 2
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/toushi
+  rotate: false
+  xy: 135, 282
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/weapon1
+  rotate: false
+  xy: 2, 421
+  size: 388, 31
+  orig: 388, 31
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/weijin
+  rotate: true
+  xy: 300, 307
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/weijin1
+  rotate: true
+  xy: 164, 66
+  size: 91, 40
+  orig: 91, 40
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/weijin2
+  rotate: false
+  xy: 135, 235
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/yaodai
+  rotate: true
+  xy: 419, 256
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_3/yaojia
+  rotate: false
+  xy: 440, 404
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/jianjia
+  rotate: true
+  xy: 167, 2
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/pifenginner
+  rotate: false
+  xy: 450, 334
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/pifenginner1
+  rotate: true
+  xy: 2, 3
+  size: 144, 83
+  orig: 144, 83
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/pifengout
+  rotate: false
+  xy: 2, 149
+  size: 123, 117
+  orig: 123, 117
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/toushi
+  rotate: false
+  xy: 135, 345
+  size: 163, 74
+  orig: 163, 74
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/weapon
+  rotate: false
+  xy: 2, 454
+  size: 418, 56
+  orig: 418, 56
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/xiabaiinner1
+  rotate: true
+  xy: 87, 38
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+Ricky/Spear/Spear_4/xiabaiout
+  rotate: false
+  xy: 127, 159
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
