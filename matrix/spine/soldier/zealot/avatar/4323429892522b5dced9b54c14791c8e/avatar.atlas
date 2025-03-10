@@ -1,0 +1,195 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 313, 91
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Zealot/body
+  rotate: false
+  xy: 414, 184
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+Zealot/eyebrow
+  rotate: false
+  xy: 183, 81
+  size: 85, 10
+  orig: 85, 10
+  offset: 0, 0
+  index: -1
+Zealot/eyehard
+  rotate: false
+  xy: 110, 2
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+Zealot/eyesffuer
+  rotate: true
+  xy: 474, 175
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+Zealot/eyeyun
+  rotate: false
+  xy: 316, 131
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+Zealot/face
+  rotate: false
+  xy: 2, 90
+  size: 179, 164
+  orig: 179, 164
+  offset: 0, 0
+  index: -1
+Zealot/hair1
+  rotate: true
+  xy: 414, 139
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Zealot/hair2
+  rotate: false
+  xy: 361, 32
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+Zealot/hairback
+  rotate: false
+  xy: 183, 143
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+Zealot/hairout
+  rotate: false
+  xy: 316, 167
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+Zealot/handinnerdown
+  rotate: true
+  xy: 110, 34
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+Zealot/handinnerup
+  rotate: false
+  xy: 270, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Zealot/handoutdown
+  rotate: false
+  xy: 171, 34
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+Zealot/handoutup
+  rotate: true
+  xy: 474, 144
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Zealot/hudang
+  rotate: false
+  xy: 2, 30
+  size: 106, 58
+  orig: 106, 58
+  offset: 0, 0
+  index: -1
+Zealot/hudang1
+  rotate: false
+  xy: 183, 93
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+Zealot/jianjiainner
+  rotate: false
+  xy: 42, 4
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Zealot/jianjiaout
+  rotate: true
+  xy: 235, 23
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+Zealot/leginnerdown
+  rotate: false
+  xy: 272, 88
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+Zealot/leginnerup
+  rotate: false
+  xy: 389, 91
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Zealot/legoutdown
+  rotate: false
+  xy: 320, 37
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+Zealot/legoutup
+  rotate: false
+  xy: 394, 41
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Zealot/mouth01
+  rotate: false
+  xy: 320, 32
+  size: 15, 3
+  orig: 15, 3
+  offset: 0, 0
+  index: -1
+Zealot/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Zealot/neiku
+  rotate: false
+  xy: 320, 2
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Zealot/toushi
+  rotate: false
+  xy: 270, 31
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1

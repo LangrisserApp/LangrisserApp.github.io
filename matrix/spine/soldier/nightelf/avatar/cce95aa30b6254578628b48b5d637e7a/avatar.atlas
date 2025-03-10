@@ -1,0 +1,160 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NightElf/arminner
+  rotate: false
+  xy: 179, 177
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+NightElf/armout
+  rotate: true
+  xy: 260, 268
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+NightElf/body
+  rotate: false
+  xy: 2, 2
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+NightElf/eyehard
+  rotate: false
+  xy: 172, 241
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+NightElf/eyesffuer
+  rotate: true
+  xy: 150, 161
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+NightElf/eyeyun
+  rotate: false
+  xy: 236, 176
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+NightElf/face
+  rotate: false
+  xy: 2, 342
+  size: 184, 154
+  orig: 184, 154
+  offset: 0, 0
+  index: -1
+NightElf/hair1
+  rotate: false
+  xy: 114, 134
+  size: 34, 101
+  orig: 34, 101
+  offset: 0, 0
+  index: -1
+NightElf/hair2
+  rotate: false
+  xy: 366, 325
+  size: 45, 102
+  orig: 45, 102
+  offset: 0, 0
+  index: -1
+NightElf/hair3
+  rotate: false
+  xy: 2, 132
+  size: 110, 208
+  orig: 110, 208
+  offset: 0, 0
+  index: -1
+NightElf/hair4
+  rotate: false
+  xy: 236, 207
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+NightElf/jianjia
+  rotate: false
+  xy: 420, 403
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+NightElf/leginnerdown
+  rotate: false
+  xy: 445, 361
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+NightElf/leginnerup
+  rotate: true
+  xy: 329, 244
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+NightElf/legoutdown
+  rotate: false
+  xy: 337, 268
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+NightElf/legoutup
+  rotate: false
+  xy: 413, 356
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+NightElf/pifeng1
+  rotate: true
+  xy: 420, 443
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+NightElf/pifeng2
+  rotate: true
+  xy: 114, 237
+  size: 103, 56
+  orig: 103, 56
+  offset: 0, 0
+  index: -1
+NightElf/qunzi
+  rotate: false
+  xy: 172, 273
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+NightElf/weapon1
+  rotate: false
+  xy: 188, 429
+  size: 230, 67
+  orig: 230, 67
+  offset: 0, 0
+  index: -1
+NightElf/weapon2
+  rotate: false
+  xy: 188, 317
+  size: 176, 110
+  orig: 176, 110
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 253, 241
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 225, 22
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+banginner
+  rotate: true
+  xy: 150, 98
+  size: 42, 104
+  orig: 42, 104
+  offset: 0, 0
+  index: -1
+bangout
+  rotate: false
+  xy: 431, 140
+  size: 67, 114
+  orig: 67, 114
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 145, 24
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 150, 142
+  size: 134, 112
+  orig: 134, 112
+  offset: 0, 0
+  index: -1
+dangbu
+  rotate: false
+  xy: 382, 13
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+dangcloth
+  rotate: false
+  xy: 301, 49
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 2
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: false
+  xy: 301, 11
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 382, 34
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+hairinner
+  rotate: false
+  xy: 286, 152
+  size: 143, 102
+  orig: 143, 102
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: true
+  xy: 418, 68
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+handout
+  rotate: true
+  xy: 286, 116
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+handout1
+  rotate: false
+  xy: 265, 21
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 100
+  size: 146, 154
+  orig: 146, 154
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: false
+  xy: 482, 41
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 418, 35
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+leginnersown
+  rotate: false
+  xy: 455, 37
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: true
+  xy: 369, 112
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 256, 104
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: true
+  xy: 81, 2
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: false
+  xy: 418, 104
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: true
+  xy: 358, 70
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 500, 229
+  size: 25, 4
+  orig: 25, 4
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 136, 6
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 358, 65
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 2, 45
+  size: 53, 141
+  orig: 53, 141
+  offset: 0, 0
+  index: -1

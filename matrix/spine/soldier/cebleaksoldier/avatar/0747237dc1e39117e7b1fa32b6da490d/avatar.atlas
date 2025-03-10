@@ -1,0 +1,153 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 2, 2
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+arminner
+  rotate: false
+  xy: 371, 469
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+armout
+  rotate: true
+  xy: 78, 2
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 242, 358
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+dun1
+  rotate: false
+  xy: 152, 232
+  size: 88, 224
+  orig: 88, 224
+  offset: 0, 0
+  index: -1
+dun2
+  rotate: false
+  xy: 374, 383
+  size: 22, 84
+  orig: 22, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 42
+  size: 146, 185
+  orig: 146, 185
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: false
+  xy: 437, 425
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 242, 291
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: true
+  xy: 398, 385
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: true
+  xy: 242, 221
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 374, 331
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+legoutdown1
+  rotate: false
+  xy: 344, 317
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 308, 319
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 2, 229
+  size: 148, 227
+  orig: 148, 227
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 458
+  size: 367, 50
+  orig: 367, 50
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: false
+  xy: 398, 414
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 403, 342
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+xiabai3
+  rotate: true
+  xy: 242, 246
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+xiabai4
+  rotate: false
+  xy: 444, 464
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+xiabai5
+  rotate: true
+  xy: 304, 369
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icepeak/body
+  rotate: false
+  xy: 224, 341
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+Icepeak/eyehard
+  rotate: true
+  xy: 175, 250
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+Icepeak/eyesffuer
+  rotate: false
+  xy: 345, 397
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+Icepeak/eyeyun
+  rotate: false
+  xy: 63, 198
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Icepeak/face
+  rotate: false
+  xy: 63, 238
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+Icepeak/handout
+  rotate: false
+  xy: 300, 359
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+Icepeak/hatout
+  rotate: false
+  xy: 63, 326
+  size: 159, 173
+  orig: 159, 173
+  offset: 0, 0
+  index: -1
+Icepeak/headinner
+  rotate: true
+  xy: 447, 392
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Icepeak/headout1
+  rotate: true
+  xy: 447, 445
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Icepeak/jianjiainner
+  rotate: true
+  xy: 49, 60
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+Icepeak/jianjiaout
+  rotate: false
+  xy: 345, 347
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+Icepeak/leginnerdown
+  rotate: false
+  xy: 49, 18
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Icepeak/leginnerup
+  rotate: false
+  xy: 144, 199
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Icepeak/legoutdown
+  rotate: false
+  xy: 115, 142
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Icepeak/legoutup
+  rotate: false
+  xy: 402, 354
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Icepeak/mouth01
+  rotate: false
+  xy: 2, 2
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+Icepeak/mouth02
+  rotate: false
+  xy: 300, 331
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Icepeak/pifeng
+  rotate: false
+  xy: 224, 437
+  size: 126, 62
+  orig: 126, 62
+  offset: 0, 0
+  index: -1
+Icepeak/pifeng1
+  rotate: false
+  xy: 2, 10
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: -1
+Icepeak/pifeng2
+  rotate: false
+  xy: 2, 110
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+Icepeak/weapon
+  rotate: false
+  xy: 2, 198
+  size: 59, 301
+  orig: 59, 301
+  offset: 0, 0
+  index: -1
+Icepeak/zhezhao
+  rotate: false
+  xy: 352, 434
+  size: 93, 65
+  orig: 93, 65
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 75, 122
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

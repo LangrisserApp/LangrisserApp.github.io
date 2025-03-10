@@ -1,0 +1,69 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glacial/arminnerdown
+  rotate: true
+  xy: 2, 11
+  size: 67, 118
+  orig: 67, 118
+  offset: 0, 0
+  index: -1
+Glacial/arminnerup
+  rotate: false
+  xy: 343, 145
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+Glacial/armoutdown
+  rotate: false
+  xy: 206, 103
+  size: 135, 149
+  orig: 135, 149
+  offset: 0, 0
+  index: -1
+Glacial/armoutup
+  rotate: false
+  xy: 258, 376
+  size: 195, 133
+  orig: 195, 133
+  offset: 0, 0
+  index: -1
+Glacial/body
+  rotate: false
+  xy: 2, 80
+  size: 202, 198
+  orig: 202, 198
+  offset: 0, 0
+  index: -1
+Glacial/handinner
+  rotate: true
+  xy: 122, 2
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+Glacial/handout
+  rotate: false
+  xy: 258, 254
+  size: 153, 120
+  orig: 153, 120
+  offset: 0, 0
+  index: -1
+Glacial/head
+  rotate: false
+  xy: 2, 280
+  size: 254, 229
+  orig: 254, 229
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 455, 435
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

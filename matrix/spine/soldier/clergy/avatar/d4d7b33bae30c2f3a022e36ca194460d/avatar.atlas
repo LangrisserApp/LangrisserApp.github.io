@@ -1,0 +1,440 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 301, 19
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/body
+  rotate: true
+  xy: 418, 131
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/handinner
+  rotate: true
+  xy: 947, 32
+  size: 29, 75
+  orig: 29, 75
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/handout
+  rotate: true
+  xy: 945, 197
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/handout1
+  rotate: true
+  xy: 813, 58
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/hatout
+  rotate: false
+  xy: 740, 359
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/leginnerdown
+  rotate: false
+  xy: 385, 110
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/leginnerup
+  rotate: true
+  xy: 195, 125
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/leginnerup
+  rotate: true
+  xy: 195, 125
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/legoutdown
+  rotate: false
+  xy: 385, 71
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/legoutup
+  rotate: true
+  xy: 414, 88
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/legoutup
+  rotate: true
+  xy: 414, 88
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy01/weapon
+  rotate: true
+  xy: 984, 322
+  size: 188, 34
+  orig: 188, 34
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/body
+  rotate: false
+  xy: 662, 234
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/handinner
+  rotate: true
+  xy: 2, 2
+  size: 36, 86
+  orig: 36, 86
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/handout
+  rotate: true
+  xy: 863, 92
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/handout1
+  rotate: false
+  xy: 863, 193
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/hatout
+  rotate: false
+  xy: 2, 40
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/leginnerdown
+  rotate: false
+  xy: 462, 90
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/legoutdown
+  rotate: true
+  xy: 414, 61
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/weapon
+  rotate: true
+  xy: 894, 309
+  size: 201, 88
+  orig: 201, 88
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/weapon01
+  rotate: false
+  xy: 178, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy02/weapon02
+  rotate: true
+  xy: 244, 9
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/body
+  rotate: true
+  xy: 533, 253
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/handinner
+  rotate: false
+  xy: 984, 241
+  size: 38, 79
+  orig: 38, 79
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/handout
+  rotate: true
+  xy: 645, 87
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/handout1
+  rotate: true
+  xy: 170, 40
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/hatout
+  rotate: false
+  xy: 414, 357
+  size: 161, 153
+  orig: 161, 153
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/leginnerdown
+  rotate: false
+  xy: 490, 90
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/legoutdown
+  rotate: true
+  xy: 405, 34
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/weapon
+  rotate: true
+  xy: 330, 151
+  size: 201, 86
+  orig: 201, 86
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/body
+  rotate: false
+  xy: 418, 230
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/handinner
+  rotate: true
+  xy: 947, 100
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/handout
+  rotate: true
+  xy: 301, 59
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/handout1
+  rotate: false
+  xy: 220, 75
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/hatout
+  rotate: false
+  xy: 2, 198
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/leginnerdown
+  rotate: false
+  xy: 306, 165
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/legoutdown
+  rotate: false
+  xy: 170, 124
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy05/weapon
+  rotate: false
+  xy: 2, 374
+  size: 242, 136
+  orig: 242, 136
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy01/body
+  rotate: false
+  xy: 761, 236
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy01/handinner
+  rotate: false
+  xy: 860, 282
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy01/handout
+  rotate: true
+  xy: 306, 107
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy01/handout1
+  rotate: true
+  xy: 257, 121
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy01/hatout
+  rotate: false
+  xy: 176, 201
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy02/body
+  rotate: true
+  xy: 645, 135
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy02/handinner
+  rotate: true
+  xy: 90, 2
+  size: 36, 86
+  orig: 36, 86
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy02/handout
+  rotate: true
+  xy: 729, 83
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy02/handout1
+  rotate: false
+  xy: 892, 251
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy02/hatout
+  rotate: false
+  xy: 246, 354
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy02/leginnerdown
+  rotate: false
+  xy: 377, 30
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy02/legoutdown
+  rotate: true
+  xy: 204, 8
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy03/body
+  rotate: false
+  xy: 541, 124
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy03/handinner
+  rotate: true
+  xy: 176, 161
+  size: 38, 79
+  orig: 38, 79
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy03/handout
+  rotate: true
+  xy: 863, 44
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy03/handout1
+  rotate: false
+  xy: 863, 142
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+clergy/EClergy/EClergy03/hatout
+  rotate: false
+  xy: 577, 357
+  size: 161, 153
+  orig: 161, 153
+  offset: 0, 0
+  index: -1
+clergy/eyehard
+  rotate: false
+  xy: 947, 148
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+clergy/eyesffuer
+  rotate: false
+  xy: 947, 63
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+clergy/eyeyun
+  rotate: false
+  xy: 220, 35
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+clergy/face
+  rotate: true
+  xy: 768, 133
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 977, 287
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 377, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mercenary/arminner
+  rotate: true
+  xy: 414, 392
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Mercenary/body
+  rotate: false
+  xy: 333, 454
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+Mercenary/body1
+  rotate: false
+  xy: 204, 336
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+Mercenary/dang
+  rotate: false
+  xy: 2, 2
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+Mercenary/eyehard
+  rotate: true
+  xy: 282, 340
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+Mercenary/eyesffuer
+  rotate: false
+  xy: 204, 302
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+Mercenary/eyeyun
+  rotate: false
+  xy: 333, 414
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Mercenary/face
+  rotate: false
+  xy: 204, 415
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+Mercenary/hair
+  rotate: false
+  xy: 2, 125
+  size: 179, 173
+  orig: 179, 173
+  offset: 0, 0
+  index: -1
+Mercenary/handout
+  rotate: false
+  xy: 86, 53
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+Mercenary/jianjiaout
+  rotate: true
+  xy: 183, 241
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+Mercenary/leginnerdown
+  rotate: false
+  xy: 51, 5
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Mercenary/leginnerup
+  rotate: false
+  xy: 183, 141
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+Mercenary/legoutdown
+  rotate: false
+  xy: 241, 255
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Mercenary/legoutup
+  rotate: false
+  xy: 183, 191
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Mercenary/mouth01
+  rotate: false
+  xy: 488, 506
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+Mercenary/mouth02
+  rotate: false
+  xy: 331, 328
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Mercenary/piaodai
+  rotate: false
+  xy: 2, 37
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+Mercenary/piaodai1
+  rotate: false
+  xy: 331, 356
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+Mercenary/weapon
+  rotate: false
+  xy: 2, 300
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+Mercenary/weapon1
+  rotate: false
+  xy: 419, 446
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 151, 49
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

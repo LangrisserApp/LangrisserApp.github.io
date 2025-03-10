@@ -1,0 +1,139 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ForestPriest/body
+  rotate: false
+  xy: 204, 368
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+ForestPriest/face
+  rotate: false
+  xy: 92, 212
+  size: 99, 88
+  orig: 99, 88
+  offset: 0, 0
+  index: -1
+ForestPriest/hair1
+  rotate: false
+  xy: 92, 133
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+ForestPriest/hair2
+  rotate: true
+  xy: 2, 10
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+ForestPriest/hair3
+  rotate: false
+  xy: 339, 424
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+ForestPriest/handinner
+  rotate: false
+  xy: 92, 52
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+ForestPriest/handout
+  rotate: true
+  xy: 204, 317
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+ForestPriest/handout1
+  rotate: false
+  xy: 408, 461
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+ForestPriest/hatout
+  rotate: false
+  xy: 2, 302
+  size: 200, 208
+  orig: 200, 208
+  offset: 0, 0
+  index: -1
+ForestPriest/jianjiainner
+  rotate: false
+  xy: 161, 128
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+ForestPriest/jianjiaout
+  rotate: false
+  xy: 339, 377
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+ForestPriest/leginnerdown
+  rotate: true
+  xy: 60, 8
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+ForestPriest/legoutdown
+  rotate: true
+  xy: 204, 289
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+ForestPriest/mouth01
+  rotate: false
+  xy: 2, 2
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+ForestPriest/weapon
+  rotate: true
+  xy: 2, 35
+  size: 265, 88
+  orig: 265, 88
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 408, 421
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/leginnerup
+  rotate: false
+  xy: 161, 168
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/legoutup
+  rotate: false
+  xy: 291, 320
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 484, 421
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

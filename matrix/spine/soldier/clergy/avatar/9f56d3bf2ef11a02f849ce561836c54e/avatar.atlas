@@ -1,0 +1,146 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 105, 10
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/leginnerup
+  rotate: false
+  xy: 299, 102
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy03/legoutup
+  rotate: false
+  xy: 299, 146
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/body
+  rotate: true
+  xy: 342, 157
+  size: 97, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/eyehard
+  rotate: true
+  xy: 248, 37
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/face
+  rotate: false
+  xy: 145, 19
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/handinner
+  rotate: true
+  xy: 419, 111
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/handout
+  rotate: false
+  xy: 2, 8
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/handout1
+  rotate: false
+  xy: 56, 13
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/hat
+  rotate: false
+  xy: 2, 86
+  size: 141, 168
+  orig: 141, 168
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/jianjiainner
+  rotate: false
+  xy: 345, 75
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/jianjiaout
+  rotate: true
+  xy: 297, 42
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/leginnerdown
+  rotate: false
+  xy: 394, 86
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/legoutdown
+  rotate: false
+  xy: 248, 2
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/mouth02
+  rotate: false
+  xy: 345, 47
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/weapon
+  rotate: true
+  xy: 145, 194
+  size: 60, 195
+  orig: 60, 195
+  offset: 0, 0
+  index: -1
+clergy/Clergy/Clergy06/weapon1
+  rotate: true
+  xy: 145, 114
+  size: 78, 152
+  orig: 78, 152
+  offset: 0, 0
+  index: -1
+clergy/eyesffuer
+  rotate: false
+  xy: 342, 120
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+clergy/eyeyun
+  rotate: true
+  xy: 470, 175
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 335, 124
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1

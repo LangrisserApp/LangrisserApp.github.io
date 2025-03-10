@@ -1,0 +1,300 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer/Archer/body
+  rotate: true
+  xy: 887, 439
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+Archer/Archer/eyehard
+  rotate: true
+  xy: 278, 15
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+Archer/Archer/handinner
+  rotate: false
+  xy: 989, 381
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+Archer/Archer/handout
+  rotate: false
+  xy: 609, 289
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+Archer/Archer/hatout
+  rotate: false
+  xy: 307, 298
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+Archer/Archer/jianjiainner
+  rotate: false
+  xy: 743, 272
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Archer/Archer/jianjiaout
+  rotate: false
+  xy: 303, 95
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Archer/Archer/leginnerdown
+  rotate: false
+  xy: 806, 297
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Archer/Archer/legoutdown
+  rotate: false
+  xy: 416, 259
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Archer/Archer/legoutup
+  rotate: false
+  xy: 303, 248
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Archer/Archer/yaojia
+  rotate: false
+  xy: 990, 266
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Archer/EArcher/body
+  rotate: true
+  xy: 655, 341
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+Archer/EArcher/handinner
+  rotate: false
+  xy: 989, 446
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+Archer/EArcher/handout
+  rotate: true
+  xy: 734, 297
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+Archer/EArcher/hatout
+  rotate: false
+  xy: 458, 300
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+Archer/EArcher/jianjiainner
+  rotate: false
+  xy: 769, 272
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Archer/EArcher/jianjiaout
+  rotate: true
+  xy: 715, 259
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Archer/EArcher/leginnerdown
+  rotate: false
+  xy: 387, 257
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Archer/EArcher/legoutdown
+  rotate: false
+  xy: 303, 123
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Archer/EArcher/legoutup
+  rotate: false
+  xy: 344, 250
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Archer/EArcher/yaojia
+  rotate: false
+  xy: 303, 202
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Catapult/eyesffuer
+  rotate: true
+  xy: 609, 361
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+Catapult/eyeyun
+  rotate: false
+  xy: 651, 294
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Catapult/face
+  rotate: false
+  xy: 783, 417
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+Catapult/leginnerup
+  rotate: false
+  xy: 835, 297
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Catapult/mouth01
+  rotate: true
+  xy: 971, 417
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+Catapult/mouth02
+  rotate: true
+  xy: 303, 162
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+HeavyCatapult/baninner
+  rotate: false
+  xy: 2, 17
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+HeavyCatapult/banout
+  rotate: false
+  xy: 140, 17
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+HeavyCatapult/chesheninner
+  rotate: false
+  xy: 2, 92
+  size: 299, 202
+  orig: 299, 202
+  offset: 0, 0
+  index: -1
+HeavyCatapult/cheshenout
+  rotate: false
+  xy: 2, 296
+  size: 303, 214
+  orig: 303, 214
+  offset: 0, 0
+  index: -1
+HeavyCatapult/chuiinner
+  rotate: true
+  xy: 651, 265
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+HeavyCatapult/chuiout
+  rotate: true
+  xy: 657, 414
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+HeavyCatapult/jiainner
+  rotate: false
+  xy: 887, 397
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+HeavyCatapult/jiaout
+  rotate: false
+  xy: 307, 449
+  size: 348, 61
+  orig: 348, 61
+  offset: 0, 0
+  index: -1
+HeavyCatapult/luninner1
+  rotate: false
+  xy: 757, 338
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+HeavyCatapult/lunout1
+  rotate: false
+  xy: 873, 319
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+HeavyCatapult/paninner
+  rotate: false
+  xy: 931, 254
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+HeavyCatapult/panout
+  rotate: false
+  xy: 871, 261
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+HeavyCatapult/sheng
+  rotate: true
+  xy: 2, 2
+  size: 11, 67
+  orig: 11, 67
+  offset: 0, 0
+  index: -1
+HeavyCatapult/shi
+  rotate: false
+  xy: 951, 312
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 833, 341
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

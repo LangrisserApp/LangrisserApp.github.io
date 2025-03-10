@@ -1,0 +1,202 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 331, 375
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 224, 183
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 485, 435
+  size: 71, 8
+  orig: 71, 8
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 187, 343
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: false
+  xy: 2, 4
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: false
+  xy: 187, 307
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 163
+  size: 174, 153
+  orig: 174, 153
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 79, 33
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 275, 341
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 231, 238
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 420, 441
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 2, 41
+  size: 75, 120
+  orig: 75, 120
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 194, 122
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 2, 318
+  size: 183, 188
+  orig: 183, 188
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: false
+  xy: 178, 242
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 178, 170
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: false
+  xy: 194, 89
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: false
+  xy: 142, 42
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 385, 339
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: true
+  xy: 77, 2
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 407, 389
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 166, 57
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+pifeng1
+  rotate: false
+  xy: 333, 338
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+pifeng2
+  rotate: false
+  xy: 79, 96
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 331, 415
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 187, 373
+  size: 142, 133
+  orig: 142, 133
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: true
+  xy: 420, 401
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+xiabai3
+  rotate: false
+  xy: 157, 97
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1

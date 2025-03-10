@@ -1,0 +1,139 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 231, 131
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/arminner1
+  rotate: false
+  xy: 444, 181
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/arminner2
+  rotate: true
+  xy: 292, 30
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/armout1
+  rotate: false
+  xy: 321, 169
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/armout2
+  rotate: false
+  xy: 307, 131
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/body
+  rotate: false
+  xy: 138, 115
+  size: 91, 122
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/hairinner
+  rotate: false
+  xy: 2, 112
+  size: 134, 125
+  orig: 134, 125
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/hairinner1
+  rotate: true
+  xy: 138, 10
+  size: 103, 70
+  orig: 103, 70
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/handinner
+  rotate: false
+  xy: 210, 9
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/handout
+  rotate: false
+  xy: 305, 82
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/headup
+  rotate: true
+  xy: 2, 2
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/leginnerdown1
+  rotate: false
+  xy: 251, 73
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/leginnerup
+  rotate: true
+  xy: 210, 54
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/legoutdown
+  rotate: true
+  xy: 363, 86
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/legoutdown1
+  rotate: false
+  xy: 255, 20
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/legoutup
+  rotate: false
+  xy: 395, 172
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/weiba
+  rotate: false
+  xy: 231, 171
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/wolf_sj
+  rotate: false
+  xy: 320, 61
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Wereeolf/werewolf04/wolf_yun
+  rotate: false
+  xy: 320, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

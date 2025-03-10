@@ -1,0 +1,223 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pirate/arminnerdown
+  rotate: true
+  xy: 478, 473
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+Pirate/arminnerup
+  rotate: true
+  xy: 418, 390
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+Pirate/armoutdown
+  rotate: false
+  xy: 359, 328
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+Pirate/armoutup
+  rotate: false
+  xy: 158, 302
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Pirate/body
+  rotate: false
+  xy: 342, 429
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+Pirate/dang
+  rotate: false
+  xy: 256, 330
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Pirate/eye
+  rotate: true
+  xy: 74, 84
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1
+Pirate/eyesffuer
+  rotate: false
+  xy: 256, 369
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+Pirate/eyeyun
+  rotate: false
+  xy: 98, 178
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+Pirate/face
+  rotate: false
+  xy: 2, 350
+  size: 169, 160
+  orig: 169, 160
+  offset: 0, 0
+  index: -1
+Pirate/hair1
+  rotate: false
+  xy: 98, 214
+  size: 58, 134
+  orig: 58, 134
+  offset: 0, 0
+  index: -1
+Pirate/hair2
+  rotate: false
+  xy: 105, 119
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Pirate/hair3
+  rotate: true
+  xy: 2, 2
+  size: 23, 66
+  orig: 23, 66
+  offset: 0, 0
+  index: -1
+Pirate/hair4
+  rotate: true
+  xy: 173, 407
+  size: 103, 167
+  orig: 103, 167
+  offset: 0, 0
+  index: -1
+Pirate/handinner
+  rotate: false
+  xy: 194, 326
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Pirate/handout
+  rotate: false
+  xy: 74, 51
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Pirate/handout1
+  rotate: true
+  xy: 478, 437
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Pirate/hat
+  rotate: true
+  xy: 2, 27
+  size: 141, 70
+  orig: 141, 70
+  offset: 0, 0
+  index: -1
+Pirate/leginnerdown
+  rotate: false
+  xy: 158, 217
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Pirate/leginnerup
+  rotate: false
+  xy: 471, 386
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+Pirate/legoutdown
+  rotate: false
+  xy: 158, 258
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Pirate/legoutup
+  rotate: true
+  xy: 309, 327
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Pirate/mouth01
+  rotate: true
+  xy: 165, 161
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+Pirate/mouth02
+  rotate: false
+  xy: 223, 338
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Pirate/texiao1
+  rotate: true
+  xy: 74, 28
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Pirate/texiao2
+  rotate: false
+  xy: 413, 432
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+Pirate/texiao3
+  rotate: false
+  xy: 105, 62
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Pirate/weapon
+  rotate: false
+  xy: 2, 170
+  size: 94, 178
+  orig: 94, 178
+  offset: 0, 0
+  index: -1
+Pirate/weapon1
+  rotate: false
+  xy: 173, 354
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+Pirate/xiabai
+  rotate: true
+  xy: 337, 369
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 342, 402
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

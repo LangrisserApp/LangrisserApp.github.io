@@ -1,0 +1,111 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SeaMonster/SeaMonster/body
+  rotate: false
+  xy: 358, 401
+  size: 138, 109
+  orig: 138, 109
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/body1
+  rotate: true
+  xy: 146, 60
+  size: 118, 163
+  orig: 118, 163
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/body2
+  rotate: false
+  xy: 146, 180
+  size: 174, 108
+  orig: 174, 108
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/body3
+  rotate: false
+  xy: 2, 386
+  size: 354, 124
+  orig: 354, 124
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/eyehard
+  rotate: false
+  xy: 343, 72
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/eyesffuer
+  rotate: false
+  xy: 311, 60
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/eyeyun
+  rotate: false
+  xy: 424, 125
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/face
+  rotate: false
+  xy: 2, 102
+  size: 142, 186
+  orig: 142, 186
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/faceinner
+  rotate: false
+  xy: 311, 101
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/water
+  rotate: false
+  xy: 2, 290
+  size: 335, 94
+  orig: 335, 94
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/wing1
+  rotate: true
+  xy: 339, 228
+  size: 90, 162
+  orig: 90, 162
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/wing2
+  rotate: true
+  xy: 358, 320
+  size: 79, 116
+  orig: 79, 116
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/wing3
+  rotate: false
+  xy: 322, 161
+  size: 172, 65
+  orig: 172, 65
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/wing4
+  rotate: false
+  xy: 476, 344
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+SeaMonster/SeaMonster/xiaba
+  rotate: true
+  xy: 2, 15
+  size: 85, 137
+  orig: 85, 137
+  offset: 0, 0
+  index: -1

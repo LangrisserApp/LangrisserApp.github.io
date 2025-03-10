@@ -1,0 +1,104 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 190, 236
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Spriggan/body
+  rotate: false
+  xy: 2, 74
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+Spriggan/eyehard1
+  rotate: true
+  xy: 352, 381
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Spriggan/handinner
+  rotate: false
+  xy: 2, 2
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+Spriggan/handout
+  rotate: false
+  xy: 116, 174
+  size: 72, 100
+  orig: 72, 100
+  offset: 0, 0
+  index: -1
+Spriggan/head
+  rotate: false
+  xy: 116, 276
+  size: 192, 209
+  orig: 192, 209
+  offset: 0, 0
+  index: -1
+Spriggan/leginnerdown
+  rotate: false
+  xy: 190, 192
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Spriggan/leginnerup
+  rotate: false
+  xy: 310, 337
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Spriggan/legoutdown
+  rotate: false
+  xy: 266, 236
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Spriggan/legoutup
+  rotate: false
+  xy: 310, 373
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Spriggan/shipin
+  rotate: false
+  xy: 384, 440
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Spriggan/shipin1
+  rotate: false
+  xy: 83, 127
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+Spriggan/weapon
+  rotate: false
+  xy: 2, 170
+  size: 112, 315
+  orig: 112, 315
+  offset: 0, 0
+  index: -1
+Spriggan/weapon1
+  rotate: false
+  xy: 310, 416
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1

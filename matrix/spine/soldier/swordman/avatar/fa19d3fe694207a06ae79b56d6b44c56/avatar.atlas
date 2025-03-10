@@ -1,0 +1,160 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 367, 138
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/body
+  rotate: true
+  xy: 2, 17
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/eyehard
+  rotate: false
+  xy: 109, 36
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/eyesffuer
+  rotate: false
+  xy: 199, 56
+  size: 85, 36
+  orig: 85, 36
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/eyesyun
+  rotate: true
+  xy: 453, 172
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/face
+  rotate: false
+  xy: 367, 178
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/handinner
+  rotate: true
+  xy: 189, 2
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/handout
+  rotate: true
+  xy: 353, 89
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/handout2
+  rotate: false
+  xy: 293, 102
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/hatout
+  rotate: false
+  xy: 2, 87
+  size: 195, 167
+  orig: 195, 167
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/jianjiainner
+  rotate: false
+  xy: 443, 115
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/jianjiaout
+  rotate: false
+  xy: 428, 64
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/jianjiaout2
+  rotate: false
+  xy: 341, 63
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/leginnerdown
+  rotate: false
+  xy: 314, 12
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/leginnerup
+  rotate: false
+  xy: 287, 12
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/legoutdown
+  rotate: false
+  xy: 256, 3
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/legoutup
+  rotate: true
+  xy: 132, 5
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/mouth01
+  rotate: true
+  xy: 189, 68
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/mouth02
+  rotate: true
+  xy: 109, 2
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/weapon1
+  rotate: true
+  xy: 199, 94
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/weapon2
+  rotate: false
+  xy: 199, 169
+  size: 166, 85
+  orig: 166, 85
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan07/yaojiaout
+  rotate: true
+  xy: 293, 55
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1

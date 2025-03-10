@@ -1,0 +1,174 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 144, 239
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+TideElf/body
+  rotate: false
+  xy: 443, 426
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+TideElf/eyebrow
+  rotate: true
+  xy: 501, 430
+  size: 76, 6
+  orig: 76, 6
+  offset: 0, 0
+  index: -1
+TideElf/eyehard
+  rotate: false
+  xy: 346, 386
+  size: 81, 36
+  orig: 81, 36
+  offset: 0, 0
+  index: -1
+TideElf/eyesffuer
+  rotate: false
+  xy: 144, 279
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+TideElf/eyeyun
+  rotate: false
+  xy: 346, 341
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+TideElf/face
+  rotate: false
+  xy: 2, 337
+  size: 141, 169
+  orig: 141, 169
+  offset: 0, 0
+  index: -1
+TideElf/hair1
+  rotate: false
+  xy: 145, 319
+  size: 145, 103
+  orig: 145, 103
+  offset: 0, 0
+  index: -1
+TideElf/hair2
+  rotate: false
+  xy: 2, 2
+  size: 65, 186
+  orig: 65, 186
+  offset: 0, 0
+  index: -1
+TideElf/hair3
+  rotate: false
+  xy: 69, 69
+  size: 47, 119
+  orig: 47, 119
+  offset: 0, 0
+  index: -1
+TideElf/hair4
+  rotate: true
+  xy: 145, 424
+  size: 82, 199
+  orig: 82, 199
+  offset: 0, 0
+  index: -1
+TideElf/hairback
+  rotate: true
+  xy: 2, 190
+  size: 145, 140
+  orig: 145, 140
+  offset: 0, 0
+  index: -1
+TideElf/handinner
+  rotate: false
+  xy: 69, 8
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+TideElf/handout
+  rotate: false
+  xy: 144, 185
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+TideElf/leginnerdown
+  rotate: false
+  xy: 118, 62
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+TideElf/leginnerup
+  rotate: false
+  xy: 118, 146
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+TideElf/legoutdown
+  rotate: false
+  xy: 118, 22
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+TideElf/legoutup
+  rotate: false
+  xy: 118, 102
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+TideElf/mouth01
+  rotate: true
+  xy: 429, 401
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+TideElf/mouth02
+  rotate: false
+  xy: 443, 410
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+TideElf/shipin
+  rotate: false
+  xy: 292, 332
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+TideElf/shipin1
+  rotate: true
+  xy: 346, 424
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+TideElf/xiong
+  rotate: false
+  xy: 144, 156
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+TideElf/yao
+  rotate: false
+  xy: 223, 288
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1

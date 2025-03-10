@@ -1,0 +1,160 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CrystalWarlock/body
+  rotate: false
+  xy: 105, 46
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+CrystalWarlock/eyehard
+  rotate: false
+  xy: 426, 206
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+CrystalWarlock/eyesffuer
+  rotate: true
+  xy: 296, 104
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+CrystalWarlock/eyeyun
+  rotate: false
+  xy: 169, 44
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+CrystalWarlock/face
+  rotate: false
+  xy: 2, 24
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+CrystalWarlock/hair
+  rotate: false
+  xy: 2, 119
+  size: 166, 134
+  orig: 166, 134
+  offset: 0, 0
+  index: -1
+CrystalWarlock/handinner
+  rotate: false
+  xy: 250, 37
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+CrystalWarlock/handout
+  rotate: false
+  xy: 246, 107
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+CrystalWarlock/hudang
+  rotate: false
+  xy: 296, 37
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+CrystalWarlock/leginnerdown
+  rotate: false
+  xy: 365, 140
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+CrystalWarlock/legoutdown
+  rotate: false
+  xy: 333, 128
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+CrystalWarlock/mouth01
+  rotate: true
+  xy: 503, 233
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+CrystalWarlock/mouth02
+  rotate: false
+  xy: 300, 187
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+CrystalWarlock/qunzi
+  rotate: false
+  xy: 343, 208
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+CrystalWarlock/shipin1
+  rotate: true
+  xy: 105, 7
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+CrystalWarlock/shipin2
+  rotate: true
+  xy: 242, 181
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+CrystalWarlock/toushi
+  rotate: false
+  xy: 170, 181
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+CrystalWarlock/weapon
+  rotate: false
+  xy: 170, 124
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+CrystalWarlock/weibo
+  rotate: false
+  xy: 242, 215
+  size: 99, 38
+  orig: 99, 38
+  offset: 0, 0
+  index: -1
+CrystalWarlock/yaojiainner
+  rotate: true
+  xy: 340, 179
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+CrystalWarlock/yaojiaout
+  rotate: true
+  xy: 161, 2
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 170, 84
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

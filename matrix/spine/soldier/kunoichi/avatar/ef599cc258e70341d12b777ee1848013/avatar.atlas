@@ -1,0 +1,300 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 2, 15
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+arminner1
+  rotate: false
+  xy: 102, 259
+  size: 50, 91
+  orig: 50, 91
+  offset: 0, 0
+  index: -1
+arminner2
+  rotate: false
+  xy: 80, 62
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+arminner3
+  rotate: false
+  xy: 108, 54
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+armout1
+  rotate: true
+  xy: 164, 374
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+armout2
+  rotate: true
+  xy: 349, 398
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+armout3
+  rotate: false
+  xy: 108, 89
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 313, 452
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 266, 412
+  size: 81, 38
+  orig: 81, 38
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: false
+  xy: 398, 441
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 475, 437
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+fashi1
+  rotate: true
+  xy: 93, 126
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+fashi2
+  rotate: false
+  xy: 392, 370
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+fashi3
+  rotate: false
+  xy: 274, 349
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+fashi4
+  rotate: false
+  xy: 154, 253
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+fashi5
+  rotate: false
+  xy: 398, 475
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 164, 345
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 2, 124
+  size: 114, 89
+  orig: 114, 89
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 206, 229
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: false
+  xy: 245, 275
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 241, 345
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 352
+  size: 160, 158
+  orig: 160, 158
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: false
+  xy: 118, 251
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+huaban2
+  rotate: true
+  xy: 2, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+huaban4
+  rotate: true
+  xy: 102, 240
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+jiandai1
+  rotate: false
+  xy: 312, 349
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+jiandai2
+  rotate: true
+  xy: 206, 285
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+jiandai3
+  rotate: false
+  xy: 266, 379
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: true
+  xy: 344, 348
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: true
+  xy: 387, 342
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: true
+  xy: 345, 371
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 244, 302
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: false
+  xy: 2, 240
+  size: 98, 110
+  orig: 98, 110
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 124, 159
+  size: 20, 4
+  orig: 20, 4
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 435, 384
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 427, 347
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+peishi
+  rotate: true
+  xy: 93, 181
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 164, 452
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 457, 398
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+xiaqun1
+  rotate: false
+  xy: 2, 55
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+xiaqun2
+  rotate: true
+  xy: 392, 399
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+xiaqun3
+  rotate: false
+  xy: 154, 288
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1

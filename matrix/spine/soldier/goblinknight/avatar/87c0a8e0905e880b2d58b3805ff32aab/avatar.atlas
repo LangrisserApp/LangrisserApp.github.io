@@ -1,0 +1,265 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoblinKnight/arminnerdown
+  rotate: true
+  xy: 488, 404
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+GoblinKnight/arminnerup
+  rotate: false
+  xy: 255, 4
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+GoblinKnight/armoutdown
+  rotate: true
+  xy: 186, 2
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+GoblinKnight/armoutup
+  rotate: true
+  xy: 460, 229
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+GoblinKnight/body
+  rotate: false
+  xy: 2, 15
+  size: 105, 159
+  orig: 105, 159
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_arminnerdown
+  rotate: false
+  xy: 454, 45
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_arminnerup
+  rotate: false
+  xy: 373, 59
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_armoutdown
+  rotate: true
+  xy: 384, 2
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_armoutup
+  rotate: false
+  xy: 413, 61
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_body
+  rotate: false
+  xy: 2, 261
+  size: 189, 121
+  orig: 189, 121
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_handinner
+  rotate: false
+  xy: 342, 339
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_head
+  rotate: false
+  xy: 2, 176
+  size: 186, 83
+  orig: 186, 83
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_leginnerdown
+  rotate: true
+  xy: 309, 225
+  size: 94, 57
+  orig: 94, 57
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_leginnerup
+  rotate: false
+  xy: 300, 137
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_legoutdown
+  rotate: true
+  xy: 382, 132
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_legoutup
+  rotate: false
+  xy: 368, 281
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_mana
+  rotate: false
+  xy: 193, 228
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_neck
+  rotate: true
+  xy: 194, 321
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_shipin
+  rotate: false
+  xy: 373, 369
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+GoblinKnight/dragon_weiba
+  rotate: false
+  xy: 194, 406
+  size: 177, 104
+  orig: 177, 104
+  offset: 0, 0
+  index: -1
+GoblinKnight/eyehard
+  rotate: true
+  xy: 440, 167
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+GoblinKnight/eyesffuer
+  rotate: true
+  xy: 488, 453
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+GoblinKnight/eyeyun
+  rotate: true
+  xy: 454, 72
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+GoblinKnight/face
+  rotate: true
+  xy: 190, 141
+  size: 85, 108
+  orig: 85, 108
+  offset: 0, 0
+  index: -1
+GoblinKnight/handinner
+  rotate: true
+  xy: 440, 132
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+GoblinKnight/handout
+  rotate: false
+  xy: 342, 371
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+GoblinKnight/hat
+  rotate: false
+  xy: 2, 384
+  size: 190, 126
+  orig: 190, 126
+  offset: 0, 0
+  index: -1
+GoblinKnight/hat1
+  rotate: false
+  xy: 279, 48
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+GoblinKnight/hat2
+  rotate: false
+  xy: 413, 27
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+GoblinKnight/legoutdown
+  rotate: true
+  xy: 468, 197
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+GoblinKnight/legoutdown1
+  rotate: true
+  xy: 477, 161
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+GoblinKnight/legoutup
+  rotate: true
+  xy: 333, 8
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+GoblinKnight/nose
+  rotate: false
+  xy: 368, 228
+  size: 90, 51
+  orig: 90, 51
+  offset: 0, 0
+  index: -1
+GoblinKnight/toushi
+  rotate: true
+  xy: 452, 18
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+GoblinKnight/toushi1
+  rotate: false
+  xy: 186, 48
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+GoblinKnight/weapon
+  rotate: true
+  xy: 109, 6
+  size: 168, 75
+  orig: 168, 75
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 449, 293
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

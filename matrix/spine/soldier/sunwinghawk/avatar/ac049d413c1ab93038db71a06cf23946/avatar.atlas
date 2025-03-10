@@ -1,0 +1,104 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 238, 201
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 15
+  size: 147, 102
+  orig: 147, 102
+  offset: 0, 0
+  index: -1
+chibang5
+  rotate: false
+  xy: 2, 268
+  size: 192, 234
+  orig: 192, 234
+  offset: 0, 0
+  index: -1
+chibang6
+  rotate: false
+  xy: 313, 386
+  size: 154, 116
+  orig: 154, 116
+  offset: 0, 0
+  index: -1
+chibang7
+  rotate: false
+  xy: 2, 119
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+chibang8a
+  rotate: false
+  xy: 153, 121
+  size: 83, 145
+  orig: 83, 145
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 309, 284
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+foot
+  rotate: true
+  xy: 196, 277
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 469, 413
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: true
+  xy: 272, 280
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 238, 139
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 196, 338
+  size: 115, 164
+  orig: 115, 164
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 313, 320
+  size: 148, 64
+  orig: 148, 64
+  offset: 0, 0
+  index: -1

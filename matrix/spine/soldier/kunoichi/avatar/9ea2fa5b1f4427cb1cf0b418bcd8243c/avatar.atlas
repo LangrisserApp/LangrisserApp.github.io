@@ -1,0 +1,349 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kunoichi/Kunoichi/body
+  rotate: true
+  xy: 301, 142
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/body2
+  rotate: true
+  xy: 439, 2
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/eyehard
+  rotate: false
+  xy: 323, 272
+  size: 78, 30
+  orig: 78, 30
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/eyesffuer
+  rotate: true
+  xy: 2, 2
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/eyeyun
+  rotate: true
+  xy: 403, 273
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/face
+  rotate: false
+  xy: 141, 33
+  size: 116, 121
+  orig: 116, 121
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/hair1
+  rotate: false
+  xy: 323, 382
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/hair2
+  rotate: false
+  xy: 259, 138
+  size: 40, 140
+  orig: 40, 140
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/hair3
+  rotate: true
+  xy: 156, 280
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/hair4
+  rotate: false
+  xy: 2, 300
+  size: 152, 210
+  orig: 152, 210
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/hair5
+  rotate: true
+  xy: 381, 229
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/handinner
+  rotate: false
+  xy: 443, 211
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/handout
+  rotate: false
+  xy: 351, 73
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/hudang
+  rotate: false
+  xy: 385, 155
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/jianjiaout
+  rotate: true
+  xy: 494, 481
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/leginnerdown
+  rotate: false
+  xy: 431, 117
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/leginnerup
+  rotate: true
+  xy: 184, 6
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/legoutdown
+  rotate: false
+  xy: 490, 233
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/legoutup
+  rotate: false
+  xy: 409, 204
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/mouth02
+  rotate: true
+  xy: 494, 455
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/mouth04
+  rotate: false
+  xy: 494, 450
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/neiku
+  rotate: true
+  xy: 424, 31
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/weapon
+  rotate: false
+  xy: 323, 349
+  size: 120, 31
+  orig: 120, 31
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi/weapon2
+  rotate: true
+  xy: 304, 289
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/armout
+  rotate: false
+  xy: 391, 29
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/body
+  rotate: true
+  xy: 42, 15
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/eyebrow
+  rotate: false
+  xy: 42, 4
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/eyehard
+  rotate: false
+  xy: 301, 235
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/face
+  rotate: false
+  xy: 141, 156
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/hair1
+  rotate: false
+  xy: 156, 365
+  size: 165, 145
+  orig: 165, 145
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/hair2
+  rotate: false
+  xy: 2, 81
+  size: 137, 217
+  orig: 137, 217
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/handinner
+  rotate: true
+  xy: 448, 315
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/handout
+  rotate: false
+  xy: 455, 94
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/hujianinner
+  rotate: false
+  xy: 434, 162
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/hujianinner2
+  rotate: false
+  xy: 455, 127
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/hujianout
+  rotate: true
+  xy: 351, 15
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/hujianout2
+  rotate: true
+  xy: 390, 104
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/leginnerdown
+  rotate: false
+  xy: 466, 169
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/leginnerup
+  rotate: true
+  xy: 391, 2
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/legoutdown
+  rotate: true
+  xy: 390, 74
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/legoutup
+  rotate: true
+  xy: 128, 2
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/mianju
+  rotate: false
+  xy: 259, 17
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/mouth01
+  rotate: false
+  xy: 443, 204
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/pifenginner
+  rotate: true
+  xy: 323, 304
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/pifenginout
+  rotate: false
+  xy: 448, 265
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/weapon
+  rotate: true
+  xy: 359, 142
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+Kunoichi/Kunoichi02/weapon1
+  rotate: true
+  xy: 458, 366
+  size: 144, 34
+  orig: 144, 34
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 301, 195
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 141, 294
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

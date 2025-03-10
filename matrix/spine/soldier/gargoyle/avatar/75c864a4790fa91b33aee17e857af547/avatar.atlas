@@ -1,0 +1,153 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gargoyle/Gargoyle/L_chibang_1
+  rotate: false
+  xy: 234, 286
+  size: 138, 224
+  orig: 138, 224
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/L_chibang_2
+  rotate: false
+  xy: 374, 360
+  size: 116, 150
+  orig: 116, 150
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/L_shou1
+  rotate: false
+  xy: 333, 22
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/L_shou2
+  rotate: true
+  xy: 223, 29
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/L_shou3
+  rotate: true
+  xy: 154, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/L_tui1
+  rotate: true
+  xy: 295, 26
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/L_tui2
+  rotate: false
+  xy: 453, 317
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/R_chibang_1
+  rotate: false
+  xy: 2, 261
+  size: 230, 249
+  orig: 230, 249
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/R_chibang_2
+  rotate: false
+  xy: 227, 93
+  size: 138, 166
+  orig: 138, 166
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/R_shou1
+  rotate: false
+  xy: 367, 247
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/R_shou2
+  rotate: true
+  xy: 447, 277
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/R_shou3
+  rotate: false
+  xy: 254, 26
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/R_tui1
+  rotate: true
+  xy: 190, 3
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/R_tui2
+  rotate: true
+  xy: 303, 61
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/eye
+  rotate: false
+  xy: 227, 63
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/eye_1
+  rotate: false
+  xy: 154, 29
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/eye_2
+  rotate: false
+  xy: 374, 286
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/shent
+  rotate: true
+  xy: 2, 2
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/tou
+  rotate: false
+  xy: 2, 62
+  size: 223, 197
+  orig: 223, 197
+  offset: 0, 0
+  index: -1
+Gargoyle/Gargoyle/weiba
+  rotate: true
+  xy: 374, 322
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 78, 22
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

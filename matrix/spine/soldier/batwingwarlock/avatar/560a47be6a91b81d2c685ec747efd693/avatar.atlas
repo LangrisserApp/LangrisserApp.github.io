@@ -1,0 +1,223 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BatwingWarlock/arminner
+  rotate: false
+  xy: 179, 18
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+BatwingWarlock/armout
+  rotate: false
+  xy: 345, 270
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+BatwingWarlock/body
+  rotate: false
+  xy: 179, 66
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+BatwingWarlock/chibang1
+  rotate: true
+  xy: 2, 115
+  size: 196, 175
+  orig: 196, 175
+  offset: 0, 0
+  index: -1
+BatwingWarlock/chibang2
+  rotate: false
+  xy: 361, 339
+  size: 130, 171
+  orig: 130, 171
+  offset: 0, 0
+  index: -1
+BatwingWarlock/dimian
+  rotate: true
+  xy: 179, 211
+  size: 100, 30
+  orig: 100, 30
+  offset: 0, 0
+  index: -1
+BatwingWarlock/face
+  rotate: false
+  xy: 2, 17
+  size: 127, 96
+  orig: 127, 96
+  offset: 0, 0
+  index: -1
+BatwingWarlock/guang
+  rotate: false
+  xy: 279, 255
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BatwingWarlock/hair1
+  rotate: true
+  xy: 361, 318
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: -1
+BatwingWarlock/hair2
+  rotate: false
+  xy: 493, 456
+  size: 17, 54
+  orig: 17, 54
+  offset: 0, 0
+  index: -1
+BatwingWarlock/handout1
+  rotate: true
+  xy: 235, 110
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+BatwingWarlock/handout2
+  rotate: false
+  xy: 237, 39
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+BatwingWarlock/hat
+  rotate: false
+  xy: 199, 321
+  size: 160, 189
+  orig: 160, 189
+  offset: 0, 0
+  index: -1
+BatwingWarlock/jianjiainner
+  rotate: false
+  xy: 237, 11
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+BatwingWarlock/jianjiaout
+  rotate: true
+  xy: 131, 32
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+BatwingWarlock/legdowninner
+  rotate: false
+  xy: 398, 271
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+BatwingWarlock/legdownout
+  rotate: false
+  xy: 271, 159
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+BatwingWarlock/legupinner
+  rotate: false
+  xy: 326, 216
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+BatwingWarlock/legupout
+  rotate: false
+  xy: 298, 168
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+BatwingWarlock/texiao1
+  rotate: true
+  xy: 2, 8
+  size: 7, 52
+  orig: 7, 52
+  offset: 0, 0
+  index: -1
+BatwingWarlock/texiao2
+  rotate: false
+  xy: 503, 419
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1
+BatwingWarlock/texiao3
+  rotate: false
+  xy: 503, 400
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+BatwingWarlock/texiao4
+  rotate: false
+  xy: 493, 413
+  size: 8, 41
+  orig: 8, 41
+  offset: 0, 0
+  index: -1
+BatwingWarlock/weapon
+  rotate: false
+  xy: 2, 313
+  size: 195, 197
+  orig: 195, 197
+  offset: 0, 0
+  index: -1
+BatwingWarlock/xiabai1
+  rotate: true
+  xy: 211, 220
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+BatwingWarlock/xiabai2
+  rotate: false
+  xy: 211, 256
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+BatwingWarlock/xiabai3
+  rotate: false
+  xy: 227, 149
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+BatwingWarlock/xiabaihou
+  rotate: true
+  xy: 179, 136
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+BatwingWarlock/yaodai
+  rotate: false
+  xy: 274, 214
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+BatwingWarlock/yaojiainner
+  rotate: true
+  xy: 429, 322
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+BatwingWarlock/yaojiaout
+  rotate: false
+  xy: 235, 72
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1

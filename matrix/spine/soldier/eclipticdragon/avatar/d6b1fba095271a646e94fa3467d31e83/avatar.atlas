@@ -1,0 +1,272 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragon_arm
+  rotate: false
+  xy: 881, 961
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+Dragon_winginner
+  rotate: true
+  xy: 304, 720
+  size: 218, 320
+  orig: 218, 320
+  offset: 0, 0
+  index: -1
+Dragon_winginner2
+  rotate: true
+  xy: 2, 79
+  size: 194, 343
+  orig: 194, 343
+  offset: 0, 0
+  index: -1
+Dragon_wingout
+  rotate: false
+  xy: 2, 650
+  size: 300, 372
+  orig: 300, 372
+  offset: 0, 0
+  index: -1
+Dragon_wingout2
+  rotate: false
+  xy: 2, 275
+  size: 299, 373
+  orig: 299, 373
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 450, 199
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 168, 2
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: false
+  xy: 719, 719
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 565, 558
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 626, 788
+  size: 132, 150
+  orig: 132, 150
+  offset: 0, 0
+  index: -1
+hei1
+  rotate: false
+  xy: 584, 625
+  size: 43, 93
+  orig: 43, 93
+  offset: 0, 0
+  index: -1
+hei2
+  rotate: true
+  xy: 478, 441
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+hei3
+  rotate: false
+  xy: 347, 96
+  size: 98, 78
+  orig: 98, 78
+  offset: 0, 0
+  index: -1
+jianjiainner1
+  rotate: false
+  xy: 554, 445
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+jianjiainner2
+  rotate: false
+  xy: 970, 956
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 242, 3
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: true
+  xy: 923, 929
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 327, 29
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+long_an1
+  rotate: true
+  xy: 881, 929
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+long_an2
+  rotate: false
+  xy: 2, 2
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+long_body
+  rotate: false
+  xy: 347, 176
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+long_bojia
+  rotate: false
+  xy: 478, 501
+  size: 85, 126
+  orig: 85, 126
+  offset: 0, 0
+  index: -1
+long_head
+  rotate: false
+  xy: 303, 275
+  size: 169, 159
+  orig: 169, 159
+  offset: 0, 0
+  index: -1
+long_legoutdown1
+  rotate: true
+  xy: 629, 621
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+long_legoutdown2
+  rotate: false
+  xy: 629, 669
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+long_legoutup
+  rotate: true
+  xy: 626, 728
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+long_neak
+  rotate: true
+  xy: 767, 942
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+long_weiba
+  rotate: false
+  xy: 304, 629
+  size: 278, 89
+  orig: 278, 89
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 685, 669
+  size: 19, 4
+  orig: 19, 4
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 962, 928
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 565, 501
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+toukui1
+  rotate: false
+  xy: 685, 675
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+toukui2
+  rotate: false
+  xy: 303, 436
+  size: 173, 191
+  orig: 173, 191
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: true
+  xy: 606, 607
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 86, 2
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: true
+  xy: 713, 683
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 304, 940
+  size: 461, 82
+  orig: 461, 82
+  offset: 0, 0
+  index: -1
+yaojiaout
+  rotate: false
+  xy: 355, 59
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,482 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EMermaid01/L_shou1
+  rotate: true
+  xy: 976, 103
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+EMermaid01/L_shou2
+  rotate: true
+  xy: 635, 79
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+EMermaid01/R_shou2
+  rotate: false
+  xy: 986, 346
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+EMermaid01/R_shou2_1
+  rotate: true
+  xy: 743, 30
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+EMermaid01/R_shou3
+  rotate: true
+  xy: 329, 391
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+EMermaid01/body1
+  rotate: false
+  xy: 561, 106
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+EMermaid01/body2
+  rotate: false
+  xy: 965, 238
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+EMermaid01/body3
+  rotate: true
+  xy: 293, 58
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+EMermaid01/body4
+  rotate: false
+  xy: 378, 53
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+EMermaid01/body5
+  rotate: false
+  xy: 105, 55
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+EMermaid01/toukui
+  rotate: false
+  xy: 386, 277
+  size: 173, 168
+  orig: 173, 168
+  offset: 0, 0
+  index: -1
+EMermaid02/L_shou1
+  rotate: false
+  xy: 350, 2
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+EMermaid02/L_shou2
+  rotate: false
+  xy: 844, 119
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+EMermaid02/R_shou2
+  rotate: true
+  xy: 621, 27
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+EMermaid02/R_shou2_1
+  rotate: true
+  xy: 976, 142
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+EMermaid02/R_shou3
+  rotate: true
+  xy: 783, 122
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+EMermaid02/body1
+  rotate: false
+  xy: 635, 119
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+EMermaid02/toukui
+  rotate: false
+  xy: 626, 334
+  size: 178, 176
+  orig: 178, 176
+  offset: 0, 0
+  index: -1
+EMermaid03/L_shou1
+  rotate: true
+  xy: 683, 30
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+EMermaid03/L_shou2
+  rotate: false
+  xy: 561, 351
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+EMermaid03/R_shou2
+  rotate: false
+  xy: 632, 185
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+EMermaid03/R_shou2_1
+  rotate: true
+  xy: 848, 183
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+EMermaid03/R_shou3
+  rotate: false
+  xy: 882, 263
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+EMermaid03/body1
+  rotate: false
+  xy: 619, 262
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+EMermaid03/toukui
+  rotate: false
+  xy: 2, 134
+  size: 190, 188
+  orig: 190, 188
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 936, 126
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Mermaid01/L_shou1
+  rotate: true
+  xy: 843, 41
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Mermaid01/L_shou2
+  rotate: true
+  xy: 699, 79
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+Mermaid01/R_shou1
+  rotate: false
+  xy: 683, 2
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Mermaid01/R_shou1_1
+  rotate: false
+  xy: 509, 17
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Mermaid01/R_shou2
+  rotate: true
+  xy: 961, 202
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Mermaid01/R_shou2_1
+  rotate: false
+  xy: 843, 80
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Mermaid01/R_shou3
+  rotate: true
+  xy: 293, 2
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+Mermaid01/body1
+  rotate: false
+  xy: 709, 119
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+Mermaid01/body2
+  rotate: true
+  xy: 986, 390
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+Mermaid01/body3
+  rotate: true
+  xy: 797, 258
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+Mermaid01/body4
+  rotate: false
+  xy: 461, 53
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+Mermaid01/body5
+  rotate: false
+  xy: 199, 55
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+Mermaid01/eyehard
+  rotate: false
+  xy: 544, 57
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+Mermaid01/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+Mermaid01/eyeyun
+  rotate: false
+  xy: 428, 13
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Mermaid01/face
+  rotate: false
+  xy: 2, 39
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+Mermaid01/toukui
+  rotate: false
+  xy: 386, 107
+  size: 173, 168
+  orig: 173, 168
+  offset: 0, 0
+  index: -1
+Mermaid01/weapon
+  rotate: false
+  xy: 329, 447
+  size: 295, 63
+  orig: 295, 63
+  offset: 0, 0
+  index: -1
+Mermaid01/zui
+  rotate: true
+  xy: 619, 422
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Mermaid01/zui2
+  rotate: false
+  xy: 79, 19
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Mermaid02/L_shou1
+  rotate: false
+  xy: 389, 2
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Mermaid02/L_shou2
+  rotate: true
+  xy: 171, 6
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Mermaid02/R_shou2
+  rotate: false
+  xy: 986, 450
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Mermaid02/R_shou2_1
+  rotate: true
+  xy: 965, 267
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+Mermaid02/R_shou3
+  rotate: false
+  xy: 891, 202
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+Mermaid02/body1
+  rotate: false
+  xy: 774, 192
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+Mermaid02/body2
+  rotate: false
+  xy: 544, 2
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+Mermaid02/toukui
+  rotate: false
+  xy: 806, 334
+  size: 178, 176
+  orig: 178, 176
+  offset: 0, 0
+  index: -1
+Mermaid02/weapon
+  rotate: false
+  xy: 2, 324
+  size: 309, 76
+  orig: 309, 76
+  offset: 0, 0
+  index: -1
+Mermaid02/yuchi1
+  rotate: false
+  xy: 722, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Mermaid03/L_shou1
+  rotate: true
+  xy: 783, 73
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+Mermaid03/L_shou2
+  rotate: false
+  xy: 561, 255
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+Mermaid03/R_shou2
+  rotate: false
+  xy: 703, 185
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+Mermaid03/R_shou2_1
+  rotate: true
+  xy: 893, 127
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+Mermaid03/R_shou3
+  rotate: true
+  xy: 561, 172
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+Mermaid03/body1
+  rotate: false
+  xy: 708, 262
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+Mermaid03/body2
+  rotate: false
+  xy: 313, 324
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Mermaid03/toukui
+  rotate: false
+  xy: 194, 134
+  size: 190, 188
+  orig: 190, 188
+  offset: 0, 0
+  index: -1
+Mermaid03/weapon
+  rotate: false
+  xy: 2, 402
+  size: 325, 108
+  orig: 325, 108
+  offset: 0, 0
+  index: -1
+Mermaid03/yuchi
+  rotate: true
+  xy: 105, 13
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+Mermaid03/yuchi1
+  rotate: true
+  xy: 782, 32
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Mermaid03/yuchi2
+  rotate: false
+  xy: 235, 2
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1

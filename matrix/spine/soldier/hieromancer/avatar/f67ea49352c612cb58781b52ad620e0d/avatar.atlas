@@ -1,0 +1,209 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hieromancer/arminner
+  rotate: false
+  xy: 88, 228
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+Hieromancer/body
+  rotate: false
+  xy: 143, 292
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Hieromancer/eyes
+  rotate: false
+  xy: 427, 466
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+Hieromancer/eyesffuer
+  rotate: true
+  xy: 50, 148
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+Hieromancer/eyeyun
+  rotate: false
+  xy: 274, 366
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Hieromancer/face
+  rotate: false
+  xy: 135, 359
+  size: 137, 151
+  orig: 137, 151
+  offset: 0, 0
+  index: -1
+Hieromancer/hair1
+  rotate: false
+  xy: 2, 225
+  size: 84, 122
+  orig: 84, 122
+  offset: 0, 0
+  index: -1
+Hieromancer/hair2
+  rotate: false
+  xy: 2, 128
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1
+Hieromancer/handinner
+  rotate: false
+  xy: 285, 330
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+Hieromancer/handinner2
+  rotate: true
+  xy: 481, 340
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Hieromancer/handout
+  rotate: false
+  xy: 2, 53
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+Hieromancer/jianjiainner
+  rotate: true
+  xy: 484, 370
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+Hieromancer/jianjiaout
+  rotate: true
+  xy: 2, 2
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+Hieromancer/leginnerdown
+  rotate: false
+  xy: 330, 332
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Hieromancer/leginnerup
+  rotate: false
+  xy: 255, 307
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+Hieromancer/legoutdown
+  rotate: true
+  xy: 285, 304
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Hieromancer/legoutup
+  rotate: true
+  xy: 423, 356
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+Hieromancer/mouth
+  rotate: false
+  xy: 143, 286
+  size: 24, 4
+  orig: 24, 4
+  offset: 0, 0
+  index: -1
+Hieromancer/mouth02
+  rotate: false
+  xy: 50, 44
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Hieromancer/qunzi1
+  rotate: true
+  xy: 360, 396
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+Hieromancer/qunzi2
+  rotate: false
+  xy: 203, 292
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+Hieromancer/qunzi3
+  rotate: true
+  xy: 424, 395
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+Hieromancer/qunzi4
+  rotate: true
+  xy: 88, 274
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+Hieromancer/texiao1
+  rotate: false
+  xy: 2, 349
+  size: 131, 161
+  orig: 131, 161
+  offset: 0, 0
+  index: -1
+Hieromancer/texiao2
+  rotate: false
+  xy: 360, 434
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+Hieromancer/texiao3
+  rotate: false
+  xy: 274, 406
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+Hieromancer/xiuzi1
+  rotate: false
+  xy: 427, 423
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+Hieromancer/xiuzi2
+  rotate: true
+  xy: 355, 355
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 50, 72
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

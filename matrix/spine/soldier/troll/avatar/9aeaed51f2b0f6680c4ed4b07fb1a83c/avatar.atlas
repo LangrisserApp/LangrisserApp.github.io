@@ -1,0 +1,111 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 455, 419
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Troll/images/arminnerdown
+  rotate: true
+  xy: 258, 46
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+Troll/images/arminnerup
+  rotate: false
+  xy: 352, 141
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+Troll/images/armoutdown
+  rotate: false
+  xy: 182, 256
+  size: 89, 114
+  orig: 89, 114
+  offset: 0, 0
+  index: -1
+Troll/images/armoutup
+  rotate: false
+  xy: 258, 127
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+Troll/images/body
+  rotate: false
+  xy: 2, 196
+  size: 178, 174
+  orig: 178, 174
+  offset: 0, 0
+  index: -1
+Troll/images/doudang
+  rotate: true
+  xy: 158, 49
+  size: 145, 98
+  orig: 145, 98
+  offset: 0, 0
+  index: -1
+Troll/images/head
+  rotate: false
+  xy: 2, 13
+  size: 154, 181
+  orig: 154, 181
+  offset: 0, 0
+  index: -1
+Troll/images/jianjiaout
+  rotate: true
+  xy: 273, 234
+  size: 133, 141
+  orig: 133, 141
+  offset: 0, 0
+  index: -1
+Troll/images/leginnerdown
+  rotate: true
+  xy: 182, 196
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Troll/images/leginnerup
+  rotate: true
+  xy: 417, 175
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Troll/images/legoutdown
+  rotate: false
+  xy: 360, 72
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Troll/images/legoutup
+  rotate: false
+  xy: 416, 253
+  size: 68, 114
+  orig: 68, 114
+  offset: 0, 0
+  index: -1
+Troll/images/weapon
+  rotate: false
+  xy: 2, 372
+  size: 274, 121
+  orig: 274, 121
+  offset: 0, 0
+  index: -1
+Troll/images/weijin
+  rotate: false
+  xy: 278, 369
+  size: 175, 124
+  orig: 175, 124
+  offset: 0, 0
+  index: -1

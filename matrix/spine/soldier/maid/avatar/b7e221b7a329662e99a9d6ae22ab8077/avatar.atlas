@@ -1,0 +1,286 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 81, 2
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/body
+  rotate: false
+  xy: 338, 173
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/dd
+  rotate: false
+  xy: 120, 176
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/eyehard
+  rotate: false
+  xy: 292, 240
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/eyesffuer
+  rotate: false
+  xy: 2, 2
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/eyeyun
+  rotate: false
+  xy: 135, 137
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/face
+  rotate: false
+  xy: 23, 42
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/handinner
+  rotate: false
+  xy: 236, 86
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/handout
+  rotate: true
+  xy: 273, 145
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/hatinner
+  rotate: false
+  xy: 2, 310
+  size: 139, 200
+  orig: 139, 200
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/hatinner
+  rotate: false
+  xy: 2, 310
+  size: 139, 200
+  orig: 139, 200
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/hatout
+  rotate: false
+  xy: 143, 345
+  size: 170, 165
+  orig: 170, 165
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/hudang
+  rotate: false
+  xy: 428, 244
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/jianjiainner
+  rotate: false
+  xy: 329, 105
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/jianjiaout
+  rotate: true
+  xy: 157, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/leginnerdown
+  rotate: false
+  xy: 120, 244
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/leginnerup
+  rotate: true
+  xy: 177, 59
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/leginnerup
+  rotate: true
+  xy: 177, 59
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/legoutdown
+  rotate: false
+  xy: 120, 274
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/legoutup
+  rotate: true
+  xy: 335, 142
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/legoutup
+  rotate: true
+  xy: 335, 142
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/mouth01
+  rotate: false
+  xy: 485, 468
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/mouth02
+  rotate: true
+  xy: 214, 62
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/qunbaiinner
+  rotate: true
+  xy: 374, 240
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/qunbaiout
+  rotate: false
+  xy: 390, 206
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/toushi
+  rotate: true
+  xy: 23, 147
+  size: 161, 95
+  orig: 161, 95
+  offset: 0, 0
+  index: -1
+Maid/Maid_02/weapon
+  rotate: false
+  xy: 120, 182
+  size: 140, 58
+  orig: 140, 58
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/body
+  rotate: true
+  xy: 262, 182
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/handinner
+  rotate: true
+  xy: 211, 137
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/handout
+  rotate: false
+  xy: 135, 65
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/hatout
+  rotate: false
+  xy: 315, 345
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/jianjiainner
+  rotate: true
+  xy: 363, 106
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/jianjiaout
+  rotate: false
+  xy: 277, 99
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/leginnerdown
+  rotate: true
+  xy: 135, 42
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/legoutdown
+  rotate: false
+  xy: 485, 476
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/mianju
+  rotate: false
+  xy: 292, 276
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/toushi
+  rotate: false
+  xy: 143, 242
+  size: 147, 101
+  orig: 147, 101
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/weapon
+  rotate: false
+  xy: 428, 285
+  size: 82, 58
+  orig: 82, 58
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/weapon1
+  rotate: true
+  xy: 2, 45
+  size: 263, 19
+  orig: 263, 19
+  offset: 0, 0
+  index: -1
+Maid/Maid_03/yaojia
+  rotate: false
+  xy: 177, 88
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1

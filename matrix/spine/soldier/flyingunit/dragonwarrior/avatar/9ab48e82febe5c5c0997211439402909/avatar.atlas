@@ -1,0 +1,195 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DragonWarrior/aiminnerdown
+  rotate: true
+  xy: 166, 26
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+DragonWarrior/arminnerup
+  rotate: true
+  xy: 190, 66
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+DragonWarrior/armoutdown
+  rotate: true
+  xy: 218, 31
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+DragonWarrior/armoutup
+  rotate: true
+  xy: 420, 180
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+DragonWarrior/body
+  rotate: true
+  xy: 346, 168
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+DragonWarrior/chibanginner
+  rotate: false
+  xy: 2, 171
+  size: 199, 162
+  orig: 199, 162
+  offset: 0, 0
+  index: -1
+DragonWarrior/chibangout
+  rotate: false
+  xy: 2, 335
+  size: 223, 175
+  orig: 223, 175
+  offset: 0, 0
+  index: -1
+DragonWarrior/erduo
+  rotate: false
+  xy: 2, 4
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+DragonWarrior/eye
+  rotate: true
+  xy: 463, 423
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+DragonWarrior/eyesffuer
+  rotate: true
+  xy: 420, 265
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+DragonWarrior/eyeyun
+  rotate: false
+  xy: 88, 26
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+DragonWarrior/face
+  rotate: false
+  xy: 227, 359
+  size: 146, 151
+  orig: 146, 151
+  offset: 0, 0
+  index: -1
+DragonWarrior/hair1
+  rotate: true
+  xy: 203, 188
+  size: 145, 141
+  orig: 145, 141
+  offset: 0, 0
+  index: -1
+DragonWarrior/hair2
+  rotate: true
+  xy: 227, 340
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+DragonWarrior/hair3
+  rotate: true
+  xy: 2, 62
+  size: 107, 186
+  orig: 107, 186
+  offset: 0, 0
+  index: -1
+DragonWarrior/handinner
+  rotate: false
+  xy: 190, 94
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+DragonWarrior/handout
+  rotate: false
+  xy: 190, 124
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+DragonWarrior/jiao
+  rotate: true
+  xy: 375, 346
+  size: 164, 86
+  orig: 164, 86
+  offset: 0, 0
+  index: -1
+DragonWarrior/leginnerdown
+  rotate: false
+  xy: 294, 150
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+DragonWarrior/leginnerup
+  rotate: true
+  xy: 251, 151
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+DragonWarrior/legoutdown
+  rotate: false
+  xy: 191, 23
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+DragonWarrior/legoutup
+  rotate: true
+  xy: 203, 155
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+DragonWarrior/mouth01
+  rotate: true
+  xy: 88, 2
+  size: 22, 4
+  orig: 22, 4
+  offset: 0, 0
+  index: -1
+DragonWarrior/texiao
+  rotate: false
+  xy: 346, 229
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+DragonWarrior/weiba
+  rotate: true
+  xy: 420, 213
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+DragonWarrior/yaojia
+  rotate: true
+  xy: 420, 152
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 463, 347
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 204, 220
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Wolf/L1_shou1
+  rotate: false
+  xy: 136, 276
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+Wolf/L1_shou2
+  rotate: true
+  xy: 293, 255
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+Wolf/L1_shou3
+  rotate: false
+  xy: 113, 96
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+Wolf/L_shou1
+  rotate: true
+  xy: 244, 235
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+Wolf/L_shou2
+  rotate: false
+  xy: 136, 208
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Wolf/L_shou3
+  rotate: true
+  xy: 2, 2
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+Wolf/R1_shou1
+  rotate: true
+  xy: 152, 111
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Wolf/R1_shou2
+  rotate: false
+  xy: 184, 120
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Wolf/R1_shou3
+  rotate: false
+  xy: 274, 298
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+Wolf/R2_shou1
+  rotate: true
+  xy: 171, 161
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+Wolf/R2_shou2
+  rotate: false
+  xy: 113, 152
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Wolf/R2_shou3
+  rotate: false
+  xy: 200, 296
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+Wolf/body1
+  rotate: true
+  xy: 2, 91
+  size: 136, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1
+Wolf/body2
+  rotate: true
+  xy: 431, 405
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+Wolf/boz
+  rotate: false
+  xy: 168, 386
+  size: 141, 124
+  orig: 141, 124
+  offset: 0, 0
+  index: -1
+Wolf/eye
+  rotate: false
+  xy: 311, 387
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Wolf/sj
+  rotate: false
+  xy: 293, 217
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+Wolf/tou
+  rotate: false
+  xy: 2, 229
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+Wolf/weib
+  rotate: false
+  xy: 311, 412
+  size: 118, 98
+  orig: 118, 98
+  offset: 0, 0
+  index: -1
+Wolf/yaor
+  rotate: false
+  xy: 2, 369
+  size: 164, 141
+  orig: 164, 141
+  offset: 0, 0
+  index: -1
+Wolf/yun
+  rotate: false
+  xy: 213, 187
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1

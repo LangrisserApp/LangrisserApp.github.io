@@ -1,0 +1,251 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 456, 373
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Lobster02/arminnerdown
+  rotate: false
+  xy: 451, 311
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Lobster02/arminnerup
+  rotate: true
+  xy: 268, 147
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+Lobster02/armoutdown
+  rotate: true
+  xy: 99, 2
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Lobster02/armoutup
+  rotate: false
+  xy: 457, 449
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+Lobster02/body1
+  rotate: false
+  xy: 2, 340
+  size: 152, 170
+  orig: 152, 170
+  offset: 0, 0
+  index: -1
+Lobster02/body2
+  rotate: true
+  xy: 2, 153
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+Lobster02/handinner1
+  rotate: false
+  xy: 358, 351
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+Lobster02/handinner2
+  rotate: false
+  xy: 383, 291
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+Lobster02/handout1
+  rotate: true
+  xy: 130, 236
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+Lobster02/handout2
+  rotate: false
+  xy: 268, 183
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+Lobster02/head1
+  rotate: false
+  xy: 156, 346
+  size: 102, 164
+  orig: 102, 164
+  offset: 0, 0
+  index: -1
+Lobster02/head2
+  rotate: false
+  xy: 260, 349
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+Lobster02/head3
+  rotate: false
+  xy: 2, 41
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+Lobster02/jianjiainner
+  rotate: false
+  xy: 130, 146
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+Lobster02/jianjiainner2
+  rotate: false
+  xy: 267, 90
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+Lobster02/jianjiaout
+  rotate: false
+  xy: 100, 55
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+Lobster02/leginner1down
+  rotate: false
+  xy: 223, 244
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+Lobster02/leginner1middle
+  rotate: false
+  xy: 234, 46
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Lobster02/leginner1up
+  rotate: true
+  xy: 342, 248
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Lobster02/leginner2
+  rotate: false
+  xy: 342, 280
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+Lobster02/leginner3
+  rotate: false
+  xy: 225, 161
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+Lobster02/legout1down
+  rotate: false
+  xy: 202, 56
+  size: 30, 88
+  orig: 30, 88
+  offset: 0, 0
+  index: -1
+Lobster02/legout1up
+  rotate: false
+  xy: 487, 317
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Lobster02/legout2down
+  rotate: true
+  xy: 2, 10
+  size: 29, 95
+  orig: 29, 95
+  offset: 0, 0
+  index: -1
+Lobster02/legout2middle
+  rotate: true
+  xy: 451, 290
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+Lobster02/legout2up
+  rotate: true
+  xy: 383, 272
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Lobster02/legout3down
+  rotate: false
+  xy: 234, 81
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+Lobster02/legout3middle
+  rotate: false
+  xy: 488, 292
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Lobster02/legout3up
+  rotate: false
+  xy: 107, 148
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Lobster02/weiba
+  rotate: false
+  xy: 267, 250
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+Lobster02/xuinnerdown
+  rotate: false
+  xy: 316, 98
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Lobster02/xuinnerup
+  rotate: true
+  xy: 260, 455
+  size: 55, 195
+  orig: 55, 195
+  offset: 0, 0
+  index: -1
+Lobster02/xuoutdown
+  rotate: false
+  xy: 456, 347
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Lobster02/xuoutup
+  rotate: false
+  xy: 107, 173
+  size: 21, 165
+  orig: 21, 165
+  offset: 0, 0
+  index: -1

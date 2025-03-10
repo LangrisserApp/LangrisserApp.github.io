@@ -1,0 +1,202 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer/Archer/body
+  rotate: false
+  xy: 2, 37
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+Archer/Archer/handinner
+  rotate: true
+  xy: 331, 451
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+Archer/Archer/handout
+  rotate: true
+  xy: 248, 355
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+Archer/Archer/hatout
+  rotate: false
+  xy: 2, 288
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+Archer/Archer/leginnerdown
+  rotate: false
+  xy: 200, 146
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Archer/Archer/leginnerup
+  rotate: false
+  xy: 198, 104
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Archer/Archer/legoutdown
+  rotate: false
+  xy: 226, 255
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Archer/Archer/legoutup
+  rotate: false
+  xy: 121, 91
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Archer/Archer/yaojia
+  rotate: false
+  xy: 200, 187
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Archer/EArcher/body
+  rotate: false
+  xy: 153, 233
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+Archer/EArcher/handinner
+  rotate: true
+  xy: 2, 2
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+Archer/EArcher/handout
+  rotate: false
+  xy: 471, 438
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+Archer/EArcher/hatout
+  rotate: false
+  xy: 2, 139
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+Archer/EArcher/leginnerdown
+  rotate: false
+  xy: 226, 294
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Archer/EArcher/leginnerup
+  rotate: false
+  xy: 162, 106
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Archer/EArcher/legoutdown
+  rotate: true
+  xy: 396, 449
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Archer/EArcher/legoutup
+  rotate: false
+  xy: 121, 43
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Archer/EArcher/yaojia
+  rotate: true
+  xy: 75, 23
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Archer/eyehard
+  rotate: false
+  xy: 254, 437
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+Archer/eyesffuer
+  rotate: true
+  xy: 75, 51
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+Archer/eyeyun
+  rotate: true
+  xy: 153, 150
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Archer/face
+  rotate: true
+  xy: 153, 335
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+Archer/weapon
+  rotate: false
+  xy: 2, 439
+  size: 250, 69
+  orig: 250, 69
+  offset: 0, 0
+  index: -1
+Archer/weapon1
+  rotate: false
+  xy: 254, 486
+  size: 141, 18
+  orig: 141, 18
+  offset: 0, 0
+  index: -1
+Archer/weapon2
+  rotate: false
+  xy: 254, 506
+  size: 215, 2
+  orig: 215, 2
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 248, 397
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 68, 15
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 397, 478
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

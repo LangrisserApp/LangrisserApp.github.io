@@ -1,0 +1,209 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer/weapon1
+  rotate: false
+  xy: 2, 66
+  size: 141, 18
+  orig: 141, 18
+  offset: 0, 0
+  index: -1
+Fairy/Fairy_1/hairinner
+  rotate: true
+  xy: 282, 274
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+Fairy/Fairy_2/handinner
+  rotate: false
+  xy: 426, 272
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+Fairy/Fairy_2/handout
+  rotate: true
+  xy: 76, 21
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+Fairy/Fairy_2/weapon
+  rotate: false
+  xy: 2, 421
+  size: 282, 87
+  orig: 282, 87
+  offset: 0, 0
+  index: -1
+Fairy/eyehard
+  rotate: true
+  xy: 426, 330
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+Fairy/eyesffuer
+  rotate: false
+  xy: 163, 210
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+Fairy/eyeyun
+  rotate: true
+  xy: 465, 434
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+Fairy/face
+  rotate: false
+  xy: 181, 326
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+Fairy/hatout
+  rotate: false
+  xy: 2, 262
+  size: 177, 157
+  orig: 177, 157
+  offset: 0, 0
+  index: -1
+Fairy/mouth01
+  rotate: true
+  xy: 268, 291
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+Fairy/mouth02
+  rotate: true
+  xy: 312, 210
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 163, 170
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/arminnerdown
+  rotate: false
+  xy: 330, 214
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/armoutdown
+  rotate: false
+  xy: 424, 237
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/body
+  rotate: true
+  xy: 2, 12
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/jianjiainner
+  rotate: true
+  xy: 242, 210
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/jianjiaout
+  rotate: false
+  xy: 268, 236
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/jianjiaout2
+  rotate: false
+  xy: 163, 83
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/leginnerdown
+  rotate: true
+  xy: 268, 212
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/leginnerup
+  rotate: false
+  xy: 206, 101
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/legoutdown
+  rotate: true
+  xy: 325, 240
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/legoutup
+  rotate: false
+  xy: 163, 102
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/toushi
+  rotate: false
+  xy: 181, 250
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/winginner
+  rotate: true
+  xy: 286, 411
+  size: 97, 177
+  orig: 97, 177
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/wingout
+  rotate: false
+  xy: 2, 86
+  size: 159, 174
+  orig: 159, 174
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/yaojia
+  rotate: true
+  xy: 381, 239
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/yaojiainner
+  rotate: true
+  xy: 465, 417
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+SkyArcher/SkyArcher/yaojiainner2
+  rotate: false
+  xy: 239, 176
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1

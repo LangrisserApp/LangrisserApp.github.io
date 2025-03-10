@@ -1,0 +1,335 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gladiator/Berserker/body
+  rotate: true
+  xy: 853, 339
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/handinner
+  rotate: true
+  xy: 161, 154
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/handout
+  rotate: true
+  xy: 246, 296
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/handout1
+  rotate: false
+  xy: 109, 74
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/hatout
+  rotate: false
+  xy: 2, 343
+  size: 165, 167
+  orig: 165, 167
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/jianjiainner
+  rotate: false
+  xy: 319, 327
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/jianjiaout
+  rotate: true
+  xy: 960, 349
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/jianjiaout1
+  rotate: true
+  xy: 694, 328
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/leginnerdown
+  rotate: true
+  xy: 160, 127
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/leginnerup
+  rotate: false
+  xy: 62, 2
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/legoutdown
+  rotate: true
+  xy: 241, 267
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/legoutup
+  rotate: false
+  xy: 224, 154
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/weapon
+  rotate: true
+  xy: 2, 142
+  size: 199, 118
+  orig: 199, 118
+  offset: 0, 0
+  index: -1
+Gladiator/Berserker/yaojia
+  rotate: false
+  xy: 122, 137
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/body
+  rotate: false
+  xy: 936, 411
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/handinner
+  rotate: true
+  xy: 366, 333
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/handout
+  rotate: false
+  xy: 161, 198
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/handout1
+  rotate: true
+  xy: 170, 265
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/hatout
+  rotate: false
+  xy: 539, 359
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/jianjiainner
+  rotate: false
+  xy: 109, 34
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/jianjiaout
+  rotate: true
+  xy: 253, 208
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/jianjiaout1
+  rotate: false
+  xy: 626, 331
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/leginnerdown
+  rotate: true
+  xy: 727, 332
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/leginnerup
+  rotate: true
+  xy: 532, 323
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/legoutdown
+  rotate: false
+  xy: 153, 90
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/legoutup
+  rotate: true
+  xy: 421, 336
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+Gladiator/EnemyGladiator02/weapon
+  rotate: false
+  xy: 354, 377
+  size: 183, 133
+  orig: 183, 133
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/body
+  rotate: false
+  xy: 853, 411
+  size: 81, 99
+  orig: 81, 99
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/eyehard
+  rotate: true
+  xy: 122, 265
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/eyesffuer
+  rotate: false
+  xy: 169, 343
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/eyeyun
+  rotate: true
+  xy: 122, 181
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/face
+  rotate: false
+  xy: 2, 45
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/handinner
+  rotate: true
+  xy: 478, 333
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/handout
+  rotate: false
+  xy: 208, 198
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/handout1
+  rotate: true
+  xy: 248, 338
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/hatout
+  rotate: false
+  xy: 696, 358
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/jianjiainner
+  rotate: false
+  xy: 368, 292
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/jianjiaout
+  rotate: false
+  xy: 2, 2
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/jianjiaout1
+  rotate: false
+  xy: 580, 330
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/leginnerdown
+  rotate: false
+  xy: 671, 328
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/leginnerup
+  rotate: false
+  xy: 256, 159
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/legoutdown
+  rotate: true
+  xy: 97, 5
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/legoutup
+  rotate: true
+  xy: 314, 286
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+Gladiator/Gladiator02/weapon
+  rotate: false
+  xy: 169, 376
+  size: 183, 134
+  orig: 183, 134
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 170, 303
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 292, 289
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 200, 126
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

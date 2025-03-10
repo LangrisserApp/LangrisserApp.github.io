@@ -1,0 +1,377 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 833, 427
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/body
+  rotate: true
+  xy: 189, 15
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/handinner
+  rotate: true
+  xy: 672, 241
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/handout
+  rotate: true
+  xy: 639, 435
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/jianjiainner
+  rotate: true
+  xy: 956, 385
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/jianjiaout
+  rotate: false
+  xy: 734, 388
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/leginnerdown
+  rotate: false
+  xy: 880, 387
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/legoutdown
+  rotate: true
+  xy: 702, 214
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl/yaojia
+  rotate: true
+  xy: 530, 208
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/body
+  rotate: false
+  xy: 103, 18
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/hairinner
+  rotate: true
+  xy: 217, 239
+  size: 153, 177
+  orig: 153, 177
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/handinner
+  rotate: false
+  xy: 391, 149
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/handout
+  rotate: false
+  xy: 672, 286
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/hatout
+  rotate: false
+  xy: 2, 252
+  size: 213, 140
+  orig: 213, 140
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/jianjiainner
+  rotate: false
+  xy: 832, 389
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/jianjiaout
+  rotate: false
+  xy: 396, 207
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/leginnerdown
+  rotate: true
+  xy: 622, 215
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/legoutdown
+  rotate: true
+  xy: 983, 402
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+SpearGirl/EnemySpearGirl03/weapon
+  rotate: false
+  xy: 2, 453
+  size: 369, 57
+  orig: 369, 57
+  offset: 0, 0
+  index: -1
+SpearGirl/Pike
+  rotate: false
+  xy: 373, 420
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/body
+  rotate: true
+  xy: 742, 427
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/eyehard
+  rotate: true
+  xy: 988, 430
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/hairinner
+  rotate: true
+  xy: 215, 89
+  size: 148, 174
+  orig: 148, 174
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/handinner
+  rotate: false
+  xy: 428, 91
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/handout
+  rotate: false
+  xy: 373, 21
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/hatout
+  rotate: false
+  xy: 2, 110
+  size: 211, 140
+  orig: 211, 140
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/jianjiainner
+  rotate: false
+  xy: 908, 388
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/jianjiaout
+  rotate: false
+  xy: 463, 207
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/leginnerdown
+  rotate: false
+  xy: 544, 170
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/leginnerup
+  rotate: false
+  xy: 709, 378
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/legoutdown
+  rotate: true
+  xy: 574, 183
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/legoutup
+  rotate: false
+  xy: 391, 89
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/mouth01
+  rotate: false
+  xy: 639, 427
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+SpearGirl/SpearGirl03/weapon
+  rotate: false
+  xy: 2, 394
+  size: 369, 57
+  orig: 369, 57
+  offset: 0, 0
+  index: -1
+SpearGirl/body
+  rotate: true
+  xy: 281, 15
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+SpearGirl/eyehard
+  rotate: true
+  xy: 672, 354
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+SpearGirl/eyesffuer
+  rotate: false
+  xy: 909, 472
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+SpearGirl/eyeyun
+  rotate: false
+  xy: 833, 467
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+SpearGirl/face
+  rotate: false
+  xy: 2, 15
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+SpearGirl/hairinner
+  rotate: false
+  xy: 396, 253
+  size: 154, 165
+  orig: 154, 165
+  offset: 0, 0
+  index: -1
+SpearGirl/handinner
+  rotate: false
+  xy: 437, 149
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+SpearGirl/handout
+  rotate: true
+  xy: 909, 426
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+SpearGirl/hatout
+  rotate: true
+  xy: 552, 246
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1
+SpearGirl/jianjiainner
+  rotate: false
+  xy: 983, 375
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+SpearGirl/jianjiaout
+  rotate: false
+  xy: 783, 388
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+SpearGirl/leginnerdown
+  rotate: false
+  xy: 516, 167
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+SpearGirl/leginnerup
+  rotate: false
+  xy: 713, 431
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+SpearGirl/legoutdown
+  rotate: true
+  xy: 661, 214
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+SpearGirl/legoutup
+  rotate: false
+  xy: 482, 151
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+SpearGirl/mouth01
+  rotate: false
+  xy: 574, 169
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+SpearGirl/mouth02
+  rotate: false
+  xy: 103, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+SpearGirl/weapon
+  rotate: false
+  xy: 373, 481
+  size: 367, 29
+  orig: 367, 29
+  offset: 0, 0
+  index: -1
+SpearGirl/yaojia
+  rotate: true
+  xy: 576, 208
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1

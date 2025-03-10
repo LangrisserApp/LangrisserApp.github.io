@@ -1,0 +1,132 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 165, 15
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/body
+  rotate: true
+  xy: 344, 163
+  size: 91, 96
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/hairinner
+  rotate: true
+  xy: 82, 5
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/handinner
+  rotate: true
+  xy: 442, 206
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/handout
+  rotate: true
+  xy: 2, 2
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/hatout
+  rotate: false
+  xy: 2, 91
+  size: 237, 163
+  orig: 237, 163
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/leginnerdown
+  rotate: true
+  xy: 358, 78
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/leginnerup
+  rotate: false
+  xy: 408, 118
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/legoutdown
+  rotate: false
+  xy: 358, 116
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/legoutup
+  rotate: true
+  xy: 442, 165
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Thief/Thief_03/weapon
+  rotate: false
+  xy: 2, 55
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+Thief/eyehard
+  rotate: false
+  xy: 241, 112
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+Thief/eyesffuer
+  rotate: false
+  xy: 241, 75
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+Thief/eyeyun
+  rotate: true
+  xy: 318, 80
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Thief/face
+  rotate: false
+  xy: 241, 161
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+Thief/mouth01
+  rotate: false
+  xy: 490, 199
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+Thief/mouth02
+  rotate: false
+  xy: 241, 47
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Thief/mouth04
+  rotate: false
+  xy: 165, 10
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1

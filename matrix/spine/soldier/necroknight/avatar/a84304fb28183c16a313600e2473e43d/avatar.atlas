@@ -1,0 +1,174 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 383, 207
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/Horse_shengzi
+  rotate: false
+  xy: 308, 68
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/an
+  rotate: false
+  xy: 160, 380
+  size: 156, 126
+  orig: 156, 126
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/body
+  rotate: false
+  xy: 199, 64
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/eyehard
+  rotate: false
+  xy: 318, 389
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/handout
+  rotate: false
+  xy: 437, 321
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/handout1
+  rotate: false
+  xy: 437, 262
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/hatout
+  rotate: false
+  xy: 2, 327
+  size: 156, 179
+  orig: 156, 179
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_backlegdown
+  rotate: false
+  xy: 212, 11
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_backlegup
+  rotate: true
+  xy: 65, 2
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_body
+  rotate: false
+  xy: 158, 177
+  size: 136, 98
+  orig: 136, 98
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_frontjianjia
+  rotate: false
+  xy: 2, 15
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_frontlegdown
+  rotate: false
+  xy: 170, 7
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_frontlegup
+  rotate: false
+  xy: 457, 380
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_head
+  rotate: true
+  xy: 160, 277
+  size: 101, 144
+  orig: 101, 144
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_neck
+  rotate: true
+  xy: 76, 75
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_tunjia
+  rotate: false
+  xy: 318, 283
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_weiba
+  rotate: true
+  xy: 296, 178
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/horse_xiongjia
+  rotate: false
+  xy: 76, 177
+  size: 80, 148
+  orig: 80, 148
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/jianjiainner
+  rotate: false
+  xy: 254, 20
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/jianjiaout1
+  rotate: true
+  xy: 423, 205
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/legoutdown
+  rotate: false
+  xy: 457, 443
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/weapon
+  rotate: true
+  xy: 2, 86
+  size: 239, 72
+  orig: 239, 72
+  offset: 0, 0
+  index: -1
+NecroKnight/NecroKnight/yaojia
+  rotate: false
+  xy: 286, 27
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

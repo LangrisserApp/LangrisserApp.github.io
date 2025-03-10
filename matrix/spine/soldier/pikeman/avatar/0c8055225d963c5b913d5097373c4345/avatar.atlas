@@ -1,0 +1,1049 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 921, 781
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/body
+  rotate: true
+  xy: 891, 930
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/handinner
+  rotate: true
+  xy: 961, 835
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/handout
+  rotate: false
+  xy: 241, 286
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/handout2
+  rotate: true
+  xy: 961, 775
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/head
+  rotate: true
+  xy: 345, 806
+  size: 166, 151
+  orig: 166, 151
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/jianjiainner
+  rotate: false
+  xy: 193, 29
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/jianjiaout
+  rotate: true
+  xy: 149, 70
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/leginnerdown
+  rotate: true
+  xy: 746, 634
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/legoutdown
+  rotate: false
+  xy: 925, 664
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+PikeMan/EHeavySpear/yaojia
+  rotate: true
+  xy: 270, 439
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/body
+  rotate: true
+  xy: 760, 861
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/handinner
+  rotate: false
+  xy: 241, 64
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/handinner
+  rotate: false
+  xy: 241, 64
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/handout
+  rotate: false
+  xy: 281, 369
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/handout
+  rotate: false
+  xy: 281, 369
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/handout1
+  rotate: false
+  xy: 236, 129
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/handout1
+  rotate: false
+  xy: 236, 129
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/hatout
+  rotate: false
+  xy: 346, 649
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/jianjiainner
+  rotate: false
+  xy: 327, 299
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/jianjiaout
+  rotate: false
+  xy: 741, 554
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/leginnerdown
+  rotate: false
+  xy: 324, 442
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/leginnerdown
+  rotate: false
+  xy: 324, 442
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/leginnerup
+  rotate: true
+  xy: 592, 414
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/legoutdown
+  rotate: true
+  xy: 124, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/legoutdown
+  rotate: true
+  xy: 124, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/legoutup
+  rotate: true
+  xy: 275, 52
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan/yaojia
+  rotate: false
+  xy: 450, 419
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/yaojia
+  rotate: false
+  xy: 450, 419
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/Pike
+  rotate: true
+  xy: 2, 16
+  size: 262, 61
+  orig: 262, 61
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/Pike
+  rotate: true
+  xy: 2, 16
+  size: 262, 61
+  orig: 262, 61
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/body
+  rotate: false
+  xy: 476, 451
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/hatout
+  rotate: false
+  xy: 186, 634
+  size: 158, 162
+  orig: 158, 162
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/jianjiainner
+  rotate: true
+  xy: 243, 2
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/jianjiaout
+  rotate: true
+  xy: 193, 67
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/leginnerup
+  rotate: false
+  xy: 744, 486
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/leginnerup
+  rotate: false
+  xy: 744, 486
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan02/legoutup
+  rotate: false
+  xy: 700, 527
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/legoutup
+  rotate: false
+  xy: 700, 527
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan03/body
+  rotate: false
+  xy: 659, 859
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan03/hatout
+  rotate: false
+  xy: 186, 798
+  size: 157, 174
+  orig: 157, 174
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan03/jianjiainner
+  rotate: false
+  xy: 275, 95
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan03/jianjiaout
+  rotate: false
+  xy: 859, 788
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan03/leginnerdown
+  rotate: true
+  xy: 360, 332
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+PikeMan/EPikeMan03/legoutdown
+  rotate: true
+  xy: 476, 415
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/body
+  rotate: true
+  xy: 652, 660
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/handinner
+  rotate: true
+  xy: 960, 882
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/handout
+  rotate: false
+  xy: 748, 659
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/head
+  rotate: false
+  xy: 2, 456
+  size: 160, 176
+  orig: 160, 176
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/jianjiainner
+  rotate: false
+  xy: 354, 392
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/jianjiaout
+  rotate: false
+  xy: 643, 527
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/jianjiaout2
+  rotate: false
+  xy: 204, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/leginnerdown
+  rotate: false
+  xy: 521, 412
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/leginnerup
+  rotate: false
+  xy: 784, 545
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/legoutdown
+  rotate: false
+  xy: 337, 12
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/legoutup
+  rotate: true
+  xy: 401, 427
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/weapon
+  rotate: false
+  xy: 483, 982
+  size: 282, 40
+  orig: 282, 40
+  offset: 0, 0
+  index: -1
+PikeMan/EmpirePikeman/yaojia
+  rotate: false
+  xy: 765, 828
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/body
+  rotate: false
+  xy: 725, 730
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/handinner
+  rotate: false
+  xy: 916, 719
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/handout
+  rotate: false
+  xy: 149, 124
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/handout2
+  rotate: true
+  xy: 961, 715
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/head
+  rotate: false
+  xy: 498, 829
+  size: 159, 151
+  orig: 159, 151
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/jianjiainner
+  rotate: false
+  xy: 354, 423
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/jianjiainner2
+  rotate: true
+  xy: 327, 332
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/jianjiaout
+  rotate: false
+  xy: 636, 483
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/jianjiaout2
+  rotate: false
+  xy: 636, 441
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/leginnerdown
+  rotate: false
+  xy: 773, 589
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/leginnerup
+  rotate: true
+  xy: 710, 636
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/legoutdown
+  rotate: false
+  xy: 303, 244
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/legoutup
+  rotate: true
+  xy: 549, 411
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/mouth01
+  rotate: false
+  xy: 2, 7
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/weapon
+  rotate: true
+  xy: 65, 3
+  size: 275, 38
+  orig: 275, 38
+  offset: 0, 0
+  index: -1
+PikeMan/HeavySpear/yaojia
+  rotate: false
+  xy: 323, 392
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+PikeMan/Pike
+  rotate: true
+  xy: 105, 19
+  size: 259, 17
+  orig: 259, 17
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/Pike1
+  rotate: false
+  xy: 453, 531
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/Pike2
+  rotate: false
+  xy: 650, 634
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/body
+  rotate: true
+  xy: 860, 857
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/handinner
+  rotate: false
+  xy: 989, 959
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/handinner
+  rotate: false
+  xy: 989, 959
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/handout
+  rotate: false
+  xy: 192, 128
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/handout
+  rotate: false
+  xy: 192, 128
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/handout1
+  rotate: false
+  xy: 266, 215
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/handout1
+  rotate: false
+  xy: 266, 215
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/hatout
+  rotate: false
+  xy: 499, 674
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/jianjiainner
+  rotate: false
+  xy: 361, 258
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/jianjiaout
+  rotate: true
+  xy: 745, 443
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/leginnerdown
+  rotate: false
+  xy: 333, 258
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/leginnerdown
+  rotate: false
+  xy: 333, 258
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/legoutdown
+  rotate: true
+  xy: 164, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/legoutdown
+  rotate: true
+  xy: 164, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/yaojia
+  rotate: true
+  xy: 741, 528
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/yaojia
+  rotate: true
+  xy: 741, 528
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/body
+  rotate: false
+  xy: 652, 728
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/hatout
+  rotate: false
+  xy: 164, 470
+  size: 158, 162
+  orig: 158, 162
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/jianjiainner
+  rotate: true
+  xy: 290, 2
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan02/jianjiaout
+  rotate: true
+  xy: 273, 154
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/body
+  rotate: false
+  xy: 352, 526
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/bodyinner
+  rotate: false
+  xy: 691, 575
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/handinner
+  rotate: true
+  xy: 794, 730
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/handout
+  rotate: false
+  xy: 284, 299
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/handout1
+  rotate: false
+  xy: 860, 661
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/hatout
+  rotate: false
+  xy: 2, 280
+  size: 157, 174
+  orig: 157, 174
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/jianjiainner
+  rotate: false
+  xy: 643, 575
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/jianjiaout
+  rotate: false
+  xy: 798, 661
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/leginnerdown
+  rotate: false
+  xy: 726, 402
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/leginnerup
+  rotate: false
+  xy: 321, 161
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/legoutdown
+  rotate: true
+  xy: 636, 405
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/legoutup
+  rotate: false
+  xy: 866, 718
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan03/weapon
+  rotate: false
+  xy: 186, 974
+  size: 295, 48
+  orig: 295, 48
+  offset: 0, 0
+  index: -1
+PikeMan/eyehard
+  rotate: false
+  xy: 189, 237
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+PikeMan/eyesffuer
+  rotate: false
+  xy: 189, 200
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+PikeMan/eyeyun
+  rotate: true
+  xy: 149, 199
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+PikeMan/face
+  rotate: false
+  xy: 453, 551
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/body
+  rotate: false
+  xy: 556, 548
+  size: 85, 96
+  orig: 85, 96
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/eyelight
+  rotate: false
+  xy: 659, 828
+  size: 104, 29
+  orig: 104, 29
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/handinner
+  rotate: false
+  xy: 161, 286
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/handout
+  rotate: false
+  xy: 161, 351
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/handout01
+  rotate: false
+  xy: 323, 374
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/handout02
+  rotate: true
+  xy: 372, 224
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/hatout
+  rotate: false
+  xy: 2, 829
+  size: 182, 193
+  orig: 182, 193
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/leginnerdown
+  rotate: true
+  xy: 303, 215
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/leginnerup
+  rotate: true
+  xy: 681, 403
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/legoutdown
+  rotate: true
+  xy: 362, 364
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/legoutup
+  rotate: false
+  xy: 323, 112
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/sword
+  rotate: false
+  xy: 767, 999
+  size: 202, 23
+  orig: 202, 23
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/sword01
+  rotate: true
+  xy: 124, 29
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/sword02
+  rotate: false
+  xy: 352, 461
+  size: 122, 63
+  orig: 122, 63
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/sword04
+  rotate: false
+  xy: 499, 646
+  size: 149, 26
+  orig: 149, 26
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan05/yaojia
+  rotate: false
+  xy: 690, 483
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/body
+  rotate: false
+  xy: 549, 450
+  size: 85, 96
+  orig: 85, 96
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/eyelight
+  rotate: false
+  xy: 164, 439
+  size: 104, 29
+  orig: 104, 29
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/handinner
+  rotate: true
+  xy: 794, 781
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/handout
+  rotate: false
+  xy: 221, 351
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/handout01
+  rotate: false
+  xy: 955, 656
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/handout02
+  rotate: false
+  xy: 784, 514
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/hatout
+  rotate: false
+  xy: 2, 634
+  size: 182, 193
+  orig: 182, 193
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/leginnerdown
+  rotate: false
+  xy: 361, 291
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/leginnerup
+  rotate: false
+  xy: 737, 589
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/legoutdown
+  rotate: false
+  xy: 344, 219
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/legoutup
+  rotate: false
+  xy: 323, 63
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/sword
+  rotate: true
+  xy: 124, 76
+  size: 202, 23
+  orig: 202, 23
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/sword01
+  rotate: true
+  xy: 955, 674
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/sword02
+  rotate: false
+  xy: 767, 934
+  size: 122, 63
+  orig: 122, 63
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/sword04
+  rotate: true
+  xy: 324, 483
+  size: 149, 26
+  orig: 149, 26
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan05/yaojia
+  rotate: false
+  xy: 691, 439
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 346, 643
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 760, 960
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 758, 403
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

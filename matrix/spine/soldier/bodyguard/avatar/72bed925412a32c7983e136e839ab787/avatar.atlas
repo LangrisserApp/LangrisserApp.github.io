@@ -1,0 +1,202 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bodyguard/body
+  rotate: true
+  xy: 355, 449
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+Bodyguard/eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Bodyguard/eyehard
+  rotate: false
+  xy: 427, 472
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+Bodyguard/eyesffuer
+  rotate: true
+  xy: 264, 272
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+Bodyguard/eyeyun
+  rotate: false
+  xy: 427, 395
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+Bodyguard/face
+  rotate: false
+  xy: 2, 13
+  size: 116, 121
+  orig: 116, 121
+  offset: 0, 0
+  index: -1
+Bodyguard/hair1
+  rotate: false
+  xy: 353, 384
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+Bodyguard/hair2
+  rotate: false
+  xy: 2, 136
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+Bodyguard/hair3
+  rotate: false
+  xy: 157, 206
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+Bodyguard/hairinner
+  rotate: false
+  xy: 2, 277
+  size: 163, 231
+  orig: 163, 231
+  offset: 0, 0
+  index: -1
+Bodyguard/handinner
+  rotate: false
+  xy: 304, 256
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+Bodyguard/handout
+  rotate: false
+  xy: 304, 382
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+Bodyguard/hatout
+  rotate: false
+  xy: 167, 350
+  size: 135, 100
+  orig: 135, 100
+  offset: 0, 0
+  index: -1
+Bodyguard/jianjiainner
+  rotate: false
+  xy: 138, 162
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Bodyguard/jianjiainner1
+  rotate: false
+  xy: 193, 247
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+Bodyguard/jianjiaout
+  rotate: true
+  xy: 304, 315
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+Bodyguard/leginnerdown
+  rotate: false
+  xy: 404, 379
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+Bodyguard/leginnerup
+  rotate: true
+  xy: 138, 138
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Bodyguard/legoutdown
+  rotate: false
+  xy: 182, 139
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Bodyguard/legoutup
+  rotate: false
+  xy: 193, 206
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Bodyguard/mouth01
+  rotate: true
+  xy: 120, 114
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+Bodyguard/mouth02
+  rotate: false
+  xy: 182, 178
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Bodyguard/qunzi
+  rotate: false
+  xy: 353, 408
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+Bodyguard/shield
+  rotate: false
+  xy: 167, 275
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+Bodyguard/toushi
+  rotate: false
+  xy: 222, 206
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+Bodyguard/weapon
+  rotate: false
+  xy: 167, 452
+  size: 186, 56
+  orig: 186, 56
+  offset: 0, 0
+  index: -1
+Bodyguard/weapon1
+  rotate: true
+  xy: 138, 206
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 427, 432
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer/Archer/handinner
+  rotate: true
+  xy: 182, 45
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+Archer/Archer/handout
+  rotate: false
+  xy: 140, 8
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+Archer/Archer/leginnerup
+  rotate: true
+  xy: 237, 2
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Archer/Archer/legoutup
+  rotate: true
+  xy: 247, 38
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Archer/eyehard
+  rotate: true
+  xy: 463, 179
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+Archer/eyesffuer
+  rotate: false
+  xy: 159, 80
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+Archer/eyeyun
+  rotate: false
+  xy: 247, 79
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+Archer/face
+  rotate: false
+  xy: 359, 161
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+BowKnight/BowKnight01/weapon1
+  rotate: false
+  xy: 159, 126
+  size: 176, 16
+  orig: 176, 16
+  offset: 0, 0
+  index: -1
+FireCrossbow/FireCrossbow03/body
+  rotate: true
+  xy: 2, 2
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+FireCrossbow/FireCrossbow03/hatout
+  rotate: false
+  xy: 2, 84
+  size: 155, 170
+  orig: 155, 170
+  offset: 0, 0
+  index: -1
+FireCrossbow/FireCrossbow03/jianjiainner
+  rotate: false
+  xy: 295, 41
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+FireCrossbow/FireCrossbow03/jianjiaout
+  rotate: true
+  xy: 182, 2
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+FireCrossbow/FireCrossbow03/weapon
+  rotate: false
+  xy: 159, 144
+  size: 198, 110
+  orig: 198, 110
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 100, 8
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/leginnerdown
+  rotate: true
+  xy: 463, 151
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+PikeMan/PikeMan/legoutdown
+  rotate: true
+  xy: 359, 134
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 337, 137
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 399, 133
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

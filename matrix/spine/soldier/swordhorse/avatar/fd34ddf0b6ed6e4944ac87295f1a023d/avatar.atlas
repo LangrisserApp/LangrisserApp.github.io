@@ -1,0 +1,244 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 273, 159
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 446, 332
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 220, 2
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: false
+  xy: 352, 101
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 447, 99
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+handout2
+  rotate: true
+  xy: 447, 65
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+handout22
+  rotate: false
+  xy: 482, 76
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 336
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 2, 160
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+horse body
+  rotate: true
+  xy: 325, 322
+  size: 188, 119
+  orig: 188, 119
+  offset: 0, 0
+  index: -1
+horse head
+  rotate: false
+  xy: 2, 6
+  size: 139, 152
+  orig: 139, 152
+  offset: 0, 0
+  index: -1
+horse leginnerdown
+  rotate: true
+  xy: 452, 150
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+horse leginnerup
+  rotate: true
+  xy: 373, 158
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+horse legoutdown
+  rotate: true
+  xy: 227, 27
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+horse legoutup
+  rotate: true
+  xy: 143, 2
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+horse maan1
+  rotate: false
+  xy: 175, 196
+  size: 96, 132
+  orig: 96, 132
+  offset: 0, 0
+  index: -1
+horse maan2
+  rotate: false
+  xy: 373, 230
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+horse neck
+  rotate: false
+  xy: 273, 199
+  size: 98, 121
+  orig: 98, 121
+  offset: 0, 0
+  index: -1
+horse peishi1
+  rotate: false
+  xy: 143, 57
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+horse weiba
+  rotate: true
+  xy: 446, 412
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+horse xiongjia
+  rotate: false
+  xy: 270, 84
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+horse xiongjia2
+  rotate: false
+  xy: 270, 48
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: true
+  xy: 314, 7
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: false
+  xy: 451, 277
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: true
+  xy: 452, 193
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: true
+  xy: 270, 11
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 175, 147
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 406, 89
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: true
+  xy: 227, 64
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+tx4
+  rotate: false
+  xy: 319, 84
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 175, 330
+  size: 148, 180
+  orig: 148, 180
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: true
+  xy: 352, 67
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: true
+  xy: 451, 231
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+xiabai3
+  rotate: false
+  xy: 349, 163
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1

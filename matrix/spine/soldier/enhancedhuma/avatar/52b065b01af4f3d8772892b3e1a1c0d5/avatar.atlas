@@ -1,0 +1,153 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnhancedHuman/body
+  rotate: false
+  xy: 234, 148
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+EnhancedHuman/dang
+  rotate: true
+  xy: 359, 108
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+EnhancedHuman/handinner
+  rotate: true
+  xy: 150, 2
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+EnhancedHuman/handout
+  rotate: false
+  xy: 105, 25
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+EnhancedHuman/handout1
+  rotate: true
+  xy: 234, 99
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+EnhancedHuman/hatout
+  rotate: false
+  xy: 2, 101
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+EnhancedHuman/jianjiainner
+  rotate: true
+  xy: 470, 204
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+EnhancedHuman/jianjiaout
+  rotate: false
+  xy: 300, 121
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+EnhancedHuman/leginnerdown
+  rotate: true
+  xy: 461, 179
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+EnhancedHuman/leginnerup
+  rotate: true
+  xy: 300, 87
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+EnhancedHuman/legoutdown
+  rotate: true
+  xy: 359, 81
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+EnhancedHuman/legoutup
+  rotate: true
+  xy: 408, 170
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+EnhancedHuman/shield
+  rotate: false
+  xy: 155, 126
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+EnhancedHuman/sword
+  rotate: false
+  xy: 155, 205
+  size: 236, 49
+  orig: 236, 49
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 150, 49
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SwordMan/eyehard
+  rotate: false
+  xy: 393, 207
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+SwordMan/eyesffuer
+  rotate: false
+  xy: 155, 89
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+SwordMan/eyeyun
+  rotate: false
+  xy: 299, 165
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+SwordMan/face
+  rotate: false
+  xy: 2, 6
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 105, 18
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 380, 165
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

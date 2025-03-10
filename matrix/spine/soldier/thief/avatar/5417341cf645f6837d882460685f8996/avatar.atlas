@@ -1,0 +1,125 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 146, 45
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Thief/thief_05/body
+  rotate: true
+  xy: 163, 85
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+Thief/thief_05/handinner
+  rotate: true
+  xy: 146, 2
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+Thief/thief_05/handout
+  rotate: false
+  xy: 97, 21
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+Thief/thief_05/hat
+  rotate: false
+  xy: 2, 90
+  size: 159, 164
+  orig: 159, 164
+  offset: 0, 0
+  index: -1
+Thief/thief_05/hatinner
+  rotate: false
+  xy: 163, 149
+  size: 122, 105
+  orig: 122, 105
+  offset: 0, 0
+  index: -1
+Thief/thief_05/jianjiaout
+  rotate: false
+  xy: 322, 121
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Thief/thief_05/leginnerdown
+  rotate: true
+  xy: 452, 152
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Thief/thief_05/leginnerup
+  rotate: false
+  xy: 295, 102
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+Thief/thief_05/legoutdown
+  rotate: true
+  xy: 256, 47
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Thief/thief_05/legoutup
+  rotate: true
+  xy: 322, 92
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Thief/thief_05/mianju
+  rotate: false
+  xy: 287, 152
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+Thief/thief_05/pifeng
+  rotate: false
+  xy: 387, 160
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+Thief/thief_05/pifeng1
+  rotate: false
+  xy: 2, 16
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+Thief/thief_05/weapon
+  rotate: false
+  xy: 452, 177
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+Thief/thief_05/weijin
+  rotate: true
+  xy: 256, 72
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+Thief/thief_05/yaojia
+  rotate: true
+  xy: 222, 49
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1

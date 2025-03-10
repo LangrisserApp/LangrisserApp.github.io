@@ -1,0 +1,139 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GiantZombie/LandShadow
+  rotate: false
+  xy: 134, 13
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+GiantZombie/arminnerdown
+  rotate: false
+  xy: 2, 14
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+GiantZombie/arminnerup
+  rotate: false
+  xy: 223, 149
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+GiantZombie/armoutdown
+  rotate: false
+  xy: 371, 259
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+GiantZombie/armoutup
+  rotate: false
+  xy: 274, 241
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+GiantZombie/body
+  rotate: false
+  xy: 2, 344
+  size: 199, 166
+  orig: 199, 166
+  offset: 0, 0
+  index: -1
+GiantZombie/daizi
+  rotate: true
+  xy: 195, 231
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+GiantZombie/doudang
+  rotate: true
+  xy: 374, 345
+  size: 165, 71
+  orig: 165, 71
+  offset: 0, 0
+  index: -1
+GiantZombie/face
+  rotate: true
+  xy: 203, 349
+  size: 161, 169
+  orig: 161, 169
+  offset: 0, 0
+  index: -1
+GiantZombie/hair1
+  rotate: false
+  xy: 134, 53
+  size: 87, 143
+  orig: 87, 143
+  offset: 0, 0
+  index: -1
+GiantZombie/handinner
+  rotate: false
+  xy: 304, 144
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+GiantZombie/handout
+  rotate: false
+  xy: 223, 88
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+GiantZombie/jianjiaout
+  rotate: false
+  xy: 2, 73
+  size: 130, 123
+  orig: 130, 123
+  offset: 0, 0
+  index: -1
+GiantZombie/jianjiaout1
+  rotate: false
+  xy: 304, 194
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+GiantZombie/leginnerdown
+  rotate: true
+  xy: 77, 21
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+GiantZombie/leginnerup
+  rotate: true
+  xy: 447, 360
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+GiantZombie/legoutdown
+  rotate: false
+  xy: 447, 436
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+GiantZombie/legoutup
+  rotate: true
+  xy: 454, 300
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+GiantZombie/weapon1
+  rotate: false
+  xy: 2, 198
+  size: 191, 144
+  orig: 191, 144
+  offset: 0, 0
+  index: -1

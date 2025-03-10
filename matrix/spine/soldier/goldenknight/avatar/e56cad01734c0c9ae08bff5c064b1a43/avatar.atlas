@@ -1,0 +1,237 @@
+
+avatar.png
+size: 477,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoldenKnight/Shadow
+  rotate: true
+  xy: 399, 253
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+GoldenKnight/arminnerdown
+  rotate: true
+  xy: 440, 231
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+GoldenKnight/arminnerup
+  rotate: false
+  xy: 399, 211
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+GoldenKnight/armoutdown
+  rotate: false
+  xy: 379, 91
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+GoldenKnight/armoutup
+  rotate: false
+  xy: 403, 164
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+GoldenKnight/body
+  rotate: true
+  xy: 232, 88
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+GoldenKnight/eyehard
+  rotate: false
+  xy: 140, 304
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+GoldenKnight/hathout
+  rotate: false
+  xy: 2, 298
+  size: 136, 177
+  orig: 136, 177
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_backlegdown
+  rotate: true
+  xy: 341, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_backlegup
+  rotate: true
+  xy: 236, 148
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_body
+  rotate: false
+  xy: 242, 382
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_frontlegdown
+  rotate: true
+  xy: 291, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_frontlegup
+  rotate: true
+  xy: 307, 87
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_head
+  rotate: true
+  xy: 2, 12
+  size: 115, 128
+  orig: 115, 128
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_neck
+  rotate: false
+  xy: 400, 371
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_tunjia1
+  rotate: false
+  xy: 440, 204
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+GoldenKnight/horse_weiba
+  rotate: false
+  xy: 242, 319
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+GoldenKnight/horsebojia
+  rotate: false
+  xy: 329, 210
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+GoldenKnight/horsebojia1
+  rotate: true
+  xy: 387, 329
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+GoldenKnight/horsebojia2
+  rotate: false
+  xy: 132, 2
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+GoldenKnight/horsebojia3
+  rotate: true
+  xy: 426, 275
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+GoldenKnight/horsebojia4
+  rotate: false
+  xy: 132, 92
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+GoldenKnight/horsebojia5
+  rotate: false
+  xy: 236, 215
+  size: 91, 102
+  orig: 91, 102
+  offset: 0, 0
+  index: -1
+GoldenKnight/horsemianju
+  rotate: false
+  xy: 127, 187
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+GoldenKnight/jianjiainner
+  rotate: true
+  xy: 291, 36
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+GoldenKnight/jianjiaout
+  rotate: false
+  xy: 225, 22
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+GoldenKnight/legdownout
+  rotate: false
+  xy: 358, 39
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+GoldenKnight/legupout
+  rotate: false
+  xy: 388, 2
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+GoldenKnight/maan1
+  rotate: false
+  xy: 356, 322
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+GoldenKnight/maan2
+  rotate: true
+  xy: 324, 141
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+GoldenKnight/weapon1
+  rotate: false
+  xy: 140, 320
+  size: 100, 155
+  orig: 100, 155
+  offset: 0, 0
+  index: -1
+GoldenKnight/weapon2
+  rotate: false
+  xy: 2, 129
+  size: 123, 167
+  orig: 123, 167
+  offset: 0, 0
+  index: -1
+GoldenKnight/yaojiaout
+  rotate: false
+  xy: 385, 46
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1

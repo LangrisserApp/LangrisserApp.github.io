@@ -1,0 +1,496 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PegasusKnight/EnemyPegasusKnight02/handinner
+  rotate: true
+  xy: 456, 508
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight02/handout
+  rotate: true
+  xy: 916, 886
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight02/hatout
+  rotate: false
+  xy: 145, 745
+  size: 181, 154
+  orig: 181, 154
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight02/jianjiainner
+  rotate: false
+  xy: 555, 321
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight02/jianjiaout
+  rotate: false
+  xy: 682, 645
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight02/legoutdown
+  rotate: false
+  xy: 894, 788
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight02/legoutup
+  rotate: true
+  xy: 526, 422
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight02/yaojia
+  rotate: false
+  xy: 443, 439
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight03/body
+  rotate: true
+  xy: 146, 120
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight03/hatout
+  rotate: false
+  xy: 328, 736
+  size: 167, 163
+  orig: 167, 163
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight03/jianjiainner
+  rotate: false
+  xy: 519, 515
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+PegasusKnight/EnemyPegasusKnight03/jianjiaout
+  rotate: true
+  xy: 213, 27
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Eagle_winginner1
+  rotate: false
+  xy: 497, 760
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Eagle_winginner3
+  rotate: false
+  xy: 167, 422
+  size: 111, 143
+  orig: 111, 143
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Eagle_winginner4
+  rotate: true
+  xy: 167, 318
+  size: 102, 139
+  orig: 102, 139
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Eagle_wingout1
+  rotate: false
+  xy: 158, 567
+  size: 130, 176
+  orig: 130, 176
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Eagle_wingout2
+  rotate: false
+  xy: 2, 687
+  size: 141, 212
+  orig: 141, 212
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Eagle_wingout3
+  rotate: true
+  xy: 2, 2
+  size: 155, 127
+  orig: 155, 127
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Eagle_wingout4
+  rotate: false
+  xy: 290, 606
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/Feather
+  rotate: false
+  xy: 512, 565
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/body
+  rotate: false
+  xy: 131, 25
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/handinner
+  rotate: false
+  xy: 989, 863
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/handout
+  rotate: true
+  xy: 517, 641
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/handout1
+  rotate: false
+  xy: 488, 437
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/hatout
+  rotate: true
+  xy: 2, 504
+  size: 181, 154
+  orig: 181, 154
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse head
+  rotate: false
+  xy: 146, 202
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_an
+  rotate: true
+  xy: 290, 516
+  size: 88, 164
+  orig: 88, 164
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_body
+  rotate: false
+  xy: 592, 853
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_ear inner
+  rotate: true
+  xy: 131, 4
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_ear out
+  rotate: false
+  xy: 555, 367
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_foreleg inner down
+  rotate: false
+  xy: 513, 368
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_foreleg inner up
+  rotate: false
+  xy: 843, 829
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_foreleg out down
+  rotate: true
+  xy: 526, 607
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_foreleg out up
+  rotate: false
+  xy: 780, 821
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_hair1
+  rotate: false
+  xy: 589, 672
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_hair2
+  rotate: false
+  xy: 451, 637
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_hair3
+  rotate: false
+  xy: 456, 549
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_hind leg inner up
+  rotate: false
+  xy: 845, 768
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_hind leg out down
+  rotate: false
+  xy: 678, 700
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_hind leg out up
+  rotate: false
+  xy: 780, 766
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_hind leginnerdown
+  rotate: true
+  xy: 468, 333
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_huijia1
+  rotate: false
+  xy: 846, 879
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_neck
+  rotate: false
+  xy: 250, 206
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_pigua
+  rotate: true
+  xy: 308, 324
+  size: 103, 118
+  orig: 103, 118
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_weiba
+  rotate: false
+  xy: 280, 429
+  size: 161, 85
+  orig: 161, 85
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/horse_xiongjia
+  rotate: true
+  xy: 517, 683
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/jianjiainner
+  rotate: false
+  xy: 806, 720
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/jianjiaout
+  rotate: false
+  xy: 682, 590
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/leginnerdown
+  rotate: false
+  xy: 527, 327
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/leginnerup
+  rotate: false
+  xy: 851, 724
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/legoutdown
+  rotate: false
+  xy: 413, 181
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/legoutup
+  rotate: false
+  xy: 766, 709
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/weapon
+  rotate: false
+  xy: 2, 901
+  size: 493, 45
+  orig: 493, 45
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/wingdown
+  rotate: true
+  xy: 592, 758
+  size: 93, 186
+  orig: 93, 186
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/winginnerup
+  rotate: true
+  xy: 801, 929
+  size: 92, 190
+  orig: 92, 190
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/wingout2
+  rotate: false
+  xy: 2, 159
+  size: 142, 174
+  orig: 142, 174
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight02/yaojia
+  rotate: false
+  xy: 468, 368
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03/yaojia
+  rotate: false
+  xy: 468, 368
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03/hatout
+  rotate: true
+  xy: 2, 335
+  size: 167, 163
+  orig: 167, 163
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03/jianjiainner
+  rotate: true
+  xy: 526, 463
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03/jianjiaout
+  rotate: false
+  xy: 589, 621
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03/weapon
+  rotate: false
+  xy: 2, 948
+  size: 531, 73
+  orig: 531, 73
+  offset: 0, 0
+  index: -1
+PegasusKnight/Pike
+  rotate: false
+  xy: 535, 962
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 993, 947
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+SwordMan/eyehard
+  rotate: false
+  xy: 769, 880
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+SwordMan/eyesffuer
+  rotate: false
+  xy: 336, 184
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+SwordMan/eyeyun
+  rotate: true
+  xy: 428, 348
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+SwordMan/face
+  rotate: true
+  xy: 336, 221
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 280, 422
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 589, 593
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CrystalGiant/body
+  rotate: false
+  xy: 197, 23
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+CrystalGiant/eyesffuer
+  rotate: true
+  xy: 327, 58
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+CrystalGiant/eyeyun
+  rotate: true
+  xy: 377, 122
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+CrystalGiant/handinnerdown
+  rotate: true
+  xy: 327, 2
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+CrystalGiant/handinnerup
+  rotate: true
+  xy: 326, 187
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+CrystalGiant/handoutdown
+  rotate: false
+  xy: 408, 200
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+CrystalGiant/handoutup
+  rotate: false
+  xy: 197, 112
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+CrystalGiant/hat
+  rotate: false
+  xy: 2, 21
+  size: 193, 172
+  orig: 193, 172
+  offset: 0, 0
+  index: -1
+CrystalGiant/hudang
+  rotate: false
+  xy: 421, 133
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+CrystalGiant/leginnerdown
+  rotate: true
+  xy: 374, 61
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+CrystalGiant/leginnerup
+  rotate: false
+  xy: 381, 2
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+CrystalGiant/legoutdown
+  rotate: false
+  xy: 426, 82
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+CrystalGiant/legoutup
+  rotate: false
+  xy: 306, 128
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+CrystalGiant/weapon
+  rotate: false
+  xy: 2, 195
+  size: 322, 59
+  orig: 322, 59
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 287, 36
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

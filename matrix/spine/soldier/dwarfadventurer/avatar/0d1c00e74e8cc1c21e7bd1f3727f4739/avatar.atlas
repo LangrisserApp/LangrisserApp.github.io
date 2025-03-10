@@ -1,0 +1,167 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DwarfAdventurer/body
+  rotate: false
+  xy: 324, 404
+  size: 133, 105
+  orig: 133, 105
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/dang
+  rotate: true
+  xy: 2, 101
+  size: 153, 91
+  orig: 153, 91
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/face
+  rotate: false
+  xy: 122, 232
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/hair1
+  rotate: true
+  xy: 324, 385
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/hair2
+  rotate: false
+  xy: 269, 363
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/hand
+  rotate: false
+  xy: 459, 393
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/handinner
+  rotate: false
+  xy: 95, 77
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/handinner1
+  rotate: false
+  xy: 77, 30
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/handinnerdown
+  rotate: false
+  xy: 153, 184
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/handinnerup
+  rotate: true
+  xy: 269, 304
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/handoutdown
+  rotate: false
+  xy: 280, 242
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/handoutup
+  rotate: false
+  xy: 207, 223
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/hatinner
+  rotate: false
+  xy: 124, 28
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/hatout
+  rotate: false
+  xy: 122, 304
+  size: 145, 128
+  orig: 145, 128
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/huzi
+  rotate: false
+  xy: 2, 256
+  size: 118, 176
+  orig: 118, 176
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/jianjiainner
+  rotate: false
+  xy: 95, 182
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/jianjiaout
+  rotate: true
+  xy: 2, 2
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/leginnerdown
+  rotate: false
+  xy: 95, 124
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/leginnerup
+  rotate: false
+  xy: 368, 362
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/legoutdown
+  rotate: true
+  xy: 207, 173
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/legoutup
+  rotate: true
+  xy: 280, 198
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+DwarfAdventurer/weapon
+  rotate: false
+  xy: 2, 434
+  size: 320, 75
+  orig: 320, 75
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 459, 435
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

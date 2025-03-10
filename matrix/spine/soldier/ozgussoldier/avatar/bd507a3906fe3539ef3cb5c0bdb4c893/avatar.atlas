@@ -1,0 +1,251 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NPC_OzgusSoldier/Shadow
+  rotate: true
+  xy: 341, 235
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/arminner
+  rotate: false
+  xy: 177, 41
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/armoutdown
+  rotate: true
+  xy: 177, 2
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/armoutup
+  rotate: true
+  xy: 368, 229
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/body
+  rotate: true
+  xy: 938, 448
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/face
+  rotate: false
+  xy: 2, 215
+  size: 190, 209
+  orig: 190, 209
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_backlegdown
+  rotate: false
+  xy: 409, 273
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_backlegup
+  rotate: true
+  xy: 191, 151
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_backlegup1
+  rotate: true
+  xy: 191, 114
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_body
+  rotate: false
+  xy: 194, 311
+  size: 161, 113
+  orig: 161, 113
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_body1
+  rotate: true
+  xy: 2, 22
+  size: 191, 114
+  orig: 191, 114
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_bojia
+  rotate: false
+  xy: 637, 428
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_frontlegdown
+  rotate: true
+  xy: 445, 223
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_frontlegup
+  rotate: false
+  xy: 287, 138
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_frontlegup1
+  rotate: false
+  xy: 223, 52
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_head
+  rotate: true
+  xy: 389, 386
+  size: 124, 141
+  orig: 124, 141
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_head3
+  rotate: true
+  xy: 637, 389
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_neck
+  rotate: false
+  xy: 452, 319
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_neck1
+  rotate: true
+  xy: 741, 434
+  size: 76, 98
+  orig: 76, 98
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/horse_weiba
+  rotate: false
+  xy: 841, 447
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/jianjiainner
+  rotate: false
+  xy: 118, 22
+  size: 57, 100
+  orig: 57, 100
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/jianjiainner1
+  rotate: false
+  xy: 368, 268
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/jianjiaout
+  rotate: false
+  xy: 532, 400
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/legoutdown
+  rotate: false
+  xy: 228, 2
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/legoutup
+  rotate: false
+  xy: 410, 224
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/maan1
+  rotate: true
+  xy: 447, 289
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/maan2
+  rotate: true
+  xy: 118, 124
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/tx1
+  rotate: false
+  xy: 724, 414
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/tx2
+  rotate: true
+  xy: 357, 322
+  size: 62, 93
+  orig: 62, 93
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/tx3
+  rotate: false
+  xy: 576, 375
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/tx4
+  rotate: false
+  xy: 357, 389
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/tx5
+  rotate: false
+  xy: 194, 214
+  size: 145, 95
+  orig: 145, 95
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/weapon
+  rotate: false
+  xy: 2, 426
+  size: 385, 84
+  orig: 385, 84
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/xiabai1
+  rotate: true
+  xy: 532, 368
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+NPC_OzgusSoldier/xiabai3
+  rotate: true
+  xy: 447, 257
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1

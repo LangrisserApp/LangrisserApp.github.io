@@ -1,0 +1,139 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 149, 140
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Unicorn/backlegdown
+  rotate: true
+  xy: 443, 377
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+Unicorn/backlegup
+  rotate: true
+  xy: 346, 368
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+Unicorn/backlegup1
+  rotate: false
+  xy: 88, 119
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+Unicorn/body
+  rotate: true
+  xy: 2, 66
+  size: 166, 84
+  orig: 166, 84
+  offset: 0, 0
+  index: -1
+Unicorn/ear
+  rotate: false
+  xy: 485, 454
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+Unicorn/ear1
+  rotate: false
+  xy: 491, 411
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+Unicorn/eyesffuer
+  rotate: true
+  xy: 149, 112
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+Unicorn/eyeyun
+  rotate: false
+  xy: 146, 83
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Unicorn/frontlegdown
+  rotate: false
+  xy: 189, 164
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+Unicorn/frontlegup
+  rotate: true
+  xy: 88, 71
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Unicorn/hair1
+  rotate: false
+  xy: 189, 115
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Unicorn/hair2
+  rotate: false
+  xy: 346, 429
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+Unicorn/hair3
+  rotate: false
+  xy: 207, 391
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+Unicorn/head
+  rotate: false
+  xy: 2, 234
+  size: 123, 152
+  orig: 123, 152
+  offset: 0, 0
+  index: -1
+Unicorn/jiao
+  rotate: false
+  xy: 127, 302
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+Unicorn/jiao_fx
+  rotate: false
+  xy: 127, 216
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+Unicorn/neck
+  rotate: true
+  xy: 2, 2
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+Unicorn/weiba
+  rotate: false
+  xy: 2, 388
+  size: 203, 122
+  orig: 203, 122
+  offset: 0, 0
+  index: -1

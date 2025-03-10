@@ -1,0 +1,195 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MechDragonKnight/Dragon_arm
+  rotate: false
+  xy: 745, 871
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_body
+  rotate: false
+  xy: 537, 877
+  size: 206, 119
+  orig: 206, 119
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_eye
+  rotate: true
+  xy: 442, 260
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_footout
+  rotate: true
+  xy: 321, 2
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_head
+  rotate: false
+  xy: 326, 284
+  size: 137, 186
+  orig: 137, 186
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_legoutdown
+  rotate: false
+  xy: 740, 809
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_legoutup
+  rotate: false
+  xy: 483, 584
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_neck
+  rotate: false
+  xy: 321, 141
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_weiba1
+  rotate: false
+  xy: 321, 57
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_weiba2
+  rotate: true
+  xy: 483, 491
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_weiba3
+  rotate: false
+  xy: 537, 708
+  size: 164, 62
+  orig: 164, 62
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_winginner
+  rotate: true
+  xy: 2, 9
+  size: 207, 317
+  orig: 207, 317
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_winginner2
+  rotate: false
+  xy: 326, 677
+  size: 209, 319
+  orig: 209, 319
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_wingout
+  rotate: false
+  xy: 2, 607
+  size: 322, 389
+  orig: 322, 389
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Dragon_wingout2
+  rotate: false
+  xy: 2, 218
+  size: 322, 387
+  orig: 322, 387
+  offset: 0, 0
+  index: -1
+MechDragonKnight/Pike
+  rotate: false
+  xy: 745, 937
+  size: 264, 59
+  orig: 264, 59
+  offset: 0, 0
+  index: -1
+MechDragonKnight/body
+  rotate: true
+  xy: 326, 215
+  size: 67, 114
+  orig: 67, 114
+  offset: 0, 0
+  index: -1
+MechDragonKnight/eye
+  rotate: false
+  xy: 840, 877
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+MechDragonKnight/handinner
+  rotate: true
+  xy: 923, 818
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+MechDragonKnight/handout
+  rotate: false
+  xy: 796, 801
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+MechDragonKnight/handout1
+  rotate: false
+  xy: 843, 808
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+MechDragonKnight/hat
+  rotate: false
+  xy: 326, 472
+  size: 155, 203
+  orig: 155, 203
+  offset: 0, 0
+  index: -1
+MechDragonKnight/jianjiaout
+  rotate: false
+  xy: 929, 864
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+MechDragonKnight/legoutdown
+  rotate: true
+  xy: 537, 677
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+MechDragonKnight/legoutup
+  rotate: false
+  xy: 888, 824
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+MechDragonKnight/weapon
+  rotate: false
+  xy: 537, 772
+  size: 174, 103
+  orig: 174, 103
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 713, 801
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1

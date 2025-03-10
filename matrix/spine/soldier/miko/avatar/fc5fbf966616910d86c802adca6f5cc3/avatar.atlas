@@ -1,0 +1,146 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 387, 359
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Miko/Miko/body
+  rotate: true
+  xy: 314, 435
+  size: 75, 122
+  orig: 75, 122
+  offset: 0, 0
+  index: -1
+Miko/Miko/eyehard
+  rotate: false
+  xy: 2, 5
+  size: 73, 12
+  orig: 73, 12
+  offset: 0, 0
+  index: -1
+Miko/Miko/eyesffuer
+  rotate: false
+  xy: 438, 434
+  size: 72, 27
+  orig: 72, 27
+  offset: 0, 0
+  index: -1
+Miko/Miko/eyeyun
+  rotate: false
+  xy: 250, 303
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+Miko/Miko/face
+  rotate: true
+  xy: 250, 336
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+Miko/Miko/hairinner
+  rotate: false
+  xy: 2, 254
+  size: 135, 256
+  orig: 135, 256
+  offset: 0, 0
+  index: -1
+Miko/Miko/hairout1
+  rotate: false
+  xy: 2, 58
+  size: 122, 194
+  orig: 122, 194
+  offset: 0, 0
+  index: -1
+Miko/Miko/hairout2
+  rotate: true
+  xy: 2, 19
+  size: 37, 133
+  orig: 37, 133
+  offset: 0, 0
+  index: -1
+Miko/Miko/handinner
+  rotate: true
+  xy: 139, 252
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+Miko/Miko/handinner1
+  rotate: false
+  xy: 477, 377
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+Miko/Miko/handout
+  rotate: false
+  xy: 336, 359
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+Miko/Miko/handout1
+  rotate: false
+  xy: 427, 374
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+Miko/Miko/handout2
+  rotate: true
+  xy: 438, 463
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+Miko/Miko/leginnerdown
+  rotate: true
+  xy: 374, 340
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+Miko/Miko/legoutdown
+  rotate: true
+  xy: 336, 334
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Miko/Miko/mouth01
+  rotate: true
+  xy: 126, 239
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+Miko/Miko/toushi
+  rotate: false
+  xy: 139, 307
+  size: 109, 122
+  orig: 109, 122
+  offset: 0, 0
+  index: -1
+Miko/Miko/weapon
+  rotate: false
+  xy: 139, 431
+  size: 173, 79
+  orig: 173, 79
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 217, 267
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

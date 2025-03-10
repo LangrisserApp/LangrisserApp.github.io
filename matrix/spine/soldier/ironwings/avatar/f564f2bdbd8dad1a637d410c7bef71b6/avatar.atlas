@@ -1,0 +1,230 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IronWings/IronWings/body
+  rotate: true
+  xy: 165, 158
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/eyehard
+  rotate: false
+  xy: 103, 3
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/eyesffuer
+  rotate: true
+  xy: 160, 52
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/eyeyun
+  rotate: false
+  xy: 197, 48
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/face
+  rotate: false
+  xy: 2, 59
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/handinner
+  rotate: false
+  xy: 482, 208
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/handout
+  rotate: true
+  xy: 367, 78
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/hatout
+  rotate: false
+  xy: 2, 154
+  size: 161, 163
+  orig: 161, 163
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/jianjiainner
+  rotate: true
+  xy: 308, 81
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/jianjiaout
+  rotate: false
+  xy: 436, 61
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/leginnerdown
+  rotate: false
+  xy: 260, 88
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/leginnerup
+  rotate: false
+  xy: 66, 7
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/legoutdown
+  rotate: false
+  xy: 256, 7
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/legoutup
+  rotate: false
+  xy: 456, 129
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/mouth01
+  rotate: false
+  xy: 260, 151
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/mouth02
+  rotate: true
+  xy: 278, 48
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/weapon
+  rotate: false
+  xy: 2, 319
+  size: 393, 191
+  orig: 393, 191
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing1
+  rotate: true
+  xy: 265, 234
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing10
+  rotate: true
+  xy: 282, 164
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing11
+  rotate: false
+  xy: 2, 2
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing12
+  rotate: false
+  xy: 197, 88
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing13
+  rotate: true
+  xy: 368, 125
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing14
+  rotate: true
+  xy: 282, 129
+  size: 33, 84
+  orig: 33, 84
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing2
+  rotate: false
+  xy: 397, 402
+  size: 101, 108
+  orig: 101, 108
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing3
+  rotate: false
+  xy: 368, 178
+  size: 106, 25
+  orig: 106, 25
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing4
+  rotate: false
+  xy: 368, 205
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing5
+  rotate: true
+  xy: 105, 52
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing6
+  rotate: false
+  xy: 397, 315
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing7
+  rotate: false
+  xy: 165, 223
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing8
+  rotate: true
+  xy: 367, 240
+  size: 30, 113
+  orig: 30, 113
+  offset: 0, 0
+  index: -1
+IronWings/IronWings/wing9
+  rotate: true
+  xy: 367, 272
+  size: 41, 125
+  orig: 41, 125
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 180, 8
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

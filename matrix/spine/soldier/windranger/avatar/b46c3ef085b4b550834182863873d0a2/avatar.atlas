@@ -1,0 +1,230 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Horse/horse01/horse_backlegdown
+  rotate: false
+  xy: 370, 47
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_backlegup
+  rotate: false
+  xy: 437, 239
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_body
+  rotate: false
+  xy: 170, 392
+  size: 180, 118
+  orig: 180, 118
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_frontlegdown
+  rotate: true
+  xy: 83, 6
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_frontlegup
+  rotate: false
+  xy: 317, 42
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_neck
+  rotate: false
+  xy: 258, 213
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_weiba
+  rotate: false
+  xy: 170, 323
+  size: 126, 67
+  orig: 126, 67
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 145, 21
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SwordMan/eyehard
+  rotate: true
+  xy: 437, 312
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+SwordMan/eyesffuer
+  rotate: true
+  xy: 401, 128
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+SwordMan/eyeyun
+  rotate: false
+  xy: 2, 5
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+SwordMan/face
+  rotate: false
+  xy: 221, 118
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/body
+  rotate: false
+  xy: 157, 217
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/handinner
+  rotate: true
+  xy: 221, 2
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/handout
+  rotate: true
+  xy: 324, 100
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/handout1
+  rotate: false
+  xy: 438, 104
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/hatout
+  rotate: false
+  xy: 2, 355
+  size: 166, 155
+  orig: 166, 155
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/horse_guajian1
+  rotate: true
+  xy: 342, 205
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/horse_guajian1inner
+  rotate: false
+  xy: 324, 134
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/horse_guajian2
+  rotate: false
+  xy: 438, 167
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/horse_guajian3
+  rotate: true
+  xy: 221, 40
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/horse_guajian4
+  rotate: false
+  xy: 342, 293
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/horse_head
+  rotate: false
+  xy: 2, 45
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/horse_mana
+  rotate: false
+  xy: 352, 389
+  size: 127, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/jianjiaout
+  rotate: false
+  xy: 411, 62
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/legoutdown
+  rotate: true
+  xy: 298, 323
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/legoutup
+  rotate: true
+  xy: 298, 358
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/weapon
+  rotate: false
+  xy: 2, 188
+  size: 153, 165
+  orig: 153, 165
+  offset: 0, 0
+  index: -1
+WindRanger/WindRanger/weijin
+  rotate: true
+  xy: 145, 61
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 164, 349
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 157, 333
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 157, 189
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

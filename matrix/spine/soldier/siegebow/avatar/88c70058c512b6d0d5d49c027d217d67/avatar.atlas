@@ -1,0 +1,251 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 408, 282
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SiegeBow/body
+  rotate: true
+  xy: 328, 360
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+SiegeBow/chilun1
+  rotate: false
+  xy: 194, 196
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+SiegeBow/chilun2
+  rotate: false
+  xy: 194, 107
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+SiegeBow/eyehard
+  rotate: true
+  xy: 466, 438
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+SiegeBow/eyesffuer
+  rotate: true
+  xy: 295, 310
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+SiegeBow/eyeyun
+  rotate: true
+  xy: 249, 28
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+SiegeBow/face
+  rotate: false
+  xy: 52, 111
+  size: 140, 173
+  orig: 140, 173
+  offset: 0, 0
+  index: -1
+SiegeBow/gong
+  rotate: true
+  xy: 328, 426
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+SiegeBow/gong1
+  rotate: false
+  xy: 52, 2
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+SiegeBow/gong2
+  rotate: true
+  xy: 110, 3
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+SiegeBow/handinner
+  rotate: false
+  xy: 423, 358
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+SiegeBow/handout
+  rotate: false
+  xy: 362, 205
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+SiegeBow/handout1
+  rotate: true
+  xy: 349, 136
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+SiegeBow/huishou
+  rotate: false
+  xy: 415, 205
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+SiegeBow/jian
+  rotate: true
+  xy: 2, 49
+  size: 334, 48
+  orig: 334, 48
+  offset: 0, 0
+  index: -1
+SiegeBow/leginnerdown
+  rotate: false
+  xy: 448, 320
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+SiegeBow/leginnerup
+  rotate: false
+  xy: 415, 241
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+SiegeBow/legoutdown
+  rotate: true
+  xy: 240, 2
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+SiegeBow/legoutup
+  rotate: false
+  xy: 475, 390
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi1
+  rotate: false
+  xy: 475, 354
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi2
+  rotate: false
+  xy: 287, 69
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi4
+  rotate: false
+  xy: 2, 13
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi5
+  rotate: true
+  xy: 287, 10
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi6
+  rotate: false
+  xy: 286, 206
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi6a
+  rotate: false
+  xy: 286, 130
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi7
+  rotate: false
+  xy: 168, 29
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+SiegeBow/lunzi8
+  rotate: false
+  xy: 328, 282
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+SiegeBow/mouth01
+  rotate: false
+  xy: 295, 304
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+SiegeBow/mouth02
+  rotate: false
+  xy: 404, 177
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+SiegeBow/taojia1
+  rotate: false
+  xy: 448, 284
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+SiegeBow/xian
+  rotate: false
+  xy: 168, 11
+  size: 70, 16
+  orig: 70, 16
+  offset: 0, 0
+  index: -1
+SiegeBow/yaojia
+  rotate: false
+  xy: 404, 139
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+SiegeBow/zhijia
+  rotate: false
+  xy: 2, 385
+  size: 324, 125
+  orig: 324, 125
+  offset: 0, 0
+  index: -1
+SiegeBow/zhuti
+  rotate: false
+  xy: 52, 286
+  size: 241, 97
+  orig: 241, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 296, 453
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/Pike
+  rotate: false
+  xy: 194, 493
+  size: 259, 17
+  orig: 259, 17
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/arminner
+  rotate: true
+  xy: 455, 468
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/armout
+  rotate: true
+  xy: 450, 423
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/body
+  rotate: false
+  xy: 194, 334
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/erhuan
+  rotate: false
+  xy: 82, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/eyes
+  rotate: true
+  xy: 126, 239
+  size: 85, 37
+  orig: 85, 37
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/eyesffuer
+  rotate: true
+  xy: 126, 158
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/eyeyun
+  rotate: false
+  xy: 372, 457
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/face
+  rotate: false
+  xy: 2, 326
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/hair
+  rotate: false
+  xy: 194, 393
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/handinner
+  rotate: true
+  xy: 160, 127
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/handout
+  rotate: true
+  xy: 165, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/jianjiainner
+  rotate: true
+  xy: 164, 197
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/jianjiaout
+  rotate: true
+  xy: 126, 104
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/leginnerdown
+  rotate: false
+  xy: 164, 156
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/leginnerup
+  rotate: false
+  xy: 258, 340
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/legoutdown
+  rotate: true
+  xy: 42, 4
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/legoutup
+  rotate: false
+  xy: 296, 396
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/mouth
+  rotate: false
+  xy: 258, 334
+  size: 25, 4
+  orig: 25, 4
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/mouth02
+  rotate: false
+  xy: 2, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/qunzi1
+  rotate: false
+  xy: 336, 408
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/qunzi2
+  rotate: false
+  xy: 2, 30
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/qunzi3
+  rotate: false
+  xy: 77, 34
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/suolian
+  rotate: true
+  xy: 165, 270
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+ShoreCelebrant/ShoreCelebrant/weapon
+  rotate: true
+  xy: 2, 93
+  size: 231, 122
+  orig: 231, 122
+  offset: 0, 0
+  index: -1

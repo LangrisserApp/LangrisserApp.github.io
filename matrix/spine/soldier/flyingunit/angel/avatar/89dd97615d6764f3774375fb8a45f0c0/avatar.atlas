@@ -1,0 +1,321 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angel/Angel/L_chib1
+  rotate: false
+  xy: 878, 383
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+Angel/Angel/L_chib2
+  rotate: false
+  xy: 233, 295
+  size: 120, 97
+  orig: 120, 97
+  offset: 0, 0
+  index: -1
+Angel/Angel/L_chib3
+  rotate: true
+  xy: 151, 192
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+Angel/Angel/L_chib4
+  rotate: true
+  xy: 143, 8
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+Angel/Angel/L_jianjia
+  rotate: false
+  xy: 674, 325
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Angel/Angel/R_chib1
+  rotate: true
+  xy: 2, 13
+  size: 83, 139
+  orig: 83, 139
+  offset: 0, 0
+  index: -1
+Angel/Angel/R_chib2
+  rotate: false
+  xy: 151, 296
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+Angel/Angel/R_chib3
+  rotate: false
+  xy: 220, 120
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+Angel/Angel/R_chib4
+  rotate: false
+  xy: 279, 58
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+Angel/Angel/R_shou1
+  rotate: false
+  xy: 632, 289
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Angel/Angel/body
+  rotate: false
+  xy: 151, 98
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+Angel/Angel/daimao
+  rotate: true
+  xy: 878, 346
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Angel/Angel/eye
+  rotate: true
+  xy: 197, 6
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+Angel/Angel/handinner
+  rotate: true
+  xy: 793, 321
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Angel/Angel/handout
+  rotate: false
+  xy: 281, 115
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+Angel/Angel/leginnerdown
+  rotate: true
+  xy: 716, 286
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Angel/Angel/leginnerup
+  rotate: true
+  xy: 530, 297
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+Angel/Angel/legoutdown
+  rotate: true
+  xy: 792, 289
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Angel/Angel/legoutup
+  rotate: true
+  xy: 578, 294
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Angel/Angel/liuhai
+  rotate: false
+  xy: 234, 394
+  size: 171, 116
+  orig: 171, 116
+  offset: 0, 0
+  index: -1
+Angel/Angel/touf2
+  rotate: true
+  xy: 229, 220
+  size: 35, 106
+  orig: 35, 106
+  offset: 0, 0
+  index: -1
+Angel/Angel/touf3
+  rotate: true
+  xy: 580, 328
+  size: 35, 92
+  orig: 35, 92
+  offset: 0, 0
+  index: -1
+Angel/Angel/touf4
+  rotate: false
+  xy: 2, 254
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+Angel/Angel/touf5
+  rotate: true
+  xy: 580, 365
+  size: 145, 147
+  orig: 145, 147
+  offset: 0, 0
+  index: -1
+Angel/Angel/toushi
+  rotate: false
+  xy: 530, 334
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+Angel/Angel/weapon
+  rotate: false
+  xy: 2, 410
+  size: 230, 100
+  orig: 230, 100
+  offset: 0, 0
+  index: -1
+Angel/Angel/zui
+  rotate: false
+  xy: 851, 352
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/L_jianjia
+  rotate: false
+  xy: 733, 326
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/R_shou1
+  rotate: false
+  xy: 674, 286
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/body
+  rotate: false
+  xy: 459, 301
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/daimao
+  rotate: false
+  xy: 337, 217
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/handinner
+  rotate: true
+  xy: 956, 338
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/handout
+  rotate: false
+  xy: 233, 46
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/leginnerdown
+  rotate: false
+  xy: 829, 284
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/legoutdown
+  rotate: true
+  xy: 751, 294
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/liuhai
+  rotate: false
+  xy: 407, 394
+  size: 171, 116
+  orig: 171, 116
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/touf2
+  rotate: true
+  xy: 229, 257
+  size: 36, 106
+  orig: 36, 106
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/touf3
+  rotate: true
+  xy: 229, 189
+  size: 29, 92
+  orig: 29, 92
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/touf4
+  rotate: false
+  xy: 2, 98
+  size: 147, 154
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+Angel/EnemyAngel/touf5
+  rotate: true
+  xy: 729, 366
+  size: 144, 147
+  orig: 144, 147
+  offset: 0, 0
+  index: -1
+Angel/face
+  rotate: true
+  xy: 355, 300
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+Angel/shoujieye
+  rotate: false
+  xy: 374, 257
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+Angel/yun_eye
+  rotate: false
+  xy: 233, 2
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+Angel/zui_2
+  rotate: false
+  xy: 851, 334
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 374, 217
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

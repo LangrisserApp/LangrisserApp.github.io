@@ -1,0 +1,83 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 329, 123
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+arminnerdown
+  rotate: false
+  xy: 2, 2
+  size: 121, 247
+  orig: 121, 247
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: false
+  xy: 265, 65
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: false
+  xy: 2, 251
+  size: 173, 258
+  orig: 173, 258
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: false
+  xy: 395, 337
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 177, 199
+  size: 134, 210
+  orig: 134, 210
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 177, 335
+  size: 216, 174
+  orig: 216, 174
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 265, 23
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 395, 395
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 125, 221
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 125, 21
+  size: 138, 176
+  orig: 138, 176
+  offset: 0, 0
+  index: -1

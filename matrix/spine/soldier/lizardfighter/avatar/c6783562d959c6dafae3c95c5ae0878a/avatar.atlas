@@ -1,0 +1,188 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 312, 163
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+LizardFighter/arminnerdown
+  rotate: false
+  xy: 352, 178
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+LizardFighter/arminnerup
+  rotate: true
+  xy: 242, 239
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+LizardFighter/armoutdown
+  rotate: false
+  xy: 345, 242
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+LizardFighter/armoutup
+  rotate: true
+  xy: 458, 363
+  size: 66, 121
+  orig: 66, 121
+  offset: 0, 0
+  index: -1
+LizardFighter/body
+  rotate: false
+  xy: 2, 264
+  size: 238, 246
+  orig: 238, 246
+  offset: 0, 0
+  index: -1
+LizardFighter/body1
+  rotate: true
+  xy: 154, 143
+  size: 119, 77
+  orig: 119, 77
+  offset: 0, 0
+  index: -1
+LizardFighter/ear
+  rotate: false
+  xy: 2, 16
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+LizardFighter/eyehard
+  rotate: true
+  xy: 118, 2
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+LizardFighter/eyesffuer
+  rotate: true
+  xy: 851, 400
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+LizardFighter/eyeyun
+  rotate: true
+  xy: 420, 329
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+LizardFighter/face
+  rotate: false
+  xy: 2, 136
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+LizardFighter/handinner
+  rotate: true
+  xy: 754, 384
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+LizardFighter/handinner1
+  rotate: false
+  xy: 801, 400
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+LizardFighter/handout
+  rotate: false
+  xy: 694, 382
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+LizardFighter/leginnerdown
+  rotate: false
+  xy: 627, 379
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+LizardFighter/leginnerup
+  rotate: false
+  xy: 233, 164
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+LizardFighter/legoutdown
+  rotate: false
+  xy: 167, 61
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+LizardFighter/legoutup
+  rotate: false
+  xy: 925, 431
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+LizardFighter/toushi
+  rotate: true
+  xy: 799, 439
+  size: 71, 124
+  orig: 71, 124
+  offset: 0, 0
+  index: -1
+LizardFighter/toushi1
+  rotate: false
+  xy: 581, 355
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+LizardFighter/weapon
+  rotate: false
+  xy: 242, 368
+  size: 214, 61
+  orig: 214, 61
+  offset: 0, 0
+  index: -1
+LizardFighter/weapon1
+  rotate: true
+  xy: 118, 50
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+LizardFighter/weapon2
+  rotate: false
+  xy: 242, 431
+  size: 368, 79
+  orig: 368, 79
+  offset: 0, 0
+  index: -1
+LizardFighter/weiba
+  rotate: false
+  xy: 612, 434
+  size: 185, 76
+  orig: 185, 76
+  offset: 0, 0
+  index: -1
+LizardFighter/weijin
+  rotate: false
+  xy: 242, 304
+  size: 176, 62
+  orig: 176, 62
+  offset: 0, 0
+  index: -1

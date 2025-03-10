@@ -1,0 +1,167 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 150, 231
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Lobster/L_qianz1
+  rotate: false
+  xy: 2, 53
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+Lobster/L_qianz2
+  rotate: false
+  xy: 202, 389
+  size: 90, 121
+  orig: 90, 121
+  offset: 0, 0
+  index: -1
+Lobster/L_qianz3
+  rotate: false
+  xy: 65, 160
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+Lobster/L_qianz34
+  rotate: false
+  xy: 125, 164
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+Lobster/Lzu1
+  rotate: false
+  xy: 257, 352
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Lobster/Lzu2
+  rotate: false
+  xy: 234, 330
+  size: 21, 57
+  orig: 21, 57
+  offset: 0, 0
+  index: -1
+Lobster/Lzu3
+  rotate: false
+  xy: 190, 244
+  size: 22, 65
+  orig: 22, 65
+  offset: 0, 0
+  index: -1
+Lobster/R_qianz1
+  rotate: false
+  xy: 70, 79
+  size: 43, 79
+  orig: 43, 79
+  offset: 0, 0
+  index: -1
+Lobster/R_qianz2
+  rotate: true
+  xy: 380, 440
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+Lobster/R_qianz3
+  rotate: true
+  xy: 2, 2
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+Lobster/R_qianz4
+  rotate: false
+  xy: 188, 311
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+Lobster/Rzu1
+  rotate: true
+  xy: 70, 60
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+Lobster/Rzu2
+  rotate: false
+  xy: 465, 404
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Lobster/Rzu3
+  rotate: true
+  xy: 294, 385
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+Lobster/Rzu4
+  rotate: false
+  xy: 214, 251
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+Lobster/body
+  rotate: false
+  xy: 76, 383
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+Lobster/eye
+  rotate: false
+  xy: 380, 404
+  size: 83, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1
+Lobster/shenz1
+  rotate: true
+  xy: 76, 307
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+Lobster/shenz2
+  rotate: false
+  xy: 294, 401
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+Lobster/weiba
+  rotate: false
+  xy: 65, 235
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+Lobster/xu1
+  rotate: false
+  xy: 2, 143
+  size: 61, 174
+  orig: 61, 174
+  offset: 0, 0
+  index: -1
+Lobster/xu2
+  rotate: false
+  xy: 2, 319
+  size: 72, 191
+  orig: 72, 191
+  offset: 0, 0
+  index: -1

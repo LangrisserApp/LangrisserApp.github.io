@@ -1,0 +1,188 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Archer/Archer/leginnerup
+  rotate: false
+  xy: 176, 87
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Archer/weapon1
+  rotate: true
+  xy: 455, 369
+  size: 141, 18
+  orig: 141, 18
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/body
+  rotate: true
+  xy: 300, 274
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/hairinner
+  rotate: true
+  xy: 371, 358
+  size: 152, 82
+  orig: 152, 82
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/handinner
+  rotate: false
+  xy: 2, 2
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/handout
+  rotate: false
+  xy: 86, 103
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/hatout
+  rotate: false
+  xy: 2, 355
+  size: 185, 155
+  orig: 185, 155
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/jianjiainner
+  rotate: false
+  xy: 212, 115
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/jianjiaout
+  rotate: true
+  xy: 475, 384
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/leginnerdown
+  rotate: true
+  xy: 273, 144
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/legoutdown
+  rotate: true
+  xy: 212, 88
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf02/legoutup
+  rotate: true
+  xy: 131, 88
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf03/body
+  rotate: true
+  xy: 200, 172
+  size: 82, 104
+  orig: 82, 104
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf03/hairinner
+  rotate: true
+  xy: 86, 173
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf03/handinner
+  rotate: false
+  xy: 47, 2
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf03/handout
+  rotate: true
+  xy: 131, 129
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf03/hatout
+  rotate: false
+  xy: 189, 358
+  size: 180, 152
+  orig: 180, 152
+  offset: 0, 0
+  index: -1
+DarkElf/DarkElf03/jianjiainner
+  rotate: true
+  xy: 306, 216
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+DarkElf/eyehard
+  rotate: false
+  xy: 2, 60
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1
+DarkElf/eyesffuer
+  rotate: false
+  xy: 200, 141
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+DarkElf/eyeyun
+  rotate: true
+  xy: 475, 441
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+DarkElf/face
+  rotate: false
+  xy: 200, 256
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+DarkElf/mouth01
+  rotate: false
+  xy: 475, 371
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+DarkElf/mouth02
+  rotate: false
+  xy: 300, 256
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+DarkElf/weapon
+  rotate: true
+  xy: 2, 98
+  size: 255, 82
+  orig: 255, 82
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 408, 282
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

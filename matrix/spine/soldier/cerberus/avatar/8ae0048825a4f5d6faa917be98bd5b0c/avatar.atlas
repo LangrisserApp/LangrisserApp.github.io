@@ -1,0 +1,146 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cerberus/L1_shou1
+  rotate: false
+  xy: 156, 288
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+Cerberus/L1_shou2
+  rotate: false
+  xy: 156, 183
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Cerberus/L1_shou3
+  rotate: false
+  xy: 2, 61
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+Cerberus/L2_shou1
+  rotate: false
+  xy: 345, 407
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+Cerberus/L2_shou2
+  rotate: true
+  xy: 237, 353
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Cerberus/L2_shou3
+  rotate: false
+  xy: 88, 88
+  size: 65, 89
+  orig: 65, 89
+  offset: 0, 0
+  index: -1
+Cerberus/R1_shou1
+  rotate: false
+  xy: 275, 366
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+Cerberus/R1_shou2
+  rotate: false
+  xy: 156, 232
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+Cerberus/R1_shou3
+  rotate: false
+  xy: 275, 412
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+Cerberus/R2_shou1
+  rotate: true
+  xy: 480, 475
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Cerberus/R2_shou2
+  rotate: false
+  xy: 389, 407
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Cerberus/R2_shou3
+  rotate: true
+  xy: 2, 2
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+Cerberus/body1
+  rotate: false
+  xy: 2, 344
+  size: 157, 165
+  orig: 157, 165
+  offset: 0, 0
+  index: -1
+Cerberus/body2
+  rotate: false
+  xy: 345, 442
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+Cerberus/boz
+  rotate: true
+  xy: 2, 179
+  size: 163, 152
+  orig: 163, 152
+  offset: 0, 0
+  index: -1
+Cerberus/sj
+  rotate: false
+  xy: 332, 365
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+Cerberus/tou
+  rotate: false
+  xy: 161, 382
+  size: 112, 127
+  orig: 112, 127
+  offset: 0, 0
+  index: -1
+Cerberus/weib
+  rotate: false
+  xy: 424, 443
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+Cerberus/yun
+  rotate: false
+  xy: 375, 368
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 161, 342
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

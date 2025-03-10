@@ -1,0 +1,153 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 359, 292
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/body1
+  rotate: false
+  xy: 2, 194
+  size: 137, 159
+  orig: 137, 159
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/body2
+  rotate: false
+  xy: 349, 396
+  size: 130, 114
+  orig: 130, 114
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/eyes
+  rotate: true
+  xy: 446, 348
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/handinner
+  rotate: true
+  xy: 303, 296
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/handout
+  rotate: false
+  xy: 223, 63
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/hat1
+  rotate: false
+  xy: 2, 355
+  size: 197, 155
+  orig: 197, 155
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/hat2
+  rotate: false
+  xy: 201, 384
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/head
+  rotate: false
+  xy: 121, 76
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/shouhuan1
+  rotate: false
+  xy: 170, 48
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/shouhuan2
+  rotate: false
+  xy: 71, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/suolian1
+  rotate: true
+  xy: 2, 2
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/suolian2
+  rotate: true
+  xy: 141, 194
+  size: 159, 56
+  orig: 159, 56
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/suolian3
+  rotate: false
+  xy: 2, 28
+  size: 116, 32
+  orig: 116, 32
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/texiao1
+  rotate: false
+  xy: 121, 44
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/texiao2
+  rotate: false
+  xy: 2, 62
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/texiao3
+  rotate: true
+  xy: 223, 116
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/texiao4
+  rotate: false
+  xy: 359, 332
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/texiao5
+  rotate: false
+  xy: 481, 480
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/texiao6
+  rotate: false
+  xy: 199, 209
+  size: 81, 95
+  orig: 81, 95
+  offset: 0, 0
+  index: -1
+MistSpirit/MistSpirit/xianglian
+  rotate: false
+  xy: 201, 306
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1

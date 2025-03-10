@@ -1,0 +1,993 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CavalryMan/CavalryMan03/body
+  rotate: false
+  xy: 339, 19
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryMan03/handout
+  rotate: false
+  xy: 497, 2
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryMan03/hatout
+  rotate: false
+  xy: 2, 821
+  size: 172, 201
+  orig: 172, 201
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryMan03/jianjiainner
+  rotate: false
+  xy: 801, 454
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryMan03/jianjiaout
+  rotate: true
+  xy: 801, 500
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryMan03/weapon
+  rotate: false
+  xy: 350, 941
+  size: 241, 81
+  orig: 241, 81
+  offset: 0, 0
+  index: -1
+CavalryMan/CavalryMan03/yaojia
+  rotate: false
+  xy: 944, 806
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+CavalryMan/EnemyCavalryMan03/body
+  rotate: false
+  xy: 411, 115
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+CavalryMan/EnemyCavalryMan03/handout
+  rotate: false
+  xy: 539, 2
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+CavalryMan/EnemyCavalryMan03/handout1
+  rotate: true
+  xy: 497, 74
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+CavalryMan/EnemyCavalryMan03/hatout
+  rotate: false
+  xy: 2, 618
+  size: 172, 201
+  orig: 172, 201
+  offset: 0, 0
+  index: -1
+CavalryMan/EnemyCavalryMan03/jianjiainner
+  rotate: false
+  xy: 857, 454
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+CavalryMan/EnemyCavalryMan03/jianjiaout
+  rotate: true
+  xy: 850, 500
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+CavalryMan/EnemyCavalryMan03/yaojia
+  rotate: false
+  xy: 984, 827
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+Horse/horse01/Horse_shengzi
+  rotate: true
+  xy: 816, 799
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_backlegdown
+  rotate: true
+  xy: 820, 346
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_backlegup
+  rotate: false
+  xy: 633, 359
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_body
+  rotate: true
+  xy: 478, 646
+  size: 180, 118
+  orig: 180, 118
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_frontlegdown
+  rotate: true
+  xy: 717, 432
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_frontlegup
+  rotate: false
+  xy: 836, 810
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_head
+  rotate: true
+  xy: 478, 506
+  size: 138, 121
+  orig: 138, 121
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_neck
+  rotate: false
+  xy: 633, 432
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_weiba
+  rotate: false
+  xy: 593, 885
+  size: 126, 67
+  orig: 126, 67
+  offset: 0, 0
+  index: -1
+Horse/horse01/horse_xiongjia
+  rotate: false
+  xy: 917, 611
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+Horse/horse02/horse_head
+  rotate: true
+  xy: 168, 210
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+Horse/horse02/horse_neck_jia
+  rotate: false
+  xy: 981, 955
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+Horse/horse02/horse_xiongjia
+  rotate: true
+  xy: 791, 659
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+Horse/horse03/horse_head
+  rotate: true
+  xy: 309, 210
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+Horse/horse03/horse_head_jia
+  rotate: true
+  xy: 646, 255
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+Horse/horse03/horse_head_jia1
+  rotate: false
+  xy: 706, 650
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1
+Horse/horse03/horse_mana
+  rotate: false
+  xy: 598, 763
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+Horse/horse03/horse_tijia
+  rotate: false
+  xy: 845, 762
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Horse/horse03/horse_tuijia
+  rotate: true
+  xy: 721, 865
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+Horse/horse03/horse_xiongjia
+  rotate: true
+  xy: 601, 542
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_backlegdown
+  rotate: false
+  xy: 873, 334
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_frontlegdown
+  rotate: false
+  xy: 981, 889
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_head
+  rotate: true
+  xy: 490, 359
+  size: 145, 141
+  orig: 145, 141
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_neck
+  rotate: false
+  xy: 450, 218
+  size: 92, 130
+  orig: 92, 130
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_shengzi
+  rotate: false
+  xy: 889, 816
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_tuijia
+  rotate: true
+  xy: 183, 4
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_tuijia1
+  rotate: false
+  xy: 598, 649
+  size: 106, 112
+  orig: 106, 112
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_xiongjia
+  rotate: false
+  xy: 493, 138
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+Horse/horse04/horse_xiongjia1
+  rotate: false
+  xy: 544, 228
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: false
+  xy: 552, 148
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+SwordMan/CavalryMan03/handinner
+  rotate: true
+  xy: 912, 765
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+SwordMan/CavalryMan03/handout1
+  rotate: false
+  xy: 553, 92
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+SwordMan/DarkSwordman/weapon
+  rotate: false
+  xy: 593, 954
+  size: 226, 68
+  orig: 226, 68
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/SwordManH/hatout
+  rotate: true
+  xy: 821, 868
+  size: 154, 158
+  orig: 154, 158
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/handinner
+  rotate: false
+  xy: 906, 697
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/handout
+  rotate: false
+  xy: 695, 360
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/handout1
+  rotate: true
+  xy: 617, 96
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/jianjiainner
+  rotate: true
+  xy: 775, 238
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/jianjiaout
+  rotate: false
+  xy: 723, 204
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/leginnerdown
+  rotate: false
+  xy: 791, 79
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/leginnerup
+  rotate: true
+  xy: 695, 542
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/legoutdown
+  rotate: false
+  xy: 774, 432
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/legoutup
+  rotate: false
+  xy: 860, 564
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/sword
+  rotate: true
+  xy: 2, 4
+  size: 197, 77
+  orig: 197, 77
+  offset: 0, 0
+  index: -1
+SwordMan/ESwordMan/yaojia
+  rotate: false
+  xy: 819, 92
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/body
+  rotate: false
+  xy: 329, 114
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/handinner
+  rotate: false
+  xy: 940, 702
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/handout
+  rotate: false
+  xy: 581, 20
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/handout1
+  rotate: false
+  xy: 623, 40
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/hatout
+  rotate: true
+  xy: 2, 441
+  size: 175, 168
+  orig: 175, 168
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/jianjiainner
+  rotate: false
+  xy: 861, 613
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/jianjiaout
+  rotate: false
+  xy: 795, 564
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/legoutdown
+  rotate: false
+  xy: 816, 238
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireCavalry/yaojia
+  rotate: false
+  xy: 984, 765
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+SwordMan/EmpireSoldier/weapon
+  rotate: false
+  xy: 350, 828
+  size: 239, 47
+  orig: 239, 47
+  offset: 0, 0
+  index: -1
+SwordMan/EnemyCavalryMan03/handinner
+  rotate: false
+  xy: 981, 702
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/body
+  rotate: false
+  xy: 165, 91
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/handinner
+  rotate: true
+  xy: 739, 542
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/handout
+  rotate: false
+  xy: 755, 472
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/hatout
+  rotate: true
+  xy: 172, 350
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/jianjiainner
+  rotate: false
+  xy: 775, 198
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/jianjiaout
+  rotate: true
+  xy: 733, 301
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/leginnerup
+  rotate: true
+  xy: 742, 82
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/legoutdown
+  rotate: false
+  xy: 782, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan02/legoutup
+  rotate: false
+  xy: 733, 245
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/body
+  rotate: false
+  xy: 81, 91
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/handinner
+  rotate: true
+  xy: 705, 163
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/handout
+  rotate: false
+  xy: 775, 365
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/handout1
+  rotate: true
+  xy: 623, 2
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/hatout
+  rotate: false
+  xy: 176, 662
+  size: 149, 164
+  orig: 149, 164
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/jianjiainner
+  rotate: false
+  xy: 760, 160
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/jianjiaout
+  rotate: false
+  xy: 755, 120
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/leginnerdown
+  rotate: false
+  xy: 841, 168
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/leginnerup
+  rotate: true
+  xy: 741, 46
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/legoutdown
+  rotate: false
+  xy: 816, 762
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/legoutup
+  rotate: true
+  xy: 971, 619
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+SwordMan/EnemySwordMan03/yaojia
+  rotate: false
+  xy: 879, 762
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/body
+  rotate: false
+  xy: 257, 12
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/handinner
+  rotate: true
+  xy: 940, 661
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/handout
+  rotate: true
+  xy: 633, 176
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/handout1
+  rotate: true
+  xy: 733, 586
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/hatout
+  rotate: false
+  xy: 176, 828
+  size: 172, 194
+  orig: 172, 194
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/horse_head
+  rotate: false
+  xy: 336, 506
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/jianjiainner
+  rotate: false
+  xy: 901, 565
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/jianjiaout
+  rotate: true
+  xy: 865, 390
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/legoutdown
+  rotate: false
+  xy: 814, 158
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+SwordMan/RoyalCavalry/yaojia
+  rotate: false
+  xy: 775, 277
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/SwordManH/hatout
+  rotate: true
+  xy: 176, 506
+  size: 154, 158
+  orig: 154, 158
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/body
+  rotate: false
+  xy: 421, 23
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/handinner
+  rotate: false
+  xy: 871, 696
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/handout
+  rotate: true
+  xy: 628, 134
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/handout1
+  rotate: false
+  xy: 695, 578
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/jianjiainner
+  rotate: false
+  xy: 788, 39
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/jianjiaout
+  rotate: false
+  xy: 694, 3
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/leginnerdown
+  rotate: true
+  xy: 815, 278
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/leginnerup
+  rotate: false
+  xy: 746, 2
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/legoutdown
+  rotate: false
+  xy: 831, 198
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/legoutup
+  rotate: true
+  xy: 820, 306
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/sword
+  rotate: true
+  xy: 89, 242
+  size: 197, 77
+  orig: 197, 77
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan/yaojia
+  rotate: false
+  xy: 601, 508
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan02/body
+  rotate: false
+  xy: 247, 108
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan02/handout
+  rotate: true
+  xy: 791, 613
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan02/handout1
+  rotate: false
+  xy: 717, 471
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan02/hatout
+  rotate: true
+  xy: 331, 350
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan02/legoutdown
+  rotate: false
+  xy: 810, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan02/sword
+  rotate: true
+  xy: 2, 203
+  size: 236, 85
+  orig: 236, 85
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/body
+  rotate: true
+  xy: 81, 7
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/handinner
+  rotate: true
+  xy: 700, 122
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/handout
+  rotate: false
+  xy: 820, 387
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/handout1
+  rotate: false
+  xy: 737, 361
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/hatout
+  rotate: false
+  xy: 327, 662
+  size: 149, 164
+  orig: 149, 164
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/jianjiainner
+  rotate: false
+  xy: 688, 84
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/jianjiaout
+  rotate: false
+  xy: 687, 44
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/jianjiaoutinner
+  rotate: false
+  xy: 775, 339
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/leginnerdown
+  rotate: false
+  xy: 843, 95
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/leginnerup
+  rotate: true
+  xy: 869, 298
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/legoutdown
+  rotate: false
+  xy: 871, 659
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/legoutup
+  rotate: true
+  xy: 971, 577
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/sword
+  rotate: false
+  xy: 350, 877
+  size: 240, 62
+  orig: 240, 62
+  offset: 0, 0
+  index: -1
+SwordMan/SwordMan03/yaojia
+  rotate: true
+  xy: 809, 125
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+SwordMan/eyehard
+  rotate: false
+  xy: 89, 193
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+SwordMan/eyesffuer
+  rotate: false
+  xy: 646, 218
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+SwordMan/eyeyun
+  rotate: false
+  xy: 552, 188
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+SwordMan/face
+  rotate: true
+  xy: 721, 762
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 329, 108
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 591, 855
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 900, 668
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1

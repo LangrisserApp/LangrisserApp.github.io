@@ -1,0 +1,111 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 367, 111
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+arminnerdown
+  rotate: true
+  xy: 410, 182
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 173, 126
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 67
+  size: 169, 167
+  orig: 169, 167
+  offset: 0, 0
+  index: -1
+handout
+  rotate: true
+  xy: 262, 47
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 407, 115
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: true
+  xy: 464, 112
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: false
+  xy: 141, 16
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 464, 139
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 342, 54
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 173, 32
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 262, 98
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 262, 187
+  size: 146, 47
+  orig: 146, 47
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 2
+  size: 137, 63
+  orig: 137, 63
+  offset: 0, 0
+  index: -1
+yaojia1
+  rotate: true
+  xy: 262, 11
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1

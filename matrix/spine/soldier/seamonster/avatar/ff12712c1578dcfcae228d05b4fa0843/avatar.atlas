@@ -1,0 +1,167 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 615, 299
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 777, 227
+  size: 124, 183
+  orig: 124, 183
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 395, 234
+  size: 179, 128
+  orig: 179, 128
+  offset: 0, 0
+  index: -1
+body4
+  rotate: false
+  xy: 2, 122
+  size: 304, 129
+  orig: 304, 129
+  offset: 0, 0
+  index: -1
+body4a
+  rotate: true
+  xy: 409, 364
+  size: 65, 204
+  orig: 65, 204
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: true
+  xy: 576, 299
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 26, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 576, 133
+  size: 164, 174
+  orig: 164, 174
+  offset: 0, 0
+  index: -1
+peishi1
+  rotate: false
+  xy: 363, 258
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+peishi2
+  rotate: false
+  xy: 201, 69
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+peishi3
+  rotate: false
+  xy: 911, 68
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+peishi4
+  rotate: false
+  xy: 576, 326
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: false
+  xy: 752, 83
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 338
+  size: 391, 87
+  orig: 391, 87
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 2, 427
+  size: 405, 83
+  orig: 405, 83
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 409, 431
+  size: 368, 79
+  orig: 368, 79
+  offset: 0, 0
+  index: -1
+tx4
+  rotate: false
+  xy: 2, 253
+  size: 359, 83
+  orig: 359, 83
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 779, 353
+  size: 157, 218
+  orig: 157, 218
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: true
+  xy: 2, 26
+  size: 94, 197
+  orig: 94, 197
+  offset: 0, 0
+  index: -1
+wing3
+  rotate: true
+  xy: 308, 117
+  size: 134, 68
+  orig: 134, 68
+  offset: 0, 0
+  index: -1
+wing4
+  rotate: false
+  xy: 449, 161
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 378, 119
+  size: 69, 113
+  orig: 69, 113
+  offset: 0, 0
+  index: -1
