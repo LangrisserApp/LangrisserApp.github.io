@@ -1,0 +1,286 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arminner
+  rotate: false
+  xy: 278, 4
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+armout
+  rotate: false
+  xy: 381, 180
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 390, 332
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 2, 364
+  size: 263, 146
+  orig: 263, 146
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 267, 393
+  size: 117, 207
+  orig: 117, 207
+  offset: 0, 0
+  index: -1
+dimian
+  rotate: true
+  xy: 476, 412
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 170, 2
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 408, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 209, 3
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 321, 57
+  size: 19, 68
+  orig: 19, 68
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 381, 132
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 177, 49
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: false
+  xy: 482, 383
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+handout
+  rotate: true
+  xy: 477, 101
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+handout2
+  rotate: false
+  xy: 474, 310
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 64
+  size: 173, 178
+  orig: 173, 178
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: true
+  xy: 132, 2
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: true
+  xy: 451, 95
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 2, 7
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 177, 103
+  size: 68, 139
+  orig: 68, 139
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: false
+  xy: 435, 188
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: false
+  xy: 474, 343
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 422, 132
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 450, 140
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+mianshi
+  rotate: true
+  xy: 259, 221
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+peishi1
+  rotate: true
+  xy: 432, 82
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+peishi2
+  rotate: false
+  xy: 474, 286
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+peishi3
+  rotate: false
+  xy: 342, 69
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+peishi4
+  rotate: false
+  xy: 408, 234
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+peishi5
+  rotate: false
+  xy: 400, 78
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 334, 15
+  size: 7, 40
+  orig: 7, 40
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: true
+  xy: 342, 60
+  size: 7, 52
+  orig: 7, 52
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 502, 346
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 244
+  size: 255, 118
+  orig: 255, 118
+  offset: 0, 0
+  index: -1
+xiabai1
+  rotate: false
+  xy: 260, 55
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: false
+  xy: 267, 311
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1
+xiabai3
+  rotate: false
+  xy: 247, 127
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+xiabai4
+  rotate: false
+  xy: 336, 129
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: true
+  xy: 368, 235
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+yaodai2
+  rotate: false
+  xy: 247, 114
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
