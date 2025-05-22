@@ -1,0 +1,447 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Reah_Sword_3/jianjiaout
+  rotate: false
+  xy: 563, 326
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+Reah_Sword_3/toushi1
+  rotate: false
+  xy: 741, 415
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+Reah_Sword_3/weapon
+  rotate: false
+  xy: 2, 270
+  size: 210, 103
+  orig: 210, 103
+  offset: 0, 0
+  index: -1
+Reah_Sword_3/yaojiainner
+  rotate: true
+  xy: 214, 274
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Reah_Sword_3/yaojiaout
+  rotate: false
+  xy: 818, 379
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/Shadow
+  rotate: false
+  xy: 101, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/arminnerdown
+  rotate: false
+  xy: 177, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/arminnerup
+  rotate: false
+  xy: 291, 213
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/armoutdown
+  rotate: true
+  xy: 784, 326
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/armoutup
+  rotate: false
+  xy: 239, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/body
+  rotate: true
+  xy: 162, 41
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/body1
+  rotate: true
+  xy: 486, 337
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/daizi1
+  rotate: true
+  xy: 954, 405
+  size: 19, 67
+  orig: 19, 67
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/daizi2
+  rotate: true
+  xy: 300, 289
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/eyebrow
+  rotate: false
+  xy: 372, 326
+  size: 65, 9
+  orig: 65, 9
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/eyehard
+  rotate: true
+  xy: 457, 337
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/eyehard1
+  rotate: true
+  xy: 664, 314
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/eyehard2
+  rotate: false
+  xy: 741, 392
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/eyehard3
+  rotate: true
+  xy: 248, 102
+  size: 70, 12
+  orig: 70, 12
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/eyesffuer
+  rotate: true
+  xy: 691, 322
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/eyeyun
+  rotate: false
+  xy: 725, 359
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/face
+  rotate: false
+  xy: 2, 127
+  size: 159, 141
+  orig: 159, 141
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair1
+  rotate: true
+  xy: 163, 103
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair10
+  rotate: false
+  xy: 626, 323
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair2
+  rotate: true
+  xy: 254, 253
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair3
+  rotate: false
+  xy: 101, 29
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair4
+  rotate: false
+  xy: 249, 300
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair5
+  rotate: true
+  xy: 163, 174
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair6
+  rotate: false
+  xy: 486, 398
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair7
+  rotate: false
+  xy: 238, 376
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair8
+  rotate: false
+  xy: 2, 4
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/hair9
+  rotate: true
+  xy: 852, 416
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/handinner
+  rotate: false
+  xy: 210, 22
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/handinner1
+  rotate: false
+  xy: 533, 305
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/handout
+  rotate: false
+  xy: 608, 292
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/handout1
+  rotate: false
+  xy: 254, 174
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/jianjiainner
+  rotate: false
+  xy: 335, 221
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/jianjiainner1
+  rotate: true
+  xy: 563, 292
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/jianjiainner2
+  rotate: false
+  xy: 210, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/jianjiaout
+  rotate: true
+  xy: 568, 376
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/leginnerdown
+  rotate: false
+  xy: 262, 127
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/leginnerdown1
+  rotate: true
+  xy: 439, 308
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/leginnerup
+  rotate: false
+  xy: 239, 43
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/leginnerup1
+  rotate: true
+  xy: 362, 292
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/legoutdown
+  rotate: true
+  xy: 896, 383
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/legoutdown1
+  rotate: true
+  xy: 854, 380
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/legoutup
+  rotate: false
+  xy: 254, 202
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/legoutup1
+  rotate: true
+  xy: 299, 253
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/mouth02
+  rotate: false
+  xy: 801, 380
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/mouth03
+  rotate: true
+  xy: 362, 332
+  size: 42, 8
+  orig: 42, 8
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/mouth1
+  rotate: false
+  xy: 691, 314
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/peishi
+  rotate: true
+  xy: 372, 337
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/pifeng
+  rotate: false
+  xy: 625, 441
+  size: 114, 69
+  orig: 114, 69
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/toushi1
+  rotate: false
+  xy: 372, 414
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/toushi2
+  rotate: false
+  xy: 725, 319
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/toushi3
+  rotate: false
+  xy: 214, 295
+  size: 33, 78
+  orig: 33, 78
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/weapon
+  rotate: false
+  xy: 2, 375
+  size: 234, 135
+  orig: 234, 135
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/weapontx
+  rotate: true
+  xy: 954, 426
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/xiabai1
+  rotate: false
+  xy: 300, 313
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/xiabai2
+  rotate: false
+  xy: 623, 389
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/xiabai3
+  rotate: false
+  xy: 486, 442
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/yaojiainner
+  rotate: true
+  xy: 486, 306
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Reah_Sword_4/yaojiaout
+  rotate: true
+  xy: 687, 398
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
