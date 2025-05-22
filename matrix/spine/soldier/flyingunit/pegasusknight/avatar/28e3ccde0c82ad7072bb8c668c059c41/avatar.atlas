@@ -1,0 +1,419 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PegasusKnight/PegasusKnight03_SP/body
+  rotate: false
+  xy: 853, 266
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/eyehard
+  rotate: true
+  xy: 785, 102
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/eyesffuer
+  rotate: false
+  xy: 770, 244
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/eyeyun
+  rotate: true
+  xy: 723, 171
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/face
+  rotate: true
+  xy: 161, 28
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/handinner
+  rotate: true
+  xy: 712, 379
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/handout
+  rotate: true
+  xy: 772, 279
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/head
+  rotate: false
+  xy: 2, 290
+  size: 188, 220
+  orig: 188, 220
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_an
+  rotate: true
+  xy: 712, 293
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_an2
+  rotate: true
+  xy: 785, 371
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_an3
+  rotate: true
+  xy: 697, 40
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_body
+  rotate: false
+  xy: 491, 149
+  size: 158, 91
+  orig: 158, 91
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_ear
+  rotate: true
+  xy: 126, 2
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_ear2
+  rotate: true
+  xy: 181, 2
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_eye
+  rotate: true
+  xy: 501, 2
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_eyeyun
+  rotate: false
+  xy: 801, 12
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_hair2
+  rotate: false
+  xy: 912, 264
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_hair5
+  rotate: false
+  xy: 830, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_head
+  rotate: true
+  xy: 324, 206
+  size: 130, 165
+  orig: 130, 165
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_head2fx
+  rotate: true
+  xy: 387, 3
+  size: 117, 112
+  orig: 117, 112
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_leginnerdown1
+  rotate: true
+  xy: 712, 249
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_leginnerdown2
+  rotate: false
+  xy: 968, 258
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_leginnerup1
+  rotate: true
+  xy: 785, 40
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_leginnerup2
+  rotate: false
+  xy: 912, 206
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_legoutdown1
+  rotate: false
+  xy: 878, 208
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_legoutdown2
+  rotate: false
+  xy: 875, 319
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_legoutup1
+  rotate: false
+  xy: 936, 316
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_legoutup2
+  rotate: false
+  xy: 766, 177
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_neck
+  rotate: true
+  xy: 252, 6
+  size: 114, 133
+  orig: 114, 133
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_peishi1
+  rotate: false
+  xy: 651, 149
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_peishi2
+  rotate: false
+  xy: 831, 175
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_peishiout5
+  rotate: true
+  xy: 953, 177
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_toukui
+  rotate: false
+  xy: 501, 26
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_weiba
+  rotate: true
+  xy: 242, 147
+  size: 144, 69
+  orig: 144, 69
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_winginner1
+  rotate: true
+  xy: 313, 122
+  size: 82, 148
+  orig: 82, 148
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_winginner1a
+  rotate: true
+  xy: 830, 48
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_winginner2
+  rotate: true
+  xy: 488, 407
+  size: 103, 205
+  orig: 103, 205
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_winginner3
+  rotate: true
+  xy: 695, 413
+  size: 97, 178
+  orig: 97, 178
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_winginner4
+  rotate: false
+  xy: 161, 130
+  size: 79, 158
+  orig: 79, 158
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_wingout2
+  rotate: false
+  xy: 192, 293
+  size: 130, 217
+  orig: 130, 217
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_wingout3
+  rotate: false
+  xy: 324, 338
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_wingout4
+  rotate: false
+  xy: 491, 242
+  size: 167, 112
+  orig: 167, 112
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_wingout6
+  rotate: true
+  xy: 875, 375
+  size: 135, 144
+  orig: 135, 144
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_wingout6a
+  rotate: true
+  xy: 600, 31
+  size: 116, 95
+  orig: 116, 95
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/horse_xiongjia
+  rotate: false
+  xy: 660, 250
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/jianjiainner
+  rotate: false
+  xy: 953, 214
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/jianjiaout
+  rotate: false
+  xy: 772, 320
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/kua
+  rotate: true
+  xy: 679, 357
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/legoutdown
+  rotate: true
+  xy: 754, 2
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/legoutup
+  rotate: true
+  xy: 697, 2
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/mouth-1
+  rotate: false
+  xy: 463, 122
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/mouth2
+  rotate: true
+  xy: 236, 5
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/mouth3
+  rotate: true
+  xy: 847, 256
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/pifeng
+  rotate: false
+  xy: 488, 356
+  size: 189, 49
+  orig: 189, 49
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/weapon1
+  rotate: true
+  xy: 2, 21
+  size: 267, 122
+  orig: 267, 122
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/weapon2
+  rotate: true
+  xy: 126, 31
+  size: 257, 33
+  orig: 257, 33
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/yaojia1
+  rotate: false
+  xy: 876, 5
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+PegasusKnight/PegasusKnight03_SP/yaojia2
+  rotate: false
+  xy: 829, 110
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 463, 130
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
