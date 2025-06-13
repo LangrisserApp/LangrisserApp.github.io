@@ -1,0 +1,524 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ErzaScarlet_Sword2/arminnerdown
+  rotate: false
+  xy: 248, 222
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/arminnerup
+  rotate: true
+  xy: 238, 84
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/armoutdown
+  rotate: true
+  xy: 408, 318
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/armoutup
+  rotate: false
+  xy: 278, 220
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/body1
+  rotate: true
+  xy: 58, 2
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/body2
+  rotate: false
+  xy: 162, 111
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/jianjiainner
+  rotate: true
+  xy: 284, 38
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/jianjiainner1
+  rotate: false
+  xy: 367, 264
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/jianjiaout
+  rotate: true
+  xy: 253, 2
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/leginnerdown
+  rotate: true
+  xy: 446, 296
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/legoutdown
+  rotate: false
+  xy: 253, 38
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/qunzi
+  rotate: true
+  xy: 447, 432
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/weapon2
+  rotate: false
+  xy: 370, 442
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/yaodai
+  rotate: false
+  xy: 211, 202
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/yaojia1
+  rotate: true
+  xy: 225, 111
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword2/yaojia2
+  rotate: true
+  xy: 204, 4
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/arminnerdown
+  rotate: false
+  xy: 294, 157
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/arminnerup
+  rotate: false
+  xy: 284, 65
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/armoutdown
+  rotate: false
+  xy: 288, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/armoutup
+  rotate: true
+  xy: 446, 321
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/body1
+  rotate: true
+  xy: 370, 378
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/body2
+  rotate: false
+  xy: 447, 355
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/jianjiainner1
+  rotate: false
+  xy: 325, 162
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/jianjiainner2
+  rotate: true
+  xy: 275, 265
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/jianjiaout
+  rotate: false
+  xy: 255, 157
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/leginnerdown
+  rotate: true
+  xy: 261, 196
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/legoutdown
+  rotate: true
+  xy: 2, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/qunzi
+  rotate: false
+  xy: 143, 273
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword3/weapon2
+  rotate: false
+  xy: 238, 427
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/Shadow
+  rotate: false
+  xy: 162, 84
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/arminnerdown
+  rotate: false
+  xy: 311, 217
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/arminnerup
+  rotate: false
+  xy: 311, 69
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/arminnerup1
+  rotate: true
+  xy: 354, 299
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/armoutdown
+  rotate: false
+  xy: 318, 2
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/armoutup
+  rotate: false
+  xy: 291, 114
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/armoutup1
+  rotate: true
+  xy: 314, 295
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/body1
+  rotate: false
+  xy: 190, 20
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/body2
+  rotate: false
+  xy: 126, 20
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/dang
+  rotate: true
+  xy: 332, 349
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/eyebrow
+  rotate: false
+  xy: 224, 291
+  size: 73, 11
+  orig: 73, 11
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/eyehard
+  rotate: false
+  xy: 332, 327
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/eyehard1
+  rotate: false
+  xy: 238, 320
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/eyehard2
+  rotate: false
+  xy: 224, 304
+  size: 74, 14
+  orig: 74, 14
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/eyehard3
+  rotate: false
+  xy: 126, 5
+  size: 76, 13
+  orig: 76, 13
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/eyesffuer
+  rotate: false
+  xy: 370, 349
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/eyeyun
+  rotate: false
+  xy: 131, 179
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/hair1
+  rotate: false
+  xy: 2, 321
+  size: 139, 189
+  orig: 139, 189
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/hair2
+  rotate: false
+  xy: 143, 337
+  size: 93, 173
+  orig: 93, 173
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/hair3
+  rotate: false
+  xy: 332, 391
+  size: 36, 119
+  orig: 36, 119
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/hair4
+  rotate: false
+  xy: 2, 34
+  size: 54, 138
+  orig: 54, 138
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/hair5
+  rotate: false
+  xy: 58, 64
+  size: 48, 108
+  orig: 48, 108
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/hair6
+  rotate: false
+  xy: 108, 84
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/handinner
+  rotate: false
+  xy: 491, 334
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/handinner1
+  rotate: false
+  xy: 424, 266
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/handout
+  rotate: true
+  xy: 473, 273
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/handout1
+  rotate: false
+  xy: 448, 271
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/head
+  rotate: false
+  xy: 2, 174
+  size: 127, 145
+  orig: 127, 145
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/jianjiainner1
+  rotate: true
+  xy: 320, 38
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/jianjiainner2
+  rotate: false
+  xy: 311, 256
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/jianjiaout
+  rotate: false
+  xy: 211, 222
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/leginnerdown
+  rotate: true
+  xy: 206, 179
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/leginnerup
+  rotate: true
+  xy: 224, 265
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/legoutdown
+  rotate: false
+  xy: 260, 111
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/legoutup
+  rotate: false
+  xy: 225, 132
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/mouth01
+  rotate: false
+  xy: 131, 174
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/mouth02
+  rotate: true
+  xy: 224, 321
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/mouth03
+  rotate: false
+  xy: 236, 9
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/mouth04
+  rotate: true
+  xy: 108, 64
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/qunzi
+  rotate: false
+  xy: 131, 209
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/weapon1
+  rotate: false
+  xy: 395, 265
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/weapon2
+  rotate: false
+  xy: 238, 342
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/yaojia1
+  rotate: true
+  xy: 308, 197
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/yaojia2
+  rotate: false
+  xy: 343, 257
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+ErzaScarlet_Sword4/yaojia3
+  rotate: true
+  xy: 399, 291
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1

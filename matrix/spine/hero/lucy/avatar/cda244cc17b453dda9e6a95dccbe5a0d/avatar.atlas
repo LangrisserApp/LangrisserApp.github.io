@@ -1,0 +1,517 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LucyHeartfilia_Magic_2/arminnerout
+  rotate: false
+  xy: 347, 342
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/arminnerup
+  rotate: false
+  xy: 242, 242
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/armoutdown
+  rotate: false
+  xy: 297, 249
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/handinner
+  rotate: true
+  xy: 452, 374
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/handout
+  rotate: false
+  xy: 166, 136
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/weapon
+  rotate: true
+  xy: 365, 292
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/weapon1
+  rotate: true
+  xy: 139, 149
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/weapon2
+  rotate: false
+  xy: 256, 415
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/weapon3
+  rotate: false
+  xy: 333, 234
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/weapon4
+  rotate: true
+  xy: 342, 383
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_2/weapon5
+  rotate: false
+  xy: 132, 284
+  size: 17, 226
+  orig: 17, 226
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/arminnerdown
+  rotate: false
+  xy: 166, 158
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/arminnerdown1
+  rotate: false
+  xy: 424, 382
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/arminnerup
+  rotate: false
+  xy: 201, 156
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/armoutdown
+  rotate: false
+  xy: 230, 176
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/armoutup
+  rotate: true
+  xy: 391, 384
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/body
+  rotate: false
+  xy: 25, 2
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/bodyinner
+  rotate: true
+  xy: 479, 378
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/bodyinner1
+  rotate: false
+  xy: 411, 357
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/bodyout
+  rotate: false
+  xy: 273, 244
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/face
+  rotate: false
+  xy: 2, 368
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/hair4
+  rotate: true
+  xy: 455, 469
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/hair5
+  rotate: false
+  xy: 72, 166
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/handinner
+  rotate: false
+  xy: 394, 327
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/handout1
+  rotate: false
+  xy: 191, 133
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/leginnerdown
+  rotate: true
+  xy: 72, 81
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/leginnerup
+  rotate: false
+  xy: 166, 191
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/legoutdown
+  rotate: false
+  xy: 199, 195
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/legoutup
+  rotate: false
+  xy: 82, 30
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/lingziinner
+  rotate: false
+  xy: 2, 4
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/lingziout
+  rotate: true
+  xy: 392, 289
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/qunzi
+  rotate: true
+  xy: 353, 408
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/qunzit
+  rotate: true
+  xy: 389, 411
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_3/weapon
+  rotate: true
+  xy: 166, 239
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/arminnerdown
+  rotate: true
+  xy: 82, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/arminnerup
+  rotate: true
+  xy: 230, 145
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/arminnerupt
+  rotate: false
+  xy: 333, 263
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/armoutdown
+  rotate: false
+  xy: 333, 297
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/armoutup
+  rotate: false
+  xy: 365, 308
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/body
+  rotate: false
+  xy: 187, 332
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/eyebrow
+  rotate: false
+  xy: 271, 332
+  size: 69, 10
+  orig: 69, 10
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/eyehard
+  rotate: true
+  xy: 424, 402
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/eyehard1
+  rotate: true
+  xy: 484, 393
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/eyehard2
+  rotate: true
+  xy: 248, 335
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/eyehard3
+  rotate: false
+  xy: 271, 344
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/eyesffuer
+  rotate: true
+  xy: 452, 398
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/eyeyun
+  rotate: false
+  xy: 271, 383
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/face
+  rotate: false
+  xy: 2, 225
+  size: 128, 141
+  orig: 128, 141
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/hair
+  rotate: true
+  xy: 256, 472
+  size: 38, 126
+  orig: 38, 126
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/hair1
+  rotate: true
+  xy: 187, 293
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/hair2
+  rotate: false
+  xy: 127, 168
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/hair3
+  rotate: false
+  xy: 151, 291
+  size: 34, 118
+  orig: 34, 118
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/hairinner
+  rotate: false
+  xy: 25, 80
+  size: 45, 143
+  orig: 45, 143
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/handinner
+  rotate: false
+  xy: 363, 268
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/handinner1
+  rotate: true
+  xy: 112, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/handout
+  rotate: false
+  xy: 228, 212
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/handout1
+  rotate: true
+  xy: 365, 242
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/leginnerdown
+  rotate: false
+  xy: 186, 239
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/leginnerup
+  rotate: false
+  xy: 301, 285
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/legoutdown
+  rotate: false
+  xy: 213, 245
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/legoutup
+  rotate: false
+  xy: 266, 286
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/mouth01
+  rotate: true
+  xy: 435, 360
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/mouth02
+  rotate: true
+  xy: 216, 141
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/mouth04
+  rotate: true
+  xy: 264, 189
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/qunzi
+  rotate: true
+  xy: 132, 221
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/qunziinner
+  rotate: false
+  xy: 391, 351
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/qunziinner1
+  rotate: false
+  xy: 394, 308
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/qunzit
+  rotate: false
+  xy: 384, 478
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/toushi
+  rotate: false
+  xy: 72, 108
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/weapon
+  rotate: true
+  xy: 248, 285
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/weapon1
+  rotate: false
+  xy: 2, 19
+  size: 21, 204
+  orig: 21, 204
+  offset: 0, 0
+  index: -1
+LucyHeartfilia_Magic_4/weapon2
+  rotate: false
+  xy: 151, 411
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 271, 356
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
