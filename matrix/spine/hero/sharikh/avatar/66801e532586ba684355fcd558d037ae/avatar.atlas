@@ -1,0 +1,573 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Knight/Sharikh_Knight3/horse head
+  rotate: true
+  xy: 540, 402
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/horse_an1
+  rotate: true
+  xy: 622, 321
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/horse_an2
+  rotate: false
+  xy: 320, 38
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/horse_an3
+  rotate: true
+  xy: 400, 267
+  size: 58, 111
+  orig: 58, 111
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/horse_an5
+  rotate: false
+  xy: 776, 349
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/pifeng
+  rotate: false
+  xy: 881, 284
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/weapon1
+  rotate: false
+  xy: 2, 114
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/yaojia1
+  rotate: true
+  xy: 576, 137
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/yifu2
+  rotate: false
+  xy: 429, 136
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight3/yifu3
+  rotate: false
+  xy: 483, 2
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/Shadow
+  rotate: false
+  xy: 774, 322
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/arminnerdown
+  rotate: true
+  xy: 610, 32
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/arminnerup
+  rotate: true
+  xy: 445, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/armoutdown
+  rotate: false
+  xy: 611, 116
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/armoutup
+  rotate: false
+  xy: 651, 110
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/body
+  rotate: false
+  xy: 967, 293
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/dang
+  rotate: true
+  xy: 580, 32
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/eyebrow
+  rotate: true
+  xy: 862, 347
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/eyehard
+  rotate: true
+  xy: 754, 334
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/eyehard1
+  rotate: false
+  xy: 622, 250
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/eyehard2
+  rotate: false
+  xy: 607, 204
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/eyehard3
+  rotate: false
+  xy: 2, 3
+  size: 64, 9
+  orig: 64, 9
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/eyesffuer
+  rotate: false
+  xy: 693, 254
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/eyeyun
+  rotate: false
+  xy: 607, 222
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/face
+  rotate: true
+  xy: 210, 303
+  size: 117, 146
+  orig: 117, 146
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/hair1
+  rotate: true
+  xy: 622, 270
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/hair2
+  rotate: false
+  xy: 651, 142
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/hair3
+  rotate: false
+  xy: 358, 311
+  size: 40, 109
+  orig: 40, 109
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/hair4
+  rotate: true
+  xy: 527, 44
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/hair5
+  rotate: false
+  xy: 859, 318
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/hair7
+  rotate: false
+  xy: 540, 329
+  size: 80, 71
+  orig: 80, 71
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/handinner
+  rotate: false
+  xy: 697, 229
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/handout
+  rotate: false
+  xy: 1000, 372
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/handout1
+  rotate: true
+  xy: 672, 224
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse head
+  rotate: true
+  xy: 658, 405
+  size: 105, 116
+  orig: 105, 116
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_an1
+  rotate: false
+  xy: 400, 327
+  size: 125, 69
+  orig: 125, 69
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_an2
+  rotate: true
+  xy: 353, 198
+  size: 67, 109
+  orig: 67, 109
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_an3
+  rotate: false
+  xy: 179, 2
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_an4
+  rotate: true
+  xy: 516, 198
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_an5
+  rotate: true
+  xy: 388, 38
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_body
+  rotate: false
+  xy: 2, 14
+  size: 175, 98
+  orig: 175, 98
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_ear inner
+  rotate: true
+  xy: 804, 264
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_ear out
+  rotate: true
+  xy: 753, 293
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_eye
+  rotate: false
+  xy: 722, 236
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_foreleg inner down
+  rotate: true
+  xy: 320, 2
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_foreleg inner up
+  rotate: false
+  xy: 558, 198
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_foreleg out down
+  rotate: true
+  xy: 383, 2
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_foreleg out up
+  rotate: false
+  xy: 527, 137
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_hair1
+  rotate: false
+  xy: 690, 328
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_hair2
+  rotate: true
+  xy: 881, 364
+  size: 73, 117
+  orig: 73, 117
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_hind leg inner down
+  rotate: false
+  xy: 486, 136
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_hind leg inner up
+  rotate: false
+  xy: 513, 267
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_hind leg out down
+  rotate: false
+  xy: 571, 72
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_hind leg out up
+  rotate: true
+  xy: 693, 283
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_mianju
+  rotate: false
+  xy: 776, 414
+  size: 103, 96
+  orig: 103, 96
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_neck
+  rotate: true
+  xy: 204, 114
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_pifeng1
+  rotate: true
+  xy: 881, 439
+  size: 71, 124
+  orig: 71, 124
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_pifeng2
+  rotate: true
+  xy: 410, 398
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/horse_weiba
+  rotate: false
+  xy: 319, 136
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/jianjiainner
+  rotate: true
+  xy: 859, 291
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/jianjiaout
+  rotate: true
+  xy: 1000, 396
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/leginnerdown
+  rotate: true
+  xy: 807, 293
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/leginnerup
+  rotate: true
+  xy: 518, 12
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/legoutdown
+  rotate: true
+  xy: 353, 270
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/legoutup
+  rotate: false
+  xy: 610, 69
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/mouth01
+  rotate: false
+  xy: 68, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/mouth02
+  rotate: false
+  xy: 1000, 364
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/mouth03
+  rotate: false
+  xy: 754, 328
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/pifeng1
+  rotate: false
+  xy: 239, 5
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/pifeng2
+  rotate: false
+  xy: 204, 198
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/pifeng3
+  rotate: false
+  xy: 210, 422
+  size: 198, 88
+  orig: 198, 88
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/weapon
+  rotate: true
+  xy: 454, 45
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/weapon1
+  rotate: false
+  xy: 2, 305
+  size: 206, 205
+  orig: 206, 205
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/yaojia1
+  rotate: true
+  xy: 527, 71
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/yifu
+  rotate: true
+  xy: 758, 268
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/yifu1
+  rotate: true
+  xy: 464, 198
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/yifu2
+  rotate: false
+  xy: 559, 259
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/yifu3
+  rotate: false
+  xy: 611, 151
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/yifu4
+  rotate: false
+  xy: 571, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/zhuangshi
+  rotate: false
+  xy: 1007, 485
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+Knight/Sharikh_Knight4/zhuangshi1
+  rotate: true
+  xy: 594, 4
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
