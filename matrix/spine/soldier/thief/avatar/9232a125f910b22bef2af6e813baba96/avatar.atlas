@@ -1,0 +1,223 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: false
+  xy: 318, 374
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/bao
+  rotate: true
+  xy: 409, 405
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/body
+  rotate: true
+  xy: 137, 173
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/eyehard
+  rotate: false
+  xy: 328, 414
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/eyesffuer
+  rotate: true
+  xy: 318, 293
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/eyeyun
+  rotate: true
+  xy: 352, 298
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/hair1
+  rotate: true
+  xy: 144, 85
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/hair2
+  rotate: false
+  xy: 453, 406
+  size: 57, 104
+  orig: 57, 104
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/hair3
+  rotate: false
+  xy: 96, 67
+  size: 46, 104
+  orig: 46, 104
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/hair4
+  rotate: false
+  xy: 203, 103
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/hair5
+  rotate: false
+  xy: 240, 128
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/handinner
+  rotate: false
+  xy: 216, 185
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/handout
+  rotate: true
+  xy: 2, 7
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/head
+  rotate: false
+  xy: 2, 346
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/jianjiaout
+  rotate: true
+  xy: 276, 240
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/kua
+  rotate: false
+  xy: 144, 50
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/leginnerdown
+  rotate: false
+  xy: 268, 206
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/leginnerup
+  rotate: false
+  xy: 77, 12
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/legoutdown
+  rotate: true
+  xy: 203, 76
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/legoutup
+  rotate: true
+  xy: 240, 93
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/pifeng1
+  rotate: false
+  xy: 318, 237
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/pifeng2
+  rotate: false
+  xy: 202, 46
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/pifeng3
+  rotate: false
+  xy: 2, 57
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/pifeng4
+  rotate: false
+  xy: 153, 243
+  size: 57, 101
+  orig: 57, 101
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/pifeng5
+  rotate: false
+  xy: 212, 256
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/toushi
+  rotate: false
+  xy: 2, 173
+  size: 133, 78
+  orig: 133, 78
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/tx1
+  rotate: false
+  xy: 2, 253
+  size: 149, 91
+  orig: 149, 91
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/tx2
+  rotate: false
+  xy: 185, 357
+  size: 131, 69
+  orig: 131, 69
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/weapon1
+  rotate: false
+  xy: 185, 428
+  size: 141, 82
+  orig: 141, 82
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/weapon2
+  rotate: false
+  xy: 328, 450
+  size: 123, 60
+  orig: 123, 60
+  offset: 0, 0
+  index: -1
+Thief/thief_02_SP/weijin
+  rotate: true
+  xy: 276, 280
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
