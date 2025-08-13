@@ -1,0 +1,391 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monster_4/11
+  rotate: false
+  xy: 251, 232
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Monster_4/22
+  rotate: true
+  xy: 474, 332
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+Monster_4/Shadow
+  rotate: false
+  xy: 97, 2
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Monster_4/arminnerdown
+  rotate: true
+  xy: 551, 342
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Monster_4/arminnerup
+  rotate: true
+  xy: 368, 260
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+Monster_4/armoutdown
+  rotate: false
+  xy: 394, 268
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Monster_4/armoutup
+  rotate: false
+  xy: 313, 254
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Monster_4/body
+  rotate: false
+  xy: 573, 353
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+Monster_4/ci1
+  rotate: true
+  xy: 326, 392
+  size: 110, 147
+  orig: 110, 147
+  offset: 0, 0
+  index: -1
+Monster_4/ci2
+  rotate: false
+  xy: 637, 356
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+Monster_4/co1
+  rotate: false
+  xy: 2, 339
+  size: 195, 163
+  orig: 195, 163
+  offset: 0, 0
+  index: -1
+Monster_4/co2
+  rotate: true
+  xy: 2, 5
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+Monster_4/co3
+  rotate: false
+  xy: 709, 365
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+Monster_4/eyehard
+  rotate: true
+  xy: 1000, 428
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+Monster_4/eyehard2
+  rotate: true
+  xy: 250, 119
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Monster_4/eyehard3
+  rotate: false
+  xy: 891, 403
+  size: 77, 12
+  orig: 77, 12
+  offset: 0, 0
+  index: -1
+Monster_4/eyesffuer
+  rotate: true
+  xy: 294, 245
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+Monster_4/eyeyun
+  rotate: false
+  xy: 317, 321
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+Monster_4/face
+  rotate: false
+  xy: 199, 362
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+Monster_4/h1
+  rotate: true
+  xy: 100, 127
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+Monster_4/h2
+  rotate: false
+  xy: 203, 123
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Monster_4/h3
+  rotate: false
+  xy: 419, 342
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Monster_4/h4
+  rotate: true
+  xy: 100, 192
+  size: 145, 95
+  orig: 145, 95
+  offset: 0, 0
+  index: -1
+Monster_4/h5
+  rotate: false
+  xy: 475, 430
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+Monster_4/h6
+  rotate: false
+  xy: 633, 441
+  size: 144, 61
+  orig: 144, 61
+  offset: 0, 0
+  index: -1
+Monster_4/h7
+  rotate: false
+  xy: 97, 29
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+Monster_4/h8
+  rotate: false
+  xy: 475, 375
+  size: 96, 53
+  orig: 96, 53
+  offset: 0, 0
+  index: -1
+Monster_4/hair1
+  rotate: false
+  xy: 197, 227
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+Monster_4/hair2
+  rotate: false
+  xy: 197, 12
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+Monster_4/hair3
+  rotate: true
+  xy: 771, 361
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+Monster_4/hair4
+  rotate: false
+  xy: 256, 5
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Monster_4/hair5
+  rotate: false
+  xy: 249, 60
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+Monster_4/hair6
+  rotate: false
+  xy: 265, 155
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+Monster_4/hair7
+  rotate: true
+  xy: 265, 122
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Monster_4/hair8
+  rotate: true
+  xy: 326, 342
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+Monster_4/hair9
+  rotate: false
+  xy: 929, 360
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Monster_4/handinner
+  rotate: false
+  xy: 260, 199
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Monster_4/handinner1
+  rotate: true
+  xy: 358, 294
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Monster_4/handout
+  rotate: true
+  xy: 341, 254
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+Monster_4/handout1
+  rotate: false
+  xy: 444, 315
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Monster_4/jianjiainner
+  rotate: false
+  xy: 317, 294
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+Monster_4/jianjiainner1
+  rotate: true
+  xy: 289, 312
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+Monster_4/jianjiainner2
+  rotate: false
+  xy: 861, 361
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Monster_4/jianjiaout
+  rotate: false
+  xy: 573, 326
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Monster_4/jianjiaout1
+  rotate: false
+  xy: 197, 195
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+Monster_4/jianjiaout2
+  rotate: false
+  xy: 199, 309
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+Monster_4/leginnerdown
+  rotate: true
+  xy: 386, 299
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+Monster_4/leginnerup
+  rotate: true
+  xy: 976, 359
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+Monster_4/legoutdown
+  rotate: true
+  xy: 709, 342
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+Monster_4/legoutup
+  rotate: true
+  xy: 976, 388
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+Monster_4/pifenginner
+  rotate: true
+  xy: 779, 411
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+Monster_4/pifengout
+  rotate: true
+  xy: 2, 132
+  size: 205, 96
+  orig: 205, 96
+  offset: 0, 0
+  index: -1
+Monster_4/toushi1
+  rotate: true
+  xy: 382, 322
+  size: 18, 60
+  orig: 18, 60
+  offset: 0, 0
+  index: -1
+Monster_4/toushi2
+  rotate: true
+  xy: 197, 60
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+Monster_4/tx
+  rotate: true
+  xy: 891, 417
+  size: 85, 107
+  orig: 85, 107
+  offset: 0, 0
+  index: -1
