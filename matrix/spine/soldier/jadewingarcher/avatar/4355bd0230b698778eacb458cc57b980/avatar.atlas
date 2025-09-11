@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LandShadow
+  rotate: true
+  xy: 335, 203
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+arminnerdown
+  rotate: false
+  xy: 338, 164
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: false
+  xy: 223, 8
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: false
+  xy: 407, 183
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+armoutup
+  rotate: false
+  xy: 463, 243
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 448, 428
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 254, 202
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 263, 328
+  size: 188, 61
+  orig: 188, 61
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: true
+  xy: 202, 284
+  size: 122, 59
+  orig: 122, 59
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: true
+  xy: 2, 19
+  size: 235, 70
+  orig: 235, 70
+  offset: 0, 0
+  index: -1
+chujiao1
+  rotate: true
+  xy: 453, 342
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+chujiao2
+  rotate: true
+  xy: 453, 322
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 255, 73
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: true
+  xy: 375, 214
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: true
+  xy: 319, 98
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 263, 279
+  size: 47, 126
+  orig: 47, 126
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 74, 24
+  size: 84, 121
+  orig: 84, 121
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 287, 87
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: true
+  xy: 407, 157
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 287, 60
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 297, 391
+  size: 119, 149
+  orig: 119, 149
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: false
+  xy: 448, 289
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+jianjiaout1
+  rotate: true
+  xy: 378, 170
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+jianjiaout2
+  rotate: false
+  xy: 448, 392
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: false
+  xy: 443, 193
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: true
+  xy: 391, 289
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 431, 235
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: false
+  xy: 399, 226
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+mianju1
+  rotate: true
+  xy: 74, 110
+  size: 144, 131
+  orig: 144, 131
+  offset: 0, 0
+  index: -1
+mianju2
+  rotate: false
+  xy: 2, 256
+  size: 198, 150
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 202, 261
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 263, 392
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 408
+  size: 293, 102
+  orig: 293, 102
+  offset: 0, 0
+  index: -1
+weapon11
+  rotate: true
+  xy: 207, 22
+  size: 260, 14
+  orig: 260, 14
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 223, 155
+  size: 29, 127
+  orig: 29, 127
+  offset: 0, 0
+  index: -1
+yaojia1
+  rotate: true
+  xy: 479, 203
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+yaojia2
+  rotate: true
+  xy: 254, 164
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+yaojia3
+  rotate: true
+  xy: 340, 108
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+yaojia4
+  rotate: false
+  xy: 223, 52
+  size: 30, 101
+  orig: 30, 101
+  offset: 0, 0
+  index: -1

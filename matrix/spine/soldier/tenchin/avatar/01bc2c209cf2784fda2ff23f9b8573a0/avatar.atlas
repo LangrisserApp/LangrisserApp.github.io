@@ -1,0 +1,300 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TenChin_SP/LandShadow
+  rotate: true
+  xy: 588, 331
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+TenChin_SP/arminner
+  rotate: false
+  xy: 818, 361
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+TenChin_SP/armout
+  rotate: true
+  xy: 509, 262
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+TenChin_SP/body
+  rotate: true
+  xy: 424, 248
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+TenChin_SP/eyehard
+  rotate: false
+  xy: 45, 6
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+TenChin_SP/eyesffuer
+  rotate: false
+  xy: 818, 328
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+TenChin_SP/eyeyun
+  rotate: false
+  xy: 887, 328
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+TenChin_SP/face
+  rotate: true
+  xy: 600, 408
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+TenChin_SP/hair1
+  rotate: false
+  xy: 931, 413
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+TenChin_SP/hair2
+  rotate: true
+  xy: 322, 235
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+TenChin_SP/hair3
+  rotate: true
+  xy: 158, 17
+  size: 49, 109
+  orig: 49, 109
+  offset: 0, 0
+  index: -1
+TenChin_SP/hair4
+  rotate: false
+  xy: 2, 223
+  size: 165, 181
+  orig: 165, 181
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_aninner2
+  rotate: true
+  xy: 408, 305
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_anout1
+  rotate: false
+  xy: 322, 290
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_anout2
+  rotate: true
+  xy: 823, 416
+  size: 94, 106
+  orig: 94, 106
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_bozi
+  rotate: true
+  xy: 477, 407
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_foreleg inner down
+  rotate: false
+  xy: 682, 336
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_foreleg inner up
+  rotate: false
+  xy: 269, 2
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_foreleg out down
+  rotate: false
+  xy: 778, 345
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_foreleg out up
+  rotate: false
+  xy: 722, 348
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_head
+  rotate: true
+  xy: 2, 36
+  size: 185, 154
+  orig: 185, 154
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_hind leg inner down
+  rotate: true
+  xy: 509, 216
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_hind leg inner up
+  rotate: true
+  xy: 930, 364
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_hind leg out down
+  rotate: true
+  xy: 424, 203
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_hind leg out up
+  rotate: false
+  xy: 628, 336
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_jia
+  rotate: false
+  xy: 954, 314
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_maan
+  rotate: false
+  xy: 504, 317
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+TenChin_SP/horse_yaojia
+  rotate: true
+  xy: 709, 417
+  size: 93, 112
+  orig: 93, 112
+  offset: 0, 0
+  index: -1
+TenChin_SP/hrose_body
+  rotate: true
+  xy: 169, 222
+  size: 182, 106
+  orig: 182, 106
+  offset: 0, 0
+  index: -1
+TenChin_SP/jianjiainner
+  rotate: true
+  xy: 862, 290
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+TenChin_SP/jianjiaout
+  rotate: false
+  xy: 722, 292
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+TenChin_SP/legoutdown
+  rotate: true
+  xy: 2, 2
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+TenChin_SP/legoutup
+  rotate: false
+  xy: 778, 293
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+TenChin_SP/mouth02
+  rotate: false
+  xy: 277, 240
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+TenChin_SP/mouth_noemal
+  rotate: true
+  xy: 1018, 491
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+TenChin_SP/qunzi
+  rotate: true
+  xy: 877, 361
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+TenChin_SP/toushi
+  rotate: true
+  xy: 158, 68
+  size: 152, 119
+  orig: 152, 119
+  offset: 0, 0
+  index: -1
+TenChin_SP/tx1
+  rotate: true
+  xy: 277, 256
+  size: 148, 43
+  orig: 148, 43
+  offset: 0, 0
+  index: -1
+TenChin_SP/weapon
+  rotate: false
+  xy: 2, 406
+  size: 339, 104
+  orig: 339, 104
+  offset: 0, 0
+  index: -1
+TenChin_SP/weiba
+  rotate: false
+  xy: 343, 404
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+TenChin_SP/yaojiainner
+  rotate: true
+  xy: 123, 4
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+TenChin_SP/yaojiaout
+  rotate: false
+  xy: 814, 290
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
