@@ -1,0 +1,755 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cybele_Knight_3/body
+  rotate: false
+  xy: 893, 193
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/horse_an2
+  rotate: true
+  xy: 2, 2
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/horse_an3
+  rotate: true
+  xy: 368, 224
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/horse_mianjia2
+  rotate: false
+  xy: 718, 330
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/jianjiainner1
+  rotate: false
+  xy: 214, 2
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/jianjiaout1
+  rotate: false
+  xy: 472, 192
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/jianjiaout3
+  rotate: false
+  xy: 797, 100
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/legoutup
+  rotate: false
+  xy: 400, 66
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/pifeng2
+  rotate: false
+  xy: 602, 433
+  size: 117, 77
+  orig: 117, 77
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/pifeng3
+  rotate: false
+  xy: 189, 88
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/pifeng4
+  rotate: false
+  xy: 341, 431
+  size: 129, 79
+  orig: 129, 79
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/pifeng5
+  rotate: false
+  xy: 713, 127
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/pifeng6
+  rotate: false
+  xy: 880, 133
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/weapon1
+  rotate: true
+  xy: 959, 179
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+Cybele_Knight_3/weapon2
+  rotate: false
+  xy: 2, 476
+  size: 337, 34
+  orig: 337, 34
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/Shadow
+  rotate: true
+  xy: 232, 84
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/arminnerdown
+  rotate: false
+  xy: 298, 68
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/arminnerup
+  rotate: true
+  xy: 342, 182
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/armoutdown
+  rotate: false
+  xy: 442, 189
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/armoutup
+  rotate: false
+  xy: 369, 6
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/beishi1
+  rotate: false
+  xy: 341, 124
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/beishi2
+  rotate: false
+  xy: 339, 2
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/body
+  rotate: true
+  xy: 568, 152
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/erhuan1
+  rotate: false
+  xy: 799, 294
+  size: 9, 34
+  orig: 9, 34
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/erhuan2
+  rotate: true
+  xy: 115, 198
+  size: 9, 34
+  orig: 9, 34
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/eyebrow
+  rotate: true
+  xy: 328, 96
+  size: 67, 11
+  orig: 67, 11
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/eyehard
+  rotate: true
+  xy: 655, 143
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/eyehard1
+  rotate: false
+  xy: 257, 165
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/eyehard2
+  rotate: false
+  xy: 368, 204
+  size: 72, 18
+  orig: 72, 18
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/eyehard3
+  rotate: false
+  xy: 472, 177
+  size: 70, 13
+  orig: 70, 13
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/eyesffuer
+  rotate: false
+  xy: 368, 175
+  size: 67, 27
+  orig: 67, 27
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/eyeyun
+  rotate: true
+  xy: 298, 96
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/hair1
+  rotate: false
+  xy: 960, 424
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/hair2
+  rotate: true
+  xy: 474, 304
+  size: 34, 108
+  orig: 34, 108
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/hair3
+  rotate: true
+  xy: 474, 248
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/hair4
+  rotate: true
+  xy: 266, 188
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/hair5
+  rotate: false
+  xy: 957, 42
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/hair6
+  rotate: true
+  xy: 721, 447
+  size: 63, 125
+  orig: 63, 125
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/handinner
+  rotate: true
+  xy: 397, 5
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/handout
+  rotate: true
+  xy: 479, 81
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/head
+  rotate: false
+  xy: 2, 197
+  size: 111, 134
+  orig: 111, 134
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/head2
+  rotate: true
+  xy: 479, 56
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse head
+  rotate: false
+  xy: 2, 73
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_an1
+  rotate: true
+  xy: 412, 333
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_an2
+  rotate: true
+  xy: 810, 346
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_an3
+  rotate: true
+  xy: 176, 351
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_an4
+  rotate: false
+  xy: 721, 415
+  size: 117, 30
+  orig: 117, 30
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_an5
+  rotate: true
+  xy: 298, 282
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_an6
+  rotate: false
+  xy: 679, 335
+  size: 37, 96
+  orig: 37, 96
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_an7
+  rotate: true
+  xy: 798, 143
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_body
+  rotate: false
+  xy: 2, 333
+  size: 172, 105
+  orig: 172, 105
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_ear inner
+  rotate: true
+  xy: 259, 63
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_ear out
+  rotate: true
+  xy: 501, 111
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_foreleg inner down
+  rotate: false
+  xy: 678, 178
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_foreleg inner up
+  rotate: false
+  xy: 259, 93
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_foreleg out down
+  rotate: true
+  xy: 439, 141
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_foreleg out up
+  rotate: false
+  xy: 140, 2
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_hair
+  rotate: false
+  xy: 713, 252
+  size: 84, 76
+  orig: 84, 76
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_hind leg inner down
+  rotate: false
+  xy: 400, 113
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_hind leg inner up
+  rotate: true
+  xy: 404, 282
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_hind leg out down
+  rotate: true
+  xy: 439, 104
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_hind leg out up
+  rotate: false
+  xy: 906, 345
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_mianjia1
+  rotate: true
+  xy: 472, 433
+  size: 77, 128
+  orig: 77, 128
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_mianjia2
+  rotate: true
+  xy: 474, 340
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_neck
+  rotate: true
+  xy: 169, 215
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_tielian1
+  rotate: true
+  xy: 678, 133
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_tielian2
+  rotate: true
+  xy: 279, 2
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_weiba
+  rotate: false
+  xy: 578, 217
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_xiongjia
+  rotate: true
+  xy: 848, 415
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_zhuangshi1
+  rotate: true
+  xy: 115, 209
+  size: 122, 52
+  orig: 122, 52
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/horse_zhuangshi2
+  rotate: false
+  xy: 176, 296
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiainner1
+  rotate: true
+  xy: 111, 73
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiainner2
+  rotate: false
+  xy: 180, 2
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiainner3
+  rotate: false
+  xy: 214, 47
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiainner4
+  rotate: false
+  xy: 151, 73
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiainner5
+  rotate: false
+  xy: 189, 160
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiaout1
+  rotate: false
+  xy: 266, 220
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiaout2
+  rotate: false
+  xy: 584, 278
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiaout3
+  rotate: false
+  xy: 713, 200
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiaout4
+  rotate: true
+  xy: 111, 143
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/jianjiaout5
+  rotate: false
+  xy: 957, 117
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/leginnerdown
+  rotate: true
+  xy: 504, 141
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/leginnerup
+  rotate: true
+  xy: 341, 90
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/legoutdown
+  rotate: true
+  xy: 501, 81
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/legoutup
+  rotate: true
+  xy: 432, 73
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/mouth
+  rotate: true
+  xy: 840, 433
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/mouth02
+  rotate: true
+  xy: 266, 282
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/mouth04
+  rotate: true
+  xy: 1019, 161
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/peishi1
+  rotate: false
+  xy: 397, 29
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/peishi2
+  rotate: false
+  xy: 520, 56
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/peishi3
+  rotate: false
+  xy: 568, 227
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/peishi4
+  rotate: true
+  xy: 437, 177
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/piaodai1
+  rotate: true
+  xy: 904, 280
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/piaodai2
+  rotate: false
+  xy: 877, 58
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/piaodai3
+  rotate: false
+  xy: 678, 243
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/piaodai4
+  rotate: false
+  xy: 153, 143
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/pifeng1
+  rotate: false
+  xy: 302, 338
+  size: 108, 91
+  orig: 108, 91
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/pifeng2
+  rotate: true
+  xy: 810, 284
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/pifeng3
+  rotate: false
+  xy: 582, 344
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/pifeng4
+  rotate: true
+  xy: 960, 270
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/pifeng5
+  rotate: true
+  xy: 960, 343
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/pifenginner1
+  rotate: false
+  xy: 84, 2
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/tielian1
+  rotate: false
+  xy: 394, 48
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/tielian2
+  rotate: true
+  xy: 311, 2
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/weapon1
+  rotate: false
+  xy: 799, 217
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/weapon2
+  rotate: false
+  xy: 2, 440
+  size: 337, 34
+  orig: 337, 34
+  offset: 0, 0
+  index: -1
+Cybele_Knight_4/yaojiaout
+  rotate: true
+  xy: 339, 42
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1

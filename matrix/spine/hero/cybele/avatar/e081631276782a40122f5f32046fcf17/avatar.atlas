@@ -1,0 +1,776 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sword/Cybele_Sword_2/jianjiainner1
+  rotate: false
+  xy: 878, 410
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/jianjiaout1
+  rotate: true
+  xy: 339, 313
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/jianjiaout2
+  rotate: true
+  xy: 333, 248
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/pifeng
+  rotate: true
+  xy: 136, 79
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/pifeng1
+  rotate: false
+  xy: 601, 328
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/pifeng2
+  rotate: true
+  xy: 250, 434
+  size: 76, 132
+  orig: 76, 132
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/weapon1
+  rotate: true
+  xy: 694, 356
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/weapon3
+  rotate: false
+  xy: 550, 180
+  size: 36, 85
+  orig: 36, 85
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/weapon5
+  rotate: false
+  xy: 2, 225
+  size: 42, 285
+  orig: 42, 285
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/yaojiainner
+  rotate: true
+  xy: 878, 392
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_2/yaojiaout
+  rotate: false
+  xy: 770, 337
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/body
+  rotate: true
+  xy: 238, 71
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/jianjiainner1
+  rotate: false
+  xy: 385, 3
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/jianjiainner2
+  rotate: true
+  xy: 329, 55
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/jianjiaout1
+  rotate: false
+  xy: 235, 190
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/jianjiaout2
+  rotate: false
+  xy: 336, 172
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/legoutup
+  rotate: false
+  xy: 770, 382
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/pifeng1
+  rotate: true
+  xy: 519, 398
+  size: 41, 114
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/pifeng2
+  rotate: true
+  xy: 384, 435
+  size: 75, 133
+  orig: 75, 133
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/pifeng3
+  rotate: false
+  xy: 493, 111
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/pifeng4
+  rotate: false
+  xy: 134, 414
+  size: 114, 96
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/pifeng5
+  rotate: false
+  xy: 136, 141
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/pifeng6
+  rotate: false
+  xy: 504, 267
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/weapon1
+  rotate: false
+  xy: 394, 45
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/weapon3
+  rotate: true
+  xy: 231, 143
+  size: 45, 92
+  orig: 45, 92
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_3/weapon5
+  rotate: false
+  xy: 46, 225
+  size: 42, 285
+  orig: 42, 285
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/Shadow
+  rotate: false
+  xy: 599, 101
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/arminnerdown
+  rotate: false
+  xy: 493, 82
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/arminnerup
+  rotate: false
+  xy: 538, 59
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/armoutdown
+  rotate: false
+  xy: 740, 411
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/armoutup
+  rotate: true
+  xy: 807, 390
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/beishi1
+  rotate: false
+  xy: 585, 274
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/beishi2
+  rotate: false
+  xy: 810, 348
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/body
+  rotate: false
+  xy: 386, 344
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/erhuan1
+  rotate: false
+  xy: 706, 236
+  size: 10, 37
+  orig: 10, 37
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/erhuan2
+  rotate: false
+  xy: 370, 395
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyebrow
+  rotate: false
+  xy: 644, 342
+  size: 72, 12
+  orig: 72, 12
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyehard
+  rotate: true
+  xy: 643, 128
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyehard1
+  rotate: true
+  xy: 461, 2
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyehard2
+  rotate: true
+  xy: 486, 2
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyehard3
+  rotate: false
+  xy: 770, 436
+  size: 77, 14
+  orig: 77, 14
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyehard4
+  rotate: true
+  xy: 461, 82
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyesffuer
+  rotate: true
+  xy: 508, 7
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/eyeyun
+  rotate: false
+  xy: 648, 310
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/hair1
+  rotate: true
+  xy: 128, 10
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/hair2
+  rotate: true
+  xy: 250, 395
+  size: 37, 118
+  orig: 37, 118
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/hair3
+  rotate: true
+  xy: 770, 452
+  size: 58, 112
+  orig: 58, 112
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/hair4
+  rotate: false
+  xy: 991, 429
+  size: 31, 81
+  orig: 31, 81
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/hair5
+  rotate: false
+  xy: 393, 263
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/hair6
+  rotate: true
+  xy: 519, 441
+  size: 69, 136
+  orig: 69, 136
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/handinner1
+  rotate: true
+  xy: 718, 249
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/handinner2
+  rotate: false
+  xy: 578, 92
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/handinner3
+  rotate: true
+  xy: 675, 99
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/handinner5
+  rotate: false
+  xy: 566, 31
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/handout1
+  rotate: false
+  xy: 538, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/handout2
+  rotate: false
+  xy: 728, 283
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/handout5
+  rotate: false
+  xy: 567, 4
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/head
+  rotate: false
+  xy: 2, 77
+  size: 121, 146
+  orig: 121, 146
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/head2
+  rotate: true
+  xy: 765, 309
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiainner1
+  rotate: true
+  xy: 458, 267
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiainner2
+  rotate: false
+  xy: 93, 2
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiainner3
+  rotate: true
+  xy: 983, 384
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiainner4
+  rotate: false
+  xy: 599, 128
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiainner5
+  rotate: true
+  xy: 541, 109
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiaout1
+  rotate: false
+  xy: 657, 447
+  size: 111, 63
+  orig: 111, 63
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiaout2
+  rotate: false
+  xy: 884, 441
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiaout3
+  rotate: false
+  xy: 329, 92
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiaout4
+  rotate: false
+  xy: 654, 232
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/jianjiaout5
+  rotate: true
+  xy: 510, 330
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/leginnerdown
+  rotate: false
+  xy: 668, 164
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/leginnerup
+  rotate: true
+  xy: 648, 276
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/legoutdown
+  rotate: true
+  xy: 933, 409
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/legoutup
+  rotate: false
+  xy: 733, 356
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/mouth
+  rotate: false
+  xy: 395, 164
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/mouth01
+  rotate: false
+  xy: 508, 2
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/mouth02
+  rotate: false
+  xy: 795, 296
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/mouth04
+  rotate: true
+  xy: 487, 168
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/peishi2
+  rotate: false
+  xy: 809, 304
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/peishi3
+  rotate: false
+  xy: 588, 185
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/peishi4
+  rotate: false
+  xy: 510, 407
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/peizhi1
+  rotate: true
+  xy: 707, 275
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/piaodai1
+  rotate: false
+  xy: 588, 208
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/piaodai2
+  rotate: false
+  xy: 249, 314
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/piaodai3
+  rotate: false
+  xy: 450, 166
+  size: 35, 95
+  orig: 35, 95
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/piaodai4
+  rotate: false
+  xy: 412, 164
+  size: 36, 97
+  orig: 36, 97
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/pifeng1
+  rotate: false
+  xy: 134, 316
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/pifeng2
+  rotate: true
+  xy: 235, 248
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/pifeng3
+  rotate: false
+  xy: 134, 229
+  size: 99, 85
+  orig: 99, 85
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/pifeng4
+  rotate: true
+  xy: 395, 86
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/pifenginner1
+  rotate: false
+  xy: 487, 187
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/pifengout1
+  rotate: true
+  xy: 2, 2
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/pifengout2
+  rotate: false
+  xy: 657, 415
+  size: 81, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian1
+  rotate: false
+  xy: 538, 24
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian10
+  rotate: true
+  xy: 318, 2
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian11
+  rotate: false
+  xy: 318, 55
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian2
+  rotate: false
+  xy: 353, 2
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian3
+  rotate: true
+  xy: 761, 281
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian4
+  rotate: true
+  xy: 849, 394
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian6
+  rotate: false
+  xy: 668, 128
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian7
+  rotate: false
+  xy: 635, 402
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian8
+  rotate: true
+  xy: 810, 329
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/tielian9
+  rotate: true
+  xy: 537, 88
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/weapon1
+  rotate: true
+  xy: 458, 348
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/weapon2
+  rotate: true
+  xy: 125, 87
+  size: 136, 9
+  orig: 136, 9
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/weapon3
+  rotate: true
+  xy: 223, 13
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/weapon5
+  rotate: false
+  xy: 90, 225
+  size: 42, 285
+  orig: 42, 285
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/weapon6
+  rotate: false
+  xy: 723, 312
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/yaojiainner
+  rotate: true
+  xy: 654, 211
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/yaojiainner2
+  rotate: false
+  xy: 635, 418
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+Sword/Cybele_Sword_4/yaojiaout
+  rotate: false
+  xy: 644, 356
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
