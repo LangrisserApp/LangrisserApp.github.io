@@ -1,0 +1,692 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HeavenDefier_Knight_3/dragon_hair2
+  rotate: false
+  xy: 272, 829
+  size: 204, 193
+  orig: 204, 193
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/dragon_jianjiainner
+  rotate: true
+  xy: 259, 390
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/dragon_jianjiaout
+  rotate: true
+  xy: 2, 21
+  size: 174, 140
+  orig: 174, 140
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/dragon_liantao2
+  rotate: false
+  xy: 807, 831
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/dragon_liantao4
+  rotate: true
+  xy: 478, 829
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/ershi
+  rotate: true
+  xy: 372, 400
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/jianjiainner
+  rotate: false
+  xy: 361, 5
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/jianjiaout
+  rotate: false
+  xy: 675, 837
+  size: 130, 72
+  orig: 130, 72
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/piaodai1
+  rotate: false
+  xy: 893, 745
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/piaodai2
+  rotate: true
+  xy: 849, 571
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/weapon
+  rotate: false
+  xy: 523, 626
+  size: 131, 105
+  orig: 131, 105
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_3/weapon1
+  rotate: false
+  xy: 321, 100
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/Shadow
+  rotate: false
+  xy: 291, 288
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/arminnerdown
+  rotate: true
+  xy: 397, 233
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/arminnerup
+  rotate: false
+  xy: 379, 193
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/armuotdown
+  rotate: false
+  xy: 442, 449
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/armuotup
+  rotate: true
+  xy: 379, 156
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/body
+  rotate: false
+  xy: 622, 484
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_arminnerdown
+  rotate: true
+  xy: 679, 553
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_arminnerup
+  rotate: false
+  xy: 291, 315
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_armoutdown
+  rotate: true
+  xy: 799, 720
+  size: 109, 92
+  orig: 109, 92
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_armoutup
+  rotate: false
+  xy: 446, 506
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_body
+  rotate: true
+  xy: 2, 396
+  size: 230, 136
+  orig: 230, 136
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_face1
+  rotate: true
+  xy: 478, 870
+  size: 152, 195
+  orig: 152, 195
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_face2
+  rotate: true
+  xy: 367, 285
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_footinner
+  rotate: false
+  xy: 364, 327
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_footout
+  rotate: false
+  xy: 616, 554
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_hair1
+  rotate: true
+  xy: 144, 2
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_hair2
+  rotate: false
+  xy: 2, 628
+  size: 202, 198
+  orig: 202, 198
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_hair3
+  rotate: false
+  xy: 239, 286
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_handinner1
+  rotate: false
+  xy: 762, 533
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_handinner2
+  rotate: true
+  xy: 336, 2
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_handinner3
+  rotate: false
+  xy: 298, 233
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_handout1
+  rotate: true
+  xy: 929, 564
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_handout2
+  rotate: false
+  xy: 419, 255
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_handout3
+  rotate: false
+  xy: 335, 41
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_huwaninner1
+  rotate: true
+  xy: 298, 160
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_huwaninner2
+  rotate: false
+  xy: 760, 499
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_huwanout1
+  rotate: true
+  xy: 241, 208
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_huwanout2
+  rotate: false
+  xy: 959, 648
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_jianjiainner
+  rotate: false
+  xy: 206, 628
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_jianjiaout
+  rotate: false
+  xy: 2, 828
+  size: 268, 194
+  orig: 268, 194
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_leginnerdown
+  rotate: true
+  xy: 347, 162
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_leginnerup
+  rotate: false
+  xy: 762, 566
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_legoutdon
+  rotate: false
+  xy: 967, 559
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_legoutup
+  rotate: true
+  xy: 759, 641
+  size: 77, 112
+  orig: 77, 112
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_liantao1
+  rotate: true
+  xy: 199, 4
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_liantao2
+  rotate: false
+  xy: 524, 554
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_liantao3
+  rotate: true
+  xy: 679, 478
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_liantao4
+  rotate: true
+  xy: 314, 648
+  size: 179, 99
+  orig: 179, 99
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_liantao5
+  rotate: false
+  xy: 656, 628
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_liantao6
+  rotate: true
+  xy: 140, 371
+  size: 68, 117
+  orig: 68, 117
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_weiba1
+  rotate: false
+  xy: 895, 825
+  size: 127, 47
+  orig: 127, 47
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_weiba2
+  rotate: true
+  xy: 140, 441
+  size: 185, 116
+  orig: 185, 116
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_weiba3
+  rotate: true
+  xy: 138, 197
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/dragon_weiba4
+  rotate: true
+  xy: 241, 136
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/ershi
+  rotate: true
+  xy: 144, 93
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyebrow
+  rotate: false
+  xy: 342, 639
+  size: 57, 7
+  orig: 57, 7
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyehard
+  rotate: false
+  xy: 298, 136
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyehard1
+  rotate: false
+  xy: 760, 475
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyehard2
+  rotate: false
+  xy: 2, 4
+  size: 65, 15
+  orig: 65, 15
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyehard3
+  rotate: false
+  xy: 69, 8
+  size: 59, 11
+  orig: 59, 11
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyes
+  rotate: false
+  xy: 295, 2
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyesffuer
+  rotate: false
+  xy: 372, 376
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/eyeyun
+  rotate: false
+  xy: 446, 480
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/face
+  rotate: true
+  xy: 895, 874
+  size: 148, 122
+  orig: 148, 122
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hair1
+  rotate: false
+  xy: 295, 20
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hair2
+  rotate: true
+  xy: 873, 639
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hair3
+  rotate: false
+  xy: 372, 500
+  size: 72, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hair4
+  rotate: false
+  xy: 241, 95
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hair5
+  rotate: false
+  xy: 873, 697
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hair6
+  rotate: true
+  xy: 524, 500
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hair7
+  rotate: false
+  xy: 523, 733
+  size: 143, 135
+  orig: 143, 135
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hand2
+  rotate: false
+  xy: 478, 448
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/hand3
+  rotate: false
+  xy: 442, 414
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/handinner
+  rotate: true
+  xy: 404, 169
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/handout
+  rotate: false
+  xy: 366, 233
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/handout1
+  rotate: false
+  xy: 314, 628
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/jianjiainner
+  rotate: true
+  xy: 967, 586
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/jianjiaout
+  rotate: false
+  xy: 668, 731
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/legoutdown
+  rotate: false
+  xy: 417, 287
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/legoutup
+  rotate: true
+  xy: 474, 422
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/mouth01
+  rotate: true
+  xy: 1019, 1013
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/mouth02
+  rotate: false
+  xy: 759, 720
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/mouth04
+  rotate: true
+  xy: 519, 658
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/piaodai1
+  rotate: true
+  xy: 415, 674
+  size: 153, 106
+  orig: 153, 106
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/piaodai2
+  rotate: false
+  xy: 138, 270
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/piaodai3
+  rotate: true
+  xy: 415, 600
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/qunbaiout
+  rotate: false
+  xy: 893, 688
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/qunjiainner
+  rotate: false
+  xy: 404, 203
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/qunjiaout
+  rotate: false
+  xy: 424, 234
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/qunzi
+  rotate: true
+  xy: 413, 327
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/tx1
+  rotate: false
+  xy: 2, 197
+  size: 134, 197
+  orig: 134, 197
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/tx2
+  rotate: true
+  xy: 675, 911
+  size: 111, 218
+  orig: 111, 218
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/tx3
+  rotate: false
+  xy: 366, 254
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/tx4
+  rotate: true
+  xy: 829, 532
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/weapon
+  rotate: true
+  xy: 258, 473
+  size: 153, 112
+  orig: 153, 112
+  offset: 0, 0
+  index: -1
+HeavenDefier_Knight_4/weapon1
+  rotate: true
+  xy: 980, 683
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
