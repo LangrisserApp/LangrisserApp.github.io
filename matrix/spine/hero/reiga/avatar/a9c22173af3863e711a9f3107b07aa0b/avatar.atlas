@@ -1,0 +1,440 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Reiga_B3/jianjiaout
+  rotate: false
+  xy: 127, 200
+  size: 105, 63
+  orig: 105, 63
+  offset: 0, 0
+  index: -1
+Reiga_B3/xiabai2
+  rotate: true
+  xy: 169, 18
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+Reiga_B3/xiabai3
+  rotate: true
+  xy: 2, 92
+  size: 144, 69
+  orig: 144, 69
+  offset: 0, 0
+  index: -1
+Reiga_B4/Shadow
+  rotate: true
+  xy: 365, 237
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Reiga_B4/arminnerdown
+  rotate: false
+  xy: 418, 297
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+Reiga_B4/arminnerup
+  rotate: false
+  xy: 475, 244
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Reiga_B4/armoutdown
+  rotate: true
+  xy: 291, 92
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+Reiga_B4/armoutup
+  rotate: false
+  xy: 425, 201
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+Reiga_B4/body
+  rotate: true
+  xy: 2, 17
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+Reiga_B4/body2
+  rotate: false
+  xy: 303, 247
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+Reiga_B4/ershi1
+  rotate: false
+  xy: 196, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+Reiga_B4/ershi2
+  rotate: false
+  xy: 378, 335
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Reiga_B4/eyebrow
+  rotate: true
+  xy: 405, 137
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+Reiga_B4/eyehard
+  rotate: false
+  xy: 75, 3
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Reiga_B4/eyehard1
+  rotate: true
+  xy: 361, 124
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+Reiga_B4/eyehard2
+  rotate: false
+  xy: 2, 2
+  size: 68, 13
+  orig: 68, 13
+  offset: 0, 0
+  index: -1
+Reiga_B4/eyehard3
+  rotate: true
+  xy: 497, 358
+  size: 64, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+Reiga_B4/eyesffuer
+  rotate: true
+  xy: 333, 127
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+Reiga_B4/eyeyun
+  rotate: true
+  xy: 392, 296
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+Reiga_B4/face
+  rotate: false
+  xy: 2, 361
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+Reiga_B4/hair1
+  rotate: false
+  xy: 261, 331
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+Reiga_B4/hair2
+  rotate: true
+  xy: 110, 89
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+Reiga_B4/hair3
+  rotate: true
+  xy: 310, 313
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+Reiga_B4/hair4
+  rotate: true
+  xy: 110, 140
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+Reiga_B4/hair5
+  rotate: false
+  xy: 421, 424
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+Reiga_B4/hair6
+  rotate: false
+  xy: 234, 199
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+Reiga_B4/handinner
+  rotate: true
+  xy: 418, 367
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+Reiga_B4/handinner1
+  rotate: true
+  xy: 303, 197
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+Reiga_B4/handout
+  rotate: true
+  xy: 75, 23
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+Reiga_B4/handout1
+  rotate: true
+  xy: 425, 245
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+Reiga_B4/jianjiainner
+  rotate: true
+  xy: 466, 129
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Reiga_B4/jianjiaout
+  rotate: false
+  xy: 2, 238
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+Reiga_B4/leginnerdown
+  rotate: false
+  xy: 422, 151
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Reiga_B4/leginnerup
+  rotate: false
+  xy: 466, 150
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Reiga_B4/legoutdown
+  rotate: true
+  xy: 227, 2
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+Reiga_B4/legoutup
+  rotate: false
+  xy: 287, 137
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Reiga_B4/mouth01
+  rotate: false
+  xy: 363, 197
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Reiga_B4/mouth02
+  rotate: false
+  xy: 284, 426
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Reiga_B4/mouth03
+  rotate: true
+  xy: 127, 342
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+Reiga_B4/shipin1
+  rotate: false
+  xy: 227, 49
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Reiga_B4/shipin2
+  rotate: false
+  xy: 336, 3
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+Reiga_B4/shipin3
+  rotate: true
+  xy: 148, 2
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+Reiga_B4/shipin4
+  rotate: true
+  xy: 286, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Reiga_B4/shipin5
+  rotate: false
+  xy: 475, 199
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+Reiga_B4/shipin6
+  rotate: true
+  xy: 422, 126
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+Reiga_B4/shipin7
+  rotate: false
+  xy: 475, 292
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+Reiga_B4/texiao1
+  rotate: true
+  xy: 73, 106
+  size: 130, 35
+  orig: 130, 35
+  offset: 0, 0
+  index: -1
+Reiga_B4/texiao2
+  rotate: false
+  xy: 418, 342
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+Reiga_B4/texiao3
+  rotate: false
+  xy: 284, 434
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Reiga_B4/toushi
+  rotate: false
+  xy: 310, 363
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+Reiga_B4/tx1
+  rotate: false
+  xy: 232, 267
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+Reiga_B4/tx2
+  rotate: false
+  xy: 381, 84
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+Reiga_B4/tx3
+  rotate: true
+  xy: 282, 53
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+Reiga_B4/tx4
+  rotate: true
+  xy: 381, 143
+  size: 60, 22
+  orig: 60, 22
+  offset: 0, 0
+  index: -1
+Reiga_B4/tx5
+  rotate: false
+  xy: 127, 265
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+Reiga_B4/tx6
+  rotate: false
+  xy: 213, 102
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+Reiga_B4/tx7
+  rotate: true
+  xy: 392, 238
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Reiga_B4/xiabai1
+  rotate: false
+  xy: 216, 131
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+Reiga_B4/xiabai2
+  rotate: false
+  xy: 145, 342
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+Reiga_B4/xiabai3
+  rotate: false
+  xy: 145, 426
+  size: 137, 84
+  orig: 137, 84
+  offset: 0, 0
+  index: -1
+Reiga_B4/yaodai1
+  rotate: true
+  xy: 380, 365
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+Reiga_B4/yaodai2
+  rotate: false
+  xy: 363, 205
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
