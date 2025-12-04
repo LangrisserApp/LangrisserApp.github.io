@@ -1,0 +1,510 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Reisalin_A2/body
+  rotate: false
+  xy: 728, 314
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+Reisalin_A2/face
+  rotate: false
+  xy: 280, 162
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+Reisalin_A2/hair5
+  rotate: false
+  xy: 144, 114
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+Reisalin_A2/kua
+  rotate: false
+  xy: 398, 61
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Reisalin_A2/leginnerdown
+  rotate: false
+  xy: 843, 308
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Reisalin_A4/leginnerdown
+  rotate: false
+  xy: 843, 308
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+Reisalin_A2/leginnerup
+  rotate: false
+  xy: 978, 454
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Reisalin_A2/leginnerup2
+  rotate: true
+  xy: 223, 78
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Reisalin_A2/legoutdown
+  rotate: true
+  xy: 909, 340
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Reisalin_A4/legoutdown
+  rotate: true
+  xy: 909, 340
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Reisalin_A2/legoutup
+  rotate: false
+  xy: 177, 10
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+Reisalin_A2/weapon
+  rotate: true
+  xy: 590, 425
+  size: 85, 265
+  orig: 85, 265
+  offset: 0, 0
+  index: -1
+Reisalin_A3/arminnerdown
+  rotate: false
+  xy: 549, 285
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Reisalin_A3/arminnerup
+  rotate: false
+  xy: 985, 349
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+Reisalin_A3/armoutdown
+  rotate: false
+  xy: 985, 424
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+Reisalin_A3/armoutup
+  rotate: true
+  xy: 911, 302
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Reisalin_A3/shiping5
+  rotate: false
+  xy: 1010, 362
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+Reisalin_A3/weapon
+  rotate: true
+  xy: 247, 297
+  size: 90, 297
+  orig: 90, 297
+  offset: 0, 0
+  index: -1
+Reisalin_A4/Shadow
+  rotate: false
+  xy: 651, 297
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Reisalin_A4/arminnerdown
+  rotate: false
+  xy: 247, 265
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Reisalin_A4/arminnerdown2
+  rotate: false
+  xy: 580, 267
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Reisalin_A4/arminnerup
+  rotate: false
+  xy: 952, 302
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Reisalin_A4/armoutdown
+  rotate: false
+  xy: 987, 298
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+Reisalin_A4/armoutdown1
+  rotate: true
+  xy: 549, 250
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Reisalin_A4/armoutup
+  rotate: false
+  xy: 453, 61
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+Reisalin_A4/armoutup1
+  rotate: false
+  xy: 494, 63
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Reisalin_A4/biezheng
+  rotate: true
+  xy: 950, 340
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+Reisalin_A4/body
+  rotate: true
+  xy: 2, 2
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+Reisalin_A4/erhuan
+  rotate: false
+  xy: 802, 295
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Reisalin_A4/eyebrow
+  rotate: true
+  xy: 538, 236
+  size: 59, 9
+  orig: 59, 9
+  offset: 0, 0
+  index: -1
+Reisalin_A4/eyehard
+  rotate: true
+  xy: 546, 310
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+Reisalin_A4/eyehard 2
+  rotate: false
+  xy: 857, 426
+  size: 77, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+Reisalin_A4/eyehard1
+  rotate: false
+  xy: 144, 85
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+Reisalin_A4/eyehard3
+  rotate: false
+  xy: 144, 69
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+Reisalin_A4/eyesffuer
+  rotate: false
+  xy: 282, 85
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Reisalin_A4/eyeyun
+  rotate: true
+  xy: 147, 2
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+Reisalin_A4/face
+  rotate: false
+  xy: 413, 162
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+Reisalin_A4/fx3
+  rotate: false
+  xy: 575, 297
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Reisalin_A4/fz1
+  rotate: false
+  xy: 2, 265
+  size: 243, 245
+  orig: 243, 245
+  offset: 0, 0
+  index: -1
+Reisalin_A4/hair1
+  rotate: true
+  xy: 70, 11
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+Reisalin_A4/hair2
+  rotate: true
+  xy: 280, 115
+  size: 45, 119
+  orig: 45, 119
+  offset: 0, 0
+  index: -1
+Reisalin_A4/hair3
+  rotate: true
+  xy: 401, 101
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+Reisalin_A4/hair4
+  rotate: true
+  xy: 651, 324
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+Reisalin_A4/hair5
+  rotate: false
+  xy: 2, 68
+  size: 140, 195
+  orig: 140, 195
+  offset: 0, 0
+  index: -1
+Reisalin_A4/hand1
+  rotate: false
+  xy: 580, 242
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Reisalin_A4/hand2
+  rotate: false
+  xy: 725, 261
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Reisalin_A4/handinner
+  rotate: false
+  xy: 612, 269
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Reisalin_A4/handinner22
+  rotate: false
+  xy: 645, 269
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Reisalin_A4/handinner99
+  rotate: false
+  xy: 675, 270
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Reisalin_A4/handiout
+  rotate: false
+  xy: 751, 261
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Reisalin_A4/kua
+  rotate: false
+  xy: 727, 285
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+Reisalin_A4/leginnerup
+  rotate: false
+  xy: 494, 104
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+Reisalin_A4/leginnerup2
+  rotate: false
+  xy: 910, 367
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+Reisalin_A4/legoutup
+  rotate: false
+  xy: 867, 368
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Reisalin_A4/liantiao
+  rotate: false
+  xy: 549, 229
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Reisalin_A4/liantiao2
+  rotate: true
+  xy: 783, 290
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Reisalin_A4/lingziinner
+  rotate: true
+  xy: 936, 426
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+Reisalin_A4/lingziout
+  rotate: true
+  xy: 867, 307
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Reisalin_A4/mouth01
+  rotate: true
+  xy: 974, 426
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Reisalin_A4/mouth02
+  rotate: true
+  xy: 1012, 411
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Reisalin_A4/mouth04
+  rotate: false
+  xy: 70, 6
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Reisalin_A4/shiping
+  rotate: true
+  xy: 987, 328
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+Reisalin_A4/shiping04
+  rotate: false
+  xy: 705, 268
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+Reisalin_A4/shiping2
+  rotate: true
+  xy: 793, 318
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+Reisalin_A4/shiping3
+  rotate: false
+  xy: 946, 381
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+Reisalin_A4/tx1
+  rotate: true
+  xy: 350, 71
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Reisalin_A4/tx2
+  rotate: false
+  xy: 976, 386
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+Reisalin_A4/tx4
+  rotate: true
+  xy: 843, 347
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+Reisalin_A4/tx5
+  rotate: false
+  xy: 857, 445
+  size: 119, 65
+  orig: 119, 65
+  offset: 0, 0
+  index: -1
+Reisalin_A4/waitao
+  rotate: true
+  xy: 867, 340
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Reisalin_A4/weapon1
+  rotate: true
+  xy: 247, 389
+  size: 121, 341
+  orig: 121, 341
+  offset: 0, 0
+  index: -1
+Reisalin_A4/weapon2
+  rotate: true
+  xy: 590, 373
+  size: 50, 251
+  orig: 50, 251
+  offset: 0, 0
+  index: -1

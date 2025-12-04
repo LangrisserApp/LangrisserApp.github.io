@@ -1,0 +1,559 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Klaudia_A2/arminnerdown
+  rotate: true
+  xy: 395, 308
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Klaudia_A2/armoutdown
+  rotate: false
+  xy: 190, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Klaudia_A2/armoutup
+  rotate: false
+  xy: 891, 369
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Klaudia_A2/handinner
+  rotate: false
+  xy: 803, 275
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Klaudia_A2/leginnerdown
+  rotate: true
+  xy: 977, 479
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Klaudia_A2/leginnerup
+  rotate: true
+  xy: 966, 445
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Klaudia_A2/legoutdown
+  rotate: true
+  xy: 866, 406
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Klaudia_A2/legoutup
+  rotate: false
+  xy: 823, 365
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Klaudia_A2/weapom
+  rotate: false
+  xy: 297, 338
+  size: 127, 172
+  orig: 127, 172
+  offset: 0, 0
+  index: -1
+Klaudia_A2/weapon1
+  rotate: true
+  xy: 296, 204
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+Klaudia_A3/armoutdown
+  rotate: false
+  xy: 406, 175
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Klaudia_A3/armoutup
+  rotate: false
+  xy: 887, 333
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Klaudia_A3/body
+  rotate: false
+  xy: 223, 19
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+Klaudia_A3/toushi2
+  rotate: false
+  xy: 916, 442
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Klaudia_A3/weapom
+  rotate: false
+  xy: 162, 338
+  size: 133, 172
+  orig: 133, 172
+  offset: 0, 0
+  index: -1
+Klaudia_A4/Shadow
+  rotate: true
+  xy: 761, 288
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Klaudia_A4/arminnerdown
+  rotate: false
+  xy: 856, 369
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Klaudia_A4/arminnerup
+  rotate: false
+  xy: 266, 175
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Klaudia_A4/armoutdown
+  rotate: false
+  xy: 433, 264
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Klaudia_A4/armoutup
+  rotate: false
+  xy: 404, 204
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+Klaudia_A4/ball
+  rotate: false
+  xy: 866, 434
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Klaudia_A4/body
+  rotate: false
+  xy: 593, 354
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+Klaudia_A4/ear
+  rotate: true
+  xy: 2, 2
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyebrow
+  rotate: false
+  xy: 296, 189
+  size: 66, 13
+  orig: 66, 13
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyehard
+  rotate: false
+  xy: 819, 484
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyehard1
+  rotate: false
+  xy: 898, 484
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyehard2
+  rotate: false
+  xy: 111, 12
+  size: 77, 13
+  orig: 77, 13
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyehard3
+  rotate: true
+  xy: 788, 288
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyehard4
+  rotate: false
+  xy: 38, 3
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyesffuer
+  rotate: false
+  xy: 593, 320
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Klaudia_A4/eyeyun
+  rotate: true
+  xy: 787, 410
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Klaudia_A4/face
+  rotate: false
+  xy: 2, 27
+  size: 135, 143
+  orig: 135, 143
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hair
+  rotate: false
+  xy: 536, 320
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hair1
+  rotate: false
+  xy: 139, 84
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hair2
+  rotate: true
+  xy: 156, 171
+  size: 41, 108
+  orig: 41, 108
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hair3
+  rotate: true
+  xy: 296, 176
+  size: 11, 49
+  orig: 11, 49
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hair4
+  rotate: true
+  xy: 156, 214
+  size: 79, 138
+  orig: 79, 138
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hair5
+  rotate: false
+  xy: 2, 172
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hand1
+  rotate: false
+  xy: 219, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hand2
+  rotate: false
+  xy: 558, 301
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+Klaudia_A4/handinner
+  rotate: false
+  xy: 535, 297
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Klaudia_A4/handout
+  rotate: true
+  xy: 404, 241
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+Klaudia_A4/handout1
+  rotate: true
+  xy: 826, 290
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hudiejie1
+  rotate: true
+  xy: 652, 428
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hudiejie2
+  rotate: false
+  xy: 803, 299
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+Klaudia_A4/hudjie
+  rotate: true
+  xy: 404, 280
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Klaudia_A4/leginnerdown
+  rotate: true
+  xy: 476, 294
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Klaudia_A4/leginnerup
+  rotate: true
+  xy: 426, 293
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Klaudia_A4/legoutdown
+  rotate: false
+  xy: 859, 325
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Klaudia_A4/legoutup
+  rotate: false
+  xy: 826, 313
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Klaudia_A4/mouth01
+  rotate: false
+  xy: 111, 7
+  size: 17, 3
+  orig: 17, 3
+  offset: 0, 0
+  index: -1
+Klaudia_A4/mouth02
+  rotate: false
+  xy: 521, 294
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+Klaudia_A4/mouth04
+  rotate: false
+  xy: 111, 2
+  size: 16, 3
+  orig: 16, 3
+  offset: 0, 0
+  index: -1
+Klaudia_A4/qunzi
+  rotate: false
+  xy: 661, 295
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+Klaudia_A4/qunziinner
+  rotate: false
+  xy: 718, 292
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+Klaudia_A4/qunziout
+  rotate: false
+  xy: 821, 417
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+Klaudia_A4/shaqun
+  rotate: false
+  xy: 588, 423
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+Klaudia_A4/star
+  rotate: true
+  xy: 580, 302
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Klaudia_A4/toushi1
+  rotate: false
+  xy: 778, 364
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+Klaudia_A4/toushi2
+  rotate: false
+  xy: 658, 357
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+Klaudia_A4/toushi3
+  rotate: true
+  xy: 139, 27
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+Klaudia_A4/toushi4
+  rotate: true
+  xy: 364, 185
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+Klaudia_A4/toushi5
+  rotate: true
+  xy: 719, 420
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+Klaudia_A4/tx_star
+  rotate: true
+  xy: 244, 5
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Klaudia_A4/tx_weapom
+  rotate: true
+  xy: 647, 492
+  size: 18, 170
+  orig: 18, 170
+  offset: 0, 0
+  index: -1
+Klaudia_A4/tx_weapom1
+  rotate: true
+  xy: 426, 473
+  size: 37, 219
+  orig: 37, 219
+  offset: 0, 0
+  index: -1
+Klaudia_A4/tx_weapom2
+  rotate: true
+  xy: 156, 295
+  size: 41, 237
+  orig: 41, 237
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf1
+  rotate: false
+  xy: 929, 416
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf2
+  rotate: true
+  xy: 910, 406
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf3
+  rotate: false
+  xy: 437, 213
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf4
+  rotate: true
+  xy: 826, 270
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf5
+  rotate: false
+  xy: 521, 305
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf6
+  rotate: false
+  xy: 433, 241
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf7
+  rotate: false
+  xy: 426, 421
+  size: 160, 50
+  orig: 160, 50
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf8
+  rotate: true
+  xy: 714, 364
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Klaudia_A4/txyf9
+  rotate: false
+  xy: 220, 88
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+Klaudia_A4/weapom
+  rotate: false
+  xy: 2, 338
+  size: 158, 172
+  orig: 158, 172
+  offset: 0, 0
+  index: -1
+Klaudia_A4/weapon1
+  rotate: true
+  xy: 426, 327
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+Klaudia_A4/weapon2
+  rotate: true
+  xy: 647, 476
+  size: 14, 167
+  orig: 14, 167
+  offset: 0, 0
+  index: -1
