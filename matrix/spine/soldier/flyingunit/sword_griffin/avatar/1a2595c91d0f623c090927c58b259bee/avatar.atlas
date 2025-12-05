@@ -1,0 +1,475 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CavalryMan/Griffin_03_SP/Eagle_ eyehard
+  rotate: false
+  xy: 61, 8
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_armoutdown1
+  rotate: false
+  xy: 738, 538
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_armoutdown2
+  rotate: true
+  xy: 36, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_armoutup
+  rotate: false
+  xy: 295, 448
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_body
+  rotate: false
+  xy: 551, 901
+  size: 186, 121
+  orig: 186, 121
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_earinner
+  rotate: false
+  xy: 487, 492
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_earout
+  rotate: false
+  xy: 487, 573
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_eyesffuer
+  rotate: false
+  xy: 532, 415
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_eyeyun
+  rotate: true
+  xy: 169, 128
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_footout
+  rotate: true
+  xy: 662, 539
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_hair
+  rotate: false
+  xy: 597, 546
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_handout
+  rotate: false
+  xy: 487, 432
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_head
+  rotate: true
+  xy: 393, 537
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_jiao1
+  rotate: true
+  xy: 685, 880
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_jiao1tx
+  rotate: true
+  xy: 394, 407
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_jiao2
+  rotate: true
+  xy: 196, 609
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_jiao2tx
+  rotate: false
+  xy: 185, 160
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_legoutdown
+  rotate: false
+  xy: 135, 145
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_legoutup
+  rotate: false
+  xy: 538, 538
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_maan
+  rotate: true
+  xy: 145, 381
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_neck1
+  rotate: false
+  xy: 835, 603
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_neck2
+  rotate: false
+  xy: 394, 436
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_toukui1
+  rotate: false
+  xy: 295, 537
+  size: 96, 117
+  orig: 96, 117
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_toukui2
+  rotate: true
+  xy: 927, 947
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_tuijia
+  rotate: false
+  xy: 139, 319
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_weiba
+  rotate: false
+  xy: 685, 690
+  size: 193, 90
+  orig: 193, 90
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_winginner1
+  rotate: true
+  xy: 685, 782
+  size: 96, 197
+  orig: 96, 197
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_winginner1tx
+  rotate: false
+  xy: 160, 624
+  size: 119, 215
+  orig: 119, 215
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_winginner2
+  rotate: false
+  xy: 281, 656
+  size: 145, 170
+  orig: 145, 170
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_winginner2tx
+  rotate: true
+  xy: 672, 578
+  size: 110, 161
+  orig: 110, 161
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_winginner3
+  rotate: true
+  xy: 541, 612
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_winginner3tx
+  rotate: false
+  xy: 145, 457
+  size: 148, 150
+  orig: 148, 150
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_winginner4
+  rotate: true
+  xy: 331, 828
+  size: 78, 206
+  orig: 78, 206
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_wingout1
+  rotate: false
+  xy: 2, 26
+  size: 131, 190
+  orig: 131, 190
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_wingout1tx
+  rotate: false
+  xy: 2, 812
+  size: 156, 210
+  orig: 156, 210
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_wingout2
+  rotate: true
+  xy: 2, 413
+  size: 194, 141
+  orig: 194, 141
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_wingout2tx
+  rotate: false
+  xy: 541, 742
+  size: 142, 157
+  orig: 142, 157
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_wingout3
+  rotate: true
+  xy: 428, 655
+  size: 171, 111
+  orig: 171, 111
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_wingout3tx
+  rotate: true
+  xy: 2, 218
+  size: 193, 135
+  orig: 193, 135
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_wingout4
+  rotate: true
+  xy: 331, 908
+  size: 114, 218
+  orig: 114, 218
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/Eagle_xiongjia
+  rotate: false
+  xy: 139, 236
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/arminner
+  rotate: false
+  xy: 135, 28
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/armout
+  rotate: false
+  xy: 538, 492
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/body
+  rotate: false
+  xy: 211, 262
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/eyehard
+  rotate: false
+  xy: 486, 402
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/eyesffuer
+  rotate: false
+  xy: 884, 782
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/eyeyun
+  rotate: false
+  xy: 880, 760
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/handinner
+  rotate: false
+  xy: 207, 160
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/handout
+  rotate: false
+  xy: 835, 572
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/handout2
+  rotate: false
+  xy: 263, 387
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/head1
+  rotate: false
+  xy: 160, 841
+  size: 169, 181
+  orig: 169, 181
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/head2
+  rotate: false
+  xy: 927, 882
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/jianjiainner1
+  rotate: false
+  xy: 207, 190
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/jianjiainner2
+  rotate: true
+  xy: 2, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/jianjiaout1
+  rotate: true
+  xy: 232, 313
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/jianjiaout2
+  rotate: true
+  xy: 135, 86
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/kua
+  rotate: false
+  xy: 295, 412
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/legoutdown
+  rotate: true
+  xy: 442, 402
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/legoutup
+  rotate: false
+  xy: 556, 431
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/weapon
+  rotate: true
+  xy: 739, 880
+  size: 142, 186
+  orig: 142, 186
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/weapontx1
+  rotate: false
+  xy: 2, 609
+  size: 156, 201
+  orig: 156, 201
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/yaojia1
+  rotate: true
+  xy: 350, 405
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/yaojia2
+  rotate: true
+  xy: 211, 227
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+CavalryMan/Griffin_03_SP/yaojia3
+  rotate: true
+  xy: 160, 609
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+CavalryMan/Mount/Griffin/Eagle_legout1_down
+  rotate: true
+  xy: 263, 416
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+CavalryMan/Mount/Griffin/Griffin_1/Feather
+  rotate: false
+  xy: 139, 194
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 884, 804
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GallantDuelist_SP/body
+  rotate: true
+  xy: 2, 2
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/ear
+  rotate: true
+  xy: 387, 163
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/eyebrow
+  rotate: false
+  xy: 137, 203
+  size: 86, 9
+  orig: 86, 9
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/eyehard
+  rotate: true
+  xy: 467, 332
+  size: 88, 28
+  orig: 88, 28
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/eyesffuer
+  rotate: true
+  xy: 383, 286
+  size: 86, 41
+  orig: 86, 41
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/eyeyun
+  rotate: true
+  xy: 426, 334
+  size: 86, 39
+  orig: 86, 39
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/face
+  rotate: false
+  xy: 2, 201
+  size: 133, 148
+  orig: 133, 148
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/hair1
+  rotate: false
+  xy: 245, 198
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/hair2
+  rotate: false
+  xy: 150, 124
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/hair3
+  rotate: true
+  xy: 137, 214
+  size: 135, 106
+  orig: 135, 106
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/handinner
+  rotate: false
+  xy: 459, 270
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/handout
+  rotate: false
+  xy: 459, 198
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/hat1
+  rotate: false
+  xy: 2, 351
+  size: 248, 159
+  orig: 248, 159
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/hat2
+  rotate: false
+  xy: 2, 65
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/hat3
+  rotate: false
+  xy: 127, 121
+  size: 21, 78
+  orig: 21, 78
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/hat4
+  rotate: false
+  xy: 252, 286
+  size: 129, 86
+  orig: 129, 86
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/jianjiainner
+  rotate: true
+  xy: 421, 159
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/jianjiaout1
+  rotate: false
+  xy: 297, 161
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/jianjiaout2
+  rotate: false
+  xy: 347, 164
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/leginnerdown
+  rotate: false
+  xy: 151, 82
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/leginnerup
+  rotate: false
+  xy: 127, 77
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/legoutdown
+  rotate: true
+  xy: 231, 126
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/legoutup
+  rotate: false
+  xy: 426, 286
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/mouth01
+  rotate: true
+  xy: 245, 324
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/mouth02
+  rotate: false
+  xy: 225, 206
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/mouth04
+  rotate: false
+  xy: 91, 3
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/pifeng
+  rotate: false
+  xy: 357, 189
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/qunzi1
+  rotate: true
+  xy: 459, 180
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/qunzi2
+  rotate: true
+  xy: 441, 422
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/weapon1
+  rotate: false
+  xy: 252, 374
+  size: 172, 60
+  orig: 172, 60
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/weapon1 tx
+  rotate: false
+  xy: 252, 436
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/weapon2
+  rotate: true
+  xy: 91, 11
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/weapon2 tx
+  rotate: false
+  xy: 231, 154
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/yaojiainner
+  rotate: false
+  xy: 497, 397
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+GallantDuelist_SP/yaojiaout
+  rotate: false
+  xy: 277, 123
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+LandShadow
+  rotate: true
+  xy: 191, 127
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1

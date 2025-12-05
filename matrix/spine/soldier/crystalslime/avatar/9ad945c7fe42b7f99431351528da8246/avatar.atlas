@@ -1,0 +1,55 @@
+
+avatar.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 375, 162
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+eyehard
+  rotate: false
+  xy: 2, 2
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+eyesffuer
+  rotate: false
+  xy: 233, 61
+  size: 84, 35
+  orig: 84, 35
+  offset: 0, 0
+  index: -1
+eyeyun
+  rotate: false
+  xy: 375, 189
+  size: 80, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1
+jingti
+  rotate: false
+  xy: 233, 98
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+seihong
+  rotate: false
+  xy: 2, 37
+  size: 119, 22
+  orig: 119, 22
+  offset: 0, 0
+  index: -1
+waiyi
+  rotate: false
+  xy: 2, 61
+  size: 229, 159
+  orig: 229, 159
+  offset: 0, 0
+  index: -1
