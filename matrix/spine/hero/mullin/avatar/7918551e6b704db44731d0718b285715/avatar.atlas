@@ -1,0 +1,503 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A2/pifenginner
+  rotate: false
+  xy: 349, 166
+  size: 26, 79
+  orig: 26, 79
+  offset: 0, 0
+  index: -1
+A2/pifengout
+  rotate: false
+  xy: 971, 309
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+A2/weapon
+  rotate: false
+  xy: 2, 259
+  size: 173, 251
+  orig: 173, 251
+  offset: 0, 0
+  index: -1
+A3/arminnerdown
+  rotate: false
+  xy: 401, 166
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+A3/texiao1
+  rotate: false
+  xy: 2, 3
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+A3/texiao2
+  rotate: false
+  xy: 854, 354
+  size: 114, 44
+  orig: 114, 44
+  offset: 0, 0
+  index: -1
+A3/texiao3
+  rotate: false
+  xy: 152, 96
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+A4/Shadow
+  rotate: false
+  xy: 690, 248
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+A4/arminnerdown
+  rotate: false
+  xy: 481, 213
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+A4/arminnerup
+  rotate: false
+  xy: 341, 2
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+A4/armoutdown
+  rotate: false
+  xy: 519, 212
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+A4/armoutup
+  rotate: true
+  xy: 766, 224
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+A4/body
+  rotate: false
+  xy: 280, 169
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+A4/cao
+  rotate: false
+  xy: 837, 364
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+A4/dang
+  rotate: false
+  xy: 922, 278
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+A4/earinner
+  rotate: false
+  xy: 643, 268
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+A4/earout
+  rotate: false
+  xy: 264, 112
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+A4/eyebrow
+  rotate: false
+  xy: 837, 296
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1
+A4/eyehard
+  rotate: false
+  xy: 834, 271
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+A4/eyehard01
+  rotate: false
+  xy: 834, 246
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+A4/eyehard02
+  rotate: true
+  xy: 377, 166
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+A4/eyehard03
+  rotate: false
+  xy: 287, 38
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+A4/eyesuffer
+  rotate: false
+  xy: 760, 280
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+A4/eyeyun
+  rotate: true
+  xy: 335, 38
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+A4/face
+  rotate: false
+  xy: 710, 382
+  size: 142, 128
+  orig: 142, 128
+  offset: 0, 0
+  index: -1
+A4/hair1
+  rotate: true
+  xy: 443, 269
+  size: 64, 98
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+A4/hair10
+  rotate: false
+  xy: 401, 194
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+A4/hair11
+  rotate: false
+  xy: 456, 202
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+A4/hair2
+  rotate: true
+  xy: 383, 271
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+A4/hair3
+  rotate: true
+  xy: 445, 335
+  size: 61, 139
+  orig: 61, 139
+  offset: 0, 0
+  index: -1
+A4/hair4
+  rotate: false
+  xy: 556, 215
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+A4/hair5
+  rotate: true
+  xy: 971, 281
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+A4/hair6
+  rotate: false
+  xy: 602, 232
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+A4/hair7
+  rotate: true
+  xy: 372, 59
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+A4/hair8
+  rotate: false
+  xy: 586, 335
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+A4/hair9
+  rotate: true
+  xy: 344, 112
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+A4/handinner
+  rotate: true
+  xy: 436, 167
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+A4/handout
+  rotate: false
+  xy: 403, 3
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+A4/handout1
+  rotate: false
+  xy: 481, 187
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+A4/jianjiainner
+  rotate: false
+  xy: 323, 247
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+A4/jianjiaout
+  rotate: true
+  xy: 135, 15
+  size: 79, 97
+  orig: 79, 97
+  offset: 0, 0
+  index: -1
+A4/leginnerdown
+  rotate: false
+  xy: 428, 196
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+A4/leginnerup
+  rotate: false
+  xy: 405, 117
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+A4/legoutdown
+  rotate: true
+  xy: 914, 249
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+A4/legoutup
+  rotate: false
+  xy: 368, 117
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+A4/lianzi
+  rotate: true
+  xy: 542, 244
+  size: 14, 58
+  orig: 14, 58
+  offset: 0, 0
+  index: -1
+A4/lianzi2
+  rotate: false
+  xy: 386, 2
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+A4/lingziinner
+  rotate: true
+  xy: 377, 246
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+A4/lingziinner1
+  rotate: true
+  xy: 491, 243
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+A4/lingziinner2
+  rotate: false
+  xy: 543, 287
+  size: 98, 46
+  orig: 98, 46
+  offset: 0, 0
+  index: -1
+A4/lingziout
+  rotate: false
+  xy: 766, 252
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+A4/lingziout1
+  rotate: false
+  xy: 287, 2
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+A4/maolinginner
+  rotate: false
+  xy: 403, 26
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+A4/maolingout
+  rotate: false
+  xy: 690, 275
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+A4/mawei
+  rotate: true
+  xy: 445, 398
+  size: 112, 263
+  orig: 112, 263
+  offset: 0, 0
+  index: -1
+A4/mouth01
+  rotate: false
+  xy: 135, 5
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+A4/mouth02
+  rotate: true
+  xy: 632, 268
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+A4/mouth03
+  rotate: true
+  xy: 1013, 464
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+A4/pifenginner
+  rotate: false
+  xy: 543, 260
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1
+A4/pifenginner1
+  rotate: false
+  xy: 854, 400
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+A4/pifenginner2
+  rotate: false
+  xy: 837, 319
+  size: 132, 33
+  orig: 132, 33
+  offset: 0, 0
+  index: -1
+A4/pifenginner3
+  rotate: true
+  xy: 234, 12
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+A4/pifengout
+  rotate: false
+  xy: 960, 405
+  size: 51, 105
+  orig: 51, 105
+  offset: 0, 0
+  index: -1
+A4/pifengout1
+  rotate: true
+  xy: 177, 300
+  size: 56, 204
+  orig: 56, 204
+  offset: 0, 0
+  index: -1
+A4/pifengout2
+  rotate: true
+  xy: 708, 317
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+A4/texiao
+  rotate: false
+  xy: 2, 104
+  size: 148, 153
+  orig: 148, 153
+  offset: 0, 0
+  index: -1
+A4/texiao1
+  rotate: false
+  xy: 177, 247
+  size: 144, 51
+  orig: 144, 51
+  offset: 0, 0
+  index: -1
+A4/texiao2
+  rotate: false
+  xy: 152, 177
+  size: 126, 68
+  orig: 126, 68
+  offset: 0, 0
+  index: -1
+A4/weapon
+  rotate: true
+  xy: 177, 358
+  size: 152, 266
+  orig: 152, 266
+  offset: 0, 0
+  index: -1
+A4/weiba
+  rotate: true
+  xy: 432, 249
+  size: 18, 57
+  orig: 18, 57
+  offset: 0, 0
+  index: -1
+A4/weiba2
+  rotate: true
+  xy: 398, 70
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
