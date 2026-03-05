@@ -1,0 +1,601 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ranka_A2/arminnerdown
+  rotate: false
+  xy: 800, 290
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Ranka_A2/armoutdown
+  rotate: true
+  xy: 838, 286
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Ranka_A2/body
+  rotate: true
+  xy: 249, 161
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Ranka_A2/qunzi1
+  rotate: false
+  xy: 978, 439
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+Ranka_A2/qunzi3
+  rotate: true
+  xy: 555, 285
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+Ranka_A2/weapon4
+  rotate: false
+  xy: 360, 423
+  size: 318, 87
+  orig: 318, 87
+  offset: 0, 0
+  index: -1
+Ranka_A3/arminnerdown
+  rotate: false
+  xy: 866, 279
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Ranka_A3/armoutdown
+  rotate: false
+  xy: 676, 287
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Ranka_A3/body
+  rotate: true
+  xy: 321, 162
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Ranka_A3/dog1
+  rotate: true
+  xy: 592, 229
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+Ranka_A3/gouer1
+  rotate: false
+  xy: 947, 337
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+Ranka_A3/gouer1a
+  rotate: true
+  xy: 838, 316
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+Ranka_A3/gouer1b
+  rotate: false
+  xy: 328, 67
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+Ranka_A3/gouer2
+  rotate: true
+  xy: 866, 304
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Ranka_A3/gouer2a
+  rotate: false
+  xy: 980, 308
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Ranka_A3/gouer2b
+  rotate: false
+  xy: 980, 287
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Ranka_A3/legoutup
+  rotate: false
+  xy: 831, 364
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+Ranka_A3/qunzi1
+  rotate: false
+  xy: 247, 87
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+Ranka_A3/qunzi2
+  rotate: false
+  xy: 625, 216
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Ranka_A3/qunzi3
+  rotate: false
+  xy: 98, 2
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Ranka_A3/weapon4
+  rotate: false
+  xy: 2, 298
+  size: 318, 103
+  orig: 318, 103
+  offset: 0, 0
+  index: -1
+Ranka_A4/Shadow
+  rotate: false
+  xy: 479, 319
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Ranka_A4/arminnerdown
+  rotate: false
+  xy: 714, 301
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+Ranka_A4/arminnerup
+  rotate: false
+  xy: 907, 335
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Ranka_A4/armoutdown
+  rotate: false
+  xy: 898, 276
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Ranka_A4/armoutup
+  rotate: false
+  xy: 714, 325
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Ranka_A4/body
+  rotate: false
+  xy: 140, 90
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Ranka_A4/dang
+  rotate: true
+  xy: 800, 315
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog2
+  rotate: false
+  xy: 866, 330
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog4
+  rotate: false
+  xy: 918, 370
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog5
+  rotate: false
+  xy: 781, 301
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog6
+  rotate: true
+  xy: 911, 303
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog7
+  rotate: true
+  xy: 983, 328
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog_eye
+  rotate: true
+  xy: 621, 285
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog_eyeyun
+  rotate: true
+  xy: 647, 285
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Ranka_A4/dog_sj
+  rotate: false
+  xy: 748, 295
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Ranka_A4/eyebrow
+  rotate: false
+  xy: 849, 427
+  size: 74, 7
+  orig: 74, 7
+  offset: 0, 0
+  index: -1
+Ranka_A4/eyehard
+  rotate: false
+  xy: 395, 298
+  size: 79, 23
+  orig: 79, 23
+  offset: 0, 0
+  index: -1
+Ranka_A4/eyehard1
+  rotate: false
+  xy: 555, 318
+  size: 79, 23
+  orig: 79, 23
+  offset: 0, 0
+  index: -1
+Ranka_A4/eyehard2
+  rotate: false
+  xy: 476, 297
+  size: 77, 20
+  orig: 77, 20
+  offset: 0, 0
+  index: -1
+Ranka_A4/eyehard3
+  rotate: false
+  xy: 140, 79
+  size: 70, 9
+  orig: 70, 9
+  offset: 0, 0
+  index: -1
+Ranka_A4/eyesffuer
+  rotate: true
+  xy: 297, 85
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Ranka_A4/eyeyun
+  rotate: false
+  xy: 556, 343
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Ranka_A4/face
+  rotate: false
+  xy: 2, 154
+  size: 132, 142
+  orig: 132, 142
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair1
+  rotate: true
+  xy: 658, 368
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair10
+  rotate: false
+  xy: 395, 323
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair11
+  rotate: true
+  xy: 2, 6
+  size: 146, 94
+  orig: 146, 94
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair2
+  rotate: true
+  xy: 556, 376
+  size: 45, 100
+  orig: 45, 100
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair3
+  rotate: true
+  xy: 680, 423
+  size: 87, 167
+  orig: 87, 167
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair4
+  rotate: true
+  xy: 658, 316
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair5
+  rotate: true
+  xy: 136, 235
+  size: 61, 167
+  orig: 61, 167
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair6
+  rotate: true
+  xy: 748, 320
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair7
+  rotate: false
+  xy: 328, 94
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair8
+  rotate: false
+  xy: 959, 367
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Ranka_A4/hair9
+  rotate: false
+  xy: 322, 298
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+Ranka_A4/handinner
+  rotate: false
+  xy: 952, 274
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Ranka_A4/handinner1
+  rotate: false
+  xy: 636, 328
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Ranka_A4/handinner2
+  rotate: false
+  xy: 651, 216
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Ranka_A4/handout1
+  rotate: true
+  xy: 634, 344
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+Ranka_A4/handout3
+  rotate: true
+  xy: 375, 75
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Ranka_A4/leginnerdown
+  rotate: false
+  xy: 625, 241
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+Ranka_A4/leginnerup
+  rotate: true
+  xy: 925, 409
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Ranka_A4/legoutdown
+  rotate: false
+  xy: 984, 374
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Ranka_A4/legoutup
+  rotate: false
+  xy: 375, 103
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+Ranka_A4/mouth02
+  rotate: true
+  xy: 1015, 403
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+Ranka_A4/mouth03
+  rotate: false
+  xy: 534, 290
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+Ranka_A4/mouth1
+  rotate: true
+  xy: 386, 405
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+Ranka_A4/pifeng
+  rotate: false
+  xy: 750, 362
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+Ranka_A4/qunzi
+  rotate: true
+  xy: 360, 403
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Ranka_A4/qunzi1
+  rotate: true
+  xy: 461, 246
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Ranka_A4/qunzi3
+  rotate: true
+  xy: 305, 236
+  size: 60, 87
+  orig: 60, 87
+  offset: 0, 0
+  index: -1
+Ranka_A4/tail
+  rotate: false
+  xy: 394, 240
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+Ranka_A4/toushi1
+  rotate: false
+  xy: 984, 348
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Ranka_A4/toushi2
+  rotate: false
+  xy: 928, 279
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon1
+  rotate: false
+  xy: 649, 244
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon2
+  rotate: false
+  xy: 952, 299
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon3
+  rotate: true
+  xy: 984, 416
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon4
+  rotate: false
+  xy: 2, 403
+  size: 356, 107
+  orig: 356, 107
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon5
+  rotate: false
+  xy: 861, 371
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon6
+  rotate: false
+  xy: 214, 85
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon7
+  rotate: false
+  xy: 136, 162
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon8
+  rotate: false
+  xy: 849, 436
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapon9
+  rotate: true
+  xy: 98, 77
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+Ranka_A4/weapontx
+  rotate: false
+  xy: 479, 346
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Ranka_A4/zhuangshi
+  rotate: true
+  xy: 534, 237
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,790 @@
+
+avatar.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ora_A3/arminnedown
+  rotate: true
+  xy: 268, 188
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Ora_A3/arminnerup
+  rotate: false
+  xy: 436, 446
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+Ora_A3/armoutdown
+  rotate: true
+  xy: 573, 933
+  size: 89, 210
+  orig: 89, 210
+  offset: 0, 0
+  index: -1
+Ora_A3/armoutdown1
+  rotate: false
+  xy: 298, 785
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+Ora_A3/armoutup
+  rotate: true
+  xy: 113, 96
+  size: 75, 105
+  orig: 75, 105
+  offset: 0, 0
+  index: -1
+Ora_A3/body
+  rotate: false
+  xy: 2, 631
+  size: 158, 200
+  orig: 158, 200
+  offset: 0, 0
+  index: -1
+Ora_A3/dang
+  rotate: false
+  xy: 2, 11
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+Ora_A3/eyehard
+  rotate: true
+  xy: 698, 673
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Ora_A3/handinner
+  rotate: false
+  xy: 212, 208
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+Ora_A3/handinner1
+  rotate: true
+  xy: 162, 612
+  size: 65, 109
+  orig: 65, 109
+  offset: 0, 0
+  index: -1
+Ora_A3/handinner2
+  rotate: false
+  xy: 117, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+Ora_A3/handinner3
+  rotate: false
+  xy: 253, 538
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+Ora_A3/handinner4
+  rotate: true
+  xy: 785, 756
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+Ora_A3/handout
+  rotate: false
+  xy: 286, 447
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+Ora_A3/handout2
+  rotate: true
+  xy: 379, 767
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+Ora_A3/handout3
+  rotate: true
+  xy: 881, 746
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+Ora_A3/headdown
+  rotate: true
+  xy: 220, 137
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+Ora_A3/headup
+  rotate: true
+  xy: 942, 862
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+Ora_A3/jianjiainner
+  rotate: false
+  xy: 715, 839
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+Ora_A3/jianjiaout
+  rotate: true
+  xy: 380, 605
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+Ora_A3/leginnerdown
+  rotate: true
+  xy: 491, 690
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+Ora_A3/leginnerup
+  rotate: false
+  xy: 523, 539
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Ora_A3/leginnerup1
+  rotate: false
+  xy: 635, 710
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Ora_A3/leginnerup2
+  rotate: true
+  xy: 879, 646
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Ora_A3/legoutdown
+  rotate: false
+  xy: 566, 465
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+Ora_A3/legoutdown2
+  rotate: false
+  xy: 708, 645
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Ora_A3/legoutup
+  rotate: false
+  xy: 698, 689
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Ora_A3/legoutup1
+  rotate: true
+  xy: 698, 756
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+Ora_A3/mao
+  rotate: true
+  xy: 2, 86
+  size: 167, 109
+  orig: 167, 109
+  offset: 0, 0
+  index: -1
+Ora_A3/neck
+  rotate: false
+  xy: 111, 309
+  size: 91, 151
+  orig: 91, 151
+  offset: 0, 0
+  index: -1
+Ora_A3/suoinner
+  rotate: true
+  xy: 268, 133
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+Ora_A3/suoout
+  rotate: true
+  xy: 379, 899
+  size: 123, 192
+  orig: 123, 192
+  offset: 0, 0
+  index: -1
+Ora_A3/tx1
+  rotate: false
+  xy: 623, 660
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Ora_A3/tx2
+  rotate: true
+  xy: 673, 668
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+Ora_A3/tx3
+  rotate: true
+  xy: 318, 96
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+Ora_A3/tx4
+  rotate: true
+  xy: 162, 814
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Ora_A3/tx5
+  rotate: true
+  xy: 670, 557
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Ora_A3/tx6
+  rotate: true
+  xy: 673, 590
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Ora_A3/tx7
+  rotate: false
+  xy: 514, 810
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+Ora_A3/xiongshi1
+  rotate: false
+  xy: 154, 613
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+Ora_A3/xiongshi2
+  rotate: false
+  xy: 212, 187
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+Ora_A3/xiongshi3
+  rotate: true
+  xy: 2, 2
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+Ora_A3/yaoshiinner
+  rotate: false
+  xy: 750, 616
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+Ora_A3/yaoshiout
+  rotate: false
+  xy: 942, 817
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+Ora_A4/Shadow
+  rotate: true
+  xy: 549, 614
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Ora_A4/arminnerdown
+  rotate: false
+  xy: 503, 442
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+Ora_A4/arminnerup
+  rotate: false
+  xy: 463, 539
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Ora_A4/armoutdown
+  rotate: true
+  xy: 573, 778
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+Ora_A4/armoutup
+  rotate: false
+  xy: 298, 22
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+Ora_A4/body
+  rotate: true
+  xy: 177, 866
+  size: 156, 200
+  orig: 156, 200
+  offset: 0, 0
+  index: -1
+Ora_A4/body2
+  rotate: false
+  xy: 357, 539
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+Ora_A4/dang
+  rotate: false
+  xy: 377, 693
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+Ora_A4/eyehard
+  rotate: false
+  xy: 576, 614
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Ora_A4/hair1
+  rotate: false
+  xy: 177, 797
+  size: 119, 67
+  orig: 119, 67
+  offset: 0, 0
+  index: -1
+Ora_A4/hair2
+  rotate: false
+  xy: 154, 524
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+Ora_A4/hair3
+  rotate: false
+  xy: 358, 450
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+Ora_A4/hair4
+  rotate: true
+  xy: 573, 878
+  size: 53, 140
+  orig: 53, 140
+  offset: 0, 0
+  index: -1
+Ora_A4/hairinner
+  rotate: true
+  xy: 204, 360
+  size: 100, 58
+  orig: 100, 58
+  offset: 0, 0
+  index: -1
+Ora_A4/hairout
+  rotate: true
+  xy: 2, 255
+  size: 205, 107
+  orig: 205, 107
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner
+  rotate: false
+  xy: 208, 2
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner1
+  rotate: false
+  xy: 708, 551
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner10
+  rotate: true
+  xy: 924, 652
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner2
+  rotate: true
+  xy: 596, 540
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner3
+  rotate: true
+  xy: 673, 619
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner4
+  rotate: true
+  xy: 230, 462
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner5
+  rotate: false
+  xy: 708, 612
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner6
+  rotate: true
+  xy: 943, 684
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner7
+  rotate: false
+  xy: 844, 645
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner8
+  rotate: true
+  xy: 566, 436
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+Ora_A4/handinner9
+  rotate: true
+  xy: 738, 578
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Ora_A4/handinnero
+  rotate: false
+  xy: 162, 679
+  size: 103, 116
+  orig: 103, 116
+  offset: 0, 0
+  index: -1
+Ora_A4/handout
+  rotate: false
+  xy: 113, 173
+  size: 97, 134
+  orig: 97, 134
+  offset: 0, 0
+  index: -1
+Ora_A4/handout1
+  rotate: false
+  xy: 552, 717
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Ora_A4/handout10
+  rotate: false
+  xy: 596, 563
+  size: 23, 60
+  orig: 23, 60
+  offset: 0, 0
+  index: -1
+Ora_A4/handout2
+  rotate: false
+  xy: 514, 767
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Ora_A4/handout3
+  rotate: false
+  xy: 264, 96
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+Ora_A4/handout4
+  rotate: false
+  xy: 264, 338
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+Ora_A4/handout5
+  rotate: false
+  xy: 220, 96
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Ora_A4/handout6
+  rotate: true
+  xy: 895, 817
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+Ora_A4/handout7
+  rotate: false
+  xy: 708, 577
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Ora_A4/handout8
+  rotate: true
+  xy: 796, 653
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Ora_A4/handout9
+  rotate: true
+  xy: 552, 690
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+Ora_A4/handouto
+  rotate: true
+  xy: 267, 685
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+Ora_A4/handoutt
+  rotate: false
+  xy: 785, 872
+  size: 155, 150
+  orig: 155, 150
+  offset: 0, 0
+  index: -1
+Ora_A4/headdown
+  rotate: true
+  xy: 960, 752
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+Ora_A4/headdown1
+  rotate: true
+  xy: 621, 563
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Ora_A4/headup
+  rotate: false
+  xy: 273, 609
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+Ora_A4/headup1
+  rotate: true
+  xy: 991, 694
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Ora_A4/jianjiaout
+  rotate: false
+  xy: 2, 462
+  size: 150, 167
+  orig: 150, 167
+  offset: 0, 0
+  index: -1
+Ora_A4/jianjiinner
+  rotate: false
+  xy: 340, 264
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+Ora_A4/leginnerdown
+  rotate: false
+  xy: 942, 965
+  size: 80, 57
+  orig: 80, 57
+  offset: 0, 0
+  index: -1
+Ora_A4/leginnerdown1
+  rotate: false
+  xy: 596, 733
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+Ora_A4/leginnerup
+  rotate: false
+  xy: 475, 614
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+Ora_A4/leginnerup1
+  rotate: false
+  xy: 354, 194
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+Ora_A4/legoutdown
+  rotate: false
+  xy: 268, 251
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+Ora_A4/legoutdown 1
+  rotate: false
+  xy: 834, 689
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Ora_A4/legoutup
+  rotate: false
+  xy: 766, 689
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Ora_A4/legoutup1
+  rotate: true
+  xy: 264, 375
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+Ora_A4/neck
+  rotate: false
+  xy: 2, 833
+  size: 173, 189
+  orig: 173, 189
+  offset: 0, 0
+  index: -1
+Ora_A4/toushi
+  rotate: true
+  xy: 204, 309
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+Ora_A4/tx
+  rotate: false
+  xy: 785, 827
+  size: 108, 43
+  orig: 108, 43
+  offset: 0, 0
+  index: -1
+Ora_A4/tx1
+  rotate: false
+  xy: 623, 610
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Ora_A4/tx2
+  rotate: false
+  xy: 576, 625
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+Ora_A4/tx3
+  rotate: false
+  xy: 768, 585
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Ora_A4/tx4
+  rotate: true
+  xy: 253, 524
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Ora_A4/tx5
+  rotate: false
+  xy: 738, 549
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Ora_A4/tx6
+  rotate: false
+  xy: 596, 703
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Ora_A4/tx7
+  rotate: false
+  xy: 769, 554
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Ora_A4/tx8
+  rotate: true
+  xy: 991, 643
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+Ora_A4/yaoshi
+  rotate: false
+  xy: 881, 684
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Ora_A4/yaoshiinner
+  rotate: false
+  xy: 750, 649
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+Ora_A4/yaoshiout
+  rotate: false
+  xy: 154, 462
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
