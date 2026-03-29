@@ -1,0 +1,279 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 360, 409
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+arminnerdown
+  rotate: true
+  xy: 256, 209
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+arminnerdown1
+  rotate: true
+  xy: 148, 79
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+arminnerup
+  rotate: false
+  xy: 288, 259
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+armout
+  rotate: true
+  xy: 141, 23
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+armoutdown
+  rotate: false
+  xy: 148, 129
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+armoutdown1
+  rotate: false
+  xy: 333, 261
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+armoutdown2
+  rotate: false
+  xy: 183, 151
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 360, 436
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 386, 351
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 56, 302
+  size: 210, 208
+  orig: 210, 208
+  offset: 0, 0
+  index: -1
+handinner
+  rotate: false
+  xy: 356, 321
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+handinner1
+  rotate: true
+  xy: 186, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+handout
+  rotate: false
+  xy: 224, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+handout1
+  rotate: true
+  xy: 360, 378
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+handout2
+  rotate: false
+  xy: 356, 347
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+jianjaiout1
+  rotate: false
+  xy: 453, 448
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+jianjiainner
+  rotate: false
+  xy: 56, 2
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+jianjiainner1
+  rotate: false
+  xy: 268, 399
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+jianjiaout
+  rotate: true
+  xy: 268, 304
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+jianjiaout2
+  rotate: false
+  xy: 56, 192
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 230, 101
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+leginnerdown
+  rotate: true
+  xy: 238, 151
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+leginnerdown1
+  rotate: true
+  xy: 453, 412
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+leginnerup
+  rotate: false
+  xy: 300, 214
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+legoutdown
+  rotate: false
+  xy: 186, 37
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+legoutdown1
+  rotate: false
+  xy: 185, 95
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+legoutup
+  rotate: true
+  xy: 2, 25
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+pengqi1
+  rotate: true
+  xy: 141, 2
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+pengqi2
+  rotate: true
+  xy: 2, 3
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+pengqi3
+  rotate: false
+  xy: 30, 4
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 56, 79
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 172, 202
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 279, 118
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+tx4
+  rotate: false
+  xy: 256, 254
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+tx5
+  rotate: true
+  xy: 356, 308
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+tx6
+  rotate: false
+  xy: 341, 222
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+tx7
+  rotate: false
+  xy: 395, 381
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 59
+  size: 52, 451
+  orig: 52, 451
+  offset: 0, 0
+  index: -1
