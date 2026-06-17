@@ -1,0 +1,608 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kumo_B3/F_xiabai2
+  rotate: true
+  xy: 548, 251
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Kumo_B3/F_xiabai5
+  rotate: true
+  xy: 958, 347
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+Kumo_B3/weapon4
+  rotate: true
+  xy: 2, 81
+  size: 141, 113
+  orig: 141, 113
+  offset: 0, 0
+  index: -1
+Kumo_B3/xiabai2
+  rotate: false
+  xy: 429, 165
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Kumo_B3/xiabai5
+  rotate: false
+  xy: 197, 296
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+Kumo_B4/F_body2
+  rotate: false
+  xy: 211, 164
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+Kumo_B4/F_xiabai1
+  rotate: true
+  xy: 621, 146
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Kumo_B4/F_xiabai2
+  rotate: false
+  xy: 261, 224
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+Kumo_B4/F_xiabai5
+  rotate: false
+  xy: 289, 361
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+Kumo_B4/Shadow
+  rotate: false
+  xy: 448, 323
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+Kumo_B4/arminnerdown
+  rotate: false
+  xy: 247, 38
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Kumo_B4/arminnerup
+  rotate: true
+  xy: 340, 286
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+Kumo_B4/armoutdown
+  rotate: false
+  xy: 266, 96
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Kumo_B4/armoutup
+  rotate: true
+  xy: 958, 438
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Kumo_B4/body1
+  rotate: false
+  xy: 589, 249
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Kumo_B4/body2
+  rotate: false
+  xy: 325, 222
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+Kumo_B4/body3
+  rotate: true
+  xy: 193, 9
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Kumo_B4/eyebrow
+  rotate: true
+  xy: 193, 140
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+Kumo_B4/eyehard
+  rotate: false
+  xy: 139, 369
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+Kumo_B4/eyehard1
+  rotate: true
+  xy: 169, 137
+  size: 81, 22
+  orig: 81, 22
+  offset: 0, 0
+  index: -1
+Kumo_B4/eyehard2
+  rotate: false
+  xy: 757, 407
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+Kumo_B4/eyehard3
+  rotate: true
+  xy: 193, 216
+  size: 75, 9
+  orig: 75, 9
+  offset: 0, 0
+  index: -1
+Kumo_B4/eyesffuer
+  rotate: false
+  xy: 370, 322
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+Kumo_B4/eyeyun
+  rotate: true
+  xy: 990, 434
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair1
+  rotate: false
+  xy: 323, 165
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair10
+  rotate: true
+  xy: 117, 87
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair11
+  rotate: false
+  xy: 469, 167
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair12
+  rotate: true
+  xy: 130, 220
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair13
+  rotate: false
+  xy: 376, 357
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair14
+  rotate: true
+  xy: 289, 427
+  size: 83, 165
+  orig: 83, 165
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair15
+  rotate: true
+  xy: 611, 426
+  size: 84, 144
+  orig: 84, 144
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair16
+  rotate: false
+  xy: 548, 289
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair17
+  rotate: true
+  xy: 456, 424
+  size: 86, 153
+  orig: 86, 153
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair2
+  rotate: true
+  xy: 374, 222
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair3
+  rotate: false
+  xy: 374, 262
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair4
+  rotate: true
+  xy: 265, 286
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair5
+  rotate: true
+  xy: 454, 350
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair6
+  rotate: true
+  xy: 289, 329
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair7
+  rotate: false
+  xy: 593, 147
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair8
+  rotate: true
+  xy: 586, 217
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Kumo_B4/hair9
+  rotate: true
+  xy: 577, 180
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Kumo_B4/handinner
+  rotate: true
+  xy: 386, 134
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Kumo_B4/handout
+  rotate: true
+  xy: 211, 140
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Kumo_B4/handout2
+  rotate: false
+  xy: 247, 11
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Kumo_B4/head
+  rotate: false
+  xy: 2, 369
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+Kumo_B4/hudiejie
+  rotate: false
+  xy: 248, 66
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Kumo_B4/leginnerdown
+  rotate: true
+  xy: 539, 225
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Kumo_B4/leginnerup
+  rotate: false
+  xy: 469, 215
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+Kumo_B4/legoutdown
+  rotate: true
+  xy: 500, 154
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Kumo_B4/legoutup
+  rotate: false
+  xy: 516, 269
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+Kumo_B4/mouth
+  rotate: false
+  xy: 841, 425
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Kumo_B4/mouth02
+  rotate: true
+  xy: 197, 353
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Kumo_B4/mouth04
+  rotate: false
+  xy: 117, 81
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+Kumo_B4/peishi1
+  rotate: false
+  xy: 301, 133
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Kumo_B4/peishi2
+  rotate: true
+  xy: 238, 146
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Kumo_B4/peishi3
+  rotate: false
+  xy: 497, 225
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Kumo_B4/peishi4
+  rotate: false
+  xy: 233, 74
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Kumo_B4/toushi1
+  rotate: false
+  xy: 130, 293
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+Kumo_B4/toushi2
+  rotate: false
+  xy: 261, 165
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Kumo_B4/toushi3
+  rotate: false
+  xy: 97, 2
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx1
+  rotate: true
+  xy: 223, 353
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx2
+  rotate: false
+  xy: 540, 180
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx3
+  rotate: true
+  xy: 344, 132
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx4
+  rotate: false
+  xy: 233, 96
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx5
+  rotate: false
+  xy: 863, 473
+  size: 125, 37
+  orig: 125, 37
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx6
+  rotate: true
+  xy: 540, 341
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx7
+  rotate: true
+  xy: 429, 211
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx8
+  rotate: false
+  xy: 757, 436
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+Kumo_B4/tx9
+  rotate: false
+  xy: 2, 224
+  size: 126, 143
+  orig: 126, 143
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoinner1
+  rotate: true
+  xy: 546, 149
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoinner2
+  rotate: false
+  xy: 621, 172
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoinner3
+  rotate: true
+  xy: 117, 137
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoinner4
+  rotate: false
+  xy: 156, 9
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoout1
+  rotate: false
+  xy: 476, 269
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoout2
+  rotate: false
+  xy: 587, 291
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoout3
+  rotate: false
+  xy: 193, 74
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+Kumo_B4/waitaoout4
+  rotate: true
+  xy: 863, 428
+  size: 43, 93
+  orig: 43, 93
+  offset: 0, 0
+  index: -1
+Kumo_B4/weapon1
+  rotate: false
+  xy: 301, 97
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+Kumo_B4/weapon2
+  rotate: false
+  xy: 382, 165
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+Kumo_B4/weapon3
+  rotate: false
+  xy: 423, 131
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+Kumo_B4/weapon4
+  rotate: false
+  xy: 139, 398
+  size: 148, 112
+  orig: 148, 112
+  offset: 0, 0
+  index: -1
+Kumo_B4/xiabai1
+  rotate: false
+  xy: 266, 121
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Kumo_B4/xiabai2
+  rotate: false
+  xy: 500, 179
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Kumo_B4/xiabai3
+  rotate: false
+  xy: 426, 264
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+Kumo_B4/xiabai4
+  rotate: false
+  xy: 2, 2
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+Kumo_B4/xiabai5
+  rotate: true
+  xy: 204, 228
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
