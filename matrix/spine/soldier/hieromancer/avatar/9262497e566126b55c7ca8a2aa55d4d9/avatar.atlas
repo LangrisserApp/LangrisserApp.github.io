@@ -1,0 +1,328 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hieromancer_SP/LandShadow
+  rotate: true
+  xy: 99, 2
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/Te1
+  rotate: false
+  xy: 311, 403
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/Te2
+  rotate: false
+  xy: 2, 53
+  size: 95, 129
+  orig: 95, 129
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/Te3
+  rotate: false
+  xy: 2, 341
+  size: 138, 169
+  orig: 138, 169
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/aemout1
+  rotate: false
+  xy: 419, 325
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/arminner
+  rotate: false
+  xy: 139, 32
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/armout2
+  rotate: true
+  xy: 458, 475
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/body
+  rotate: false
+  xy: 142, 192
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/dang
+  rotate: false
+  xy: 207, 104
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/dang1
+  rotate: false
+  xy: 307, 293
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/eye1
+  rotate: false
+  xy: 228, 251
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/eyehurt
+  rotate: true
+  xy: 347, 323
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/eyeyun
+  rotate: true
+  xy: 307, 317
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/hair1
+  rotate: true
+  xy: 2, 2
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/hair2
+  rotate: false
+  xy: 142, 273
+  size: 84, 124
+  orig: 84, 124
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/hair3
+  rotate: false
+  xy: 338, 207
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/hair4
+  rotate: false
+  xy: 315, 198
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/handinner
+  rotate: true
+  xy: 286, 152
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/handinner2
+  rotate: false
+  xy: 359, 290
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/handout
+  rotate: true
+  xy: 358, 253
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/head
+  rotate: false
+  xy: 2, 184
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/jia1
+  rotate: true
+  xy: 139, 2
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/jia2
+  rotate: false
+  xy: 419, 292
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/jian21
+  rotate: false
+  xy: 191, 88
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/jianjiainner1
+  rotate: false
+  xy: 313, 251
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/jianjiainner2
+  rotate: false
+  xy: 390, 260
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/jianjiaout
+  rotate: true
+  xy: 458, 337
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/leginnerdown
+  rotate: false
+  xy: 393, 290
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/leginnerup
+  rotate: false
+  xy: 286, 196
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/legoutdown
+  rotate: false
+  xy: 259, 152
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/legoutup
+  rotate: false
+  xy: 419, 364
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/mouth1
+  rotate: false
+  xy: 458, 326
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/mouth2
+  rotate: false
+  xy: 259, 144
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/mouth4
+  rotate: true
+  xy: 360, 213
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/pifeng1
+  rotate: true
+  xy: 228, 292
+  size: 105, 77
+  orig: 105, 77
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/toushi1
+  rotate: false
+  xy: 142, 399
+  size: 167, 111
+  orig: 167, 111
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/toushi2
+  rotate: false
+  xy: 99, 78
+  size: 40, 104
+  orig: 40, 104
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiabai1
+  rotate: true
+  xy: 141, 73
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiabai2
+  rotate: false
+  xy: 389, 329
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiabai3
+  rotate: false
+  xy: 458, 402
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiabai4
+  rotate: true
+  xy: 141, 113
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiabai5
+  rotate: false
+  xy: 211, 199
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiuziinner1
+  rotate: false
+  xy: 399, 421
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiuziinner2
+  rotate: true
+  xy: 142, 143
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiuziout1
+  rotate: false
+  xy: 211, 143
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+Hieromancer_SP/xiuziout12
+  rotate: false
+  xy: 180, 2
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+avatar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gargoyle/SP/LandShadow
+  rotate: false
+  xy: 407, 330
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/arminnerdown
+  rotate: false
+  xy: 254, 250
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/arminnerup
+  rotate: true
+  xy: 295, 256
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/armoutdown1
+  rotate: false
+  xy: 318, 40
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/armoutdown2
+  rotate: false
+  xy: 466, 28
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/armoutup
+  rotate: false
+  xy: 429, 43
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/body
+  rotate: true
+  xy: 344, 77
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/chibang1
+  rotate: false
+  xy: 2, 250
+  size: 250, 260
+  orig: 250, 260
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/chibang2
+  rotate: false
+  xy: 254, 297
+  size: 151, 213
+  orig: 151, 213
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/chibang3
+  rotate: false
+  xy: 194, 76
+  size: 148, 172
+  orig: 148, 172
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/chibang4
+  rotate: false
+  xy: 344, 140
+  size: 137, 155
+  orig: 137, 155
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/eyehard
+  rotate: false
+  xy: 98, 24
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/eyesffuer
+  rotate: false
+  xy: 407, 303
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/eyeyun
+  rotate: false
+  xy: 194, 49
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/handinner
+  rotate: false
+  xy: 224, 2
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/handout
+  rotate: true
+  xy: 176, 2
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/head1
+  rotate: false
+  xy: 2, 56
+  size: 190, 192
+  orig: 190, 192
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/head2
+  rotate: false
+  xy: 407, 440
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/jianjia1
+  rotate: true
+  xy: 260, 5
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/jianjiainner1
+  rotate: true
+  xy: 360, 41
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/jianjiainner2
+  rotate: false
+  xy: 400, 45
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/leginnerdown
+  rotate: true
+  xy: 466, 60
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/leginnerup
+  rotate: true
+  xy: 466, 101
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/legoutdown
+  rotate: false
+  xy: 429, 81
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/legoutup
+  rotate: true
+  xy: 257, 41
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/tx1
+  rotate: false
+  xy: 407, 370
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+Gargoyle/SP/weiba
+  rotate: true
+  xy: 2, 24
+  size: 30, 94
+  orig: 30, 94
+  offset: 0, 0
+  index: -1
