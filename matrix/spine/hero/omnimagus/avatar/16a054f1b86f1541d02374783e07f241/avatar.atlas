@@ -1,0 +1,650 @@
+
+avatar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+OmniMagus_A2/arminnerdown
+  rotate: false
+  xy: 740, 133
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+OmniMagus_A2/armoutdown
+  rotate: true
+  xy: 988, 306
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+OmniMagus_A2/toushi1
+  rotate: true
+  xy: 866, 186
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+OmniMagus_A2/weapon
+  rotate: false
+  xy: 506, 448
+  size: 452, 62
+  orig: 452, 62
+  offset: 0, 0
+  index: -1
+OmniMagus_A3/arminnerup
+  rotate: false
+  xy: 786, 136
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+OmniMagus_A3/arminnerup1
+  rotate: false
+  xy: 710, 61
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+OmniMagus_A3/armoutup
+  rotate: false
+  xy: 754, 19
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+OmniMagus_A3/weapon
+  rotate: false
+  xy: 2, 452
+  size: 502, 58
+  orig: 502, 58
+  offset: 0, 0
+  index: -1
+OmniMagus_A3/xiabai4
+  rotate: true
+  xy: 805, 245
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/Shadow
+  rotate: true
+  xy: 450, 16
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/arminnerdown
+  rotate: true
+  xy: 756, 60
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/arminnerup
+  rotate: true
+  xy: 665, 18
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/arminnerup1
+  rotate: false
+  xy: 708, 18
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/armoutdown
+  rotate: true
+  xy: 832, 137
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/armoutup
+  rotate: false
+  xy: 917, 122
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/body1
+  rotate: true
+  xy: 243, 2
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/body2
+  rotate: false
+  xy: 581, 113
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/daiziin
+  rotate: true
+  xy: 892, 325
+  size: 121, 93
+  orig: 121, 93
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/daiziout
+  rotate: false
+  xy: 776, 179
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/eyebrow
+  rotate: false
+  xy: 500, 113
+  size: 79, 13
+  orig: 79, 13
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/eyehard
+  rotate: true
+  xy: 358, 83
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/eyehard01
+  rotate: true
+  xy: 361, 4
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/eyehard02
+  rotate: false
+  xy: 595, 164
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/eyehard03
+  rotate: false
+  xy: 866, 163
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/eyesffuer
+  rotate: true
+  xy: 988, 431
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/eyeyun
+  rotate: true
+  xy: 987, 350
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/face
+  rotate: false
+  xy: 85, 231
+  size: 162, 159
+  orig: 162, 159
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair1
+  rotate: false
+  xy: 544, 64
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair10
+  rotate: false
+  xy: 684, 178
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair11
+  rotate: false
+  xy: 716, 314
+  size: 174, 132
+  orig: 174, 132
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair2
+  rotate: false
+  xy: 389, 157
+  size: 50, 105
+  orig: 50, 105
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair3
+  rotate: false
+  xy: 435, 275
+  size: 60, 115
+  orig: 60, 115
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair4
+  rotate: false
+  xy: 283, 76
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair5
+  rotate: true
+  xy: 702, 255
+  size: 57, 101
+  orig: 57, 101
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair7
+  rotate: false
+  xy: 243, 62
+  size: 38, 88
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair8
+  rotate: false
+  xy: 249, 264
+  size: 184, 126
+  orig: 184, 126
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/hair9
+  rotate: false
+  xy: 85, 152
+  size: 176, 77
+  orig: 176, 77
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handinner0
+  rotate: false
+  xy: 881, 79
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handinner1
+  rotate: false
+  xy: 917, 94
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handinner2
+  rotate: false
+  xy: 838, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handinner3
+  rotate: true
+  xy: 831, 110
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handinner4
+  rotate: false
+  xy: 884, 108
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handout1
+  rotate: false
+  xy: 858, 110
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handout2
+  rotate: true
+  xy: 861, 39
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/handout3
+  rotate: true
+  xy: 915, 68
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/leginnerdown
+  rotate: false
+  xy: 634, 13
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/leginnerdown1
+  rotate: false
+  xy: 957, 127
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/leginnerup
+  rotate: true
+  xy: 731, 104
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/leginnerup1
+  rotate: false
+  xy: 960, 460
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/legoutdown
+  rotate: false
+  xy: 545, 14
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/legoutdown1
+  rotate: false
+  xy: 988, 256
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/legoutup
+  rotate: false
+  xy: 988, 129
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/legoutup1
+  rotate: false
+  xy: 789, 65
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/mouth01
+  rotate: false
+  xy: 960, 448
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/mouth02
+  rotate: false
+  xy: 249, 231
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/mouth03
+  rotate: true
+  xy: 497, 369
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/qiu1
+  rotate: false
+  xy: 500, 180
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/qiu2
+  rotate: true
+  xy: 961, 174
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/qiu3
+  rotate: false
+  xy: 595, 187
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/toushi1
+  rotate: false
+  xy: 162, 3
+  size: 79, 147
+  orig: 79, 147
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/toushi2
+  rotate: true
+  xy: 894, 244
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx1
+  rotate: false
+  xy: 2, 132
+  size: 81, 258
+  orig: 81, 258
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx10
+  rotate: false
+  xy: 650, 64
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx11
+  rotate: false
+  xy: 670, 105
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx12
+  rotate: true
+  xy: 794, 23
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx13
+  rotate: false
+  xy: 786, 110
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx14
+  rotate: false
+  xy: 866, 133
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx15
+  rotate: true
+  xy: 578, 7
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx16
+  rotate: false
+  xy: 822, 71
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx17
+  rotate: false
+  xy: 673, 145
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx2
+  rotate: false
+  xy: 506, 360
+  size: 208, 86
+  orig: 208, 86
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/tx3
+  rotate: false
+  xy: 263, 162
+  size: 124, 100
+  orig: 124, 100
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/weapon
+  rotate: false
+  xy: 2, 392
+  size: 502, 58
+  orig: 502, 58
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai1
+  rotate: true
+  xy: 477, 12
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai2
+  rotate: false
+  xy: 477, 61
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai3
+  rotate: false
+  xy: 386, 92
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai31
+  rotate: false
+  xy: 604, 276
+  size: 96, 82
+  orig: 96, 82
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai4
+  rotate: true
+  xy: 2, 2
+  size: 128, 88
+  orig: 128, 88
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai41
+  rotate: true
+  xy: 594, 108
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai5
+  rotate: true
+  xy: 582, 60
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiabai6
+  rotate: false
+  xy: 329, 3
+  size: 30, 71
+  orig: 30, 71
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiuzi1
+  rotate: false
+  xy: 497, 277
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiuzi2
+  rotate: false
+  xy: 500, 128
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiuzi3
+  rotate: true
+  xy: 441, 157
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/xiuzi4
+  rotate: true
+  xy: 249, 239
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/zhuangshi1
+  rotate: false
+  xy: 827, 32
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/zhuangshi2
+  rotate: true
+  xy: 665, 2
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/zhuangshi3
+  rotate: true
+  xy: 389, 17
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/zhuangshi4
+  rotate: true
+  xy: 458, 114
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/zhuangshi5
+  rotate: true
+  xy: 92, 2
+  size: 148, 68
+  orig: 148, 68
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/zhuangshi6
+  rotate: true
+  xy: 794, 2
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+OmniMagus_A4/zhuangshi7
+  rotate: false
+  xy: 850, 71
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
